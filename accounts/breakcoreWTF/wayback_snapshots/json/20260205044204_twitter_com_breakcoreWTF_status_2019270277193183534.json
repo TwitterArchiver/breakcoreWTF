@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1964331185590718464",
+    "conversation_id": "2019270277193183534",
+    "created_at": "2026-02-05T04:42:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-05T05:42:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2019270277193183534"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Aeternutk/stat…",
+          "end": 25,
+          "expanded_url": "https://twitter.com/Aeternutk/status/2019130347536179662",
+          "start": 2,
+          "url": "https://t.co/tep4xfEwIv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2019270277193183534",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2019130347536179662",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "对 https://t.co/tep4xfEwIv"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 11833,
+        "height": 1280,
+        "media_key": "13_2019130287142449152",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2019130287142449152/img/kAN8EU0PDVl9sJ2U.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2019130287142449152/vid/avc1/320x568/tnCxHaWWsQUfwEx7.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2019130287142449152/vid/avc1/480x852/ujwDFz09Ri_wWQlB.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2019130287142449152/vid/avc1/720x1280/8MtHMZaEGpbJCOf6.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2019130287142449152/pl/g56j380xoy6DVlWc.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1964331185590718464",
+        "conversation_id": "2019270277193183534",
+        "created_at": "2026-02-05T04:42:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-05T05:42:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2019270277193183534"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Aeternutk/stat…",
+              "end": 25,
+              "expanded_url": "https://twitter.com/Aeternutk/status/2019130347536179662",
+              "start": 2,
+              "url": "https://t.co/tep4xfEwIv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019270277193183534",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019130347536179662",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "对 https://t.co/tep4xfEwIv"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2019130287142449152"
+          ]
+        },
+        "author_id": "2018784273994817536",
+        "conversation_id": "2019130347536179662",
+        "created_at": "2026-02-04T19:26:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-04T20:26:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2019130347536179662"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1964331185590718464",
+              "start": 0,
+              "username": "breakcoreWTF"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Cz2yochwDg",
+              "end": 37,
+              "expanded_url": "https://x.com/Aeternutk/status/2019130347536179662/video/1",
+              "media_key": "13_2019130287142449152",
+              "start": 14,
+              "url": "https://t.co/Cz2yochwDg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019130347536179662",
+        "in_reply_to_user_id": "1964331185590718464",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "@breakcoreWTF https://t.co/Cz2yochwDg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-06T14:13:55.000Z",
+        "description": "中文/od/自伤/友跨顺女/VOCALOID/音游 舞萌普通w53 纯种乐子人 推上啥都有 看到你不喜欢的东西请无视 对我的负能量关心不要太频繁 其他交流欢迎 我不想在推特都做不到口无遮拦 同类回fo 🚪40加微信纯绿可配聊 熟悉的推友可以免门费",
+        "id": "1964331185590718464",
+        "location": "Internet",
+        "name": "薄幸",
+        "pinned_tweet_id": "2016685165557534981",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015679257582964737/T8W4H246_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 372,
+          "following_count": 498,
+          "like_count": 6417,
+          "listed_count": 0,
+          "media_count": 108,
+          "tweet_count": 2001
+        },
+        "username": "breakcoreWTF",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-03T20:31:44.000Z",
+        "description": "",
+        "id": "2018784273994817536",
+        "name": "Aeternutk",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018784558838398976/I83F9gwR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 5,
+          "like_count": 21,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 12
+        },
+        "username": "Aeternutk",
+        "verified": false
+      }
+    ]
+  }
+}

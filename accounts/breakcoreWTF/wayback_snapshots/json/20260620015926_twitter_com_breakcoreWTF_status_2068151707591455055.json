@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2068030087568728064"
+      ],
+      "media_source_tweet_id": [
+        "2068030093398872454"
+      ]
+    },
+    "author_id": "1964331185590718464",
+    "conversation_id": "2068151707591455055",
+    "created_at": "2026-06-20T01:59:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-20T02:59:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068151707591455055"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2052246780528730112",
+          "start": 3,
+          "username": "motheinsect"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/G3W1osWqWA",
+          "end": 44,
+          "expanded_url": "https://x.com/motheinsect/status/2068030093398872454/photo/1",
+          "media_key": "3_2068030087568728064",
+          "start": 21,
+          "url": "https://t.co/G3W1osWqWA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068151707591455055",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 53
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068030093398872454",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @motheinsect: hey https://t.co/G3W1osWqWA"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1078,
+        "media_key": "3_2068030087568728064",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLMeaGJaoAARPUR.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068030087568728064"
+          ],
+          "media_source_tweet_id": [
+            "2068030093398872454"
+          ]
+        },
+        "author_id": "1964331185590718464",
+        "conversation_id": "2068151707591455055",
+        "created_at": "2026-06-20T01:59:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T02:59:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068151707591455055"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2052246780528730112",
+              "start": 3,
+              "username": "motheinsect"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/G3W1osWqWA",
+              "end": 44,
+              "expanded_url": "https://x.com/motheinsect/status/2068030093398872454/photo/1",
+              "media_key": "3_2068030087568728064",
+              "start": 21,
+              "url": "https://t.co/G3W1osWqWA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068151707591455055",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 53
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068030093398872454",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @motheinsect: hey https://t.co/G3W1osWqWA"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068030087568728064"
+          ]
+        },
+        "author_id": "2052246780528730112",
+        "conversation_id": "2068030093398872454",
+        "created_at": "2026-06-19T17:56:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T18:56:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068030093398872454"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/G3W1osWqWA",
+              "end": 27,
+              "expanded_url": "https://x.com/motheinsect/status/2068030093398872454/photo/1",
+              "media_key": "3_2068030087568728064",
+              "start": 4,
+              "url": "https://t.co/G3W1osWqWA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068030093398872454",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 30,
+          "impression_count": 2737,
+          "like_count": 388,
+          "quote_count": 2,
+          "reply_count": 3,
+          "retweet_count": 53
+        },
+        "reply_settings": "everyone",
+        "text": "hey https://t.co/G3W1osWqWA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-06T14:13:55.000Z",
+        "description": "OD丨自伤丨Vocaloid丨音游丨友跨顺女\n喜欢爬宠 不卖药 非必要不回私信 我很穷欢迎投喂\n不喜欢的直接b 同类查成分回fo 取关请双取",
+        "id": "1964331185590718464",
+        "location": "颅内",
+        "name": "箸",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061439509125074944/Hf-Lim6c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 855,
+          "following_count": 714,
+          "like_count": 19219,
+          "listed_count": 0,
+          "media_count": 283,
+          "tweet_count": 5094
+        },
+        "url": "",
+        "username": "breakcoreWTF",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-07T04:39:36.000Z",
+        "description": "lamp ♥️",
+        "id": "2052246780528730112",
+        "location": "anyone’s wardrobe ",
+        "name": "moth",
+        "pinned_tweet_id": "2059712407967305967",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061669549637042176/4PeMkIBp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2088,
+          "following_count": 186,
+          "like_count": 3406,
+          "listed_count": 8,
+          "media_count": 277,
+          "tweet_count": 1678
+        },
+        "url": "",
+        "username": "motheinsect",
+        "verified": false
+      }
+    ]
+  }
+}

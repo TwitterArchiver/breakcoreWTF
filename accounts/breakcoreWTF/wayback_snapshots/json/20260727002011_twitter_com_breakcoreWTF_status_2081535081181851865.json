@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1964331185590718464",
+    "conversation_id": "2081475449692328008",
+    "created_at": "2026-07-27T00:20:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-27T01:20:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081535081181851865"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1882034565814067200",
+          "start": 0,
+          "username": "Annsa917"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081535081181851865",
+    "in_reply_to_user_id": "1882034565814067200",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081475449692328008",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Annsa917 加巴喷丁要分批吃"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1964331185590718464",
+        "conversation_id": "2081475449692328008",
+        "created_at": "2026-07-27T00:20:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T01:20:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081535081181851865"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1882034565814067200",
+              "start": 0,
+              "username": "Annsa917"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081535081181851865",
+        "in_reply_to_user_id": "1882034565814067200",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081475449692328008",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Annsa917 加巴喷丁要分批吃"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1882034565814067200",
+        "conversation_id": "2081475449692328008",
+        "created_at": "2026-07-26T20:23:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T21:23:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081475449692328008"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2081475449692328008",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "勾巴的怎么100t也没感觉？到底要吃多少"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-06T14:13:55.000Z",
+        "description": "叫我筷子就可以了(:3っ )っ\nOD丨🔪丨Vocaloid丨音游丨顺女 LGBTQ+friendly\n不卖药 只看互关私信 我很穷欢迎投喂\n不喜欢的直接b 查成分同类回fo 取关请双取",
+        "id": "1964331185590718464",
+        "location": "颅内",
+        "name": "箸",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074711282427842560/EOM9Puhb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1308,
+          "following_count": 827,
+          "like_count": 35681,
+          "listed_count": 0,
+          "media_count": 353,
+          "tweet_count": 6338
+        },
+        "url": "",
+        "username": "breakcoreWTF",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-22T11:56:49.000Z",
+        "description": "何時能皮包骨。",
+        "id": "1882034565814067200",
+        "name": "自由落體",
+        "pinned_tweet_id": "1970166803398807833",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1894322072140353541/xFAcfetU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40,
+          "following_count": 128,
+          "like_count": 246,
+          "listed_count": 0,
+          "media_count": 59,
+          "tweet_count": 387
+        },
+        "url": "",
+        "username": "Annsa917",
+        "verified": false
+      }
+    ]
+  }
+}

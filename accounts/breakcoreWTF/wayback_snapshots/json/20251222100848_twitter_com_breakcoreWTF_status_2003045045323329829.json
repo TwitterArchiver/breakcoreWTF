@@ -1,0 +1,434 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2002672508609437696"
+      ],
+      "media_source_tweet_id": [
+        "2002691767511273562"
+      ]
+    },
+    "author_id": "1964331185590718464",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1104125539877412864",
+          "name": "Miku Hatsune"
+        }
+      },
+      {
+        "domain": {
+          "description": "A person or other being in a narrative work of art, like Tom Sawyer or Jon Snow",
+          "id": "122",
+          "name": "Fictional Character"
+        },
+        "entity": {
+          "id": "1104125539877412864",
+          "name": "Miku Hatsune"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1104125539877412864",
+          "name": "Miku Hatsune"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1247236287485997056",
+          "name": "Vocaloid"
+        }
+      }
+    ],
+    "conversation_id": "2003045045323329829",
+    "created_at": "2025-12-22T10:08:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-22T11:08:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2003045045323329829"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 23,
+          "start": 18,
+          "tag": "初音ミク"
+        },
+        {
+          "end": 29,
+          "start": 24,
+          "tag": "重音テト"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1553910383387111426",
+          "start": 3,
+          "username": "z50eu"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/8Eum49Bm65",
+          "end": 53,
+          "expanded_url": "https://x.com/z50eu/status/2002691767511273562/photo/1",
+          "media_key": "3_2002672508609437696",
+          "start": 30,
+          "url": "https://t.co/8Eum49Bm65"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2003045045323329829",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 541
+    },
+    "referenced_tweets": [
+      {
+        "id": "2002691767511273562",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @z50eu: ネコミクテト\n#初音ミク #重音テト https://t.co/8Eum49Bm65"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1198,
+        "media_key": "3_2002672508609437696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8rsCTUbIAAnZ8b.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2002672508609437696"
+          ],
+          "media_source_tweet_id": [
+            "2002691767511273562"
+          ]
+        },
+        "author_id": "1964331185590718464",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "A person or other being in a narrative work of art, like Tom Sawyer or Jon Snow",
+              "id": "122",
+              "name": "Fictional Character"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1247236287485997056",
+              "name": "Vocaloid"
+            }
+          }
+        ],
+        "conversation_id": "2003045045323329829",
+        "created_at": "2025-12-22T10:08:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-22T11:08:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2003045045323329829"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 23,
+              "start": 18,
+              "tag": "初音ミク"
+            },
+            {
+              "end": 29,
+              "start": 24,
+              "tag": "重音テト"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1553910383387111426",
+              "start": 3,
+              "username": "z50eu"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/8Eum49Bm65",
+              "end": 53,
+              "expanded_url": "https://x.com/z50eu/status/2002691767511273562/photo/1",
+              "media_key": "3_2002672508609437696",
+              "start": 30,
+              "url": "https://t.co/8Eum49Bm65"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003045045323329829",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 541
+        },
+        "referenced_tweets": [
+          {
+            "id": "2002691767511273562",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @z50eu: ネコミクテト\n#初音ミク #重音テト https://t.co/8Eum49Bm65"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2002672508609437696"
+          ]
+        },
+        "author_id": "1553910383387111426",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "A person or other being in a narrative work of art, like Tom Sawyer or Jon Snow",
+              "id": "122",
+              "name": "Fictional Character"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1247236287485997056",
+              "name": "Vocaloid"
+            }
+          }
+        ],
+        "conversation_id": "2002691767511273562",
+        "created_at": "2025-12-21T10:45:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-21T11:45:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2002691767511273562"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 12,
+              "start": 7,
+              "tag": "初音ミク"
+            },
+            {
+              "end": 18,
+              "start": 13,
+              "tag": "重音テト"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/8Eum49Bm65",
+              "end": 42,
+              "expanded_url": "https://x.com/z50eu/status/2002691767511273562/photo/1",
+              "media_key": "3_2002672508609437696",
+              "start": 19,
+              "url": "https://t.co/8Eum49Bm65"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002691767511273562",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1143,
+          "impression_count": 55006,
+          "like_count": 8632,
+          "quote_count": 7,
+          "reply_count": 3,
+          "retweet_count": 541
+        },
+        "reply_settings": "everyone",
+        "text": "ネコミクテト\n#初音ミク #重音テト https://t.co/8Eum49Bm65"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-06T14:13:55.000Z",
+        "description": "中文/od/VOCALOID/音游 纯种乐子人性别不明推上啥都有 私信互关欢迎 我有对象 我很喜欢他",
+        "id": "1964331185590718464",
+        "location": "翼天国",
+        "name": "━Σ(ﾟДﾟ|||)━",
+        "pinned_tweet_id": "1966517785367871718",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001729011576426496/HumNDWc3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 48,
+          "following_count": 281,
+          "like_count": 2866,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 791
+        },
+        "username": "breakcoreWTF",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-01T01:08:52.000Z",
+        "description": "ゆるゆるお絵描き。FA。skeb→ https://t.co/ojERG3WOlU",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "skeb.jp/@z50eu",
+                "end": 41,
+                "expanded_url": "https://skeb.jp/@z50eu",
+                "start": 18,
+                "url": "https://t.co/ojERG3WOlU"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/108313402",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/108313402",
+                "start": 0,
+                "url": "https://t.co/QYzaY2bG8b"
+              }
+            ]
+          }
+        },
+        "id": "1553910383387111426",
+        "name": "すいま。skeb募集中",
+        "pinned_tweet_id": "1998705501698241009",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951591483016114176/SZhPIaLT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7120,
+          "following_count": 62,
+          "like_count": 3974,
+          "listed_count": 23,
+          "media_count": 31,
+          "tweet_count": 1138
+        },
+        "url": "https://t.co/QYzaY2bG8b",
+        "username": "z50eu",
+        "verified": false
+      }
+    ]
+  }
+}

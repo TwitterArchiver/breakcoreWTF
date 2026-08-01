@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2067658858202554368"
+      ],
+      "media_source_tweet_id": [
+        "2067658860995936491"
+      ]
+    },
+    "author_id": "1964331185590718464",
+    "conversation_id": "2067746939509285240",
+    "created_at": "2026-06-18T23:11:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-19T00:11:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067746939509285240"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1991784724336123904",
+          "start": 3,
+          "username": "UIJO_MOM"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/FtgVINqBHH",
+          "end": 37,
+          "expanded_url": "https://x.com/UIJO_MOM/status/2067658860995936491/photo/1",
+          "media_key": "3_2067658858202554368",
+          "start": 14,
+          "url": "https://t.co/FtgVINqBHH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067746939509285240",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 35
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067658860995936491",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @UIJO_MOM: https://t.co/FtgVINqBHH"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2037,
+        "media_key": "3_2067658858202554368",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLHMxs_aYAA8YSR.jpg",
+        "width": 1398
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067658858202554368"
+          ],
+          "media_source_tweet_id": [
+            "2067658860995936491"
+          ]
+        },
+        "author_id": "1964331185590718464",
+        "conversation_id": "2067746939509285240",
+        "created_at": "2026-06-18T23:11:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T00:11:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067746939509285240"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1991784724336123904",
+              "start": 3,
+              "username": "UIJO_MOM"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/FtgVINqBHH",
+              "end": 37,
+              "expanded_url": "https://x.com/UIJO_MOM/status/2067658860995936491/photo/1",
+              "media_key": "3_2067658858202554368",
+              "start": 14,
+              "url": "https://t.co/FtgVINqBHH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067746939509285240",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 35
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067658860995936491",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @UIJO_MOM: https://t.co/FtgVINqBHH"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067658858202554368"
+          ]
+        },
+        "author_id": "1991784724336123904",
+        "conversation_id": "2067658860995936491",
+        "created_at": "2026-06-18T17:21:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T18:21:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067658860995936491"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FtgVINqBHH",
+              "end": 23,
+              "expanded_url": "https://x.com/UIJO_MOM/status/2067658860995936491/photo/1",
+              "media_key": "3_2067658858202554368",
+              "start": 0,
+              "url": "https://t.co/FtgVINqBHH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067658860995936491",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 716,
+          "like_count": 124,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 35
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/FtgVINqBHH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-06T14:13:55.000Z",
+        "description": "OD丨自伤丨Vocaloid丨音游丨友跨顺女\n喜欢爬宠 不卖药 非必要不回私信 我很穷欢迎投喂\n不喜欢的直接b 同类查成分回fo 取关请双取",
+        "id": "1964331185590718464",
+        "location": "颅内",
+        "name": "箸",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061439509125074944/Hf-Lim6c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 849,
+          "following_count": 710,
+          "like_count": 19117,
+          "listed_count": 0,
+          "media_count": 281,
+          "tweet_count": 5066
+        },
+        "url": "",
+        "username": "breakcoreWTF",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-21T08:25:01.000Z",
+        "description": "자칭 조울맘\n음합엔 관련 다 함",
+        "id": "1991784724336123904",
+        "location": "페폰별 ",
+        "name": "엄마",
+        "pinned_tweet_id": "2067204296719114420",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063649340951007233/WVtiINjg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 205,
+          "following_count": 19,
+          "like_count": 498,
+          "listed_count": 0,
+          "media_count": 106,
+          "tweet_count": 585
+        },
+        "url": "",
+        "username": "UIJO_MOM",
+        "verified": false
+      }
+    ]
+  }
+}

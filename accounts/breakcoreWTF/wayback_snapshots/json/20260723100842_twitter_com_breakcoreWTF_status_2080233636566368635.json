@@ -1,0 +1,332 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2080219645014069248"
+      ],
+      "media_source_tweet_id": [
+        "2080219723820867759"
+      ]
+    },
+    "author_id": "1964331185590718464",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2080233636566368635",
+    "created_at": "2026-07-23T10:08:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-23T11:08:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080233636566368635"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1708980810",
+          "start": 3,
+          "username": "skyw315"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/TBvR3ESUTh",
+          "end": 55,
+          "expanded_url": "https://x.com/skyw315/status/2080219723820867759/video/1",
+          "media_key": "13_2080219645014069248",
+          "start": 32,
+          "url": "https://t.co/TBvR3ESUTh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080233636566368635",
+    "lang": "es",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 81
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080219723820867759",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @skyw315: ❤️‍🩹MARETU Fan MV🔪 https://t.co/TBvR3ESUTh"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 60583,
+        "height": 1080,
+        "media_key": "13_2080219645014069248",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2080219645014069248/img/cvQYO421crHCZDhH.jpg",
+        "public_metrics": {
+          "view_count": 5293
+        },
+        "type": "video",
+        "variants": [
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2080219645014069248/pl/pP9OKCsiy7Nsp3y7.m3u8?v=7e5"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2080219645014069248/vid/avc1/480x270/PSIp09udV1Kdlhjm.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2080219645014069248/vid/avc1/1920x1080/J2AjZNDRj9eR7yS_.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2080219645014069248/vid/avc1/640x360/p4ihnzx20RQ6vFhJ.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2080219645014069248/vid/avc1/1280x720/_BE43r8Y0qZQ7OQm.mp4"
+          }
+        ],
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2080219645014069248"
+          ]
+        },
+        "author_id": "1708980810",
+        "conversation_id": "2080219723820867759",
+        "created_at": "2026-07-23T09:13:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T10:13:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080219723820867759"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TBvR3ESUTh",
+              "end": 42,
+              "expanded_url": "https://x.com/skyw315/status/2080219723820867759/video/1",
+              "media_key": "13_2080219645014069248",
+              "start": 19,
+              "url": "https://t.co/TBvR3ESUTh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080219723820867759",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 79,
+          "impression_count": 11436,
+          "like_count": 490,
+          "quote_count": 2,
+          "reply_count": 0,
+          "retweet_count": 81
+        },
+        "reply_settings": "everyone",
+        "text": "❤️‍🩹MARETU Fan MV🔪 https://t.co/TBvR3ESUTh"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2080219645014069248"
+          ],
+          "media_source_tweet_id": [
+            "2080219723820867759"
+          ]
+        },
+        "author_id": "1964331185590718464",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2080233636566368635",
+        "created_at": "2026-07-23T10:08:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T11:08:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080233636566368635"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1708980810",
+              "start": 3,
+              "username": "skyw315"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/TBvR3ESUTh",
+              "end": 55,
+              "expanded_url": "https://x.com/skyw315/status/2080219723820867759/video/1",
+              "media_key": "13_2080219645014069248",
+              "start": 32,
+              "url": "https://t.co/TBvR3ESUTh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080233636566368635",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 81
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080219723820867759",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @skyw315: ❤️‍🩹MARETU Fan MV🔪 https://t.co/TBvR3ESUTh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-06T14:13:55.000Z",
+        "description": "叫我筷子就可以了(:3っ )っ\nOD丨🔪丨Vocaloid丨音游丨顺女 LGBTQ+friendly\n不卖药 只看互关私信 我很穷欢迎投喂\n不喜欢的直接b 查成分同类回fo 取关请双取",
+        "id": "1964331185590718464",
+        "location": "颅内",
+        "name": "箸",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074711282427842560/EOM9Puhb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1127,
+          "following_count": 803,
+          "like_count": 33000,
+          "listed_count": 0,
+          "media_count": 343,
+          "tweet_count": 6131
+        },
+        "url": "",
+        "username": "breakcoreWTF",
+        "verified": true
+      },
+      {
+        "created_at": "2013-08-29T04:23:14.000Z",
+        "description": "読みはダンジョウ ソラです。絵と映像をしています。 \ncontact https://t.co/IP6dw2jaJh \nʏᴏᴜᴛᴜʙᴇ https://t.co/65FpZ8RZ5y\nғᴀɴᴀʀᴛ💔#sorapiart",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 109,
+                "start": 99,
+                "tag": "sorapiart"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "lit.link/skyw315",
+                "end": 58,
+                "expanded_url": "https://lit.link/skyw315",
+                "start": 35,
+                "url": "https://t.co/IP6dw2jaJh"
+              },
+              {
+                "display_url": "youtube.com/@skyw315",
+                "end": 91,
+                "expanded_url": "https://www.youtube.com/@skyw315",
+                "start": 68,
+                "url": "https://t.co/65FpZ8RZ5y"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "skyw315.wixsite.com/skyw315/works",
+                "end": 23,
+                "expanded_url": "https://skyw315.wixsite.com/skyw315/works",
+                "start": 0,
+                "url": "https://t.co/sFqswVhHTo"
+              }
+            ]
+          }
+        },
+        "id": "1708980810",
+        "location": "AI学習・無断転載禁止",
+        "name": "檀上大空",
+        "pinned_tweet_id": "2078419513452986701",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006382439074263040/1c-lDHjH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 74586,
+          "following_count": 551,
+          "like_count": 9497,
+          "listed_count": 596,
+          "media_count": 700,
+          "tweet_count": 765
+        },
+        "url": "https://t.co/sFqswVhHTo",
+        "username": "skyw315",
+        "verified": true
+      }
+    ]
+  }
+}

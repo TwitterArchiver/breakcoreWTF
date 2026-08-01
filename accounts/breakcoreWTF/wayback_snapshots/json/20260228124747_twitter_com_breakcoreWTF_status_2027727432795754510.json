@@ -1,0 +1,485 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2027672464139161602"
+      ],
+      "media_source_tweet_id": [
+        "2027672469218464056"
+      ]
+    },
+    "author_id": "1964331185590718464",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1370143648776523779",
+          "name": "Arcaea"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1359647921210159105",
+          "name": "Rhythm games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1370143648776523779",
+          "name": "Arcaea"
+        }
+      }
+    ],
+    "conversation_id": "2027727432795754510",
+    "created_at": "2026-02-28T12:47:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-28T13:47:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027727432795754510"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 23,
+          "normalized_text": "Testify",
+          "probability": 0.8801,
+          "start": 17,
+          "type": "Other"
+        },
+        {
+          "end": 36,
+          "normalized_text": "arcaea_art",
+          "probability": 0.7148,
+          "start": 27,
+          "type": "Other"
+        },
+        {
+          "end": 44,
+          "normalized_text": "arcaea",
+          "probability": 0.905,
+          "start": 39,
+          "type": "Other"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 37,
+          "start": 26,
+          "tag": "arcaea_art"
+        },
+        {
+          "end": 45,
+          "start": 38,
+          "tag": "arcaea"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1761297029677101057",
+          "start": 3,
+          "username": "kokone2722"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/CY2EgHxZL1",
+          "end": 69,
+          "expanded_url": "https://x.com/kokone2722/status/2027672469218464056/photo/1",
+          "media_key": "3_2027672464139161602",
+          "start": 46,
+          "url": "https://t.co/CY2EgHxZL1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027727432795754510",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 34
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027672469218464056",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kokone2722: \"Testify\"\n#arcaea_art #arcaea https://t.co/CY2EgHxZL1"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1726,
+        "media_key": "3_2027672464139161602",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCO9XPHbEAIy4DT.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2027672464139161602"
+          ],
+          "media_source_tweet_id": [
+            "2027672469218464056"
+          ]
+        },
+        "author_id": "1964331185590718464",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1370143648776523779",
+              "name": "Arcaea"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1359647921210159105",
+              "name": "Rhythm games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1370143648776523779",
+              "name": "Arcaea"
+            }
+          }
+        ],
+        "conversation_id": "2027727432795754510",
+        "created_at": "2026-02-28T12:47:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-28T13:47:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027727432795754510"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 23,
+              "normalized_text": "Testify",
+              "probability": 0.8801,
+              "start": 17,
+              "type": "Other"
+            },
+            {
+              "end": 36,
+              "normalized_text": "arcaea_art",
+              "probability": 0.7148,
+              "start": 27,
+              "type": "Other"
+            },
+            {
+              "end": 44,
+              "normalized_text": "arcaea",
+              "probability": 0.905,
+              "start": 39,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 37,
+              "start": 26,
+              "tag": "arcaea_art"
+            },
+            {
+              "end": 45,
+              "start": 38,
+              "tag": "arcaea"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1761297029677101057",
+              "start": 3,
+              "username": "kokone2722"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/CY2EgHxZL1",
+              "end": 69,
+              "expanded_url": "https://x.com/kokone2722/status/2027672469218464056/photo/1",
+              "media_key": "3_2027672464139161602",
+              "start": 46,
+              "url": "https://t.co/CY2EgHxZL1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027727432795754510",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 34
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027672469218464056",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kokone2722: \"Testify\"\n#arcaea_art #arcaea https://t.co/CY2EgHxZL1"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2027672464139161602"
+          ]
+        },
+        "author_id": "1761297029677101057",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1370143648776523779",
+              "name": "Arcaea"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1359647921210159105",
+              "name": "Rhythm games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1370143648776523779",
+              "name": "Arcaea"
+            }
+          }
+        ],
+        "conversation_id": "2027672469218464056",
+        "created_at": "2026-02-28T09:09:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-28T10:09:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027672469218464056"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 7,
+              "normalized_text": "Testify",
+              "probability": 0.9071,
+              "start": 1,
+              "type": "Other"
+            },
+            {
+              "end": 20,
+              "normalized_text": "arcaea_art",
+              "probability": 0.6913,
+              "start": 11,
+              "type": "Other"
+            },
+            {
+              "end": 28,
+              "normalized_text": "arcaea",
+              "probability": 0.8933,
+              "start": 23,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 21,
+              "start": 10,
+              "tag": "arcaea_art"
+            },
+            {
+              "end": 29,
+              "start": 22,
+              "tag": "arcaea"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/CY2EgHxZL1",
+              "end": 53,
+              "expanded_url": "https://x.com/kokone2722/status/2027672469218464056/photo/1",
+              "media_key": "3_2027672464139161602",
+              "start": 30,
+              "url": "https://t.co/CY2EgHxZL1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027672469218464056",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 2020,
+          "like_count": 208,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 34
+        },
+        "reply_settings": "everyone",
+        "text": "\"Testify\"\n#arcaea_art #arcaea https://t.co/CY2EgHxZL1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-06T14:13:55.000Z",
+        "description": "OD丨自伤丨Vocaloid丨音游丨友跨顺女丨少关心我\n不喜欢的直接b 推特是垃圾桶口无遮拦 同类回fo",
+        "id": "1964331185590718464",
+        "location": "🚪50/88 同类熟推免",
+        "name": "箸",
+        "pinned_tweet_id": "2024039744276189189",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019848796881186816/pdjXkx-3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 651,
+          "following_count": 595,
+          "like_count": 10898,
+          "listed_count": 0,
+          "media_count": 168,
+          "tweet_count": 3319
+        },
+        "username": "breakcoreWTF",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-24T07:48:54.000Z",
+        "description": "イラストを描いてます•*¨*•.¸¸✍ Joker推し🃏人生の先輩→@lilis_ark_chan skeb→ https://t.co/YYJPHjCGl1 maimai🌈🃏、Phigros🕊、Arcaea🦋、ChainBeaT。オリキャラ→#ここねんあーと",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 130,
+                "start": 122,
+                "tag": "ここねんあーと"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 49,
+                "start": 34,
+                "username": "lilis_ark_chan"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "skeb.jp/@kokone2722",
+                "end": 79,
+                "expanded_url": "https://skeb.jp/@kokone2722",
+                "start": 56,
+                "url": "https://t.co/YYJPHjCGl1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "skeb.jp/@kokone2722",
+                "end": 23,
+                "expanded_url": "https://skeb.jp/@kokone2722",
+                "start": 0,
+                "url": "https://t.co/YYJPHjCGl1"
+              }
+            ]
+          }
+        },
+        "id": "1761297029677101057",
+        "location": "大阪",
+        "name": "kokone✧*｡.*･ﾟskeb募集中",
+        "pinned_tweet_id": "2027307732219695548",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019319447035715584/XXt7tEdV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2325,
+          "following_count": 964,
+          "like_count": 10251,
+          "listed_count": 4,
+          "media_count": 607,
+          "tweet_count": 6587
+        },
+        "url": "https://t.co/YYJPHjCGl1",
+        "username": "kokone2722",
+        "verified": false
+      }
+    ]
+  }
+}

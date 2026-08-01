@@ -1,0 +1,276 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1966855094097637380"
+      ],
+      "media_source_tweet_id": [
+        "1966855639365550367"
+      ]
+    },
+    "author_id": "1964331185590718464",
+    "conversation_id": "1967220877495525593",
+    "created_at": "2025-09-14T13:36:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-14T14:36:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1967220877495525593"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1013099697181843456",
+          "start": 3,
+          "username": "lixim_pf"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/93E2sHmbUp",
+          "end": 52,
+          "expanded_url": "https://x.com/lixim_pf/status/1966855639365550367/video/1",
+          "media_key": "13_1966855094097637380",
+          "start": 29,
+          "url": "https://t.co/93E2sHmbUp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1967220877495525593",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1606
+    },
+    "referenced_tweets": [
+      {
+        "id": "1966855639365550367",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @lixim_pf: 古のボカロオタクに刺さる曲㉙ https://t.co/93E2sHmbUp"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 44032,
+        "height": 1080,
+        "media_key": "13_1966855094097637380",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1966855094097637380/img/CAlWxlPhvwxfmCvI.jpg",
+        "public_metrics": {
+          "view_count": 113773
+        },
+        "type": "video",
+        "variants": [
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1966855094097637380/pl/j0G-bQnc-hEs3Hxw.m3u8?v=1cc"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1966855094097637380/vid/avc1/640x360/e0EYoT45BDKJYJP0.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1966855094097637380/vid/avc1/1280x720/6yO231f0O0B0IKsU.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1966855094097637380/vid/avc1/1920x1080/z-JY-8WOFyuL5s9T.mp4"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1966855094097637380/vid/avc1/480x270/IX8FBNBRH0_GV-f3.mp4"
+          }
+        ],
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1966855094097637380"
+          ],
+          "media_source_tweet_id": [
+            "1966855639365550367"
+          ]
+        },
+        "author_id": "1964331185590718464",
+        "conversation_id": "1967220877495525593",
+        "created_at": "2025-09-14T13:36:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-14T14:36:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1967220877495525593"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1013099697181843456",
+              "start": 3,
+              "username": "lixim_pf"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/93E2sHmbUp",
+              "end": 52,
+              "expanded_url": "https://x.com/lixim_pf/status/1966855639365550367/video/1",
+              "media_key": "13_1966855094097637380",
+              "start": 29,
+              "url": "https://t.co/93E2sHmbUp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967220877495525593",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1606
+        },
+        "referenced_tweets": [
+          {
+            "id": "1966855639365550367",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @lixim_pf: 古のボカロオタクに刺さる曲㉙ https://t.co/93E2sHmbUp"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1966855094097637380"
+          ]
+        },
+        "author_id": "1013099697181843456",
+        "conversation_id": "1966855639365550367",
+        "created_at": "2025-09-13T13:25:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-13T14:25:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1966855639365550367"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/93E2sHmbUp",
+              "end": 38,
+              "expanded_url": "https://x.com/lixim_pf/status/1966855639365550367/video/1",
+              "media_key": "13_1966855094097637380",
+              "start": 15,
+              "url": "https://t.co/93E2sHmbUp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1966855639365550367",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1207,
+          "impression_count": 251286,
+          "like_count": 12144,
+          "quote_count": 132,
+          "reply_count": 43,
+          "retweet_count": 1606
+        },
+        "reply_settings": "everyone",
+        "text": "古のボカロオタクに刺さる曲㉙ https://t.co/93E2sHmbUp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-06T14:13:55.000Z",
+        "description": "中文/od/自残/精神病/网蛆/VOCALOID/音游/舞萌w43/中二14.9/世界计划 无底线无雷点无素质 含暴论/地域黑/辱男女/发情等成分 我有对象 我很喜欢他",
+        "id": "1964331185590718464",
+        "name": "💊人工時代完全犯罪",
+        "pinned_tweet_id": "1966517785367871718",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1964333475118665733/qxlL_t3T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33,
+          "following_count": 175,
+          "like_count": 665,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 158
+        },
+        "username": "breakcoreWTF",
+        "verified": false
+      },
+      {
+        "created_at": "2018-06-30T16:39:25.000Z",
+        "description": "’00 ピアノとか...... │ https://t.co/F3pcI2ZGjZ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "youtube.com/Lixim_",
+                "end": 41,
+                "expanded_url": "http://youtube.com/Lixim_",
+                "start": 18,
+                "url": "https://t.co/F3pcI2ZGjZ"
+              }
+            ]
+          }
+        },
+        "id": "1013099697181843456",
+        "name": "Lixim /りくしむ",
+        "pinned_tweet_id": "1923004412437336235",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1595027260440219649/JZLrCvug_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 47330,
+          "following_count": 7,
+          "like_count": 41067,
+          "listed_count": 63,
+          "media_count": 70,
+          "tweet_count": 189
+        },
+        "username": "lixim_pf",
+        "verified": true
+      }
+    ]
+  }
+}

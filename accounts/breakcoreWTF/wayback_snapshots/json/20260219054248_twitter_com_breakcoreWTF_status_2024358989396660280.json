@@ -1,0 +1,396 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2024251398494531584"
+      ],
+      "media_source_tweet_id": [
+        "2024251405268373660"
+      ]
+    },
+    "author_id": "1964331185590718464",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to  marketing and advertiser agencies, publishers of magazines, newspapers, blogs, books",
+          "id": "1557697121477832705",
+          "name": "Publisher & News Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "1280550787207147521",
+          "name": "Arts & culture"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Books and literature",
+          "id": "847519659179954178",
+          "name": "Books"
+        }
+      },
+      {
+        "domain": {
+          "description": "A product taxonomy for labeling categories of products. ",
+          "id": "173",
+          "name": "Product Taxonomy"
+        },
+        "entity": {
+          "description": "Books and literature",
+          "id": "847519659179954178",
+          "name": "Books"
+        }
+      }
+    ],
+    "conversation_id": "2024358989396660280",
+    "created_at": "2026-02-19T05:42:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-19T06:42:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024358989396660280"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1391278425260781572",
+          "start": 3,
+          "username": "takeru0321neko"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/PFhtf0aV8G",
+          "end": 68,
+          "expanded_url": "https://x.com/takeru0321neko/status/2024251405268373660/photo/1",
+          "media_key": "3_2024251398494531584",
+          "start": 45,
+          "url": "https://t.co/PFhtf0aV8G"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024358989396660280",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 211
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024251405268373660",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @takeru0321neko: 昨日も寝室にやってきたので一緒に絵本を読みました https://t.co/PFhtf0aV8G"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1179,
+        "media_key": "3_2024251398494531584",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBeV7AdasAAJxHQ.jpg",
+        "width": 1473
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2024251398494531584"
+          ],
+          "media_source_tweet_id": [
+            "2024251405268373660"
+          ]
+        },
+        "author_id": "1964331185590718464",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to  marketing and advertiser agencies, publishers of magazines, newspapers, blogs, books",
+              "id": "1557697121477832705",
+              "name": "Publisher & News Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Books and literature",
+              "id": "847519659179954178",
+              "name": "Books"
+            }
+          },
+          {
+            "domain": {
+              "description": "A product taxonomy for labeling categories of products. ",
+              "id": "173",
+              "name": "Product Taxonomy"
+            },
+            "entity": {
+              "description": "Books and literature",
+              "id": "847519659179954178",
+              "name": "Books"
+            }
+          }
+        ],
+        "conversation_id": "2024358989396660280",
+        "created_at": "2026-02-19T05:42:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T06:42:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024358989396660280"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1391278425260781572",
+              "start": 3,
+              "username": "takeru0321neko"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/PFhtf0aV8G",
+              "end": 68,
+              "expanded_url": "https://x.com/takeru0321neko/status/2024251405268373660/photo/1",
+              "media_key": "3_2024251398494531584",
+              "start": 45,
+              "url": "https://t.co/PFhtf0aV8G"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024358989396660280",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 211
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024251405268373660",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @takeru0321neko: 昨日も寝室にやってきたので一緒に絵本を読みました https://t.co/PFhtf0aV8G"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2024251398494531584"
+          ]
+        },
+        "author_id": "1391278425260781572",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to  marketing and advertiser agencies, publishers of magazines, newspapers, blogs, books",
+              "id": "1557697121477832705",
+              "name": "Publisher & News Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Books and literature",
+              "id": "847519659179954178",
+              "name": "Books"
+            }
+          },
+          {
+            "domain": {
+              "description": "A product taxonomy for labeling categories of products. ",
+              "id": "173",
+              "name": "Product Taxonomy"
+            },
+            "entity": {
+              "description": "Books and literature",
+              "id": "847519659179954178",
+              "name": "Books"
+            }
+          }
+        ],
+        "conversation_id": "2024251405268373660",
+        "created_at": "2026-02-18T22:35:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T23:35:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024251405268373660"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PFhtf0aV8G",
+              "end": 48,
+              "expanded_url": "https://x.com/takeru0321neko/status/2024251405268373660/photo/1",
+              "media_key": "3_2024251398494531584",
+              "start": 25,
+              "url": "https://t.co/PFhtf0aV8G"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024251405268373660",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 58,
+          "impression_count": 29704,
+          "like_count": 4206,
+          "quote_count": 3,
+          "reply_count": 13,
+          "retweet_count": 211
+        },
+        "reply_settings": "everyone",
+        "text": "昨日も寝室にやってきたので一緒に絵本を読みました https://t.co/PFhtf0aV8G"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-06T14:13:55.000Z",
+        "description": "OD丨自伤丨Vocaloid丨音游丨友跨顺女丨少关心我\n不喜欢的直接b 推特是垃圾桶口无遮拦 同类回fo",
+        "id": "1964331185590718464",
+        "location": "🚪40走vx+10pyq 熟推免",
+        "name": "箸",
+        "pinned_tweet_id": "2024039744276189189",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019848796881186816/pdjXkx-3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 566,
+          "following_count": 584,
+          "like_count": 8632,
+          "listed_count": 1,
+          "media_count": 148,
+          "tweet_count": 2720
+        },
+        "username": "breakcoreWTF",
+        "verified": false
+      },
+      {
+        "created_at": "2021-05-09T06:26:58.000Z",
+        "description": "歌う猫ミームの正体。マンチカンの男の子。2021年03月21日生まれ。チャームポイントはまんまるおめめ。お父さん・お母さん・3歳と2歳の男の子と暮らしているよ。★YouTubeも見てくれたらうれしいです。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@takeru0321neko",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@takeru0321neko",
+                "start": 0,
+                "url": "https://t.co/1Gcw9iabBJ"
+              }
+            ]
+          }
+        },
+        "id": "1391278425260781572",
+        "name": "まつもとたける",
+        "pinned_tweet_id": "1930176457067901210",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1752636134528790528/3BCvYCyJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 80454,
+          "following_count": 744,
+          "like_count": 15506,
+          "listed_count": 408,
+          "media_count": 1412,
+          "tweet_count": 1840
+        },
+        "url": "https://t.co/1Gcw9iabBJ",
+        "username": "takeru0321neko",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,158 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2015775353239740416"
+      ]
+    },
+    "author_id": "1964331185590718464",
+    "conversation_id": "2015775397275992464",
+    "created_at": "2026-01-26T13:14:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-26T14:14:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2015775397275992464"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/JFq7KXNmj9",
+          "end": 33,
+          "expanded_url": "https://x.com/breakcoreWTF/status/2015775397275992464/video/1",
+          "media_key": "7_2015775353239740416",
+          "start": 10,
+          "url": "https://t.co/JFq7KXNmj9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2015775397275992464",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "飞我眼睛里了操你妈 https://t.co/JFq7KXNmj9"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 7469,
+        "height": 1280,
+        "media_key": "7_2015775353239740416",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2015775353239740416/pu/img/t05eMmGLLSVJi3jM.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2015775353239740416/pu/vid/avc1/320x568/0AQd_4jBvR8oNfYm.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2015775353239740416/pu/vid/avc1/480x852/J7JMbG1H1L07KixN.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2015775353239740416/pu/vid/avc1/720x1280/EyIlUYohau7LYSMz.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2015775353239740416/pu/pl/wJ2thIkQF36zo28F.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2015775353239740416"
+          ]
+        },
+        "author_id": "1964331185590718464",
+        "conversation_id": "2015775397275992464",
+        "created_at": "2026-01-26T13:14:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-26T14:14:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2015775397275992464"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JFq7KXNmj9",
+              "end": 33,
+              "expanded_url": "https://x.com/breakcoreWTF/status/2015775397275992464/video/1",
+              "media_key": "7_2015775353239740416",
+              "start": 10,
+              "url": "https://t.co/JFq7KXNmj9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015775397275992464",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "飞我眼睛里了操你妈 https://t.co/JFq7KXNmj9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-06T14:13:55.000Z",
+        "description": "中文/od/VOCALOID/音游 纯种乐子人性别不明推上啥都有 会发泄情绪无需理会 私信互关欢迎 🚪40加微信纯绿可陪聊",
+        "id": "1964331185590718464",
+        "location": "Internet",
+        "name": "薄幸",
+        "pinned_tweet_id": "2003760156488986744",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015679257582964737/T8W4H246_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 54,
+          "following_count": 330,
+          "like_count": 3916,
+          "listed_count": 0,
+          "media_count": 38,
+          "tweet_count": 1218
+        },
+        "username": "breakcoreWTF",
+        "verified": false
+      }
+    ]
+  }
+}

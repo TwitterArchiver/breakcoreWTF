@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2016908545053380612"
+      ],
+      "media_source_tweet_id": [
+        "2016908657846542698"
+      ]
+    },
+    "author_id": "1964331185590718464",
+    "conversation_id": "2017156552994803999",
+    "created_at": "2026-01-30T08:42:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-30T09:42:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2017156552994803999"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1072118332755562496",
+          "start": 3,
+          "username": "LullabyStream"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/I1sf4ehTwa",
+          "end": 51,
+          "expanded_url": "https://x.com/LullabyStream/status/2016908657846542698/video/1",
+          "media_key": "13_2016908545053380612",
+          "start": 28,
+          "url": "https://t.co/I1sf4ehTwa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2017156552994803999",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 161
+    },
+    "referenced_tweets": [
+      {
+        "id": "2016908657846542698",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @LullabyStream: おやすみなさい🌙 https://t.co/I1sf4ehTwa"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 48880,
+        "height": 720,
+        "media_key": "13_2016908545053380612",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2016908545053380612/img/e6cy9mzU_h5mMZTg.jpg",
+        "public_metrics": {
+          "view_count": 5180
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2016908545053380612/vid/avc1/480x270/ZQvJbpH1o1p7ofE9.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2016908545053380612/vid/avc1/640x360/mB4QXwnGdON4L0g0.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2016908545053380612/vid/avc1/1280x720/euHGHXhY3DU2vXAe.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2016908545053380612/pl/6BHpYm-dyoLWtEQ5.m3u8?v=cfc"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2016908545053380612"
+          ],
+          "media_source_tweet_id": [
+            "2016908657846542698"
+          ]
+        },
+        "author_id": "1964331185590718464",
+        "conversation_id": "2017156552994803999",
+        "created_at": "2026-01-30T08:42:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-30T09:42:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017156552994803999"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1072118332755562496",
+              "start": 3,
+              "username": "LullabyStream"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/I1sf4ehTwa",
+              "end": 51,
+              "expanded_url": "https://x.com/LullabyStream/status/2016908657846542698/video/1",
+              "media_key": "13_2016908545053380612",
+              "start": 28,
+              "url": "https://t.co/I1sf4ehTwa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017156552994803999",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 161
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016908657846542698",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @LullabyStream: おやすみなさい🌙 https://t.co/I1sf4ehTwa"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2016908545053380612"
+          ]
+        },
+        "author_id": "1072118332755562496",
+        "conversation_id": "2016908657846542698",
+        "created_at": "2026-01-29T16:17:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-29T17:17:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2016908657846542698"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/I1sf4ehTwa",
+              "end": 32,
+              "expanded_url": "https://x.com/LullabyStream/status/2016908657846542698/video/1",
+              "media_key": "13_2016908545053380612",
+              "start": 9,
+              "url": "https://t.co/I1sf4ehTwa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016908657846542698",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 143,
+          "impression_count": 12814,
+          "like_count": 1396,
+          "quote_count": 4,
+          "reply_count": 3,
+          "retweet_count": 161
+        },
+        "reply_settings": "everyone",
+        "text": "おやすみなさい🌙 https://t.co/I1sf4ehTwa"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-06T14:13:55.000Z",
+        "description": "中文/od/自伤/友跨顺女/VOCALOID/音游 舞萌普通w53 纯种乐子人 推上啥都有 关心我的任何负能量相关只会给我带来困扰 其他交流欢迎 我不想在推特都做不到口无遮拦 互fo欢迎 🚪40加微信纯绿可配聊 熟悉的推友可以免门费",
+        "id": "1964331185590718464",
+        "location": "Internet",
+        "name": "薄幸",
+        "pinned_tweet_id": "2016685165557534981",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015679257582964737/T8W4H246_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 70,
+          "following_count": 356,
+          "like_count": 4715,
+          "listed_count": 0,
+          "media_count": 59,
+          "tweet_count": 1560
+        },
+        "username": "breakcoreWTF",
+        "verified": false
+      },
+      {
+        "created_at": "2018-12-10T13:18:24.000Z",
+        "description": "ぬいぐるみマニア　気軽に絡んでください",
+        "id": "1072118332755562496",
+        "location": "　MEIKO王国　専属運転手",
+        "name": "KTR1@Lu&Mi",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016487616859045888/CHOFu9qE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2663,
+          "following_count": 767,
+          "like_count": 29785,
+          "listed_count": 8,
+          "media_count": 9082,
+          "tweet_count": 21010
+        },
+        "username": "LullabyStream",
+        "verified": false
+      }
+    ]
+  }
+}

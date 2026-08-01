@@ -1,0 +1,288 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2016151426146451456"
+      ],
+      "media_source_tweet_id": [
+        "2016151465765814435"
+      ]
+    },
+    "author_id": "1964331185590718464",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2016571240807628830",
+    "created_at": "2026-01-28T17:57:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-28T18:57:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2016571240807628830"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2000801208681029635",
+          "start": 3,
+          "username": "mezz0_pezz0"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/CjGrvAoF0l",
+          "end": 40,
+          "expanded_url": "https://x.com/mezz0_pezz0/status/2016151465765814435/video/1",
+          "media_key": "7_2016151426146451456",
+          "start": 17,
+          "url": "https://t.co/CjGrvAoF0l"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2016571240807628830",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 692
+    },
+    "referenced_tweets": [
+      {
+        "id": "2016151465765814435",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @mezz0_pezz0: https://t.co/CjGrvAoF0l"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 18304,
+        "height": 1280,
+        "media_key": "7_2016151426146451456",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2016151426146451456/pu/img/6MwZkfDenX2k80Ru.jpg",
+        "public_metrics": {
+          "view_count": 21741
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2016151426146451456/pu/vid/avc1/320x606/oqeym0_cJ7p08_4r.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2016151426146451456/pu/vid/avc1/480x910/x1zl6i2TRcdEPrrp.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2016151426146451456/pu/vid/avc1/674x1280/5g4HoNSY95adEVw6.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2016151426146451456/pu/pl/m0rZ7rCjmSMTtNCW.m3u8?tag=12&v=48e"
+          }
+        ],
+        "width": 674
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2016151426146451456"
+          ],
+          "media_source_tweet_id": [
+            "2016151465765814435"
+          ]
+        },
+        "author_id": "1964331185590718464",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2016571240807628830",
+        "created_at": "2026-01-28T17:57:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-28T18:57:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016571240807628830"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2000801208681029635",
+              "start": 3,
+              "username": "mezz0_pezz0"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/CjGrvAoF0l",
+              "end": 40,
+              "expanded_url": "https://x.com/mezz0_pezz0/status/2016151465765814435/video/1",
+              "media_key": "7_2016151426146451456",
+              "start": 17,
+              "url": "https://t.co/CjGrvAoF0l"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016571240807628830",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 692
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016151465765814435",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @mezz0_pezz0: https://t.co/CjGrvAoF0l"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2016151426146451456"
+          ]
+        },
+        "author_id": "2000801208681029635",
+        "conversation_id": "2016151465765814435",
+        "created_at": "2026-01-27T14:09:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-27T15:09:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2016151465765814435"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CjGrvAoF0l",
+              "end": 23,
+              "expanded_url": "https://x.com/mezz0_pezz0/status/2016151465765814435/video/1",
+              "media_key": "7_2016151426146451456",
+              "start": 0,
+              "url": "https://t.co/CjGrvAoF0l"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016151465765814435",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 424,
+          "impression_count": 36159,
+          "like_count": 5828,
+          "quote_count": 3,
+          "reply_count": 13,
+          "retweet_count": 692
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/CjGrvAoF0l"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-06T14:13:55.000Z",
+        "description": "中文/od/自伤/VOCALOID/音游 舞萌普通w53 纯种乐子人性别不明推上啥都有 会发泄情绪无需理会 私信互关欢迎 🚪40加微信纯绿可陪聊",
+        "id": "1964331185590718464",
+        "location": "Internet",
+        "name": "薄幸",
+        "pinned_tweet_id": "2003760156488986744",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015679257582964737/T8W4H246_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 58,
+          "following_count": 343,
+          "like_count": 4136,
+          "listed_count": 0,
+          "media_count": 48,
+          "tweet_count": 1321
+        },
+        "username": "breakcoreWTF",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-16T05:32:55.000Z",
+        "description": "✧𝟏𝟓𝒚.ᐟ.ᐟʚ 𝒊𝒇𝒃 ɞ//𝒔𝒉𝒆/𝒉𝒆𝒓//{𝒃𝒎𝒊 𝟏𝟔.𝟑} 𝒊𝒓𝒍 𝒂𝒏𝒈𝒆𝒍 ❣ ˚₊‧꒰ა 𓂋 ໒꒱ ‧₊˚ 𝒖𝒏𝒄𝒆𝒏𝒔𝒐𝒓𝒆𝒅 𝒔𝒉.ᐟ.ᐟ✧𝒅𝒎𝒔 𝒐𝒑𝒆𝒏!",
+        "id": "2000801208681029635",
+        "location": "ᕱ⑅ᕱ",
+        "name": "𝒎𝒆𝒛𝒛𝒐❦{𝒔𝒉𝒆𝒅𝒕𝒘𝒕}",
+        "pinned_tweet_id": "2012826548387098646",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011459489602646016/JIQbikqm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 758,
+          "following_count": 496,
+          "like_count": 561,
+          "listed_count": 1,
+          "media_count": 47,
+          "tweet_count": 258
+        },
+        "username": "mezz0_pezz0",
+        "verified": false
+      }
+    ]
+  }
+}

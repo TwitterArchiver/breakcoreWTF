@@ -1,0 +1,300 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2068954739690381312"
+      ],
+      "media_source_tweet_id": [
+        "2068955057564127263"
+      ]
+    },
+    "author_id": "1964331185590718464",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2069285263306838203",
+    "created_at": "2026-06-23T05:03:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-23T06:03:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069285263306838203"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "3192331100",
+          "start": 3,
+          "username": "arugon999"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/2jNdaeMN7j",
+          "end": 95,
+          "expanded_url": "https://x.com/arugon999/status/2068955057564127263/video/1",
+          "media_key": "13_2068954739690381312",
+          "start": 72,
+          "url": "https://t.co/2jNdaeMN7j"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069285263306838203",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 18
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068955057564127263",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @arugon999: 数日ぶりのメンテ！\nコバルトが登ってきてかわいい！！！\nケースに帰らなくて可愛い！！\nカエルは面白いね...🐸✨ https://t.co/2jNdaeMN7j"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 40433,
+        "height": 960,
+        "media_key": "13_2068954739690381312",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2068954739690381312/img/JmRYRrozLSrZJQvN.jpg",
+        "public_metrics": {
+          "view_count": 1640
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2068954739690381312/vid/avc1/320x426/5hrP2UGOFMuUQqbs.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2068954739690381312/vid/avc1/480x640/lYEyIXIWfGq16dlu.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2068954739690381312/vid/avc1/720x960/Vb7zATC2Sp1PM4W1.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2068954739690381312/pl/WPzsw69wX0jCDffP.m3u8?v=ca4"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2068954739690381312"
+          ],
+          "media_source_tweet_id": [
+            "2068955057564127263"
+          ]
+        },
+        "author_id": "1964331185590718464",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2069285263306838203",
+        "created_at": "2026-06-23T05:03:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T06:03:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069285263306838203"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "3192331100",
+              "start": 3,
+              "username": "arugon999"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/2jNdaeMN7j",
+              "end": 95,
+              "expanded_url": "https://x.com/arugon999/status/2068955057564127263/video/1",
+              "media_key": "13_2068954739690381312",
+              "start": 72,
+              "url": "https://t.co/2jNdaeMN7j"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069285263306838203",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 18
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068955057564127263",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @arugon999: 数日ぶりのメンテ！\nコバルトが登ってきてかわいい！！！\nケースに帰らなくて可愛い！！\nカエルは面白いね...🐸✨ https://t.co/2jNdaeMN7j"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2068954739690381312"
+          ]
+        },
+        "author_id": "3192331100",
+        "conversation_id": "2068955057564127263",
+        "created_at": "2026-06-22T07:11:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T08:11:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068955057564127263"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2jNdaeMN7j",
+              "end": 80,
+              "expanded_url": "https://x.com/arugon999/status/2068955057564127263/video/1",
+              "media_key": "13_2068954739690381312",
+              "start": 57,
+              "url": "https://t.co/2jNdaeMN7j"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068955057564127263",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 12,
+          "impression_count": 5051,
+          "like_count": 265,
+          "quote_count": 2,
+          "reply_count": 2,
+          "retweet_count": 18
+        },
+        "reply_settings": "everyone",
+        "text": "数日ぶりのメンテ！\nコバルトが登ってきてかわいい！！！\nケースに帰らなくて可愛い！！\nカエルは面白いね...🐸✨ https://t.co/2jNdaeMN7j"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-06T14:13:55.000Z",
+        "description": "OD丨自伤丨Vocaloid丨音游丨LGBTQ+friendly\n喜欢爬宠 不卖药 非必要不回私信 我很穷欢迎投喂\n不喜欢的直接b 同类查成分回fo 取关请双取",
+        "id": "1964331185590718464",
+        "location": "颅内",
+        "name": "箸",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061439509125074944/Hf-Lim6c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 866,
+          "following_count": 718,
+          "like_count": 20184,
+          "listed_count": 0,
+          "media_count": 293,
+          "tweet_count": 5197
+        },
+        "url": "",
+        "username": "breakcoreWTF",
+        "verified": false
+      },
+      {
+        "created_at": "2015-05-11T16:09:11.000Z",
+        "description": "カエルや爬虫類や虫や植物などが好き 撮ったり描いたりします。図鑑コンセプトのグッズのオンラインストアもあり。画像や動画の無断使用はご遠慮ください。お仕事関連はarugon999@gmail.comまでお願い致します。投稿へのコメント嬉しいです✌️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/arugon999",
+                "end": 23,
+                "expanded_url": "https://lit.link/arugon999",
+                "start": 0,
+                "url": "https://t.co/rve5BTeKXk"
+              }
+            ]
+          }
+        },
+        "id": "3192331100",
+        "name": "あるごん 🐸 Argon",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1253317280441593857/RsZx-tdz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13357,
+          "following_count": 601,
+          "like_count": 58426,
+          "listed_count": 131,
+          "media_count": 4551,
+          "tweet_count": 14688
+        },
+        "url": "https://t.co/rve5BTeKXk",
+        "username": "arugon999",
+        "verified": true
+      }
+    ]
+  }
+}

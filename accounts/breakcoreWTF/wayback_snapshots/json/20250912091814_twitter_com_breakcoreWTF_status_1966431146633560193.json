@@ -1,0 +1,394 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1964331185590718464",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1104125539877412864",
+          "name": "Miku Hatsune"
+        }
+      },
+      {
+        "domain": {
+          "description": "A person or other being in a narrative work of art, like Tom Sawyer or Jon Snow",
+          "id": "122",
+          "name": "Fictional Character"
+        },
+        "entity": {
+          "id": "1104125539877412864",
+          "name": "Miku Hatsune"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1104125539877412864",
+          "name": "Miku Hatsune"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1247236287485997056",
+          "name": "Vocaloid"
+        }
+      }
+    ],
+    "conversation_id": "1966431146633560193",
+    "created_at": "2025-09-12T09:18:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-12T10:18:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1966431146633560193"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/kairiki_bear/s…",
+          "end": 27,
+          "expanded_url": "https://twitter.com/kairiki_bear/status/1966427557001306600",
+          "start": 4,
+          "url": "https://t.co/DTkifA8C0g"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1966431146633560193",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1966427557001306600",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "太好了 https://t.co/DTkifA8C0g"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1076,
+        "media_key": "3_1966426678680567808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0ompUubQAA8oU-.jpg",
+        "width": 628
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1964331185590718464",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "A person or other being in a narrative work of art, like Tom Sawyer or Jon Snow",
+              "id": "122",
+              "name": "Fictional Character"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1247236287485997056",
+              "name": "Vocaloid"
+            }
+          }
+        ],
+        "conversation_id": "1966431146633560193",
+        "created_at": "2025-09-12T09:18:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-12T10:18:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1966431146633560193"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/kairiki_bear/s…",
+              "end": 27,
+              "expanded_url": "https://twitter.com/kairiki_bear/status/1966427557001306600",
+              "start": 4,
+              "url": "https://t.co/DTkifA8C0g"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1966431146633560193",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1966427557001306600",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "太好了 https://t.co/DTkifA8C0g"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1966426678680567808"
+          ]
+        },
+        "author_id": "128631478",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "A person or other being in a narrative work of art, like Tom Sawyer or Jon Snow",
+              "id": "122",
+              "name": "Fictional Character"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1247236287485997056",
+              "name": "Vocaloid"
+            }
+          }
+        ],
+        "conversation_id": "1966427557001306600",
+        "created_at": "2025-09-12T09:03:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-12T10:03:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1966427557001306600"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 27,
+              "normalized_text": "かいりきベア",
+              "probability": 0.3092,
+              "start": 22,
+              "type": "Person"
+            },
+            {
+              "end": 40,
+              "normalized_text": "しゃもじ",
+              "probability": 0.3515,
+              "start": 37,
+              "type": "Person"
+            },
+            {
+              "end": 53,
+              "normalized_text": "初音ミク",
+              "probability": 0.8774,
+              "start": 50,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/vaN9Bl0jRA",
+              "end": 78,
+              "expanded_url": "https://x.com/kairiki_bear/status/1966427557001306600/photo/1",
+              "media_key": "3_1966426678680567808",
+              "start": 55,
+              "url": "https://t.co/vaN9Bl0jRA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1966427557001306600",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 13,
+          "impression_count": 4439,
+          "like_count": 435,
+          "quote_count": 18,
+          "reply_count": 17,
+          "retweet_count": 155
+        },
+        "reply_settings": "everyone",
+        "text": "2025/9/13 新曲投稿\n▲Music：かいりきベア\n▲Illust：しゃもじ\n\n▲Vocal：初音ミク https://t.co/vaN9Bl0jRA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-06T14:13:55.000Z",
+        "description": "161/39/中文/od/自残/精神病/网蛆/VOCALOID/音游/舞萌w43/中二14.9/世界计划 无底线无雷点无素质 含暴论/地域黑/辱男女/发情等成分 我有对象 我很喜欢他",
+        "id": "1964331185590718464",
+        "name": "💊人工時代完全犯罪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1964333475118665733/qxlL_t3T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 161,
+          "like_count": 497,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 127
+        },
+        "username": "breakcoreWTF",
+        "verified": false
+      },
+      {
+        "created_at": "2010-04-01T18:21:39.000Z",
+        "description": "JAPANでクマをやっています。音楽を作ります。 YouTube【https://t.co/PabdyxsVzY】 LINEスタンプ【https://t.co/OGUkgxcAbC】",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "youtube.com/kairikibear",
+                "end": 56,
+                "expanded_url": "https://youtube.com/kairikibear",
+                "start": 33,
+                "url": "https://t.co/PabdyxsVzY"
+              },
+              {
+                "display_url": "store.line.me/stickershop/au…",
+                "end": 90,
+                "expanded_url": "https://store.line.me/stickershop/author/1324598/ja",
+                "start": 67,
+                "url": "https://t.co/OGUkgxcAbC"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "nicovideo.jp/watch/sm348714…",
+                "end": 23,
+                "expanded_url": "https://www.nicovideo.jp/watch/sm34871494",
+                "start": 0,
+                "url": "https://t.co/7RPnZ8uxIL"
+              }
+            ]
+          }
+        },
+        "id": "128631478",
+        "name": "かいりきベア",
+        "pinned_tweet_id": "1917156928574357647",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1509907129154834435/D8q-9fhV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 410428,
+          "following_count": 469,
+          "like_count": 20882,
+          "listed_count": 1661,
+          "media_count": 358,
+          "tweet_count": 4551
+        },
+        "url": "https://t.co/7RPnZ8uxIL",
+        "username": "kairiki_bear",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1964331185590718464",
+    "conversation_id": "2064411769603518909",
+    "created_at": "2026-06-09T18:18:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-09T19:18:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064411769603518909"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1829867271592026112",
+          "start": 3,
+          "username": "Shivam3228"
+        },
+        {
+          "end": 29,
+          "id": "2053726229984075776",
+          "start": 16,
+          "username": "Kuromi_ooooo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064411769603518909",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060021498858090831",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Shivam3228: @Kuromi_ooooo 我被幽灵ban了，你们可能看不见我的互动，麻烦大家了"
+  },
+  "errors": [
+    {
+      "detail": "User has been suspended: [Kuromi_ooooo].",
+      "parameter": "entities.mentions.username",
+      "resource_id": "Kuromi_ooooo",
+      "resource_type": "user",
+      "title": "Forbidden",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "Kuromi_ooooo"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1964331185590718464",
+        "conversation_id": "2064411769603518909",
+        "created_at": "2026-06-09T18:18:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T19:18:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064411769603518909"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1829867271592026112",
+              "start": 3,
+              "username": "Shivam3228"
+            },
+            {
+              "end": 29,
+              "id": "2053726229984075776",
+              "start": 16,
+              "username": "Kuromi_ooooo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064411769603518909",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060021498858090831",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Shivam3228: @Kuromi_ooooo 我被幽灵ban了，你们可能看不见我的互动，麻烦大家了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1829867271592026112",
+        "conversation_id": "2060011030378594599",
+        "created_at": "2026-05-28T15:32:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T16:32:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060021498858090831"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2053726229984075776",
+              "start": 0,
+              "username": "Kuromi_ooooo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060021498858090831",
+        "in_reply_to_user_id": "2053726229984075776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 419,
+          "like_count": 25,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060011030378594599",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kuromi_ooooo 我被幽灵ban了，你们可能看不见我的互动，麻烦大家了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-06T14:13:55.000Z",
+        "description": "OD丨自伤丨Vocaloid丨友跨顺女\n喜欢爬宠 不卖药 非必要不回私信\n不喜欢的直接b 同类查成分回fo 取关请双取",
+        "id": "1964331185590718464",
+        "location": "颅内",
+        "name": "箸",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061439509125074944/Hf-Lim6c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 761,
+          "following_count": 662,
+          "like_count": 16238,
+          "listed_count": 0,
+          "media_count": 232,
+          "tweet_count": 4646
+        },
+        "username": "breakcoreWTF",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-31T13:02:22.000Z",
+        "description": "一个社交账号【寻回推u。】\n此号幽灵ban🚬\n精分 双向 ADHD 无不良嗜好\n很温良的一个人，欢迎互动🤤🤤\n小号@elna_elvie9091\n牛马@2Pikus💊\n🥺期待大家和我互动呀",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 72,
+                "start": 57,
+                "username": "elna_elvie9091"
+              },
+              {
+                "end": 82,
+                "start": 75,
+                "username": "2Pikus"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+A7UqL85q-kpkO…",
+                "end": 23,
+                "expanded_url": "https://t.me/+A7UqL85q-kpkOTEx",
+                "start": 0,
+                "url": "https://t.co/VZKn4nRWhn"
+              }
+            ]
+          }
+        },
+        "id": "1829867271592026112",
+        "location": "你看看你身后",
+        "name": "七号雨木木",
+        "pinned_tweet_id": "2064407648083329296",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058860881585594368/GxGn2fBp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 599,
+          "following_count": 400,
+          "like_count": 1222,
+          "listed_count": 1,
+          "media_count": 62,
+          "tweet_count": 625
+        },
+        "url": "https://t.co/VZKn4nRWhn",
+        "username": "Shivam3228",
+        "verified": false
+      }
+    ]
+  }
+}

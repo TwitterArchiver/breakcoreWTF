@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2003731223387291648"
+      ],
+      "media_source_tweet_id": [
+        "2003731228718170343"
+      ]
+    },
+    "author_id": "1964331185590718464",
+    "conversation_id": "2004056593600811473",
+    "created_at": "2025-12-25T05:08:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-25T06:08:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2004056593600811473"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1405881693441990663",
+          "start": 3,
+          "username": "takanya_shi"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/3aKc5LlR0x",
+          "end": 40,
+          "expanded_url": "https://x.com/takanya_shi/status/2003731228718170343/photo/1",
+          "media_key": "3_2003731223387291648",
+          "start": 17,
+          "url": "https://t.co/3aKc5LlR0x"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2004056593600811473",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 913
+    },
+    "referenced_tweets": [
+      {
+        "id": "2003731228718170343",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @takanya_shi: https://t.co/3aKc5LlR0x"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1350,
+        "media_key": "3_2003731223387291648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G86u7nNbwAA9S0W.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2003731223387291648"
+          ],
+          "media_source_tweet_id": [
+            "2003731228718170343"
+          ]
+        },
+        "author_id": "1964331185590718464",
+        "conversation_id": "2004056593600811473",
+        "created_at": "2025-12-25T05:08:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-25T06:08:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2004056593600811473"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1405881693441990663",
+              "start": 3,
+              "username": "takanya_shi"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/3aKc5LlR0x",
+              "end": 40,
+              "expanded_url": "https://x.com/takanya_shi/status/2003731228718170343/photo/1",
+              "media_key": "3_2003731223387291648",
+              "start": 17,
+              "url": "https://t.co/3aKc5LlR0x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004056593600811473",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 913
+        },
+        "referenced_tweets": [
+          {
+            "id": "2003731228718170343",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @takanya_shi: https://t.co/3aKc5LlR0x"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2003731223387291648"
+          ]
+        },
+        "author_id": "1405881693441990663",
+        "conversation_id": "2003731228718170343",
+        "created_at": "2025-12-24T07:35:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-24T08:35:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2003731228718170343"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3aKc5LlR0x",
+              "end": 23,
+              "expanded_url": "https://x.com/takanya_shi/status/2003731228718170343/photo/1",
+              "media_key": "3_2003731223387291648",
+              "start": 0,
+              "url": "https://t.co/3aKc5LlR0x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003731228718170343",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 252,
+          "impression_count": 41965,
+          "like_count": 4512,
+          "quote_count": 20,
+          "reply_count": 0,
+          "retweet_count": 913
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/3aKc5LlR0x"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-06T14:13:55.000Z",
+        "description": "中文/od/VOCALOID/音游 纯种乐子人性别不明推上啥都有 私信互关欢迎",
+        "id": "1964331185590718464",
+        "location": "幻想郷",
+        "name": "━Σ(ﾟДﾟ|||)━",
+        "pinned_tweet_id": "2003760156488986744",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001729011576426496/HumNDWc3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 49,
+          "following_count": 290,
+          "like_count": 3123,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 899
+        },
+        "username": "breakcoreWTF",
+        "verified": false
+      },
+      {
+        "created_at": "2021-06-18T13:35:12.000Z",
+        "description": "何でも描く ご依頼DMor skeb🤍https://t.co/1k6xbtQivK",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "skeb.jp/@takanya_shi",
+                "end": 42,
+                "expanded_url": "http://skeb.jp/@takanya_shi",
+                "start": 19,
+                "url": "https://t.co/1k6xbtQivK"
+              }
+            ]
+          }
+        },
+        "id": "1405881693441990663",
+        "location": "🛜",
+        "name": "たかなし",
+        "pinned_tweet_id": "1896542618320044492",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1876946644941570048/7Rv3jZAE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10127,
+          "following_count": 292,
+          "like_count": 1155,
+          "listed_count": 72,
+          "media_count": 303,
+          "tweet_count": 1938
+        },
+        "username": "takanya_shi",
+        "verified": false
+      }
+    ]
+  }
+}

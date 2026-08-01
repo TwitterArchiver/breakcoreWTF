@@ -1,0 +1,315 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2063746178848817152",
+        "13_2063746940039479296"
+      ],
+      "media_source_tweet_id": [
+        "2063908899107807470",
+        "2063908899107807470"
+      ]
+    },
+    "author_id": "1964331185590718464",
+    "conversation_id": "2064095409883279385",
+    "created_at": "2026-06-08T21:21:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-08T22:21:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064095409883279385"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1021046138449813504",
+          "start": 3,
+          "username": "nitta_tyan"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/A9NAf3YRiM",
+          "end": 77,
+          "expanded_url": "https://x.com/nitta_tyan/status/2063908899107807470/video/1",
+          "media_key": "3_2063746178848817152",
+          "start": 54,
+          "url": "https://t.co/A9NAf3YRiM"
+        },
+        {
+          "display_url": "pic.x.com/A9NAf3YRiM",
+          "end": 77,
+          "expanded_url": "https://x.com/nitta_tyan/status/2063908899107807470/video/1",
+          "media_key": "13_2063746940039479296",
+          "start": 54,
+          "url": "https://t.co/A9NAf3YRiM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064095409883279385",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1530
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063908899107807470",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @nitta_tyan: オオサンショウウオの顎下が好きだよって話\n実際の動画あります　※音が出ます https://t.co/A9NAf3YRiM"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2508,
+        "media_key": "3_2063746178848817152",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKPmNyjagAALy61.jpg",
+        "width": 2508
+      },
+      {
+        "duration_ms": 18230,
+        "height": 1920,
+        "media_key": "13_2063746940039479296",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2063746940039479296/img/Kdm9rIZB_Qde7xCI.jpg",
+        "public_metrics": {
+          "view_count": 103412
+        },
+        "type": "video",
+        "variants": [
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2063746940039479296/pl/WkWzNbhzROlFgeak.m3u8?v=cfc"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2063746940039479296/vid/avc1/720x960/Ug1S9PAlmeuZbmmA.mp4"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2063746940039479296/vid/avc1/320x426/UPENMUn7Uj_m7dAA.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2063746940039479296/vid/avc1/1440x1920/JW7xdQoXpgCX69C1.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2063746940039479296/vid/avc1/480x640/La_ZJ4Op04Ck5f1U.mp4"
+          }
+        ],
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063746178848817152",
+            "13_2063746940039479296"
+          ],
+          "media_source_tweet_id": [
+            "2063908899107807470",
+            "2063908899107807470"
+          ]
+        },
+        "author_id": "1964331185590718464",
+        "conversation_id": "2064095409883279385",
+        "created_at": "2026-06-08T21:21:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T22:21:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064095409883279385"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1021046138449813504",
+              "start": 3,
+              "username": "nitta_tyan"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/A9NAf3YRiM",
+              "end": 77,
+              "expanded_url": "https://x.com/nitta_tyan/status/2063908899107807470/video/1",
+              "media_key": "3_2063746178848817152",
+              "start": 54,
+              "url": "https://t.co/A9NAf3YRiM"
+            },
+            {
+              "display_url": "pic.x.com/A9NAf3YRiM",
+              "end": 77,
+              "expanded_url": "https://x.com/nitta_tyan/status/2063908899107807470/video/1",
+              "media_key": "13_2063746940039479296",
+              "start": 54,
+              "url": "https://t.co/A9NAf3YRiM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064095409883279385",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1530
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063908899107807470",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @nitta_tyan: オオサンショウウオの顎下が好きだよって話\n実際の動画あります　※音が出ます https://t.co/A9NAf3YRiM"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063746178848817152",
+            "13_2063746940039479296"
+          ]
+        },
+        "author_id": "1021046138449813504",
+        "conversation_id": "2063908899107807470",
+        "created_at": "2026-06-08T09:00:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T10:00:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063908899107807470"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/A9NAf3YRiM",
+              "end": 61,
+              "expanded_url": "https://x.com/nitta_tyan/status/2063908899107807470/video/1",
+              "media_key": "3_2063746178848817152",
+              "start": 38,
+              "url": "https://t.co/A9NAf3YRiM"
+            },
+            {
+              "display_url": "pic.x.com/A9NAf3YRiM",
+              "end": 61,
+              "expanded_url": "https://x.com/nitta_tyan/status/2063908899107807470/video/1",
+              "media_key": "13_2063746940039479296",
+              "start": 38,
+              "url": "https://t.co/A9NAf3YRiM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063908899107807470",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 790,
+          "impression_count": 267814,
+          "like_count": 8342,
+          "quote_count": 39,
+          "reply_count": 9,
+          "retweet_count": 1530
+        },
+        "reply_settings": "everyone",
+        "text": "オオサンショウウオの顎下が好きだよって話\n実際の動画あります　※音が出ます https://t.co/A9NAf3YRiM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-06T14:13:55.000Z",
+        "description": "OD丨自伤丨Vocaloid丨友跨顺女\n喜欢爬宠 不卖药 非必要不回私信\n不喜欢的直接b 同类查成分回fo 取关请双取",
+        "id": "1964331185590718464",
+        "location": "颅内",
+        "name": "箸",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061439509125074944/Hf-Lim6c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 753,
+          "following_count": 660,
+          "like_count": 15999,
+          "listed_count": 0,
+          "media_count": 232,
+          "tweet_count": 4608
+        },
+        "username": "breakcoreWTF",
+        "verified": false
+      },
+      {
+        "created_at": "2018-07-22T14:55:44.000Z",
+        "description": "読み方『にた』｜愛知県在住のいきもの作家｜爬虫類や両生類、古生物を中心に色々ないきものたちのイラストを描いています。⚠︎AI学習利用禁止/無断著作物利用禁止",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/nita99",
+                "end": 23,
+                "expanded_url": "https://lit.link/nita99",
+                "start": 0,
+                "url": "https://t.co/fEbWvqpySY"
+              }
+            ]
+          }
+        },
+        "id": "1021046138449813504",
+        "location": "愛知県",
+        "name": "丹汰🦎6/20,21カエルクリエイターズフェスタ",
+        "pinned_tweet_id": "2045427118394532318",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963048115382190083/TT3LOC2r_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1377,
+          "following_count": 212,
+          "like_count": 14298,
+          "listed_count": 10,
+          "media_count": 708,
+          "tweet_count": 2751
+        },
+        "url": "https://t.co/fEbWvqpySY",
+        "username": "nitta_tyan",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,390 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1953740470171090944"
+      ],
+      "media_source_tweet_id": [
+        "1953740536957026415"
+      ]
+    },
+    "author_id": "1964331185590718464",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2078090415564357757",
+    "created_at": "2026-07-17T12:12:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-17T13:12:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078090415564357757"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1255191384207888389",
+          "start": 3,
+          "username": "depressionlesss"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/7dB9gFR6qg",
+          "end": 74,
+          "expanded_url": "https://x.com/itsme_urstruly/status/1953740536957026415/video/1",
+          "media_key": "7_1953740470171090944",
+          "start": 51,
+          "url": "https://t.co/7dB9gFR6qg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078090415564357757",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 474
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078016098499264993",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @depressionlesss: owls are just cats with wings https://t.co/7dB9gFR6qg"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 61998,
+        "height": 1280,
+        "media_key": "7_1953740470171090944",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1953740470171090944/pu/img/vZoNRklgk6X-mrKF.jpg",
+        "public_metrics": {
+          "view_count": 1866023
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1953740470171090944/pu/vid/avc1/320x568/k-IO2pVpTF7ckSpb.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1953740470171090944/pu/vid/avc1/480x852/7p-QNZVtYCP7_VuD.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1953740470171090944/pu/vid/avc1/720x1280/ltlLjRf-rrUOnc2N.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1953740470171090944/pu/pl/Oq6gb4LwP53ZLXc5.m3u8?tag=12&v=cfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1953740470171090944"
+          ]
+        },
+        "author_id": "1648685716237598720",
+        "conversation_id": "1953740536957026415",
+        "created_at": "2025-08-08T08:50:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-08T09:50:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1953740536957026415"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YYMfHudhT3",
+              "end": 46,
+              "expanded_url": "https://x.com/itsme_urstruly/status/1953740536957026415/video/1",
+              "media_key": "7_1953740470171090944",
+              "start": 23,
+              "url": "https://t.co/YYMfHudhT3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1953740536957026415",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8987,
+          "impression_count": 2824170,
+          "like_count": 72796,
+          "quote_count": 520,
+          "reply_count": 225,
+          "retweet_count": 7691
+        },
+        "reply_settings": "everyone",
+        "text": "Owls are flying cats 😂 https://t.co/YYMfHudhT3"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1953740470171090944"
+          ],
+          "media_source_tweet_id": [
+            "1953740536957026415"
+          ]
+        },
+        "author_id": "1964331185590718464",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2078090415564357757",
+        "created_at": "2026-07-17T12:12:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T13:12:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078090415564357757"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1255191384207888389",
+              "start": 3,
+              "username": "depressionlesss"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/7dB9gFR6qg",
+              "end": 74,
+              "expanded_url": "https://x.com/itsme_urstruly/status/1953740536957026415/video/1",
+              "media_key": "7_1953740470171090944",
+              "start": 51,
+              "url": "https://t.co/7dB9gFR6qg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078090415564357757",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 474
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078016098499264993",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @depressionlesss: owls are just cats with wings https://t.co/7dB9gFR6qg"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1953740470171090944"
+          ],
+          "media_source_tweet_id": [
+            "1953740536957026415"
+          ]
+        },
+        "author_id": "1255191384207888389",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2078016098499264993",
+        "created_at": "2026-07-17T07:17:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T08:17:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078016098499264993"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7dB9gFR6qg",
+              "end": 53,
+              "expanded_url": "https://x.com/itsme_urstruly/status/1953740536957026415/video/1",
+              "media_key": "7_1953740470171090944",
+              "start": 30,
+              "url": "https://t.co/7dB9gFR6qg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078016098499264993",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 580,
+          "impression_count": 252238,
+          "like_count": 4512,
+          "quote_count": 19,
+          "reply_count": 31,
+          "retweet_count": 474
+        },
+        "reply_settings": "everyone",
+        "text": "owls are just cats with wings https://t.co/7dB9gFR6qg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-06T14:13:55.000Z",
+        "description": "叫我筷子就可以了(:3っ )っ\nOD丨Vocaloid丨音游丨顺女 LGBTQ+friendly\n不卖药 只看互关私信 我很穷欢迎投喂\n不喜欢的直接b 查成分同类回fo 取关请双取",
+        "id": "1964331185590718464",
+        "location": "颅内",
+        "name": "箸",
+        "pinned_tweet_id": "2077686522225270845",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074711282427842560/EOM9Puhb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1036,
+          "following_count": 765,
+          "like_count": 29893,
+          "listed_count": 0,
+          "media_count": 325,
+          "tweet_count": 5888
+        },
+        "url": "",
+        "username": "breakcoreWTF",
+        "verified": true
+      },
+      {
+        "created_at": "2020-04-28T17:45:33.000Z",
+        "description": "",
+        "id": "1255191384207888389",
+        "name": "Antidepressant Content",
+        "pinned_tweet_id": "1966245405345386629",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1734564468342796288/QvSbuN-__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 390259,
+          "following_count": 5771,
+          "like_count": 111384,
+          "listed_count": 864,
+          "media_count": 16223,
+          "tweet_count": 26957
+        },
+        "url": "",
+        "username": "depressionlesss",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,413 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1963552483776892931"
+      ],
+      "media_source_tweet_id": [
+        "1963552550285934719"
+      ]
+    },
+    "author_id": "1964331185590718464",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "description": "Nico Nico Douga",
+          "id": "1034894313908396037",
+          "name": "Nico Nico Douga"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Nico Nico Douga",
+          "id": "1034894313908396037",
+          "name": "Nico Nico Douga"
+        }
+      }
+    ],
+    "conversation_id": "1974062762960826555",
+    "created_at": "2025-10-03T10:43:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-03T11:43:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1974062762960826555"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1032419742840107009",
+          "start": 3,
+          "username": "naishonopiasu"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/7IN1e13l46",
+          "end": 76,
+          "expanded_url": "https://x.com/naishonopiasu/status/1963552550285934719/video/1",
+          "media_key": "13_1963552483776892931",
+          "start": 53,
+          "url": "https://t.co/7IN1e13l46"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1974062762960826555",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 392
+    },
+    "referenced_tweets": [
+      {
+        "id": "1963552550285934719",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @naishonopiasu: エム / 可不\nニコニコ動画にて殿堂入り達成\nありがとうございます https://t.co/7IN1e13l46"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 15018,
+        "height": 1080,
+        "media_key": "13_1963552483776892931",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1963552483776892931/img/BX2GgSCEvvOw-LUj.jpg",
+        "public_metrics": {
+          "view_count": 16830
+        },
+        "type": "video",
+        "variants": [
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1963552483776892931/pl/S8lsyLQik4Oi73Zz.m3u8"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1963552483776892931/vid/avc1/1920x1080/FGVZxYsM7L3h65V9.mp4"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1963552483776892931/vid/avc1/480x270/xUckS9fBCrTV_P45.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1963552483776892931/vid/avc1/640x360/NL88h3Lqry4FxPAQ.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1963552483776892931/vid/avc1/1280x720/EUfV4FoiZ6GsVuAI.mp4"
+          }
+        ],
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1963552483776892931"
+          ],
+          "media_source_tweet_id": [
+            "1963552550285934719"
+          ]
+        },
+        "author_id": "1964331185590718464",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "Nico Nico Douga",
+              "id": "1034894313908396037",
+              "name": "Nico Nico Douga"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Nico Nico Douga",
+              "id": "1034894313908396037",
+              "name": "Nico Nico Douga"
+            }
+          }
+        ],
+        "conversation_id": "1974062762960826555",
+        "created_at": "2025-10-03T10:43:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-03T11:43:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1974062762960826555"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1032419742840107009",
+              "start": 3,
+              "username": "naishonopiasu"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/7IN1e13l46",
+              "end": 76,
+              "expanded_url": "https://x.com/naishonopiasu/status/1963552550285934719/video/1",
+              "media_key": "13_1963552483776892931",
+              "start": 53,
+              "url": "https://t.co/7IN1e13l46"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974062762960826555",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 392
+        },
+        "referenced_tweets": [
+          {
+            "id": "1963552550285934719",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @naishonopiasu: エム / 可不\nニコニコ動画にて殿堂入り達成\nありがとうございます https://t.co/7IN1e13l46"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1963552483776892931"
+          ]
+        },
+        "author_id": "1032419742840107009",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "Nico Nico Douga",
+              "id": "1034894313908396037",
+              "name": "Nico Nico Douga"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Nico Nico Douga",
+              "id": "1034894313908396037",
+              "name": "Nico Nico Douga"
+            }
+          }
+        ],
+        "conversation_id": "1963552550285934719",
+        "created_at": "2025-09-04T10:39:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-04T11:39:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1963552550285934719"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7IN1e13l46",
+              "end": 57,
+              "expanded_url": "https://x.com/naishonopiasu/status/1963552550285934719/video/1",
+              "media_key": "13_1963552483776892931",
+              "start": 34,
+              "url": "https://t.co/7IN1e13l46"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1963552550285934719",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 221,
+          "impression_count": 38639,
+          "like_count": 2987,
+          "quote_count": 20,
+          "reply_count": 19,
+          "retweet_count": 392
+        },
+        "reply_settings": "everyone",
+        "text": "エム / 可不\nニコニコ動画にて殿堂入り達成\nありがとうございます https://t.co/7IN1e13l46"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-06T14:13:55.000Z",
+        "description": "中文/od/自残/精神病/网蛆/VOCALOID/音游/舞萌w43/中二14.9/世界计划 无底线无雷点无素质 含暴论/地域黑/辱男女/发情等成分 私信互关欢迎 我有对象 我很喜欢他",
+        "id": "1964331185590718464",
+        "location": "翼天国",
+        "name": "💊人工時代完全犯罪",
+        "pinned_tweet_id": "1966517785367871718",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1964333475118665733/qxlL_t3T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35,
+          "following_count": 211,
+          "like_count": 1396,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 325
+        },
+        "username": "breakcoreWTF",
+        "verified": false
+      },
+      {
+        "created_at": "2018-08-23T00:10:22.000Z",
+        "description": "愛らしく、鬱くしい | naishonopiasu@gmail.com",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@naishonopiasu",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@naishonopiasu",
+                "start": 0,
+                "url": "https://t.co/EehEJf4x2F"
+              }
+            ]
+          }
+        },
+        "id": "1032419742840107009",
+        "name": "内緒のピアス",
+        "pinned_tweet_id": "1678373504427896834",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1659137378160869376/3v0-n6M1_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31523,
+          "following_count": 336,
+          "like_count": 43471,
+          "listed_count": 87,
+          "media_count": 1012,
+          "tweet_count": 9779
+        },
+        "url": "https://t.co/EehEJf4x2F",
+        "username": "naishonopiasu",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,411 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2026478273556000770",
+        "7_2026478317717827585"
+      ],
+      "media_source_tweet_id": [
+        "2026478483527057654",
+        "2026478483527057654"
+      ]
+    },
+    "author_id": "1964331185590718464",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2026533300983181371",
+    "created_at": "2026-02-25T05:42:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-25T06:42:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2026533300983181371"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "2008181604360003584",
+          "start": 3,
+          "username": "Fayoubaike000"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/SWkAy2rW72",
+          "end": 42,
+          "expanded_url": "https://x.com/Fayoubaike000/status/2026478483527057654/video/1",
+          "media_key": "7_2026478273556000770",
+          "start": 19,
+          "url": "https://t.co/SWkAy2rW72"
+        },
+        {
+          "display_url": "pic.x.com/SWkAy2rW72",
+          "end": 42,
+          "expanded_url": "https://x.com/Fayoubaike000/status/2026478483527057654/video/1",
+          "media_key": "7_2026478317717827585",
+          "start": 19,
+          "url": "https://t.co/SWkAy2rW72"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026533300983181371",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026478483527057654",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Fayoubaike000: https://t.co/SWkAy2rW72"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 25233,
+        "height": 1280,
+        "media_key": "7_2026478273556000770",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2026478273556000770/pu/img/gLmObs9tdQ1llpyM.jpg",
+        "public_metrics": {
+          "view_count": 108
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2026478273556000770/pu/vid/avc1/320x568/TPRp60RdX3tQp6mE.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2026478273556000770/pu/vid/avc1/480x852/HLg4CXcgE85dijPn.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2026478273556000770/pu/vid/avc1/720x1280/qG-ihy0bSQ4BFutQ.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2026478273556000770/pu/pl/bGFw1iMzt6EkZ2qo.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "duration_ms": 41445,
+        "height": 1280,
+        "media_key": "7_2026478317717827585",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2026478317717827585/pu/img/XGpfV8ZDTOs8KXtI.jpg",
+        "public_metrics": {
+          "view_count": 46
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2026478317717827585/pu/vid/avc1/320x568/ea4cSg7Pz_lXK7vM.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2026478317717827585/pu/vid/avc1/480x852/0H1Y34P-NYznxJ4v.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2026478317717827585/pu/vid/avc1/720x1280/YhRJM00rFGwGp0yE.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2026478317717827585/pu/pl/b1vP3eThcvXWvq-6.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2026478273556000770",
+            "7_2026478317717827585"
+          ],
+          "media_source_tweet_id": [
+            "2026478483527057654",
+            "2026478483527057654"
+          ]
+        },
+        "author_id": "1964331185590718464",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2026533300983181371",
+        "created_at": "2026-02-25T05:42:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-25T06:42:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026533300983181371"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "2008181604360003584",
+              "start": 3,
+              "username": "Fayoubaike000"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/SWkAy2rW72",
+              "end": 42,
+              "expanded_url": "https://x.com/Fayoubaike000/status/2026478483527057654/video/1",
+              "media_key": "7_2026478273556000770",
+              "start": 19,
+              "url": "https://t.co/SWkAy2rW72"
+            },
+            {
+              "display_url": "pic.x.com/SWkAy2rW72",
+              "end": 42,
+              "expanded_url": "https://x.com/Fayoubaike000/status/2026478483527057654/video/1",
+              "media_key": "7_2026478317717827585",
+              "start": 19,
+              "url": "https://t.co/SWkAy2rW72"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026533300983181371",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026478483527057654",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Fayoubaike000: https://t.co/SWkAy2rW72"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2026478273556000770",
+            "7_2026478317717827585"
+          ]
+        },
+        "author_id": "2008181604360003584",
+        "conversation_id": "2026478483527057654",
+        "created_at": "2026-02-25T02:04:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-25T03:04:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2026478483527057654"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/SWkAy2rW72",
+              "end": 23,
+              "expanded_url": "https://x.com/Fayoubaike000/status/2026478483527057654/video/1",
+              "media_key": "7_2026478273556000770",
+              "start": 0,
+              "url": "https://t.co/SWkAy2rW72"
+            },
+            {
+              "display_url": "pic.x.com/SWkAy2rW72",
+              "end": 23,
+              "expanded_url": "https://x.com/Fayoubaike000/status/2026478483527057654/video/1",
+              "media_key": "7_2026478317717827585",
+              "start": 0,
+              "url": "https://t.co/SWkAy2rW72"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026478483527057654",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 194,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/SWkAy2rW72"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-06T14:13:55.000Z",
+        "description": "OD丨自伤丨Vocaloid丨音游丨友跨顺女丨少关心我\n不喜欢的直接b 推特是垃圾桶口无遮拦 同类回fo",
+        "id": "1964331185590718464",
+        "location": "🚪50/88 同类熟推免",
+        "name": "箸",
+        "pinned_tweet_id": "2024039744276189189",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019848796881186816/pdjXkx-3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 624,
+          "following_count": 588,
+          "like_count": 9762,
+          "listed_count": 0,
+          "media_count": 162,
+          "tweet_count": 3031
+        },
+        "username": "breakcoreWTF",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-05T14:19:49.000Z",
+        "description": "官网：https://t.co/1RO0a8YP2H\n法友百科：https://t.co/mcutyAEVMJ\n法友俱乐部：https://t.co/pSWgN6XYgr\n人生就是法天 法地 法空气 神会平等救赎每一个磕药的法友",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "fayou.club",
+                "end": 26,
+                "expanded_url": "https://fayou.club/",
+                "start": 3,
+                "url": "https://t.co/1RO0a8YP2H"
+              },
+              {
+                "display_url": "t.me/fayoubaike",
+                "end": 55,
+                "expanded_url": "https://t.me/fayoubaike",
+                "start": 32,
+                "url": "https://t.co/mcutyAEVMJ"
+              },
+              {
+                "display_url": "t.me/fayoujulebu",
+                "end": 85,
+                "expanded_url": "https://t.me/fayoujulebu",
+                "start": 62,
+                "url": "https://t.co/pSWgN6XYgr"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "fayou.club",
+                "end": 23,
+                "expanded_url": "https://fayou.club/",
+                "start": 0,
+                "url": "https://t.co/1RO0a8YP2H"
+              }
+            ]
+          }
+        },
+        "id": "2008181604360003584",
+        "name": "法友百科",
+        "pinned_tweet_id": "2023738279305376090",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022318060871495680/kSSLcw97_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 738,
+          "following_count": 393,
+          "like_count": 169,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 280
+        },
+        "url": "https://t.co/1RO0a8YP2H",
+        "username": "Fayoubaike000",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,150 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1964331185590718464",
+    "conversation_id": "2016643359272816648",
+    "created_at": "2026-01-28T23:44:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-29T00:44:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2016658728502906976"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2016658728502906976",
+    "in_reply_to_user_id": "1964331185590718464",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2016643359272816648",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "傻逼吧一个小时了肚子有点疼有点饿然后他妈的泡面测试我打出这行字的时候都无语了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1964331185590718464",
+        "conversation_id": "2016643359272816648",
+        "created_at": "2026-01-28T23:44:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-29T00:44:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016658728502906976"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2016658728502906976",
+        "in_reply_to_user_id": "1964331185590718464",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016643359272816648",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "傻逼吧一个小时了肚子有点疼有点饿然后他妈的泡面测试我打出这行字的时候都无语了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1964331185590718464",
+        "conversation_id": "2016643359272816648",
+        "created_at": "2026-01-28T22:43:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-28T23:43:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016643359272816648"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 3,
+              "normalized_text": "普瑞巴林",
+              "probability": 0.3713,
+              "start": 0,
+              "type": "Person"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016643359272816648",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "普瑞巴林7500mg 一下子吃完新的一瓶"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-06T14:13:55.000Z",
+        "description": "中文/od/自伤/友跨/VOCALOID/音游 舞萌普通w53 纯种乐子人 性别不公开 推上啥都有 关心我的任何负能量相关只会给我带来困扰 其他交流欢迎 我不想在推特都做不到口无遮拦 互关欢迎 🚪40加微信纯绿可陪聊",
+        "id": "1964331185590718464",
+        "location": "Internet",
+        "name": "薄幸",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015679257582964737/T8W4H246_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 64,
+          "following_count": 352,
+          "like_count": 4374,
+          "listed_count": 0,
+          "media_count": 51,
+          "tweet_count": 1408
+        },
+        "username": "breakcoreWTF",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,551 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1964331185590718464",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "description": "BanG Dream!",
+          "id": "1004022548147798016",
+          "name": "BanG Dream!"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839544274442051584",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "BanG Dream!",
+          "id": "1004022548147798016",
+          "name": "BanG Dream!"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1074757527995277313",
+          "name": "Entertainment franchises"
+        }
+      }
+    ],
+    "conversation_id": "2031032048845226485",
+    "created_at": "2026-03-09T15:39:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-09T16:39:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2031032048845226485"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 125,
+          "start": 115,
+          "tag": "BanGDream"
+        },
+        {
+          "end": 131,
+          "start": 126,
+          "tag": "mygo"
+        },
+        {
+          "end": 139,
+          "start": 132,
+          "tag": "mujica"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2018784273994817536",
+          "start": 3,
+          "username": "Aeternutk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2031032048845226485",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2031031637207859417",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Aeternutk: 求票｜BanG Dream! 雞狗對邦 台北場\n\n誠心求一張雞狗對邦台北場門票，\n價格可議，合理即可\n優先前排/視野佳\n可面交/平台都可以\n保證自用絕不轉賣！🥺\n有釋出的麻煩直接私訊我，感謝大家🙏\n\n#BanGDream #mygo #mujica…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1236,
+        "media_key": "3_2031031630400466944",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HC-sgcmaMAAjyL4.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1964331185590718464",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "BanG Dream!",
+              "id": "1004022548147798016",
+              "name": "BanG Dream!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "BanG Dream!",
+              "id": "1004022548147798016",
+              "name": "BanG Dream!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          }
+        ],
+        "conversation_id": "2031032048845226485",
+        "created_at": "2026-03-09T15:39:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-09T16:39:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031032048845226485"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 125,
+              "start": 115,
+              "tag": "BanGDream"
+            },
+            {
+              "end": 131,
+              "start": 126,
+              "tag": "mygo"
+            },
+            {
+              "end": 139,
+              "start": 132,
+              "tag": "mujica"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2018784273994817536",
+              "start": 3,
+              "username": "Aeternutk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031032048845226485",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031031637207859417",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Aeternutk: 求票｜BanG Dream! 雞狗對邦 台北場\n\n誠心求一張雞狗對邦台北場門票，\n價格可議，合理即可\n優先前排/視野佳\n可面交/平台都可以\n保證自用絕不轉賣！🥺\n有釋出的麻煩直接私訊我，感謝大家🙏\n\n#BanGDream #mygo #mujica…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2031031630400466944"
+          ]
+        },
+        "author_id": "2018784273994817536",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "BanG Dream!",
+              "id": "1004022548147798016",
+              "name": "BanG Dream!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "BanG Dream!",
+              "id": "1004022548147798016",
+              "name": "BanG Dream!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          }
+        ],
+        "conversation_id": "2031031637207859417",
+        "created_at": "2026-03-09T15:37:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-09T16:37:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2031031637207859417"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 110,
+              "start": 100,
+              "tag": "BanGDream"
+            },
+            {
+              "end": 116,
+              "start": 111,
+              "tag": "mygo"
+            },
+            {
+              "end": 124,
+              "start": 117,
+              "tag": "mujica"
+            },
+            {
+              "end": 128,
+              "start": 125,
+              "tag": "台北"
+            },
+            {
+              "end": 133,
+              "start": 129,
+              "tag": "演唱會"
+            },
+            {
+              "end": 138,
+              "start": 135,
+              "tag": "求票"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/2j4qg8FXEg",
+              "end": 162,
+              "expanded_url": "https://x.com/Aeternutk/status/2031031637207859417/photo/1",
+              "media_key": "3_2031031630400466944",
+              "start": 139,
+              "url": "https://t.co/2j4qg8FXEg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031031637207859417",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "求票｜BanG Dream! 雞狗對邦 台北場\n\n誠心求一張雞狗對邦台北場門票，\n價格可議，合理即可\n優先前排/視野佳\n可面交/平台都可以\n保證自用絕不轉賣！🥺\n有釋出的麻煩直接私訊我，感謝大家🙏\n\n#BanGDream #mygo #mujica #台北 #演唱會  #求票 https://t.co/2j4qg8FXEg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-06T14:13:55.000Z",
+        "description": "OD丨自伤丨Vocaloid丨音游丨友跨顺女丨少关心我\n不喜欢的直接b 推特是垃圾桶口无遮拦 同类回fo",
+        "id": "1964331185590718464",
+        "location": "🚪50/88 同类熟推免",
+        "name": "箸",
+        "pinned_tweet_id": "2024039744276189189",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019848796881186816/pdjXkx-3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 709,
+          "following_count": 605,
+          "like_count": 12836,
+          "listed_count": 0,
+          "media_count": 175,
+          "tweet_count": 3664
+        },
+        "username": "breakcoreWTF",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-03T20:31:44.000Z",
+        "description": "",
+        "id": "2018784273994817536",
+        "name": "Aeternutk",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018784558838398976/I83F9gwR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 19,
+          "like_count": 110,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 43
+        },
+        "username": "Aeternutk",
+        "verified": false
+      }
+    ]
+  }
+}

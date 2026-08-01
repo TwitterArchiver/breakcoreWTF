@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1964331185590718464",
+    "conversation_id": "2061671121762832823",
+    "created_at": "2026-06-02T04:47:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-02T05:47:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061671121762832823"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1955429314486472706",
+          "start": 3,
+          "username": "wiicckedg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061671121762832823",
+    "lang": "es",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 10548
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061336241405141136",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @wiicckedg: No usen IA para escribir, usen sus brotes psicóticos como los verdaderos poetas."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1964331185590718464",
+        "conversation_id": "2061671121762832823",
+        "created_at": "2026-06-02T04:47:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T05:47:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061671121762832823"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1955429314486472706",
+              "start": 3,
+              "username": "wiicckedg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061671121762832823",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 10548
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061336241405141136",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @wiicckedg: No usen IA para escribir, usen sus brotes psicóticos como los verdaderos poetas."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1955429314486472706",
+        "conversation_id": "2061336241405141136",
+        "created_at": "2026-06-01T06:37:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T07:37:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061336241405141136"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2061336241405141136",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1354,
+          "impression_count": 470442,
+          "like_count": 49444,
+          "quote_count": 395,
+          "reply_count": 70,
+          "retweet_count": 10548
+        },
+        "reply_settings": "everyone",
+        "text": "No usen IA para escribir, usen sus brotes psicóticos como los verdaderos poetas."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-06T14:13:55.000Z",
+        "description": "OD丨自伤丨Vocaloid丨音游丨友跨顺女\n不喜欢的直接b 同类回fo 取关请双取",
+        "id": "1964331185590718464",
+        "location": "颅内",
+        "name": "箸",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061439509125074944/Hf-Lim6c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 657,
+          "following_count": 599,
+          "like_count": 13985,
+          "listed_count": 0,
+          "media_count": 202,
+          "tweet_count": 4171
+        },
+        "username": "breakcoreWTF",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-13T00:41:05.000Z",
+        "description": "⠀⠀⠀ Mi sueño es pasar desapercibido.",
+        "id": "1955429314486472706",
+        "location": "𝟦 𝟦 𝟦",
+        "name": "𝖢𝗈𝗋𝖻𝗂𝗇;",
+        "pinned_tweet_id": "1999923396940087559",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059163952412557312/Lv_6LwRK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 374,
+          "following_count": 205,
+          "like_count": 1426,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 535
+        },
+        "username": "wiicckedg",
+        "verified": false
+      }
+    ]
+  }
+}

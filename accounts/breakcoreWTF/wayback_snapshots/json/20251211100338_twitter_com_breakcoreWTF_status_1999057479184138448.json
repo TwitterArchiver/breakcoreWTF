@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1964331185590718464",
+    "conversation_id": "1998829345587294417",
+    "created_at": "2025-12-11T10:03:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-11T11:03:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1999057479184138448"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1671760170739793921",
+          "start": 0,
+          "username": "WC_wcng"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1999057479184138448",
+    "in_reply_to_user_id": "1671760170739793921",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1998898674500587866",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@WC_wcng 爸爸我真错了好吧？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1964331185590718464",
+        "conversation_id": "1998829345587294417",
+        "created_at": "2025-12-11T10:03:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-11T11:03:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999057479184138448"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1671760170739793921",
+              "start": 0,
+              "username": "WC_wcng"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999057479184138448",
+        "in_reply_to_user_id": "1671760170739793921",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1998898674500587866",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@WC_wcng 爸爸我真错了好吧？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1671760170739793921",
+        "conversation_id": "1998829345587294417",
+        "created_at": "2025-12-10T23:32:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-11T00:32:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1998898674500587866"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1964331185590718464",
+              "start": 0,
+              "username": "breakcoreWTF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998898674500587866",
+        "in_reply_to_user_id": "1964331185590718464",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1998829345587294417",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@breakcoreWTF 你妈"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-06T14:13:55.000Z",
+        "description": "中文/od/VOCALOID/音游 纯种乐子人性别不明推上啥都有 私信互关欢迎 我有对象 我很喜欢他",
+        "id": "1964331185590718464",
+        "location": "翼天国",
+        "name": "买右美沙芬的私信我",
+        "pinned_tweet_id": "1966517785367871718",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986080929002164224/0ugqBVVT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 43,
+          "following_count": 263,
+          "like_count": 2464,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 623
+        },
+        "username": "breakcoreWTF",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-22T06:01:09.000Z",
+        "description": "我是男的，目前还是",
+        "id": "1671760170739793921",
+        "location": "Taiwan",
+        "name": "渦蟲bot🇹🇼🏳️‍⚧",
+        "pinned_tweet_id": "1902382834444333350",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1671768709877096449/A3xoDzcx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 178,
+          "like_count": 451,
+          "listed_count": 0,
+          "media_count": 38,
+          "tweet_count": 270
+        },
+        "username": "WC_wcng",
+        "verified": false
+      }
+    ]
+  }
+}

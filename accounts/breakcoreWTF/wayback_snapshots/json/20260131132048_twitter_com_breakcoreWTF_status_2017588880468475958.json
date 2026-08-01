@@ -1,0 +1,310 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2017550500439486464"
+      ],
+      "media_source_tweet_id": [
+        "2017550564889162175"
+      ]
+    },
+    "author_id": "1964331185590718464",
+    "conversation_id": "2017588880468475958",
+    "created_at": "2026-01-31T13:20:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-31T14:20:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2017588880468475958"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 27,
+          "start": 23,
+          "tag": "门槛妹"
+        },
+        {
+          "end": 31,
+          "start": 28,
+          "tag": "女高"
+        },
+        {
+          "end": 35,
+          "start": 32,
+          "tag": "舌钉"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1944273468771762176",
+          "start": 3,
+          "username": "tusizi0214"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/AonAOZCQAi",
+          "end": 59,
+          "expanded_url": "https://x.com/tusizi0214/status/2017550564889162175/video/1",
+          "media_key": "13_2017550500439486464",
+          "start": 36,
+          "url": "https://t.co/AonAOZCQAi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2017588880468475958",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2017550564889162175",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @tusizi0214: 不要以貌取人 #门槛妹 #女高 #舌钉 https://t.co/AonAOZCQAi"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 8733,
+        "height": 1280,
+        "media_key": "13_2017550500439486464",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2017550500439486464/img/B6u28bwchyk0qnn9.jpg",
+        "public_metrics": {
+          "view_count": 11
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2017550500439486464/vid/avc1/320x568/_FUWOyv2JynMRK14.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2017550500439486464/vid/avc1/480x852/oLUhc4IqbmylN4d-.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2017550500439486464/vid/avc1/720x1280/fi2z9jVLs3_NI00E.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2017550500439486464/pl/VeDjF7K2gKNTsbxa.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2017550500439486464"
+          ],
+          "media_source_tweet_id": [
+            "2017550564889162175"
+          ]
+        },
+        "author_id": "1964331185590718464",
+        "conversation_id": "2017588880468475958",
+        "created_at": "2026-01-31T13:20:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-31T14:20:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017588880468475958"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 27,
+              "start": 23,
+              "tag": "门槛妹"
+            },
+            {
+              "end": 31,
+              "start": 28,
+              "tag": "女高"
+            },
+            {
+              "end": 35,
+              "start": 32,
+              "tag": "舌钉"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1944273468771762176",
+              "start": 3,
+              "username": "tusizi0214"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/AonAOZCQAi",
+              "end": 59,
+              "expanded_url": "https://x.com/tusizi0214/status/2017550564889162175/video/1",
+              "media_key": "13_2017550500439486464",
+              "start": 36,
+              "url": "https://t.co/AonAOZCQAi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017588880468475958",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017550564889162175",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @tusizi0214: 不要以貌取人 #门槛妹 #女高 #舌钉 https://t.co/AonAOZCQAi"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2017550500439486464"
+          ]
+        },
+        "author_id": "1944273468771762176",
+        "conversation_id": "2017550564889162175",
+        "created_at": "2026-01-31T10:48:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-31T11:48:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2017550564889162175"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 11,
+              "start": 7,
+              "tag": "门槛妹"
+            },
+            {
+              "end": 15,
+              "start": 12,
+              "tag": "女高"
+            },
+            {
+              "end": 19,
+              "start": 16,
+              "tag": "舌钉"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/AonAOZCQAi",
+              "end": 43,
+              "expanded_url": "https://x.com/tusizi0214/status/2017550564889162175/video/1",
+              "media_key": "13_2017550500439486464",
+              "start": 20,
+              "url": "https://t.co/AonAOZCQAi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017550564889162175",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 36,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "不要以貌取人 #门槛妹 #女高 #舌钉 https://t.co/AonAOZCQAi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-06T14:13:55.000Z",
+        "description": "中文/od/自伤/友跨顺女/VOCALOID/音游 舞萌普通w53 纯种乐子人 推上啥都有 负能量相关最好不要关心 其他交流欢迎 我不想在推特都做不到口无遮拦 互fo欢迎 🚪40加微信纯绿可配聊 熟悉的推友可以免门费",
+        "id": "1964331185590718464",
+        "location": "Internet",
+        "name": "薄幸",
+        "pinned_tweet_id": "2016685165557534981",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015679257582964737/T8W4H246_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 83,
+          "following_count": 349,
+          "like_count": 5283,
+          "listed_count": 0,
+          "media_count": 71,
+          "tweet_count": 1668
+        },
+        "username": "breakcoreWTF",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-13T05:51:41.000Z",
+        "description": "不要讨厌我。🥺我喜欢和女孩子们玩 请多多的爱我吧 我喜欢你们喔 门槛加微21.11 我脾气很好互fo可以私信 我是直女。然后我只是想圈一点门槛费。不要攻击我",
+        "id": "1944273468771762176",
+        "name": "小菟小菟轻轻跳",
+        "pinned_tweet_id": "1944278100935946693",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944273805762830336/ZEii4-W6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 128,
+          "following_count": 23,
+          "like_count": 80,
+          "listed_count": 0,
+          "media_count": 51,
+          "tweet_count": 118
+        },
+        "username": "tusizi0214",
+        "verified": false
+      }
+    ]
+  }
+}

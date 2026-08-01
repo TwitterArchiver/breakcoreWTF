@@ -1,0 +1,288 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2002603877678579712"
+      ],
+      "media_source_tweet_id": [
+        "2003042833683677389"
+      ]
+    },
+    "author_id": "1964331185590718464",
+    "conversation_id": "2003741505748631921",
+    "created_at": "2025-12-24T08:16:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-24T09:16:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2003741505748631921"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 20,
+          "normalized_text": "ゆづきず",
+          "probability": 0.5785,
+          "start": 17,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1648214579166724096",
+          "start": 3,
+          "username": "regress2023"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/wZEwsIGgkP",
+          "end": 70,
+          "expanded_url": "https://x.com/regress2023/status/2003042833683677389/photo/1",
+          "media_key": "3_2002603877678579712",
+          "start": 47,
+          "url": "https://t.co/wZEwsIGgkP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2003741505748631921",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 264
+    },
+    "referenced_tweets": [
+      {
+        "id": "2003042833683677389",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @regress2023: ゆづきず🌙⭐️誕生日！！\nおめでとー🎉🎉🎉\nｲｪｲｲｪｲ🎂 https://t.co/wZEwsIGgkP"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_2002603877678579712",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8qtndLaAAARAA4.jpg",
+        "width": 750
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2002603877678579712"
+          ],
+          "media_source_tweet_id": [
+            "2003042833683677389"
+          ]
+        },
+        "author_id": "1964331185590718464",
+        "conversation_id": "2003741505748631921",
+        "created_at": "2025-12-24T08:16:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-24T09:16:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2003741505748631921"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 20,
+              "normalized_text": "ゆづきず",
+              "probability": 0.5785,
+              "start": 17,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1648214579166724096",
+              "start": 3,
+              "username": "regress2023"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/wZEwsIGgkP",
+              "end": 70,
+              "expanded_url": "https://x.com/regress2023/status/2003042833683677389/photo/1",
+              "media_key": "3_2002603877678579712",
+              "start": 47,
+              "url": "https://t.co/wZEwsIGgkP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003741505748631921",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 264
+        },
+        "referenced_tweets": [
+          {
+            "id": "2003042833683677389",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @regress2023: ゆづきず🌙⭐️誕生日！！\nおめでとー🎉🎉🎉\nｲｪｲｲｪｲ🎂 https://t.co/wZEwsIGgkP"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2002603877678579712"
+          ]
+        },
+        "author_id": "1648214579166724096",
+        "conversation_id": "2003042833683677389",
+        "created_at": "2025-12-22T10:00:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-22T11:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2003042833683677389"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 3,
+              "normalized_text": "ゆづきず",
+              "probability": 0.6877,
+              "start": 0,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/wZEwsIGgkP",
+              "end": 53,
+              "expanded_url": "https://x.com/regress2023/status/2003042833683677389/photo/1",
+              "media_key": "3_2002603877678579712",
+              "start": 30,
+              "url": "https://t.co/wZEwsIGgkP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003042833683677389",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 61,
+          "impression_count": 10009,
+          "like_count": 1059,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 264
+        },
+        "reply_settings": "everyone",
+        "text": "ゆづきず🌙⭐️誕生日！！\nおめでとー🎉🎉🎉\nｲｪｲｲｪｲ🎂 https://t.co/wZEwsIGgkP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-06T14:13:55.000Z",
+        "description": "中文/od/VOCALOID/音游 纯种乐子人性别不明推上啥都有 私信互关欢迎 我有对象 我很喜欢他",
+        "id": "1964331185590718464",
+        "location": "翼天国",
+        "name": "━Σ(ﾟДﾟ|||)━",
+        "pinned_tweet_id": "1966517785367871718",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001729011576426496/HumNDWc3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 48,
+          "following_count": 286,
+          "like_count": 2986,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 832
+        },
+        "username": "breakcoreWTF",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-18T06:39:19.000Z",
+        "description": "★イラストレーター | illustrator \n★主にボイロ/ボカロ　|  Voiceroid/Vocaloid\n★2026年5月以降納期のイラスト仕事募集中 (English OK) \n✉️▶️puella_phantasia@outlook.jp \nhttps://t.co/nJfX7JHKW5",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/2977",
+                "end": 151,
+                "expanded_url": "https://www.pixiv.net/users/2977",
+                "start": 128,
+                "url": "https://t.co/nJfX7JHKW5"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/regress",
+                "end": 23,
+                "expanded_url": "https://lit.link/regress",
+                "start": 0,
+                "url": "https://t.co/EHdoKTMmjF"
+              }
+            ]
+          }
+        },
+        "id": "1648214579166724096",
+        "location": "週6くらいで過去絵再掲してます",
+        "name": "りぐれす",
+        "pinned_tweet_id": "1997656395726942503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1994592034045530113/n1xTDN3h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2375,
+          "following_count": 116,
+          "like_count": 10461,
+          "listed_count": 28,
+          "media_count": 500,
+          "tweet_count": 2276
+        },
+        "url": "https://t.co/EHdoKTMmjF",
+        "username": "regress2023",
+        "verified": true
+      }
+    ]
+  }
+}

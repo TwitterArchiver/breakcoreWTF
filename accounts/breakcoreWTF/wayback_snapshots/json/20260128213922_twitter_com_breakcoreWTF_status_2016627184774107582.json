@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2016551975178113024"
+      ],
+      "media_source_tweet_id": [
+        "2016552072464957767"
+      ]
+    },
+    "author_id": "1964331185590718464",
+    "conversation_id": "2016627184774107582",
+    "created_at": "2026-01-28T21:39:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-28T22:39:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2016627184774107582"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1934972425877483520",
+          "start": 3,
+          "username": "_a_13_z"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/80jUNy7FyQ",
+          "end": 42,
+          "expanded_url": "https://x.com/_a_13_z/status/2016552072464957767/video/1",
+          "media_key": "13_2016551975178113024",
+          "start": 19,
+          "url": "https://t.co/80jUNy7FyQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2016627184774107582",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 26
+    },
+    "referenced_tweets": [
+      {
+        "id": "2016552072464957767",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @_a_13_z: 僕の人質さ https://t.co/80jUNy7FyQ"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 19552,
+        "height": 1024,
+        "media_key": "13_2016551975178113024",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2016551975178113024/img/9L0cmcvDKpiLJM0T.jpg",
+        "public_metrics": {
+          "view_count": 7944
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2016551975178113024/vid/avc1/320x568/NBh_5qHdlheS6QN7.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2016551975178113024/vid/avc1/480x852/VDxmVQAYEbMQjboL.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2016551975178113024/vid/avc1/576x1024/lTfUiC_No5bsXrfm.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2016551975178113024/pl/TjTyCJzkkjDYj9BL.m3u8?v=cfc"
+          }
+        ],
+        "width": 576
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2016551975178113024"
+          ],
+          "media_source_tweet_id": [
+            "2016552072464957767"
+          ]
+        },
+        "author_id": "1964331185590718464",
+        "conversation_id": "2016627184774107582",
+        "created_at": "2026-01-28T21:39:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-28T22:39:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016627184774107582"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1934972425877483520",
+              "start": 3,
+              "username": "_a_13_z"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/80jUNy7FyQ",
+              "end": 42,
+              "expanded_url": "https://x.com/_a_13_z/status/2016552072464957767/video/1",
+              "media_key": "13_2016551975178113024",
+              "start": 19,
+              "url": "https://t.co/80jUNy7FyQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016627184774107582",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 26
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016552072464957767",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @_a_13_z: 僕の人質さ https://t.co/80jUNy7FyQ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2016551975178113024"
+          ]
+        },
+        "author_id": "1934972425877483520",
+        "conversation_id": "2016552072464957767",
+        "created_at": "2026-01-28T16:40:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-28T17:40:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2016552072464957767"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/80jUNy7FyQ",
+              "end": 29,
+              "expanded_url": "https://x.com/_a_13_z/status/2016552072464957767/video/1",
+              "media_key": "13_2016551975178113024",
+              "start": 6,
+              "url": "https://t.co/80jUNy7FyQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016552072464957767",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 14,
+          "impression_count": 14531,
+          "like_count": 428,
+          "quote_count": 2,
+          "reply_count": 8,
+          "retweet_count": 26
+        },
+        "reply_settings": "everyone",
+        "text": "僕の人質さ https://t.co/80jUNy7FyQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-06T14:13:55.000Z",
+        "description": "中文/od/自伤/VOCALOID/音游 舞萌普通w53 纯种乐子人 友跨性别不公开 推上啥都有 无意义废话与发泄或者你讨厌的东西无需理会 我不想在推特都做不到口无遮拦 互关欢迎 🚪40加微信纯绿可陪聊",
+        "id": "1964331185590718464",
+        "location": "Internet",
+        "name": "薄幸",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015679257582964737/T8W4H246_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 63,
+          "following_count": 352,
+          "like_count": 4276,
+          "listed_count": 0,
+          "media_count": 49,
+          "tweet_count": 1368
+        },
+        "username": "breakcoreWTF",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-17T13:52:57.000Z",
+        "description": "11世代￤🗝@_a_13_z_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 6,
+                "username": "_a_13_z_"
+              }
+            ]
+          }
+        },
+        "id": "1934972425877483520",
+        "name": "キャンマジ5番",
+        "pinned_tweet_id": "1971851801873056234",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1936314776063557636/1SQGI11s_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40697,
+          "following_count": 56,
+          "like_count": 344,
+          "listed_count": 17,
+          "media_count": 157,
+          "tweet_count": 975
+        },
+        "username": "_a_13_z",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2019968133520584708"
+      ],
+      "media_source_tweet_id": [
+        "2019968135789764986"
+      ]
+    },
+    "author_id": "1964331185590718464",
+    "conversation_id": "2019968847600849290",
+    "created_at": "2026-02-07T02:57:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-07T03:57:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2019968847600849290"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "3191059784",
+          "start": 3,
+          "username": "USAO926"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/WR3bE7xsi8",
+          "end": 41,
+          "expanded_url": "https://x.com/USAO926/status/2019968135789764986/photo/1",
+          "media_key": "3_2019968133520584708",
+          "start": 18,
+          "url": "https://t.co/WR3bE7xsi8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2019968847600849290",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 8
+    },
+    "referenced_tweets": [
+      {
+        "id": "2019968135789764986",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @USAO926: 銀盾きた https://t.co/WR3bE7xsi8"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2019968133520584708",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAheULAacAQ2tgR.jpg",
+        "width": 791
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2019968133520584708"
+          ],
+          "media_source_tweet_id": [
+            "2019968135789764986"
+          ]
+        },
+        "author_id": "1964331185590718464",
+        "conversation_id": "2019968847600849290",
+        "created_at": "2026-02-07T02:57:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-07T03:57:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2019968847600849290"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "3191059784",
+              "start": 3,
+              "username": "USAO926"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/WR3bE7xsi8",
+              "end": 41,
+              "expanded_url": "https://x.com/USAO926/status/2019968135789764986/photo/1",
+              "media_key": "3_2019968133520584708",
+              "start": 18,
+              "url": "https://t.co/WR3bE7xsi8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019968847600849290",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 8
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019968135789764986",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @USAO926: 銀盾きた https://t.co/WR3bE7xsi8"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2019968133520584708"
+          ]
+        },
+        "author_id": "3191059784",
+        "conversation_id": "2019968135789764986",
+        "created_at": "2026-02-07T02:55:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-07T03:55:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2019968135789764986"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/WR3bE7xsi8",
+              "end": 28,
+              "expanded_url": "https://x.com/USAO926/status/2019968135789764986/photo/1",
+              "media_key": "3_2019968133520584708",
+              "start": 5,
+              "url": "https://t.co/WR3bE7xsi8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019968135789764986",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 284,
+          "like_count": 49,
+          "quote_count": 2,
+          "reply_count": 2,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "銀盾きた https://t.co/WR3bE7xsi8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-06T14:13:55.000Z",
+        "description": "中文/od/自伤/友跨顺女/VOCALOID/音游 舞萌普通w53 纯种乐子人 推上啥都有 看到你不喜欢的东西请无视 对我的负能量关心不要太频繁 其他交流欢迎 我不想在推特都做不到口无遮拦 同类回fo 🚪40加微信纯绿可配聊 熟悉的推友可以免门费",
+        "id": "1964331185590718464",
+        "location": "Internet",
+        "name": "箸",
+        "pinned_tweet_id": "2016685165557534981",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019848796881186816/pdjXkx-3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 445,
+          "following_count": 524,
+          "like_count": 6678,
+          "listed_count": 0,
+          "media_count": 113,
+          "tweet_count": 2108
+        },
+        "username": "breakcoreWTF",
+        "verified": false
+      },
+      {
+        "created_at": "2015-05-10T18:52:05.000Z",
+        "description": "音楽を作ります。\nhttps://t.co/bFLZd613fo",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "youtube.com/USAO926",
+                "end": 32,
+                "expanded_url": "http://youtube.com/USAO926",
+                "start": 9,
+                "url": "https://t.co/bFLZd613fo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/usao926",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/usao926",
+                "start": 0,
+                "url": "https://t.co/FPOdxL5zBS"
+              }
+            ]
+          }
+        },
+        "id": "3191059784",
+        "location": "横浜の辺り",
+        "name": "USAO@山奥",
+        "pinned_tweet_id": "2004853716277690768",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1329004510161694722/DkD9DvBN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 144052,
+          "following_count": 685,
+          "like_count": 32053,
+          "listed_count": 650,
+          "media_count": 5834,
+          "tweet_count": 41802
+        },
+        "url": "https://t.co/FPOdxL5zBS",
+        "username": "USAO926",
+        "verified": true
+      }
+    ]
+  }
+}

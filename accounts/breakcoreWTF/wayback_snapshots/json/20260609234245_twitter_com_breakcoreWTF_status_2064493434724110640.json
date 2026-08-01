@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1964331185590718464",
+    "conversation_id": "2064493434724110640",
+    "created_at": "2026-06-09T23:42:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T00:42:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064493434724110640"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1976220145157849088",
+          "start": 3,
+          "username": "Chatpatibaatein"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064493434724110640",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1249
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064260800525795773",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Chatpatibaatein: I wish for my death atleast 5 times a day"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1964331185590718464",
+        "conversation_id": "2064493434724110640",
+        "created_at": "2026-06-09T23:42:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T00:42:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064493434724110640"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1976220145157849088",
+              "start": 3,
+              "username": "Chatpatibaatein"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064493434724110640",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1249
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064260800525795773",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Chatpatibaatein: I wish for my death atleast 5 times a day"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976220145157849088",
+        "conversation_id": "2064260800525795773",
+        "created_at": "2026-06-09T08:18:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T09:18:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064260800525795773"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2064260800525795773",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 125,
+          "impression_count": 53576,
+          "like_count": 4230,
+          "quote_count": 27,
+          "reply_count": 11,
+          "retweet_count": 1249
+        },
+        "reply_settings": "everyone",
+        "text": "I wish for my death atleast 5 times a day"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-06T14:13:55.000Z",
+        "description": "OD丨自伤丨Vocaloid丨友跨顺女\n喜欢爬宠 不卖药 非必要不回私信\n不喜欢的直接b 同类查成分回fo 取关请双取",
+        "id": "1964331185590718464",
+        "location": "颅内",
+        "name": "箸",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061439509125074944/Hf-Lim6c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 763,
+          "following_count": 665,
+          "like_count": 16378,
+          "listed_count": 0,
+          "media_count": 234,
+          "tweet_count": 4670
+        },
+        "username": "breakcoreWTF",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-09T09:36:22.000Z",
+        "description": "try not to get ragebaited",
+        "id": "1976220145157849088",
+        "name": "Prerna",
+        "pinned_tweet_id": "2064399513406874027",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058934611519119360/2LAY4_DU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 604,
+          "following_count": 437,
+          "like_count": 4839,
+          "listed_count": 2,
+          "media_count": 106,
+          "tweet_count": 1756
+        },
+        "username": "Chatpatibaatein",
+        "verified": false
+      }
+    ]
+  }
+}

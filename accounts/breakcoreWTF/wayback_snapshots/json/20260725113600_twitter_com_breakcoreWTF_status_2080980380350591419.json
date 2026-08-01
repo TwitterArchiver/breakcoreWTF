@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1964331185590718464",
+    "conversation_id": "2080973238864424999",
+    "created_at": "2026-07-25T11:36:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-25T12:36:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080980380350591419"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1897913540432068608",
+          "start": 0,
+          "username": "1lc5si9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080980380350591419",
+    "in_reply_to_user_id": "1897913540432068608",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080973238864424999",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@1lc5si9 妈妈"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 87970,
+        "height": 1920,
+        "media_key": "13_2080973103736541185",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2080973103736541185/img/3fHUBQpFsm9NFUAR.jpg",
+        "public_metrics": {
+          "view_count": 4
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2080973103736541185/vid/avc1/480x852/2pyeBrS5rmbe3lQq.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2080973103736541185/vid/avc1/1080x1920/1IqLk7MCvT9namr4.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2080973103736541185/pl/ZuoEu-4JpYQLZO7w.m3u8"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2080973103736541185/vid/avc1/720x1280/-Wmsj9Z4fvwc-YH8.mp4"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2080973103736541185/vid/avc1/320x568/-AhPEUTFy9S_ONJB.mp4"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1964331185590718464",
+        "conversation_id": "2080973238864424999",
+        "created_at": "2026-07-25T11:36:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T12:36:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080980380350591419"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1897913540432068608",
+              "start": 0,
+              "username": "1lc5si9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080980380350591419",
+        "in_reply_to_user_id": "1897913540432068608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080973238864424999",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@1lc5si9 妈妈"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2080973103736541185"
+          ]
+        },
+        "author_id": "1897913540432068608",
+        "conversation_id": "2080973238864424999",
+        "created_at": "2026-07-25T11:07:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T12:07:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080973238864424999"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tYfo6fJ9hM",
+              "end": 28,
+              "expanded_url": "https://x.com/1lc5si9/status/2080973238864424999/video/1",
+              "media_key": "13_2080973103736541185",
+              "start": 5,
+              "url": "https://t.co/tYfo6fJ9hM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080973238864424999",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "other",
+        "text": "展示将牌 https://t.co/tYfo6fJ9hM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-06T14:13:55.000Z",
+        "description": "叫我筷子就可以了(:3っ )っ\nOD丨🔪丨Vocaloid丨音游丨顺女 LGBTQ+friendly\n不卖药 只看互关私信 我很穷欢迎投喂\n不喜欢的直接b 查成分同类回fo 取关请双取",
+        "id": "1964331185590718464",
+        "location": "颅内",
+        "name": "箸",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074711282427842560/EOM9Puhb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1172,
+          "following_count": 810,
+          "like_count": 34684,
+          "listed_count": 0,
+          "media_count": 346,
+          "tweet_count": 6246
+        },
+        "url": "",
+        "username": "breakcoreWTF",
+        "verified": true
+      },
+      {
+        "created_at": "2025-03-07T07:33:53.000Z",
+        "description": "東京┊maimai┊od┊",
+        "id": "1897913540432068608",
+        "name": "，",
+        "pinned_tweet_id": "2077570238049354210",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071619605592981504/bF-BAaPb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 105,
+          "following_count": 253,
+          "like_count": 10207,
+          "listed_count": 0,
+          "media_count": 1665,
+          "tweet_count": 8541
+        },
+        "url": "",
+        "username": "1lc5si9",
+        "verified": true
+      }
+    ]
+  }
+}

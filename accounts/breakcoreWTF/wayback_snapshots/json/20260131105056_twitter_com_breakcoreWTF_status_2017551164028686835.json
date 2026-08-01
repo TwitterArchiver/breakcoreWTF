@@ -1,0 +1,302 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2017401222408638471"
+      ],
+      "media_source_tweet_id": [
+        "2017401518186762306"
+      ]
+    },
+    "author_id": "1964331185590718464",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2017551164028686835",
+    "created_at": "2026-01-31T10:50:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-31T11:50:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2017551164028686835"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1686426903597772800",
+          "start": 3,
+          "username": "oouguai"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/F2VIOz5ygR",
+          "end": 42,
+          "expanded_url": "https://x.com/oouguai/status/2017401518186762306/video/1",
+          "media_key": "13_2017401222408638471",
+          "start": 19,
+          "url": "https://t.co/F2VIOz5ygR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2017551164028686835",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 19
+    },
+    "referenced_tweets": [
+      {
+        "id": "2017401518186762306",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @oouguai: うみあがり https://t.co/F2VIOz5ygR"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 75283,
+        "height": 1080,
+        "media_key": "13_2017401222408638471",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2017401222408638471/img/JXSlRcklyMhz1TR7.jpg",
+        "public_metrics": {
+          "view_count": 578
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2017401222408638471/vid/avc1/480x270/MgwHBkc71zVfqQ-y.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2017401222408638471/vid/avc1/640x360/m4lrUYP-rZEbSNUh.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2017401222408638471/vid/avc1/1280x720/FuUEgFu9e21tfFST.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2017401222408638471/pl/fblemtX0op-efJPz.m3u8?tag=14&v=cfc"
+          }
+        ],
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2017401222408638471"
+          ],
+          "media_source_tweet_id": [
+            "2017401518186762306"
+          ]
+        },
+        "author_id": "1964331185590718464",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2017551164028686835",
+        "created_at": "2026-01-31T10:50:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-31T11:50:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017551164028686835"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1686426903597772800",
+              "start": 3,
+              "username": "oouguai"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/F2VIOz5ygR",
+              "end": 42,
+              "expanded_url": "https://x.com/oouguai/status/2017401518186762306/video/1",
+              "media_key": "13_2017401222408638471",
+              "start": 19,
+              "url": "https://t.co/F2VIOz5ygR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017551164028686835",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 19
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017401518186762306",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @oouguai: うみあがり https://t.co/F2VIOz5ygR"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2017401222408638471"
+          ]
+        },
+        "author_id": "1686426903597772800",
+        "conversation_id": "2017401518186762306",
+        "created_at": "2026-01-31T00:56:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-31T01:56:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2017401518186762306"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/F2VIOz5ygR",
+              "end": 29,
+              "expanded_url": "https://x.com/oouguai/status/2017401518186762306/video/1",
+              "media_key": "13_2017401222408638471",
+              "start": 6,
+              "url": "https://t.co/F2VIOz5ygR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017401518186762306",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 17,
+          "impression_count": 1555,
+          "like_count": 88,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 19
+        },
+        "reply_settings": "everyone",
+        "text": "うみあがり https://t.co/F2VIOz5ygR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-06T14:13:55.000Z",
+        "description": "中文/od/自伤/友跨顺女/VOCALOID/音游 舞萌普通w53 纯种乐子人 推上啥都有 负能量相关最好不要关心 其他交流欢迎 我不想在推特都做不到口无遮拦 互fo欢迎 🚪40加微信纯绿可配聊 熟悉的推友可以免门费",
+        "id": "1964331185590718464",
+        "location": "Internet",
+        "name": "薄幸",
+        "pinned_tweet_id": "2016685165557534981",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015679257582964737/T8W4H246_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 82,
+          "following_count": 349,
+          "like_count": 5251,
+          "listed_count": 0,
+          "media_count": 71,
+          "tweet_count": 1662
+        },
+        "username": "breakcoreWTF",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-01T17:21:27.000Z",
+        "description": "(*´╰╯`๓) ♪!!",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@Oguaioou",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@Oguaioou",
+                "start": 0,
+                "url": "https://t.co/okW4oysdHb"
+              }
+            ]
+          }
+        },
+        "id": "1686426903597772800",
+        "location": "🥑   Mail：19545677@qq.com",
+        "name": "Oguai",
+        "pinned_tweet_id": "1962530680132554783",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998845931891171328/NfN93vws_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 646,
+          "following_count": 149,
+          "like_count": 1238,
+          "listed_count": 1,
+          "media_count": 192,
+          "tweet_count": 269
+        },
+        "url": "https://t.co/okW4oysdHb",
+        "username": "oouguai",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,530 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2035600985947795456"
+      ],
+      "media_source_tweet_id": [
+        "2035601138624712806"
+      ]
+    },
+    "author_id": "1964331185590718464",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Food",
+          "id": "825047692124442624",
+          "name": "Food"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1395124735625764864",
+          "name": "Bento"
+        }
+      },
+      {
+        "domain": {
+          "description": "Topics about food, like Donuts or Brunch",
+          "id": "152",
+          "name": "Food"
+        },
+        "entity": {
+          "description": "Food",
+          "id": "825047692124442624",
+          "name": "Food"
+        }
+      },
+      {
+        "domain": {
+          "description": "Topics about food, like Donuts or Brunch",
+          "id": "152",
+          "name": "Food"
+        },
+        "entity": {
+          "id": "1395124735625764864",
+          "name": "Bento"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Food",
+          "id": "825047692124442624",
+          "name": "Food"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Cooking Actions",
+          "id": "846770344681627649",
+          "name": "Cooking"
+        }
+      }
+    ],
+    "conversation_id": "2064687250638872824",
+    "created_at": "2026-06-10T12:32:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T13:32:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064687250638872824"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1773614135575793664",
+          "start": 3,
+          "username": "umigame_kouen"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/pgzjCtMkIa",
+          "end": 56,
+          "expanded_url": "https://x.com/umigame_kouen/status/2035601138624712806/video/1",
+          "media_key": "13_2035600985947795456",
+          "start": 33,
+          "url": "https://t.co/pgzjCtMkIa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064687250638872824",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 184
+    },
+    "referenced_tweets": [
+      {
+        "id": "2035601138624712806",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @umigame_kouen: お弁当を作るケヅメリクガメ https://t.co/pgzjCtMkIa"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 48948,
+        "height": 1080,
+        "media_key": "13_2035600985947795456",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2035600985947795456/img/xmcobxel-i2JtMs0.jpg",
+        "public_metrics": {
+          "view_count": 19930
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2035600985947795456/vid/avc1/1920x1080/NkoGZIhDWGImAFVi.mp4"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2035600985947795456/vid/avc1/480x270/KBBtbvcdd7VdxkUz.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2035600985947795456/vid/avc1/1280x720/u4RvnxeECExYF0cB.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2035600985947795456/vid/avc1/640x360/Z5dE7bcHDdA4PQIN.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2035600985947795456/pl/DRGHn7_jRNAVNoVu.m3u8?v=cfc"
+          }
+        ],
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2035600985947795456"
+          ],
+          "media_source_tweet_id": [
+            "2035601138624712806"
+          ]
+        },
+        "author_id": "1964331185590718464",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Food",
+              "id": "825047692124442624",
+              "name": "Food"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1395124735625764864",
+              "name": "Bento"
+            }
+          },
+          {
+            "domain": {
+              "description": "Topics about food, like Donuts or Brunch",
+              "id": "152",
+              "name": "Food"
+            },
+            "entity": {
+              "description": "Food",
+              "id": "825047692124442624",
+              "name": "Food"
+            }
+          },
+          {
+            "domain": {
+              "description": "Topics about food, like Donuts or Brunch",
+              "id": "152",
+              "name": "Food"
+            },
+            "entity": {
+              "id": "1395124735625764864",
+              "name": "Bento"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Food",
+              "id": "825047692124442624",
+              "name": "Food"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Cooking Actions",
+              "id": "846770344681627649",
+              "name": "Cooking"
+            }
+          }
+        ],
+        "conversation_id": "2064687250638872824",
+        "created_at": "2026-06-10T12:32:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T13:32:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064687250638872824"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1773614135575793664",
+              "start": 3,
+              "username": "umigame_kouen"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/pgzjCtMkIa",
+              "end": 56,
+              "expanded_url": "https://x.com/umigame_kouen/status/2035601138624712806/video/1",
+              "media_key": "13_2035600985947795456",
+              "start": 33,
+              "url": "https://t.co/pgzjCtMkIa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064687250638872824",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 184
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035601138624712806",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @umigame_kouen: お弁当を作るケヅメリクガメ https://t.co/pgzjCtMkIa"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2035600985947795456"
+          ]
+        },
+        "author_id": "1773614135575793664",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Food",
+              "id": "825047692124442624",
+              "name": "Food"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1395124735625764864",
+              "name": "Bento"
+            }
+          },
+          {
+            "domain": {
+              "description": "Topics about food, like Donuts or Brunch",
+              "id": "152",
+              "name": "Food"
+            },
+            "entity": {
+              "description": "Food",
+              "id": "825047692124442624",
+              "name": "Food"
+            }
+          },
+          {
+            "domain": {
+              "description": "Topics about food, like Donuts or Brunch",
+              "id": "152",
+              "name": "Food"
+            },
+            "entity": {
+              "id": "1395124735625764864",
+              "name": "Bento"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Food",
+              "id": "825047692124442624",
+              "name": "Food"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Cooking Actions",
+              "id": "846770344681627649",
+              "name": "Cooking"
+            }
+          }
+        ],
+        "conversation_id": "2035601138624712806",
+        "created_at": "2026-03-22T06:15:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-22T07:15:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2035601138624712806"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pgzjCtMkIa",
+              "end": 37,
+              "expanded_url": "https://x.com/umigame_kouen/status/2035601138624712806/video/1",
+              "media_key": "13_2035600985947795456",
+              "start": 14,
+              "url": "https://t.co/pgzjCtMkIa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035601138624712806",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 45,
+          "impression_count": 54832,
+          "like_count": 2211,
+          "quote_count": 6,
+          "reply_count": 6,
+          "retweet_count": 184
+        },
+        "reply_settings": "everyone",
+        "text": "お弁当を作るケヅメリクガメ https://t.co/pgzjCtMkIa"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-06T14:13:55.000Z",
+        "description": "OD丨自伤丨Vocaloid丨友跨顺女\n喜欢爬宠 不卖药 非必要不回私信\n不喜欢的直接b 同类查成分回fo 取关请双取",
+        "id": "1964331185590718464",
+        "location": "颅内",
+        "name": "箸",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061439509125074944/Hf-Lim6c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 774,
+          "following_count": 666,
+          "like_count": 16486,
+          "listed_count": 0,
+          "media_count": 237,
+          "tweet_count": 4705
+        },
+        "username": "breakcoreWTF",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-29T07:32:42.000Z",
+        "description": "全国で唯一ウミガメ保護施設が併設する道の駅で、野生で傷付いたウミガメの保護・野生復帰に取り組んでいます。入場無料の施設で、どなたでもウミガメを観察する事ができます。 営業時間は下記の公式HPをご確認ください。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "umigame.info",
+                "end": 23,
+                "expanded_url": "https://umigame.info/",
+                "start": 0,
+                "url": "https://t.co/KHqNlMD51y"
+              }
+            ]
+          }
+        },
+        "id": "1773614135575793664",
+        "location": "三重県南牟婁郡紀宝町井田568-7",
+        "name": "道の駅ウミガメ公園【公式】",
+        "pinned_tweet_id": "2063086310420873287",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1773922848069046272/TXRY5y9R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 67450,
+          "following_count": 20,
+          "like_count": 14441,
+          "listed_count": 464,
+          "media_count": 1176,
+          "tweet_count": 1846
+        },
+        "url": "https://t.co/KHqNlMD51y",
+        "username": "umigame_kouen",
+        "verified": true
+      }
+    ]
+  }
+}

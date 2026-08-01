@@ -1,0 +1,635 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1964331185590718464",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "description": "Nico Nico Douga",
+          "id": "1034894313908396037",
+          "name": "Nico Nico Douga"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1247236287485997056",
+          "name": "Vocaloid"
+        }
+      },
+      {
+        "domain": {
+          "description": "A category for a musical style, like Pop, Rock, or Rap",
+          "id": "55",
+          "name": "Music Genre"
+        },
+        "entity": {
+          "description": "Anime/Game ",
+          "id": "1138508942156345344",
+          "name": "Anime & game music"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "id": "1297951101136732160",
+          "name": "Animation & comics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Music and radio",
+          "id": "847524658970636288",
+          "name": "Music"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Nico Nico Douga",
+          "id": "1034894313908396037",
+          "name": "Nico Nico Douga"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Anime/Game ",
+          "id": "1138508942156345344",
+          "name": "Anime & game music"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1247236287485997056",
+          "name": "Vocaloid"
+        }
+      }
+    ],
+    "conversation_id": "2071412882122940912",
+    "created_at": "2026-06-29T01:58:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-29T02:58:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071412882122940912"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 26,
+          "start": 18,
+          "tag": "ボカロ紅白ラボ"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1724068548744712192",
+          "start": 3,
+          "username": "vocakouhaku"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071412882122940912",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 149
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070824461830402518",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @vocakouhaku: 🧪#ボカロ紅白ラボ まで残り1日🧪\n\n【ボカロ紅白ラボ 2026 exploRE】は\n6/28(日) 21:00 ニコニコ生放送にて開催✨\n\n降り注ぐ鏡音リンに囲まれたレン、 ちょっと恥ずかしそうな顔がかわいいね！💧 \nこんな彼ですが、本番では…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2666,
+        "media_key": "3_2070162891094061056",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLqyLmbbcAArbuV.jpg",
+        "width": 2000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1964331185590718464",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "Nico Nico Douga",
+              "id": "1034894313908396037",
+              "name": "Nico Nico Douga"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1247236287485997056",
+              "name": "Vocaloid"
+            }
+          },
+          {
+            "domain": {
+              "description": "A category for a musical style, like Pop, Rock, or Rap",
+              "id": "55",
+              "name": "Music Genre"
+            },
+            "entity": {
+              "description": "Anime/Game ",
+              "id": "1138508942156345344",
+              "name": "Anime & game music"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Nico Nico Douga",
+              "id": "1034894313908396037",
+              "name": "Nico Nico Douga"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Anime/Game ",
+              "id": "1138508942156345344",
+              "name": "Anime & game music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1247236287485997056",
+              "name": "Vocaloid"
+            }
+          }
+        ],
+        "conversation_id": "2071412882122940912",
+        "created_at": "2026-06-29T01:58:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T02:58:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071412882122940912"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 26,
+              "start": 18,
+              "tag": "ボカロ紅白ラボ"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1724068548744712192",
+              "start": 3,
+              "username": "vocakouhaku"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071412882122940912",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 149
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070824461830402518",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @vocakouhaku: 🧪#ボカロ紅白ラボ まで残り1日🧪\n\n【ボカロ紅白ラボ 2026 exploRE】は\n6/28(日) 21:00 ニコニコ生放送にて開催✨\n\n降り注ぐ鏡音リンに囲まれたレン、 ちょっと恥ずかしそうな顔がかわいいね！💧 \nこんな彼ですが、本番では…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070162891094061056"
+          ]
+        },
+        "author_id": "1724068548744712192",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "Nico Nico Douga",
+              "id": "1034894313908396037",
+              "name": "Nico Nico Douga"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1247236287485997056",
+              "name": "Vocaloid"
+            }
+          },
+          {
+            "domain": {
+              "description": "A category for a musical style, like Pop, Rock, or Rap",
+              "id": "55",
+              "name": "Music Genre"
+            },
+            "entity": {
+              "description": "Anime/Game ",
+              "id": "1138508942156345344",
+              "name": "Anime & game music"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Nico Nico Douga",
+              "id": "1034894313908396037",
+              "name": "Nico Nico Douga"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Anime/Game ",
+              "id": "1138508942156345344",
+              "name": "Anime & game music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1247236287485997056",
+              "name": "Vocaloid"
+            }
+          }
+        ],
+        "conversation_id": "2070824461830402518",
+        "created_at": "2026-06-27T11:00:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T12:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070824461830402518"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 9,
+              "start": 1,
+              "tag": "ボカロ紅白ラボ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/4DZ9VITcmd",
+              "end": 176,
+              "expanded_url": "https://x.com/vocakouhaku/status/2070824461830402518/photo/1",
+              "media_key": "3_2070162891094061056",
+              "start": 153,
+              "url": "https://t.co/4DZ9VITcmd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070824461830402518",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 9,
+                "start": 1,
+                "tag": "ボカロ紅白ラボ"
+              },
+              {
+                "end": 164,
+                "start": 155,
+                "tag": "ボカロ紅白歌合戦"
+              }
+            ]
+          },
+          "text": "🧪#ボカロ紅白ラボ まで残り1日🧪\n\n【ボカロ紅白ラボ 2026 exploRE】は\n6/28(日) 21:00 ニコニコ生放送にて開催✨\n\n降り注ぐ鏡音リンに囲まれたレン、 ちょっと恥ずかしそうな顔がかわいいね！💧 \nこんな彼ですが、本番では真逆なパフォーマンスを披露するかもしれません......？👀 \n\n#ボカロ紅白歌合戦"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 92,
+          "impression_count": 15089,
+          "like_count": 1104,
+          "quote_count": 11,
+          "reply_count": 1,
+          "retweet_count": 149
+        },
+        "reply_settings": "everyone",
+        "text": "🧪#ボカロ紅白ラボ まで残り1日🧪\n\n【ボカロ紅白ラボ 2026 exploRE】は\n6/28(日) 21:00 ニコニコ生放送にて開催✨\n\n降り注ぐ鏡音リンに囲まれたレン、 ちょっと恥ずかしそうな顔がかわいいね！💧 \nこんな彼ですが、本番では真逆なパフォーマンスを披露するかもしれません......？👀 https://t.co/4DZ9VITcmd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-06T14:13:55.000Z",
+        "description": "OD丨自伤丨Vocaloid丨音游丨LGBTQ+friendly\n喜欢爬宠 不卖药 非必要不回私信 我很穷欢迎投喂\n不喜欢的直接b 同类查成分回fo 取关请双取",
+        "id": "1964331185590718464",
+        "location": "颅内",
+        "name": "箸",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071376088018956288/SAB5MTfr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 875,
+          "following_count": 732,
+          "like_count": 20790,
+          "listed_count": 0,
+          "media_count": 298,
+          "tweet_count": 5261
+        },
+        "url": "",
+        "username": "breakcoreWTF",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-13T14:16:05.000Z",
+        "description": "ボーカロイドによる紅白歌合戦\n12月31日 ニコニコ生放送にて配信\n代表：たーちゃん　@T444CH4N_\nハッシュタグ：#ボカロ紅白歌合戦\nFAタグ：#ボカロ紅白歌合戦FA\nHP：https://t.co/IiPqI0j6wD\n※このイベントはファンによる同人イベントです",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 70,
+                "start": 61,
+                "tag": "ボカロ紅白歌合戦"
+              },
+              {
+                "end": 87,
+                "start": 76,
+                "tag": "ボカロ紅白歌合戦FA"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 53,
+                "start": 43,
+                "username": "T444CH4N_"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "vocakouhaku.com",
+                "end": 114,
+                "expanded_url": "https://vocakouhaku.com/",
+                "start": 91,
+                "url": "https://t.co/IiPqI0j6wD"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "nicovideo.jp/user/131512528…",
+                "end": 23,
+                "expanded_url": "https://www.nicovideo.jp/user/131512528/live_programs?ref=watch_user_information",
+                "start": 0,
+                "url": "https://t.co/5mmQpykA2d"
+              }
+            ]
+          }
+        },
+        "id": "1724068548744712192",
+        "location": "ニコニコ生放送",
+        "name": "ボカロ紅白歌合戦",
+        "pinned_tweet_id": "2071217393419112922",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062142838138445824/2-biYqGR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24537,
+          "following_count": 6,
+          "like_count": 17,
+          "listed_count": 33,
+          "media_count": 561,
+          "tweet_count": 1120
+        },
+        "url": "https://t.co/5mmQpykA2d",
+        "username": "vocakouhaku",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,158 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2021117431469703171"
+      ]
+    },
+    "author_id": "1964331185590718464",
+    "conversation_id": "2021117510779797838",
+    "created_at": "2026-02-10T07:02:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-10T08:02:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2021117510779797838"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/kIgsrQAepI",
+          "end": 36,
+          "expanded_url": "https://x.com/breakcoreWTF/status/2021117510779797838/video/1",
+          "media_key": "13_2021117431469703171",
+          "start": 13,
+          "url": "https://t.co/kIgsrQAepI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2021117510779797838",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我现在要把你们的脸按上去 https://t.co/kIgsrQAepI"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 7856,
+        "height": 1280,
+        "media_key": "13_2021117431469703171",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2021117431469703171/img/mqg9TTJxibrhxiGr.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2021117431469703171/vid/avc1/320x568/1PubVv1D14fZ1L9r.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2021117431469703171/vid/avc1/480x852/NbASpIsXoNHP1Dhj.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2021117431469703171/vid/avc1/720x1280/t3eLblxYgV3ROwGV.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2021117431469703171/pl/hEg-g6AWRDZsjPhY.m3u8?tag=14"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2021117431469703171"
+          ]
+        },
+        "author_id": "1964331185590718464",
+        "conversation_id": "2021117510779797838",
+        "created_at": "2026-02-10T07:02:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-10T08:02:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2021117510779797838"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kIgsrQAepI",
+              "end": 36,
+              "expanded_url": "https://x.com/breakcoreWTF/status/2021117510779797838/video/1",
+              "media_key": "13_2021117431469703171",
+              "start": 13,
+              "url": "https://t.co/kIgsrQAepI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021117510779797838",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我现在要把你们的脸按上去 https://t.co/kIgsrQAepI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-06T14:13:55.000Z",
+        "description": "OD丨自伤丨Vocaloid丨音游丨友跨顺女\n不喜欢的直接b 推特是垃圾桶口无遮拦 同类回fo",
+        "id": "1964331185590718464",
+        "location": "🚪40 熟推免",
+        "name": "箸",
+        "pinned_tweet_id": "2016685165557534981",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019848796881186816/pdjXkx-3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 465,
+          "following_count": 542,
+          "like_count": 7479,
+          "listed_count": 0,
+          "media_count": 121,
+          "tweet_count": 2271
+        },
+        "username": "breakcoreWTF",
+        "verified": false
+      }
+    ]
+  }
+}

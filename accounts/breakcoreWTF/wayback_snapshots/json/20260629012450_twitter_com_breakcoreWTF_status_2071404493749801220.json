@@ -1,0 +1,457 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2071368378087084032"
+      ],
+      "media_source_tweet_id": [
+        "2071368450635866286"
+      ]
+    },
+    "author_id": "1964331185590718464",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "1273377348398661633",
+          "name": "2D animation"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1192082698568814592",
+          "name": "Animation"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1273377348398661633",
+          "name": "2D animation"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "id": "1273377348398661633",
+          "name": "2D animation"
+        }
+      }
+    ],
+    "conversation_id": "2071404493749801220",
+    "created_at": "2026-06-29T01:24:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-29T02:24:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071404493749801220"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 67,
+          "start": 47,
+          "tag": "NEEDY_GIRL_OVERDOSE"
+        },
+        {
+          "end": 80,
+          "start": 68,
+          "tag": "indie_anime"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1393471785471942656",
+          "start": 3,
+          "username": "Fox_Kikumi"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/sndzhO7pY8",
+          "end": 106,
+          "expanded_url": "https://x.com/Fox_Kikumi/status/2071368450635866286/video/1",
+          "media_key": "13_2071368378087084032",
+          "start": 83,
+          "url": "https://t.co/sndzhO7pY8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071404493749801220",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 32
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071368450635866286",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Fox_Kikumi: 💖🌀 Sunshine After the 【Rain】\n\n[#NEEDY_GIRL_OVERDOSE #indie_anime ] https://t.co/sndzhO7pY8"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 14766,
+        "height": 720,
+        "media_key": "13_2071368378087084032",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2071368378087084032/img/_N-TipYc2DiWfM9z.jpg",
+        "public_metrics": {
+          "view_count": 729
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 432000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2071368378087084032/vid/avc1/320x320/2RmQhf6BcixZ6Zi2.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2071368378087084032/vid/avc1/540x540/2FbD-F8rhbxHyr8b.mp4"
+          },
+          {
+            "bit_rate": 1280000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2071368378087084032/vid/avc1/720x720/ZWh6ms-Nx7oWJ2e3.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2071368378087084032/pl/o36CfaLuHfyjKn4D.m3u8?v=cfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2071368378087084032"
+          ],
+          "media_source_tweet_id": [
+            "2071368450635866286"
+          ]
+        },
+        "author_id": "1964331185590718464",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "1273377348398661633",
+              "name": "2D animation"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1192082698568814592",
+              "name": "Animation"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1273377348398661633",
+              "name": "2D animation"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1273377348398661633",
+              "name": "2D animation"
+            }
+          }
+        ],
+        "conversation_id": "2071404493749801220",
+        "created_at": "2026-06-29T01:24:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T02:24:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071404493749801220"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 67,
+              "start": 47,
+              "tag": "NEEDY_GIRL_OVERDOSE"
+            },
+            {
+              "end": 80,
+              "start": 68,
+              "tag": "indie_anime"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1393471785471942656",
+              "start": 3,
+              "username": "Fox_Kikumi"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/sndzhO7pY8",
+              "end": 106,
+              "expanded_url": "https://x.com/Fox_Kikumi/status/2071368450635866286/video/1",
+              "media_key": "13_2071368378087084032",
+              "start": 83,
+              "url": "https://t.co/sndzhO7pY8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071404493749801220",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 32
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071368450635866286",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Fox_Kikumi: 💖🌀 Sunshine After the 【Rain】\n\n[#NEEDY_GIRL_OVERDOSE #indie_anime ] https://t.co/sndzhO7pY8"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2071368378087084032"
+          ]
+        },
+        "author_id": "1393471785471942656",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "1273377348398661633",
+              "name": "2D animation"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1192082698568814592",
+              "name": "Animation"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1273377348398661633",
+              "name": "2D animation"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1273377348398661633",
+              "name": "2D animation"
+            }
+          }
+        ],
+        "conversation_id": "2071368450635866286",
+        "created_at": "2026-06-28T23:01:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T00:01:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071368450635866286"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 51,
+              "start": 31,
+              "tag": "NEEDY_GIRL_OVERDOSE"
+            },
+            {
+              "end": 64,
+              "start": 52,
+              "tag": "indie_anime"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/sndzhO7pY8",
+              "end": 90,
+              "expanded_url": "https://x.com/Fox_Kikumi/status/2071368450635866286/video/1",
+              "media_key": "13_2071368378087084032",
+              "start": 67,
+              "url": "https://t.co/sndzhO7pY8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071368450635866286",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 34,
+          "impression_count": 2762,
+          "like_count": 207,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 32
+        },
+        "reply_settings": "everyone",
+        "text": "💖🌀 Sunshine After the 【Rain】\n\n[#NEEDY_GIRL_OVERDOSE #indie_anime ] https://t.co/sndzhO7pY8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-06T14:13:55.000Z",
+        "description": "OD丨自伤丨Vocaloid丨音游丨LGBTQ+friendly\n喜欢爬宠 不卖药 非必要不回私信 我很穷欢迎投喂\n不喜欢的直接b 同类查成分回fo 取关请双取",
+        "id": "1964331185590718464",
+        "location": "颅内",
+        "name": "箸",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071376088018956288/SAB5MTfr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 875,
+          "following_count": 731,
+          "like_count": 20723,
+          "listed_count": 0,
+          "media_count": 298,
+          "tweet_count": 5258
+        },
+        "url": "",
+        "username": "breakcoreWTF",
+        "verified": false
+      },
+      {
+        "created_at": "2021-05-15T07:42:30.000Z",
+        "description": "#苦米 /Kumi￤🎨 Illustration & Animation￤中文￤依赖于翻译器￤联络📩foxkikumi@gmail.com",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 3,
+                "start": 0,
+                "tag": "苦米"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "b23.tv/HfKKMSw",
+                "end": 23,
+                "expanded_url": "https://b23.tv/HfKKMSw",
+                "start": 0,
+                "url": "https://t.co/adZh2cyd96"
+              }
+            ]
+          }
+        },
+        "id": "1393471785471942656",
+        "location": "(´,,•ω•,,)  bilibili➡️",
+        "name": "苦米🩵Fox-Kikumi",
+        "pinned_tweet_id": "1829182660385886650",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045708311782453248/dWqKOUXc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9769,
+          "following_count": 987,
+          "like_count": 20429,
+          "listed_count": 46,
+          "media_count": 507,
+          "tweet_count": 737
+        },
+        "url": "https://t.co/adZh2cyd96",
+        "username": "Fox_Kikumi",
+        "verified": false
+      }
+    ]
+  }
+}

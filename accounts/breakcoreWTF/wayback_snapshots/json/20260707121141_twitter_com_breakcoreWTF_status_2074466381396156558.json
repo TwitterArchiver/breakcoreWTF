@@ -1,0 +1,317 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2074107521875263489"
+      ],
+      "media_source_tweet_id": [
+        "2074136283501482446"
+      ]
+    },
+    "author_id": "1964331185590718464",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Dance",
+          "id": "847870201580232704",
+          "name": "Dance"
+        }
+      }
+    ],
+    "conversation_id": "2074466381396156558",
+    "created_at": "2026-07-07T12:11:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-07T13:11:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074466381396156558"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "177101260",
+          "start": 3,
+          "username": "Rainmaker1973"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Q7akIVAIUk",
+          "end": 132,
+          "expanded_url": "https://x.com/Rainmaker1973/status/2074136283501482446/video/1",
+          "media_key": "13_2074107521875263489",
+          "start": 109,
+          "url": "https://t.co/Q7akIVAIUk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074466381396156558",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1769
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074136283501482446",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Rainmaker1973: Man of questionable sanity ✅ \nVery polite pig ✅\nDancing parrot ✅\nCuriously chill chicken✅ https://t.co/Q7akIVAIUk"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 58816,
+        "height": 1280,
+        "media_key": "13_2074107521875263489",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2074107521875263489/img/2NWELH0btf6Y4HlE.jpg",
+        "public_metrics": {
+          "view_count": 331950
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2074107521875263489/vid/avc1/320x568/tz9HBTA9ZCfw_JFA.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2074107521875263489/vid/avc1/480x852/PSM6rq0xwUJfP4KT.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2074107521875263489/vid/avc1/720x1280/bCE1fKMxbDXzkRqM.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2074107521875263489/pl/6RR-jB9iSHrGdd6u.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2074107521875263489"
+          ],
+          "media_source_tweet_id": [
+            "2074136283501482446"
+          ]
+        },
+        "author_id": "1964331185590718464",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Dance",
+              "id": "847870201580232704",
+              "name": "Dance"
+            }
+          }
+        ],
+        "conversation_id": "2074466381396156558",
+        "created_at": "2026-07-07T12:11:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T13:11:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074466381396156558"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "177101260",
+              "start": 3,
+              "username": "Rainmaker1973"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Q7akIVAIUk",
+              "end": 132,
+              "expanded_url": "https://x.com/Rainmaker1973/status/2074136283501482446/video/1",
+              "media_key": "13_2074107521875263489",
+              "start": 109,
+              "url": "https://t.co/Q7akIVAIUk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074466381396156558",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1769
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074136283501482446",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Rainmaker1973: Man of questionable sanity ✅ \nVery polite pig ✅\nDancing parrot ✅\nCuriously chill chicken✅ https://t.co/Q7akIVAIUk"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2074107521875263489"
+          ]
+        },
+        "author_id": "177101260",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Dance",
+              "id": "847870201580232704",
+              "name": "Dance"
+            }
+          }
+        ],
+        "conversation_id": "2074136283501482446",
+        "created_at": "2026-07-06T14:20:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T15:20:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074136283501482446"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Q7akIVAIUk",
+              "end": 113,
+              "expanded_url": "https://x.com/Rainmaker1973/status/2074136283501482446/video/1",
+              "media_key": "13_2074107521875263489",
+              "start": 90,
+              "url": "https://t.co/Q7akIVAIUk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074136283501482446",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2755,
+          "impression_count": 816186,
+          "like_count": 12170,
+          "quote_count": 191,
+          "reply_count": 323,
+          "retweet_count": 1769
+        },
+        "reply_settings": "everyone",
+        "text": "Man of questionable sanity ✅ \nVery polite pig ✅\nDancing parrot ✅\nCuriously chill chicken✅ https://t.co/Q7akIVAIUk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-06T14:13:55.000Z",
+        "description": "OD丨自伤丨Vocaloid丨音游丨顺女 LGBTQ+friendly\n喜欢爬宠 不卖药 非必要不回私信 我很穷欢迎投喂\n不喜欢的直接b 同类查成分回fo 取关请双取",
+        "id": "1964331185590718464",
+        "location": "颅内",
+        "name": "箸",
+        "pinned_tweet_id": "2072469945422934327",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071376088018956288/SAB5MTfr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 906,
+          "following_count": 707,
+          "like_count": 24347,
+          "listed_count": 0,
+          "media_count": 312,
+          "tweet_count": 5522
+        },
+        "url": "",
+        "username": "breakcoreWTF",
+        "verified": true
+      },
+      {
+        "created_at": "2010-08-11T07:13:13.000Z",
+        "description": "Engineer. Selecting and curating pictures and videos trying to awaken your sense of wonder since 2014. Science, tech, art, weather, space, the unusual around us",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "paypal.me/Rainmaker1973",
+                "end": 23,
+                "expanded_url": "http://paypal.me/Rainmaker1973",
+                "start": 0,
+                "url": "https://t.co/8tcqQ1zAUZ"
+              }
+            ]
+          }
+        },
+        "id": "177101260",
+        "location": "Italy, North by Northwest",
+        "name": "Massimo",
+        "pinned_tweet_id": "1738536254818443453",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/914888589670043654/KVvwjcWA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4328339,
+          "following_count": 172,
+          "like_count": 11515,
+          "listed_count": 17318,
+          "media_count": 266355,
+          "tweet_count": 478802
+        },
+        "url": "https://t.co/8tcqQ1zAUZ",
+        "username": "Rainmaker1973",
+        "verified": true
+      }
+    ]
+  }
+}

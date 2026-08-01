@@ -1,0 +1,372 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2019366563523252225",
+        "3_2019366563556818944",
+        "3_2019366563548393475",
+        "3_2019366563527413760"
+      ],
+      "media_source_tweet_id": [
+        "2019366570502549811",
+        "2019366570502549811",
+        "2019366570502549811",
+        "2019366570502549811"
+      ]
+    },
+    "author_id": "1964331185590718464",
+    "conversation_id": "2019705105646575709",
+    "created_at": "2026-02-06T09:29:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-06T10:29:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2019705105646575709"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 22,
+          "normalized_text": "くらりちゃん",
+          "probability": 0.4606,
+          "start": 17,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1690617456182874113",
+          "start": 3,
+          "username": "nagi_070509"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/2sn8bNvhFy",
+          "end": 47,
+          "expanded_url": "https://x.com/nagi_070509/status/2019366570502549811/photo/1",
+          "media_key": "3_2019366563523252225",
+          "start": 24,
+          "url": "https://t.co/2sn8bNvhFy"
+        },
+        {
+          "display_url": "pic.x.com/2sn8bNvhFy",
+          "end": 47,
+          "expanded_url": "https://x.com/nagi_070509/status/2019366570502549811/photo/1",
+          "media_key": "3_2019366563556818944",
+          "start": 24,
+          "url": "https://t.co/2sn8bNvhFy"
+        },
+        {
+          "display_url": "pic.x.com/2sn8bNvhFy",
+          "end": 47,
+          "expanded_url": "https://x.com/nagi_070509/status/2019366570502549811/photo/1",
+          "media_key": "3_2019366563548393475",
+          "start": 24,
+          "url": "https://t.co/2sn8bNvhFy"
+        },
+        {
+          "display_url": "pic.x.com/2sn8bNvhFy",
+          "end": 47,
+          "expanded_url": "https://x.com/nagi_070509/status/2019366570502549811/photo/1",
+          "media_key": "3_2019366563527413760",
+          "start": 24,
+          "url": "https://t.co/2sn8bNvhFy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2019705105646575709",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 385
+    },
+    "referenced_tweets": [
+      {
+        "id": "2019366570502549811",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @nagi_070509: くらりちゃん https://t.co/2sn8bNvhFy"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1352,
+        "media_key": "3_2019366563523252225",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAY7MMIa0AE-T6G.jpg",
+        "width": 1424
+      },
+      {
+        "height": 1495,
+        "media_key": "3_2019366563556818944",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAY7MMQbAAAvtoy.jpg",
+        "width": 1092
+      },
+      {
+        "height": 1168,
+        "media_key": "3_2019366563548393475",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAY7MMOacAMuLlG.jpg",
+        "width": 814
+      },
+      {
+        "height": 1368,
+        "media_key": "3_2019366563527413760",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAY7MMJaUAArs8k.jpg",
+        "width": 1143
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2019366563523252225",
+            "3_2019366563556818944",
+            "3_2019366563548393475",
+            "3_2019366563527413760"
+          ],
+          "media_source_tweet_id": [
+            "2019366570502549811",
+            "2019366570502549811",
+            "2019366570502549811",
+            "2019366570502549811"
+          ]
+        },
+        "author_id": "1964331185590718464",
+        "conversation_id": "2019705105646575709",
+        "created_at": "2026-02-06T09:29:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-06T10:29:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2019705105646575709"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 22,
+              "normalized_text": "くらりちゃん",
+              "probability": 0.4606,
+              "start": 17,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1690617456182874113",
+              "start": 3,
+              "username": "nagi_070509"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/2sn8bNvhFy",
+              "end": 47,
+              "expanded_url": "https://x.com/nagi_070509/status/2019366570502549811/photo/1",
+              "media_key": "3_2019366563523252225",
+              "start": 24,
+              "url": "https://t.co/2sn8bNvhFy"
+            },
+            {
+              "display_url": "pic.x.com/2sn8bNvhFy",
+              "end": 47,
+              "expanded_url": "https://x.com/nagi_070509/status/2019366570502549811/photo/1",
+              "media_key": "3_2019366563556818944",
+              "start": 24,
+              "url": "https://t.co/2sn8bNvhFy"
+            },
+            {
+              "display_url": "pic.x.com/2sn8bNvhFy",
+              "end": 47,
+              "expanded_url": "https://x.com/nagi_070509/status/2019366570502549811/photo/1",
+              "media_key": "3_2019366563548393475",
+              "start": 24,
+              "url": "https://t.co/2sn8bNvhFy"
+            },
+            {
+              "display_url": "pic.x.com/2sn8bNvhFy",
+              "end": 47,
+              "expanded_url": "https://x.com/nagi_070509/status/2019366570502549811/photo/1",
+              "media_key": "3_2019366563527413760",
+              "start": 24,
+              "url": "https://t.co/2sn8bNvhFy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019705105646575709",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 385
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019366570502549811",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @nagi_070509: くらりちゃん https://t.co/2sn8bNvhFy"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2019366563523252225",
+            "3_2019366563556818944",
+            "3_2019366563548393475",
+            "3_2019366563527413760"
+          ]
+        },
+        "author_id": "1690617456182874113",
+        "conversation_id": "2019366570502549811",
+        "created_at": "2026-02-05T11:04:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-05T12:04:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2019366570502549811"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 5,
+              "normalized_text": "くらりちゃん",
+              "probability": 0.5948,
+              "start": 0,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/2sn8bNvhFy",
+              "end": 30,
+              "expanded_url": "https://x.com/nagi_070509/status/2019366570502549811/photo/1",
+              "media_key": "3_2019366563523252225",
+              "start": 7,
+              "url": "https://t.co/2sn8bNvhFy"
+            },
+            {
+              "display_url": "pic.x.com/2sn8bNvhFy",
+              "end": 30,
+              "expanded_url": "https://x.com/nagi_070509/status/2019366570502549811/photo/1",
+              "media_key": "3_2019366563556818944",
+              "start": 7,
+              "url": "https://t.co/2sn8bNvhFy"
+            },
+            {
+              "display_url": "pic.x.com/2sn8bNvhFy",
+              "end": 30,
+              "expanded_url": "https://x.com/nagi_070509/status/2019366570502549811/photo/1",
+              "media_key": "3_2019366563548393475",
+              "start": 7,
+              "url": "https://t.co/2sn8bNvhFy"
+            },
+            {
+              "display_url": "pic.x.com/2sn8bNvhFy",
+              "end": 30,
+              "expanded_url": "https://x.com/nagi_070509/status/2019366570502549811/photo/1",
+              "media_key": "3_2019366563527413760",
+              "start": 7,
+              "url": "https://t.co/2sn8bNvhFy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019366570502549811",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 332,
+          "impression_count": 40135,
+          "like_count": 3760,
+          "quote_count": 4,
+          "reply_count": 1,
+          "retweet_count": 385
+        },
+        "reply_settings": "everyone",
+        "text": "くらりちゃん https://t.co/2sn8bNvhFy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-06T14:13:55.000Z",
+        "description": "中文/od/自伤/友跨顺女/VOCALOID/音游 舞萌普通w53 纯种乐子人 推上啥都有 看到你不喜欢的东西请无视 对我的负能量关心不要太频繁 其他交流欢迎 我不想在推特都做不到口无遮拦 同类回fo 🚪40加微信纯绿可配聊 熟悉的推友可以免门费",
+        "id": "1964331185590718464",
+        "location": "Internet",
+        "name": "箸",
+        "pinned_tweet_id": "2016685165557534981",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015679257582964737/T8W4H246_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 437,
+          "following_count": 511,
+          "like_count": 6520,
+          "listed_count": 0,
+          "media_count": 112,
+          "tweet_count": 2043
+        },
+        "username": "breakcoreWTF",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-13T06:53:14.000Z",
+        "description": "まあ基本気まぐれ！！AI学習とか無断転載とかはだめっ",
+        "id": "1690617456182874113",
+        "name": "なぎ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019280459335888900/6Ay1FtRg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 125,
+          "following_count": 50,
+          "like_count": 5686,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 3
+        },
+        "username": "nagi_070509",
+        "verified": false
+      }
+    ]
+  }
+}

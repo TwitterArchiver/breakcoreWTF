@@ -1,0 +1,317 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2016074838507388928"
+      ],
+      "media_source_tweet_id": [
+        "2016074905109029174"
+      ]
+    },
+    "author_id": "1964331185590718464",
+    "conversation_id": "2016379546849968225",
+    "created_at": "2026-01-28T05:15:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-28T06:15:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2016379546849968225"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 30,
+          "start": 15,
+          "tag": "IA_V6_30sSongs"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "980148853306417152",
+          "start": 3,
+          "username": "arukuremu"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Wr254iUuc4",
+          "end": 54,
+          "expanded_url": "https://x.com/arukuremu/status/2016074905109029174/video/1",
+          "media_key": "13_2016074838507388928",
+          "start": 31,
+          "url": "https://t.co/Wr254iUuc4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2016379546849968225",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 540
+    },
+    "referenced_tweets": [
+      {
+        "id": "2016074905109029174",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "RT @arukuremu: #IA_V6_30sSongs https://t.co/Wr254iUuc4"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 35933,
+        "height": 1920,
+        "media_key": "13_2016074838507388928",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2016074838507388928/img/Z6qVyKjXDRkm5MHk.jpg",
+        "public_metrics": {
+          "view_count": 14172
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2016074838507388928/vid/avc1/720x1280/6m_PDcquzqcs7Vdx.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2016074838507388928/vid/avc1/1080x1920/zmEH-kRvvqIpEHUO.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2016074838507388928/vid/avc1/480x852/byPtrM1r7l0mrTKl.mp4"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2016074838507388928/vid/avc1/320x568/lpI3YaOvOzWkH5e8.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2016074838507388928/pl/AMhUcm4nCYuWULl5.m3u8?v=cfc"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2016074838507388928"
+          ],
+          "media_source_tweet_id": [
+            "2016074905109029174"
+          ]
+        },
+        "author_id": "1964331185590718464",
+        "conversation_id": "2016379546849968225",
+        "created_at": "2026-01-28T05:15:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-28T06:15:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016379546849968225"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 30,
+              "start": 15,
+              "tag": "IA_V6_30sSongs"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "980148853306417152",
+              "start": 3,
+              "username": "arukuremu"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Wr254iUuc4",
+              "end": 54,
+              "expanded_url": "https://x.com/arukuremu/status/2016074905109029174/video/1",
+              "media_key": "13_2016074838507388928",
+              "start": 31,
+              "url": "https://t.co/Wr254iUuc4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016379546849968225",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 540
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016074905109029174",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "RT @arukuremu: #IA_V6_30sSongs https://t.co/Wr254iUuc4"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2016074838507388928"
+          ]
+        },
+        "author_id": "980148853306417152",
+        "conversation_id": "2016074905109029174",
+        "created_at": "2026-01-27T09:04:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-27T10:04:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016074905109029174"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 15,
+              "start": 0,
+              "tag": "IA_V6_30sSongs"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Wr254iUuc4",
+              "end": 39,
+              "expanded_url": "https://x.com/arukuremu/status/2016074905109029174/video/1",
+              "media_key": "13_2016074838507388928",
+              "start": 16,
+              "url": "https://t.co/Wr254iUuc4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016074905109029174",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 307,
+          "impression_count": 43599,
+          "like_count": 2236,
+          "quote_count": 24,
+          "reply_count": 1,
+          "retweet_count": 540
+        },
+        "reply_settings": "following",
+        "text": "#IA_V6_30sSongs https://t.co/Wr254iUuc4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-06T14:13:55.000Z",
+        "description": "中文/od/自伤/VOCALOID/音游 舞萌普通w53 纯种乐子人性别不明推上啥都有 会发泄情绪无需理会 私信互关欢迎 🚪40加微信纯绿可陪聊",
+        "id": "1964331185590718464",
+        "location": "Internet",
+        "name": "薄幸",
+        "pinned_tweet_id": "2003760156488986744",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015679257582964737/T8W4H246_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 58,
+          "following_count": 341,
+          "like_count": 4091,
+          "listed_count": 0,
+          "media_count": 47,
+          "tweet_count": 1305
+        },
+        "username": "breakcoreWTF",
+        "verified": false
+      },
+      {
+        "created_at": "2018-03-31T18:24:31.000Z",
+        "description": "YouTube - https://t.co/wpFwfqivZY kyumaru906(at)gmail. com | #art_906",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 69,
+                "start": 61,
+                "tag": "art_906"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "youtube.com/channel/UCtwSC…",
+                "end": 33,
+                "expanded_url": "http://youtube.com/channel/UCtwSCTpftyPm4-TBf9S6kfQ",
+                "start": 10,
+                "url": "https://t.co/wpFwfqivZY"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "nicovideo.jp/mylist/62414278",
+                "end": 23,
+                "expanded_url": "http://nicovideo.jp/mylist/62414278",
+                "start": 0,
+                "url": "https://t.co/cUqNRds8Uz"
+              }
+            ]
+          }
+        },
+        "id": "980148853306417152",
+        "name": "r-906",
+        "pinned_tweet_id": "2006385631707230668",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981589439945060352/2Vj7iP2Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 92077,
+          "following_count": 987,
+          "like_count": 8924,
+          "listed_count": 481,
+          "media_count": 404,
+          "tweet_count": 3331
+        },
+        "url": "https://t.co/cUqNRds8Uz",
+        "username": "arukuremu",
+        "verified": true
+      }
+    ]
+  }
+}

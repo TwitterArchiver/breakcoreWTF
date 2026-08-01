@@ -1,0 +1,402 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1805847621849989121"
+      ],
+      "media_source_tweet_id": [
+        "1805847696508379282"
+      ]
+    },
+    "author_id": "1964331185590718464",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Food",
+          "id": "825047692124442624",
+          "name": "Food"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Meals",
+          "id": "1034860760093024257",
+          "name": "Meals"
+        }
+      }
+    ],
+    "conversation_id": "2016942548720472536",
+    "created_at": "2026-01-29T18:32:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-29T19:32:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2016942548720472536"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 16,
+          "normalized_text": "日本",
+          "probability": 0.8394,
+          "start": 15,
+          "type": "Place"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1805480035287187458",
+          "start": 3,
+          "username": "twibuznew"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/dHyJ13CUrM",
+          "end": 66,
+          "expanded_url": "https://x.com/i/status/1805847696508379282/video/1",
+          "media_key": "13_1805847621849989121",
+          "start": 43,
+          "url": "https://t.co/dHyJ13CUrM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2016942548720472536",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1453
+    },
+    "referenced_tweets": [
+      {
+        "id": "2016484658066657574",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @twibuznew: 日本の皆様\n\nこんな民度の輩と一緒に食事できますか？\n\nhttps://t.co/dHyJ13CUrM"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 15600,
+        "height": 960,
+        "media_key": "13_1805847621849989121",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1805847621849989121/img/2MFK8srh2xM45fCo.jpg",
+        "public_metrics": {
+          "view_count": 8739382
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1805847621849989121/vid/avc1/320x564/llpIr2ZQSCfloDpx.mp4?tag=16"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1805847621849989121/vid/avc1/480x846/NMtudr9A-D8Vu2XI.mp4?tag=16"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1805847621849989121/vid/avc1/544x960/G9uPgBB_AGenpXEv.mp4?tag=16"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1805847621849989121/pl/UiZvAWIM012xiXFP.m3u8?tag=16&v=1b1"
+          }
+        ],
+        "width": 544
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1805847621849989121"
+          ],
+          "media_source_tweet_id": [
+            "1805847696508379282"
+          ]
+        },
+        "author_id": "1964331185590718464",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Food",
+              "id": "825047692124442624",
+              "name": "Food"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Meals",
+              "id": "1034860760093024257",
+              "name": "Meals"
+            }
+          }
+        ],
+        "conversation_id": "2016942548720472536",
+        "created_at": "2026-01-29T18:32:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-29T19:32:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016942548720472536"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 16,
+              "normalized_text": "日本",
+              "probability": 0.8394,
+              "start": 15,
+              "type": "Place"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1805480035287187458",
+              "start": 3,
+              "username": "twibuznew"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/dHyJ13CUrM",
+              "end": 66,
+              "expanded_url": "https://x.com/i/status/1805847696508379282/video/1",
+              "media_key": "13_1805847621849989121",
+              "start": 43,
+              "url": "https://t.co/dHyJ13CUrM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016942548720472536",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1453
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016484658066657574",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @twibuznew: 日本の皆様\n\nこんな民度の輩と一緒に食事できますか？\n\nhttps://t.co/dHyJ13CUrM"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1805847621849989121"
+          ],
+          "media_source_tweet_id": [
+            "1805847696508379282"
+          ]
+        },
+        "author_id": "1805480035287187458",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Food",
+              "id": "825047692124442624",
+              "name": "Food"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Meals",
+              "id": "1034860760093024257",
+              "name": "Meals"
+            }
+          }
+        ],
+        "conversation_id": "2016484658066657574",
+        "created_at": "2026-01-28T12:13:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-28T13:13:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2016484658066657574"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 1,
+              "normalized_text": "日本",
+              "probability": 0.8454,
+              "start": 0,
+              "type": "Place"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/dHyJ13CUrM",
+              "end": 51,
+              "expanded_url": "https://x.com/i/status/1805847696508379282/video/1",
+              "media_key": "13_1805847621849989121",
+              "start": 28,
+              "url": "https://t.co/dHyJ13CUrM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016484658066657574",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 946,
+          "impression_count": 757971,
+          "like_count": 7855,
+          "quote_count": 184,
+          "reply_count": 750,
+          "retweet_count": 1453
+        },
+        "reply_settings": "everyone",
+        "text": "日本の皆様\n\nこんな民度の輩と一緒に食事できますか？\n\nhttps://t.co/dHyJ13CUrM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-06T14:13:55.000Z",
+        "description": "中文/od/自伤/友跨顺女/VOCALOID/音游 舞萌普通w53 纯种乐子人 推上啥都有 关心我的任何负能量相关只会给我带来困扰 其他交流欢迎 我不想在推特都做不到口无遮拦 互关欢迎 🚪40加微信纯绿可配聊 熟悉的推友可以免门费",
+        "id": "1964331185590718464",
+        "location": "Internet",
+        "name": "薄幸",
+        "pinned_tweet_id": "2016685165557534981",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015679257582964737/T8W4H246_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 70,
+          "following_count": 353,
+          "like_count": 4555,
+          "listed_count": 0,
+          "media_count": 58,
+          "tweet_count": 1505
+        },
+        "username": "breakcoreWTF",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-25T05:56:14.000Z",
+        "description": "反日が嫌いです。外国人参政権反対。移民政策推進反対です。支持政党は特にありませんが日本が大好きです🌸🍶",
+        "id": "1805480035287187458",
+        "name": "日本から世界を見る🇯🇵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1845322812057321472/22llrc6K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13178,
+          "following_count": 131,
+          "like_count": 0,
+          "listed_count": 43,
+          "media_count": 27,
+          "tweet_count": 33
+        },
+        "username": "twibuznew",
+        "verified": true
+      }
+    ]
+  }
+}

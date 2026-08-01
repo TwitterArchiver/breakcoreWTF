@@ -1,0 +1,427 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2002316442054897664"
+      ],
+      "media_source_tweet_id": [
+        "2002316444231696513"
+      ]
+    },
+    "author_id": "1964331185590718464",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A genre for books, like Fiction",
+          "id": "85",
+          "name": "Book Genre"
+        },
+        "entity": {
+          "description": "Comics",
+          "id": "847521144173350912",
+          "name": "Comics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839544274442051584",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Comics",
+          "id": "847521144173350912",
+          "name": "Comics"
+        }
+      }
+    ],
+    "conversation_id": "2002418630689169420",
+    "created_at": "2025-12-20T16:39:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-20T17:39:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2002418630689169420"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1355120240649093121",
+          "start": 3,
+          "username": "waimoniku"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/tqSDzJ6H8E",
+          "end": 49,
+          "expanded_url": "https://x.com/waimoniku/status/2002316444231696513/photo/1",
+          "media_key": "3_2002316442054897664",
+          "start": 26,
+          "url": "https://t.co/tqSDzJ6H8E"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2002418630689169420",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 367
+    },
+    "referenced_tweets": [
+      {
+        "id": "2002316444231696513",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @waimoniku: 𝑲𝑰𝑺𝑺______ https://t.co/tqSDzJ6H8E"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2002316442054897664",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8moMgCbMAAgpqh.jpg",
+        "width": 1451
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2002316442054897664"
+          ],
+          "media_source_tweet_id": [
+            "2002316444231696513"
+          ]
+        },
+        "author_id": "1964331185590718464",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A genre for books, like Fiction",
+              "id": "85",
+              "name": "Book Genre"
+            },
+            "entity": {
+              "description": "Comics",
+              "id": "847521144173350912",
+              "name": "Comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Comics",
+              "id": "847521144173350912",
+              "name": "Comics"
+            }
+          }
+        ],
+        "conversation_id": "2002418630689169420",
+        "created_at": "2025-12-20T16:39:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-20T17:39:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2002418630689169420"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1355120240649093121",
+              "start": 3,
+              "username": "waimoniku"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/tqSDzJ6H8E",
+              "end": 49,
+              "expanded_url": "https://x.com/waimoniku/status/2002316444231696513/photo/1",
+              "media_key": "3_2002316442054897664",
+              "start": 26,
+              "url": "https://t.co/tqSDzJ6H8E"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002418630689169420",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 367
+        },
+        "referenced_tweets": [
+          {
+            "id": "2002316444231696513",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @waimoniku: 𝑲𝑰𝑺𝑺______ https://t.co/tqSDzJ6H8E"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2002316442054897664"
+          ]
+        },
+        "author_id": "1355120240649093121",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A genre for books, like Fiction",
+              "id": "85",
+              "name": "Book Genre"
+            },
+            "entity": {
+              "description": "Comics",
+              "id": "847521144173350912",
+              "name": "Comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Comics",
+              "id": "847521144173350912",
+              "name": "Comics"
+            }
+          }
+        ],
+        "conversation_id": "2002316444231696513",
+        "created_at": "2025-12-20T09:53:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-20T10:53:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2002316444231696513"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tqSDzJ6H8E",
+              "end": 34,
+              "expanded_url": "https://x.com/waimoniku/status/2002316444231696513/photo/1",
+              "media_key": "3_2002316442054897664",
+              "start": 11,
+              "url": "https://t.co/tqSDzJ6H8E"
+            },
+            {
+              "display_url": "x.com/waimoniku/stat…",
+              "end": 58,
+              "expanded_url": "https://twitter.com/waimoniku/status/2000151070329483567",
+              "start": 35,
+              "url": "https://t.co/cbXIApYfIP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002316444231696513",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 479,
+          "impression_count": 71821,
+          "like_count": 5049,
+          "quote_count": 12,
+          "reply_count": 10,
+          "retweet_count": 367
+        },
+        "referenced_tweets": [
+          {
+            "id": "2000151070329483567",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "𝑲𝑰𝑺𝑺______ https://t.co/tqSDzJ6H8E https://t.co/cbXIApYfIP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-06T14:13:55.000Z",
+        "description": "中文/od/VOCALOID/音游 纯种乐子人性别不明推上啥都有 私信互关欢迎 我有对象 我很喜欢他",
+        "id": "1964331185590718464",
+        "location": "翼天国",
+        "name": "━Σ(ﾟДﾟ|||)━",
+        "pinned_tweet_id": "1966517785367871718",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001729011576426496/HumNDWc3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 48,
+          "following_count": 275,
+          "like_count": 2775,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 757
+        },
+        "username": "breakcoreWTF",
+        "verified": false
+      },
+      {
+        "created_at": "2021-01-29T11:47:16.000Z",
+        "description": "初音ミクが好きです\n Skeb⇒https://t.co/zqe5ElefSE\nサブ垢⇒@waimoniku2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 44,
+                "username": "waimoniku2"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "skeb.jp/@46T7lYeUxbRj6…",
+                "end": 39,
+                "expanded_url": "https://skeb.jp/@46T7lYeUxbRj6YR",
+                "start": 16,
+                "url": "https://t.co/zqe5ElefSE"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/70100695",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/70100695",
+                "start": 0,
+                "url": "https://t.co/ep5nTiZoWD"
+              }
+            ]
+          }
+        },
+        "id": "1355120240649093121",
+        "name": "わいもにく@C107 2日目 南gブロック【09a】",
+        "pinned_tweet_id": "1986731989739978945",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1596987223395930115/NGjyDCjb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 111925,
+          "following_count": 556,
+          "like_count": 18672,
+          "listed_count": 467,
+          "media_count": 109,
+          "tweet_count": 5991
+        },
+        "url": "https://t.co/ep5nTiZoWD",
+        "username": "waimoniku",
+        "verified": true
+      }
+    ]
+  }
+}

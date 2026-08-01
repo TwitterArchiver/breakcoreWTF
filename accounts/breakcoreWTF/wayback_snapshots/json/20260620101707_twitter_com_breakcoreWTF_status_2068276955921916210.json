@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1964331185590718464",
+    "conversation_id": "2068245220958040184",
+    "created_at": "2026-06-20T10:17:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-20T11:17:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068276955921916210"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2053707183427366912",
+          "start": 0,
+          "username": "meyu_121"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068276955921916210",
+    "in_reply_to_user_id": "2053707183427366912",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068245220958040184",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@meyu_121 我来了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2068245218571489281",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLPiEXlakAE1GL8.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1964331185590718464",
+        "conversation_id": "2068245220958040184",
+        "created_at": "2026-06-20T10:17:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T11:17:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068276955921916210"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2053707183427366912",
+              "start": 0,
+              "username": "meyu_121"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068276955921916210",
+        "in_reply_to_user_id": "2053707183427366912",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068245220958040184",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@meyu_121 我来了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068245218571489281"
+          ]
+        },
+        "author_id": "2053707183427366912",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2068245220958040184",
+        "created_at": "2026-06-20T08:11:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T09:11:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068245220958040184"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5vBxaYoaps",
+              "end": 27,
+              "expanded_url": "https://x.com/meyu_121/status/2068245220958040184/photo/1",
+              "media_key": "3_2068245218571489281",
+              "start": 4,
+              "url": "https://t.co/5vBxaYoaps"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068245220958040184",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 54,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "来扩列 https://t.co/5vBxaYoaps"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-06T14:13:55.000Z",
+        "description": "OD丨自伤丨Vocaloid丨音游丨LGBTQ+friendly\n喜欢爬宠 不卖药 非必要不回私信 我很穷欢迎投喂\n不喜欢的直接b 同类查成分回fo 取关请双取",
+        "id": "1964331185590718464",
+        "location": "颅内",
+        "name": "箸",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061439509125074944/Hf-Lim6c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 856,
+          "following_count": 713,
+          "like_count": 19446,
+          "listed_count": 0,
+          "media_count": 282,
+          "tweet_count": 5115
+        },
+        "url": "",
+        "username": "breakcoreWTF",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-11T05:22:11.000Z",
+        "description": "HongKong🇭🇰ㅤ∥ㅤㅤㅤㅤ神聖かまってちゃん 李志 beyondㅤ∥ㅤ愛人 @Gen_ei_SKC0218\nㅤ∥rip @Yume_121_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 41,
+                "username": "Gen_ei_SKC0218"
+              },
+              {
+                "end": 73,
+                "start": 63,
+                "username": "Yume_121_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@yume121_kawa?…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/@yume121_kawa?si=Kvl_r-M9N3u6C4DA",
+                "start": 0,
+                "url": "https://t.co/uYCcZZSV0n"
+              }
+            ]
+          }
+        },
+        "id": "2053707183427366912",
+        "location": "まいちゃん全部ゆめ",
+        "name": "Yumeかまってちゃん🎸",
+        "pinned_tweet_id": "2053715766537814126",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065306748194631680/YoHLf35n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 141,
+          "following_count": 204,
+          "like_count": 479,
+          "listed_count": 0,
+          "media_count": 98,
+          "tweet_count": 469
+        },
+        "url": "https://t.co/uYCcZZSV0n",
+        "username": "meyu_121",
+        "verified": false
+      }
+    ]
+  }
+}

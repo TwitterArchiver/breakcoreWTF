@@ -1,0 +1,513 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2020798409016512513"
+      ],
+      "media_source_tweet_id": [
+        "2020798418499616919"
+      ]
+    },
+    "author_id": "1964331185590718464",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1292858558652923915",
+          "name": "Chunithm"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1292858558652923915",
+          "name": "Chunithm"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1359647921210159105",
+          "name": "Rhythm games"
+        }
+      }
+    ],
+    "conversation_id": "2020879975864566143",
+    "created_at": "2026-02-09T15:18:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-09T16:18:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2020879975864566143"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 20,
+          "normalized_text": "スカイフェザー",
+          "probability": 0.3463,
+          "start": 14,
+          "type": "Other"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 31,
+          "start": 22,
+          "tag": "chunithm"
+        },
+        {
+          "end": 36,
+          "start": 32,
+          "tag": "cos"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1514094515191230470",
+          "start": 3,
+          "username": "fuxi0312"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/8FyilT7N2j",
+          "end": 60,
+          "expanded_url": "https://x.com/fuxi0312/status/2020798418499616919/photo/1",
+          "media_key": "3_2020798409016512513",
+          "start": 37,
+          "url": "https://t.co/8FyilT7N2j"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2020879975864566143",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 32
+    },
+    "referenced_tweets": [
+      {
+        "id": "2020798418499616919",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @fuxi0312: スカイフェザー\n#chunithm\n#cos https://t.co/8FyilT7N2j"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 959,
+        "media_key": "3_2020798409016512513",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAtRckQakAE4rRQ.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2020798409016512513"
+          ],
+          "media_source_tweet_id": [
+            "2020798418499616919"
+          ]
+        },
+        "author_id": "1964331185590718464",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1292858558652923915",
+              "name": "Chunithm"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1292858558652923915",
+              "name": "Chunithm"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1359647921210159105",
+              "name": "Rhythm games"
+            }
+          }
+        ],
+        "conversation_id": "2020879975864566143",
+        "created_at": "2026-02-09T15:18:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-09T16:18:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2020879975864566143"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 20,
+              "normalized_text": "スカイフェザー",
+              "probability": 0.3463,
+              "start": 14,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 31,
+              "start": 22,
+              "tag": "chunithm"
+            },
+            {
+              "end": 36,
+              "start": 32,
+              "tag": "cos"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1514094515191230470",
+              "start": 3,
+              "username": "fuxi0312"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/8FyilT7N2j",
+              "end": 60,
+              "expanded_url": "https://x.com/fuxi0312/status/2020798418499616919/photo/1",
+              "media_key": "3_2020798409016512513",
+              "start": 37,
+              "url": "https://t.co/8FyilT7N2j"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020879975864566143",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 32
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020798418499616919",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @fuxi0312: スカイフェザー\n#chunithm\n#cos https://t.co/8FyilT7N2j"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2020798409016512513"
+          ]
+        },
+        "author_id": "1514094515191230470",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1292858558652923915",
+              "name": "Chunithm"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1292858558652923915",
+              "name": "Chunithm"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1359647921210159105",
+              "name": "Rhythm games"
+            }
+          }
+        ],
+        "conversation_id": "2020798418499616919",
+        "created_at": "2026-02-09T09:54:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-09T10:54:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2020798418499616919"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 17,
+              "start": 8,
+              "tag": "chunithm"
+            },
+            {
+              "end": 22,
+              "start": 18,
+              "tag": "cos"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/8FyilT7N2j",
+              "end": 46,
+              "expanded_url": "https://x.com/fuxi0312/status/2020798418499616919/photo/1",
+              "media_key": "3_2020798409016512513",
+              "start": 23,
+              "url": "https://t.co/8FyilT7N2j"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020798418499616919",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 32,
+          "impression_count": 4279,
+          "like_count": 256,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 32
+        },
+        "reply_settings": "everyone",
+        "text": "スカイフェザー\n#chunithm\n#cos https://t.co/8FyilT7N2j"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-06T14:13:55.000Z",
+        "description": "中文/od/自伤/友跨女/VOCALOID/音游 舞萌普通w53 纯种乐子人 遇到不喜欢的直接b 推上啥都有 看到你不喜欢的东西请无视 对我的负能量关心不要太频繁 其他交流欢迎 我不想在推特都做不到口无遮拦 同类回fo 🚪40加微信纯绿可配聊 熟悉的推友可以免门费",
+        "id": "1964331185590718464",
+        "location": "Internet",
+        "name": "箸",
+        "pinned_tweet_id": "2016685165557534981",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019848796881186816/pdjXkx-3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 467,
+          "following_count": 539,
+          "like_count": 7374,
+          "listed_count": 0,
+          "media_count": 120,
+          "tweet_count": 2229
+        },
+        "username": "breakcoreWTF",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-13T04:14:07.000Z",
+        "description": "音游♀coser （主玩maimai，chunithm, Arcaea，MuesDash, Phigros，舞立方）\nb站账号:https://t.co/gwCDJ6utmE\n欢迎关注！以后会常在推上同步更新 （照片和视频可以转载使用，但请标明出处。商用请私信联系）\n\n如果您喜欢我的作品，可以多多转推和评论，谢=^▽^=",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "b23.tv/4kyEWVg",
+                "end": 87,
+                "expanded_url": "https://b23.tv/4kyEWVg",
+                "start": 64,
+                "url": "https://t.co/gwCDJ6utmE"
+              }
+            ]
+          }
+        },
+        "id": "1514094515191230470",
+        "location": "中国",
+        "name": "小莩_Fuxl",
+        "pinned_tweet_id": "1834141900624068761",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1797679640468918272/iJIZgnAR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3833,
+          "following_count": 205,
+          "like_count": 1484,
+          "listed_count": 5,
+          "media_count": 170,
+          "tweet_count": 272
+        },
+        "username": "fuxi0312",
+        "verified": false
+      }
+    ]
+  }
+}

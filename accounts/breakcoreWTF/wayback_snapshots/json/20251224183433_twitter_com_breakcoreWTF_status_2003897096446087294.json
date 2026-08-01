@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1988232218964357120"
+      ],
+      "media_source_tweet_id": [
+        "1988232232088240131"
+      ]
+    },
+    "author_id": "1964331185590718464",
+    "conversation_id": "2003897096446087294",
+    "created_at": "2025-12-24T18:34:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-24T19:34:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2003897096446087294"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1875913888505774080",
+          "start": 3,
+          "username": "uuuuua07"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/T4r9LNsl0S",
+          "end": 37,
+          "expanded_url": "https://x.com/uuuuua07/status/1988232232088240131/photo/1",
+          "media_key": "3_1988232218964357120",
+          "start": 14,
+          "url": "https://t.co/T4r9LNsl0S"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2003897096446087294",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2820
+    },
+    "referenced_tweets": [
+      {
+        "id": "1988232232088240131",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @uuuuua07: https://t.co/T4r9LNsl0S"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1799,
+        "media_key": "3_1988232218964357120",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5eeq0ZbcAAUpnb.jpg",
+        "width": 1954
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1988232218964357120"
+          ],
+          "media_source_tweet_id": [
+            "1988232232088240131"
+          ]
+        },
+        "author_id": "1964331185590718464",
+        "conversation_id": "2003897096446087294",
+        "created_at": "2025-12-24T18:34:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-24T19:34:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2003897096446087294"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1875913888505774080",
+              "start": 3,
+              "username": "uuuuua07"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/T4r9LNsl0S",
+              "end": 37,
+              "expanded_url": "https://x.com/uuuuua07/status/1988232232088240131/photo/1",
+              "media_key": "3_1988232218964357120",
+              "start": 14,
+              "url": "https://t.co/T4r9LNsl0S"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003897096446087294",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2820
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988232232088240131",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @uuuuua07: https://t.co/T4r9LNsl0S"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1988232218964357120"
+          ]
+        },
+        "author_id": "1875913888505774080",
+        "conversation_id": "1988232232088240131",
+        "created_at": "2025-11-11T13:07:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-11T14:07:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1988232232088240131"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/T4r9LNsl0S",
+              "end": 23,
+              "expanded_url": "https://x.com/uuuuua07/status/1988232232088240131/photo/1",
+              "media_key": "3_1988232218964357120",
+              "start": 0,
+              "url": "https://t.co/T4r9LNsl0S"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988232232088240131",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1980,
+          "impression_count": 261435,
+          "like_count": 22304,
+          "quote_count": 10,
+          "reply_count": 3,
+          "retweet_count": 2820
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/T4r9LNsl0S"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-06T14:13:55.000Z",
+        "description": "中文/od/VOCALOID/音游 纯种乐子人性别不明推上啥都有 私信互关欢迎",
+        "id": "1964331185590718464",
+        "location": "第五高原",
+        "name": "━Σ(ﾟДﾟ|||)━",
+        "pinned_tweet_id": "2003760156488986744",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001729011576426496/HumNDWc3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 48,
+          "following_count": 286,
+          "like_count": 3041,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 877
+        },
+        "username": "breakcoreWTF",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-05T14:35:13.000Z",
+        "description": "依頼はdmまで @uqxlxx",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 8,
+                "username": "uqxlxx"
+              }
+            ]
+          }
+        },
+        "id": "1875913888505774080",
+        "name": "ua",
+        "pinned_tweet_id": "1994233790512660723",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1934112910739169281/_loZWRPY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2253,
+          "following_count": 9,
+          "like_count": 548,
+          "listed_count": 10,
+          "media_count": 64,
+          "tweet_count": 81
+        },
+        "username": "uuuuua07",
+        "verified": false
+      }
+    ]
+  }
+}

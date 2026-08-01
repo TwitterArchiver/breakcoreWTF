@@ -1,0 +1,666 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2077429525005094912"
+      ],
+      "media_source_tweet_id": [
+        "2077429928773951978"
+      ]
+    },
+    "author_id": "1964331185590718464",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Television shows from around the world",
+          "id": "3",
+          "name": "TV Shows"
+        },
+        "entity": {
+          "description": "Adult animated web series",
+          "id": "1444041626402234368",
+          "name": "Helluva Boss"
+        }
+      },
+      {
+        "domain": {
+          "description": "Television shows from around the world",
+          "id": "3",
+          "name": "TV Shows"
+        },
+        "entity": {
+          "description": "Adult animated web series",
+          "id": "1444043338236104705",
+          "name": "Hazbin Hotel"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839544274442051584",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1276514328007467008",
+          "name": "Movies & TV"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1281311833593282560",
+          "name": "Adult animation"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1444044792988459009",
+          "name": "Helluva Boss"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1444046743423762434",
+          "name": "Hazbin Hotel"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1985581624369516544",
+          "name": "Hazbin Hotel"
+        }
+      },
+      {
+        "domain": {
+          "description": "For global/conceptual TV shows without localization.",
+          "id": "172",
+          "name": "Global TV Show"
+        },
+        "entity": {
+          "id": "1444044792988459009",
+          "name": "Helluva Boss"
+        }
+      },
+      {
+        "domain": {
+          "description": "For global/conceptual TV shows without localization.",
+          "id": "172",
+          "name": "Global TV Show"
+        },
+        "entity": {
+          "id": "1444046743423762434",
+          "name": "Hazbin Hotel"
+        }
+      }
+    ],
+    "conversation_id": "2077690336567328993",
+    "created_at": "2026-07-16T09:42:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-16T10:42:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077690336567328993"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 48,
+          "start": 36,
+          "tag": "radiostatic"
+        },
+        {
+          "end": 61,
+          "start": 49,
+          "tag": "hazbinhotel"
+        },
+        {
+          "end": 68,
+          "start": 62,
+          "tag": "voxal"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1655514176813510656",
+          "start": 3,
+          "username": "alhyde_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/j7nK4BgD9Y",
+          "end": 92,
+          "expanded_url": "https://x.com/alhyde_/status/2077429928773951978/photo/1",
+          "media_key": "3_2077429525005094912",
+          "start": 69,
+          "url": "https://t.co/j7nK4BgD9Y"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077690336567328993",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 104
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077429928773951978",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @alhyde_: guys are being kawaii🍨\n#radiostatic #hazbinhotel #voxal https://t.co/j7nK4BgD9Y"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2077429525005094912",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNSDJXPWUAAKY-E.jpg",
+        "width": 3074
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077429525005094912"
+          ],
+          "media_source_tweet_id": [
+            "2077429928773951978"
+          ]
+        },
+        "author_id": "1964331185590718464",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "description": "Adult animated web series",
+              "id": "1444041626402234368",
+              "name": "Helluva Boss"
+            }
+          },
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "description": "Adult animated web series",
+              "id": "1444043338236104705",
+              "name": "Hazbin Hotel"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1276514328007467008",
+              "name": "Movies & TV"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1281311833593282560",
+              "name": "Adult animation"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1444044792988459009",
+              "name": "Helluva Boss"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1444046743423762434",
+              "name": "Hazbin Hotel"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1985581624369516544",
+              "name": "Hazbin Hotel"
+            }
+          },
+          {
+            "domain": {
+              "description": "For global/conceptual TV shows without localization.",
+              "id": "172",
+              "name": "Global TV Show"
+            },
+            "entity": {
+              "id": "1444044792988459009",
+              "name": "Helluva Boss"
+            }
+          },
+          {
+            "domain": {
+              "description": "For global/conceptual TV shows without localization.",
+              "id": "172",
+              "name": "Global TV Show"
+            },
+            "entity": {
+              "id": "1444046743423762434",
+              "name": "Hazbin Hotel"
+            }
+          }
+        ],
+        "conversation_id": "2077690336567328993",
+        "created_at": "2026-07-16T09:42:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T10:42:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077690336567328993"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 48,
+              "start": 36,
+              "tag": "radiostatic"
+            },
+            {
+              "end": 61,
+              "start": 49,
+              "tag": "hazbinhotel"
+            },
+            {
+              "end": 68,
+              "start": 62,
+              "tag": "voxal"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1655514176813510656",
+              "start": 3,
+              "username": "alhyde_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/j7nK4BgD9Y",
+              "end": 92,
+              "expanded_url": "https://x.com/alhyde_/status/2077429928773951978/photo/1",
+              "media_key": "3_2077429525005094912",
+              "start": 69,
+              "url": "https://t.co/j7nK4BgD9Y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077690336567328993",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 104
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077429928773951978",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @alhyde_: guys are being kawaii🍨\n#radiostatic #hazbinhotel #voxal https://t.co/j7nK4BgD9Y"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077429525005094912"
+          ]
+        },
+        "author_id": "1655514176813510656",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "description": "Adult animated web series",
+              "id": "1444041626402234368",
+              "name": "Helluva Boss"
+            }
+          },
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "description": "Adult animated web series",
+              "id": "1444043338236104705",
+              "name": "Hazbin Hotel"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1276514328007467008",
+              "name": "Movies & TV"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1281311833593282560",
+              "name": "Adult animation"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1444044792988459009",
+              "name": "Helluva Boss"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1444046743423762434",
+              "name": "Hazbin Hotel"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1985581624369516544",
+              "name": "Hazbin Hotel"
+            }
+          },
+          {
+            "domain": {
+              "description": "For global/conceptual TV shows without localization.",
+              "id": "172",
+              "name": "Global TV Show"
+            },
+            "entity": {
+              "id": "1444044792988459009",
+              "name": "Helluva Boss"
+            }
+          },
+          {
+            "domain": {
+              "description": "For global/conceptual TV shows without localization.",
+              "id": "172",
+              "name": "Global TV Show"
+            },
+            "entity": {
+              "id": "1444046743423762434",
+              "name": "Hazbin Hotel"
+            }
+          }
+        ],
+        "conversation_id": "2077429928773951978",
+        "created_at": "2026-07-15T16:27:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T17:27:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077429928773951978"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 35,
+              "start": 23,
+              "tag": "radiostatic"
+            },
+            {
+              "end": 48,
+              "start": 36,
+              "tag": "hazbinhotel"
+            },
+            {
+              "end": 55,
+              "start": 49,
+              "tag": "voxal"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/j7nK4BgD9Y",
+              "end": 79,
+              "expanded_url": "https://x.com/alhyde_/status/2077429928773951978/photo/1",
+              "media_key": "3_2077429525005094912",
+              "start": 56,
+              "url": "https://t.co/j7nK4BgD9Y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077429928773951978",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 72,
+          "impression_count": 4686,
+          "like_count": 664,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 104
+        },
+        "reply_settings": "everyone",
+        "text": "guys are being kawaii🍨\n#radiostatic #hazbinhotel #voxal https://t.co/j7nK4BgD9Y"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-06T14:13:55.000Z",
+        "description": "叫我筷子就可以了(:3っ )っ\nOD丨Vocaloid丨音游丨顺女 LGBTQ+friendly\n不卖药 只看互关私信 我很穷欢迎投喂\n不喜欢的直接b 查成分同类回fo 取关请双取",
+        "id": "1964331185590718464",
+        "location": "颅内",
+        "name": "箸",
+        "pinned_tweet_id": "2077686522225270845",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074711282427842560/EOM9Puhb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1002,
+          "following_count": 751,
+          "like_count": 28731,
+          "listed_count": 0,
+          "media_count": 324,
+          "tweet_count": 5822
+        },
+        "url": "",
+        "username": "breakcoreWTF",
+        "verified": true
+      },
+      {
+        "created_at": "2023-05-08T10:05:37.000Z",
+        "description": "☘️💚artist💚☘️\neng/rus ♡ she/her ♡ 📺🦌/💰🧪",
+        "id": "1655514176813510656",
+        "name": "alhyde",
+        "pinned_tweet_id": "2041663839247257698",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045544483786211328/0pLQ7QJG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13361,
+          "following_count": 373,
+          "like_count": 55695,
+          "listed_count": 30,
+          "media_count": 144,
+          "tweet_count": 3375
+        },
+        "url": "",
+        "username": "alhyde_",
+        "verified": false
+      }
+    ]
+  }
+}

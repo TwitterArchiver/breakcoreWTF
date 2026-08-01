@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1964331185590718464",
+    "conversation_id": "2069045907757429098",
+    "created_at": "2026-06-22T13:12:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-22T14:12:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069045907757429098"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1260536311",
+          "start": 3,
+          "username": "GooseworxMusic"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069045907757429098",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 206
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069039958598328802",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @GooseworxMusic: Why the fuck am I verified? I don't want this."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1964331185590718464",
+        "conversation_id": "2069045907757429098",
+        "created_at": "2026-06-22T13:12:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T14:12:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069045907757429098"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1260536311",
+              "start": 3,
+              "username": "GooseworxMusic"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069045907757429098",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 206
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069039958598328802",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @GooseworxMusic: Why the fuck am I verified? I don't want this."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1260536311",
+        "conversation_id": "2069039958598328802",
+        "created_at": "2026-06-22T12:49:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T13:49:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069039958598328802"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2069039958598328802",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 91,
+          "impression_count": 44836,
+          "like_count": 4182,
+          "quote_count": 21,
+          "reply_count": 162,
+          "retweet_count": 206
+        },
+        "reply_settings": "everyone",
+        "text": "Why the fuck am I verified? I don't want this."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-06T14:13:55.000Z",
+        "description": "OD丨自伤丨Vocaloid丨音游丨LGBTQ+friendly\n喜欢爬宠 不卖药 非必要不回私信 我很穷欢迎投喂\n不喜欢的直接b 同类查成分回fo 取关请双取",
+        "id": "1964331185590718464",
+        "location": "颅内",
+        "name": "箸",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061439509125074944/Hf-Lim6c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 866,
+          "following_count": 718,
+          "like_count": 20103,
+          "listed_count": 0,
+          "media_count": 292,
+          "tweet_count": 5190
+        },
+        "url": "",
+        "username": "breakcoreWTF",
+        "verified": false
+      },
+      {
+        "created_at": "2013-03-11T22:14:57.000Z",
+        "description": "gooseworx gooseworx gooseworx gooseworx\ngooseworx gooseworx gooseworx gooseworx\ngooseworx gooseworx gooseworx gooseworx\ngooseworx gooseworx gooseworx gooseworx",
+        "id": "1260536311",
+        "location": "gooseworx gooseworx gooseworx ",
+        "name": "gooseworx gooseworx gooseworx gooseworx gooseworx",
+        "pinned_tweet_id": "748572739384991744",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907312959019458560/CRe7MX55_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 678025,
+          "following_count": 391,
+          "like_count": 17624,
+          "listed_count": 404,
+          "media_count": 5840,
+          "tweet_count": 24290
+        },
+        "url": "",
+        "username": "GooseworxMusic",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,288 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1964331185590718464",
+    "conversation_id": "2020891443091714126",
+    "created_at": "2026-02-09T16:37:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-09T17:37:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2020899982333948176"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2011375652579262464",
+          "start": 0,
+          "username": "Kagamine_8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2020899982333948176",
+    "in_reply_to_user_id": "2011375652579262464",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2020891443091714126",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kagamine_8964 摸摸"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 8307,
+        "height": 1920,
+        "media_key": "13_2020889038979514368",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2020889038979514368/img/mptaHKkmgmbWRllu.jpg",
+        "public_metrics": {
+          "view_count": 154
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2020889038979514368/vid/avc1/720x1280/Rbtz_aiX-OaLaHhf.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2020889038979514368/vid/avc1/480x852/adLBGj4_V8DKPk4A.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2020889038979514368/pl/eixbWaf-iBN59d8N.m3u8"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2020889038979514368/vid/avc1/1080x1920/oQazxMjDugt-1HfO.mp4"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2020889038979514368/vid/avc1/320x568/9YGbpL5uizoZv0KD.mp4"
+          }
+        ],
+        "width": 1080
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2020889038954356736",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAuj37Fa4AA_O8X.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1964331185590718464",
+        "conversation_id": "2020891443091714126",
+        "created_at": "2026-02-09T16:37:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-09T17:37:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2020899982333948176"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2011375652579262464",
+              "start": 0,
+              "username": "Kagamine_8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020899982333948176",
+        "in_reply_to_user_id": "2011375652579262464",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020891443091714126",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kagamine_8964 摸摸"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2020889038979514368",
+            "3_2020889038954356736"
+          ]
+        },
+        "author_id": "2011375652579262464",
+        "conversation_id": "2020891443091714126",
+        "created_at": "2026-02-09T16:04:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-09T17:04:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2020891443091714126"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xrzJu61H8s",
+              "end": 119,
+              "expanded_url": "https://x.com/Kagamine_8964/status/2020891443091714126/video/1",
+              "media_key": "13_2020889038979514368",
+              "start": 96,
+              "url": "https://t.co/xrzJu61H8s"
+            },
+            {
+              "display_url": "pic.x.com/xrzJu61H8s",
+              "end": 119,
+              "expanded_url": "https://x.com/Kagamine_8964/status/2020891443091714126/video/1",
+              "media_key": "3_2020889038954356736",
+              "start": 96,
+              "url": "https://t.co/xrzJu61H8s"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020891443091714126",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 483,
+          "like_count": 21,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "给你烧了几百毫克1161和纳洛酮愈美片\n精品神药就算了反正你也不缺\n实在能力有限买不起你喜欢的伏特加\n即使你的时间就这样停止了\n终结来临了\n如果我的心跳也停止了的话\n没有比这更让人欢喜的事了 https://t.co/xrzJu61H8s"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-06T14:13:55.000Z",
+        "description": "OD丨自伤丨Vocaloid丨音游丨友跨顺女\n不喜欢会直接b  推特是垃圾桶口无遮拦 同类回fo",
+        "id": "1964331185590718464",
+        "location": "🚪40 熟推免",
+        "name": "箸",
+        "pinned_tweet_id": "2016685165557534981",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019848796881186816/pdjXkx-3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 467,
+          "following_count": 542,
+          "like_count": 7400,
+          "listed_count": 0,
+          "media_count": 120,
+          "tweet_count": 2235
+        },
+        "username": "breakcoreWTF",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-14T09:51:50.000Z",
+        "description": "我看著幸福的日子被我親手摧毀後開心地閉上了眼 \n/FOW参与者 /接受药物投稿及测试/重精神病 PTSD 因創傷而躲藏  /#drugtwt /TG同X \n/老公:@Edward_8964\n/我絕對不會讓你孤獨一個人死去\n/六次帳號轉生 /非商業使用 /匿名提问https://t.co/p1X2dlE3nu",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 70,
+                "start": 62,
+                "tag": "drugtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 94,
+                "start": 82,
+                "username": "Edward_8964"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/jingyin_8964",
+                "end": 154,
+                "expanded_url": "https://ngl.link/jingyin_8964",
+                "start": 131,
+                "url": "https://t.co/p1X2dlE3nu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "freeod.wiki",
+                "end": 23,
+                "expanded_url": "http://freeod.wiki",
+                "start": 0,
+                "url": "https://t.co/ieTjg4n36R"
+              }
+            ]
+          }
+        },
+        "id": "2011375652579262464",
+        "name": "Kagamine鏡音",
+        "pinned_tweet_id": "2018863928059768901",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011377300881997825/i7Z-nguz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 887,
+          "following_count": 378,
+          "like_count": 2322,
+          "listed_count": 1,
+          "media_count": 82,
+          "tweet_count": 807
+        },
+        "url": "https://t.co/ieTjg4n36R",
+        "username": "Kagamine_8964",
+        "verified": true
+      }
+    ]
+  }
+}

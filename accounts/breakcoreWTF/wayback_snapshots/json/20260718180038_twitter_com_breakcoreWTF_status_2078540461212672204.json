@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1964331185590718464",
+    "conversation_id": "2078527301923606901",
+    "created_at": "2026-07-18T18:00:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-18T19:00:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078540461212672204"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2058710627464712192",
+          "start": 0,
+          "username": "krienes"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078540461212672204",
+    "in_reply_to_user_id": "2058710627464712192",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078527757307527637",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@krienes 对"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1964331185590718464",
+        "conversation_id": "2078527301923606901",
+        "created_at": "2026-07-18T18:00:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T19:00:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078540461212672204"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2058710627464712192",
+              "start": 0,
+              "username": "krienes"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078540461212672204",
+        "in_reply_to_user_id": "2058710627464712192",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078527757307527637",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@krienes 对"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2058710627464712192",
+        "conversation_id": "2078527301923606901",
+        "created_at": "2026-07-18T17:10:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T18:10:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078527757307527637"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1964331185590718464",
+              "start": 0,
+              "username": "breakcoreWTF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078527757307527637",
+        "in_reply_to_user_id": "1964331185590718464",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078527301923606901",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@breakcoreWTF 喝断片了？？？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-06T14:13:55.000Z",
+        "description": "叫我筷子就可以了(:3っ )っ\nOD丨Vocaloid丨音游丨顺女 LGBTQ+friendly\n不卖药 只看互关私信 我很穷欢迎投喂\n不喜欢的直接b 查成分同类回fo 取关请双取",
+        "id": "1964331185590718464",
+        "location": "颅内",
+        "name": "箸",
+        "pinned_tweet_id": "2077686522225270845",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074711282427842560/EOM9Puhb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1078,
+          "following_count": 774,
+          "like_count": 30587,
+          "listed_count": 0,
+          "media_count": 332,
+          "tweet_count": 5924
+        },
+        "url": "",
+        "username": "breakcoreWTF",
+        "verified": true
+      },
+      {
+        "created_at": "2026-05-25T00:45:57.000Z",
+        "description": "",
+        "id": "2058710627464712192",
+        "name": "krien",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078362727270297600/wqd9I4Zw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 44,
+          "like_count": 401,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 370
+        },
+        "url": "",
+        "username": "krienes",
+        "verified": false
+      }
+    ]
+  }
+}

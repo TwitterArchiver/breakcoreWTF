@@ -1,0 +1,157 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2062205032330911744"
+      ]
+    },
+    "author_id": "1964331185590718464",
+    "conversation_id": "2062205098391109702",
+    "created_at": "2026-06-03T16:09:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-03T17:09:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2062205098391109702"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/m2TR9xDtqE",
+          "end": 23,
+          "expanded_url": "https://x.com/breakcoreWTF/status/2062205098391109702/video/1",
+          "media_key": "13_2062205032330911744",
+          "start": 0,
+          "url": "https://t.co/m2TR9xDtqE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062205098391109702",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/m2TR9xDtqE"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 11888,
+        "height": 1440,
+        "media_key": "13_2062205032330911744",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2062205032330911744/img/601KR4Q9MiGj_bJn.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2062205032330911744/vid/avc1/320x426/mQY2ZcAnE_Wg5GYV.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2062205032330911744/vid/avc1/480x640/BbUYUVsSjVCPOpGv.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2062205032330911744/vid/avc1/720x960/3RS9SPs-S0d3BCS7.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2062205032330911744/pl/OAZjtimMtRjgC0zT.m3u8?tag=14"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2062205032330911744"
+          ]
+        },
+        "author_id": "1964331185590718464",
+        "conversation_id": "2062205098391109702",
+        "created_at": "2026-06-03T16:09:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T17:09:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062205098391109702"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/m2TR9xDtqE",
+              "end": 23,
+              "expanded_url": "https://x.com/breakcoreWTF/status/2062205098391109702/video/1",
+              "media_key": "13_2062205032330911744",
+              "start": 0,
+              "url": "https://t.co/m2TR9xDtqE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062205098391109702",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/m2TR9xDtqE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-06T14:13:55.000Z",
+        "description": "OD丨自伤丨Vocaloid丨音游丨友跨顺女\n不喜欢的直接b 同类回fo 取关请双取",
+        "id": "1964331185590718464",
+        "location": "颅内",
+        "name": "箸",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061439509125074944/Hf-Lim6c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 661,
+          "following_count": 601,
+          "like_count": 14235,
+          "listed_count": 0,
+          "media_count": 210,
+          "tweet_count": 4218
+        },
+        "username": "breakcoreWTF",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1964331185590718464",
+    "conversation_id": "2062640841970294951",
+    "created_at": "2026-06-04T21:01:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-04T22:01:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062640841970294951"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1505958704427921410",
+          "start": 3,
+          "username": "hitodeden"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062640841970294951",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 155
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062401874238849468",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hitodeden: 例えば、男と女と無人島にぽんっ！と置かれてさ、で一般的な教育がされてない状態（人から知識を得られてない状態）でも自然と繁殖までの流れって辿りつけるもんなのかな。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1964331185590718464",
+        "conversation_id": "2062640841970294951",
+        "created_at": "2026-06-04T21:01:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T22:01:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062640841970294951"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1505958704427921410",
+              "start": 3,
+              "username": "hitodeden"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062640841970294951",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 155
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062401874238849468",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hitodeden: 例えば、男と女と無人島にぽんっ！と置かれてさ、で一般的な教育がされてない状態（人から知識を得られてない状態）でも自然と繁殖までの流れって辿りつけるもんなのかな。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1505958704427921410",
+        "conversation_id": "2062401874238849468",
+        "created_at": "2026-06-04T05:11:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T06:11:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062401874238849468"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2062401874238849468",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1160,
+          "impression_count": 2469650,
+          "like_count": 9894,
+          "quote_count": 156,
+          "reply_count": 334,
+          "retweet_count": 155
+        },
+        "reply_settings": "everyone",
+        "text": "例えば、男と女と無人島にぽんっ！と置かれてさ、で一般的な教育がされてない状態（人から知識を得られてない状態）でも自然と繁殖までの流れって辿りつけるもんなのかな。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-06T14:13:55.000Z",
+        "description": "OD丨自伤丨Vocaloid丨音游丨友跨顺女\n不喜欢的直接b 同类回fo 取关请双取",
+        "id": "1964331185590718464",
+        "location": "颅内",
+        "name": "箸",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061439509125074944/Hf-Lim6c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 678,
+          "following_count": 609,
+          "like_count": 14622,
+          "listed_count": 0,
+          "media_count": 216,
+          "tweet_count": 4327
+        },
+        "username": "breakcoreWTF",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-21T17:25:23.000Z",
+        "description": "漫画。\n日常等。",
+        "id": "1505958704427921410",
+        "location": "おふとん",
+        "name": "☆",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1841540689064341504/CrrWeQVr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33394,
+          "following_count": 1,
+          "like_count": 100648,
+          "listed_count": 221,
+          "media_count": 170,
+          "tweet_count": 22649
+        },
+        "username": "hitodeden",
+        "verified": false
+      }
+    ]
+  }
+}

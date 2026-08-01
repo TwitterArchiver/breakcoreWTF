@@ -1,0 +1,592 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1964331185590718464",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1416151893609390081",
+          "name": "LINE"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1416151893609390081",
+          "name": "LINE"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Drawing and sketching",
+          "id": "847869251595542528",
+          "name": "Drawing & illustration"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Drawing and sketching",
+          "id": "847869251595542528",
+          "name": "Drawing & illustration"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Visual Arts",
+          "id": "1046577790353428480",
+          "name": "Visual arts"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1265660441822281728",
+          "name": "Art"
+        }
+      }
+    ],
+    "conversation_id": "2003759252951978145",
+    "created_at": "2025-12-24T09:26:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-24T10:26:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2003759252951978145"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 31,
+          "normalized_text": "結月ゆかり",
+          "probability": 0.3453,
+          "start": 27,
+          "type": "Person"
+        },
+        {
+          "end": 49,
+          "normalized_text": "LINEスタンプ",
+          "probability": 0.3257,
+          "start": 42,
+          "type": "Product"
+        },
+        {
+          "end": 67,
+          "normalized_text": "もちしく 結月ゆかり",
+          "probability": 0.1687,
+          "start": 57,
+          "type": "Person"
+        },
+        {
+          "end": 74,
+          "normalized_text": "結月ゆかり雫",
+          "probability": 0.1863,
+          "start": 69,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "500580149",
+          "start": 3,
+          "username": "VOCALOMAKETS"
+        }
+      ],
+      "urls": [
+        {
+          "description": "結月ゆかりと結月ゆかり雫によるほのぼのラインスタンプです！ byもちしく",
+          "display_url": "store.line.me/stickershop/pr…",
+          "end": 127,
+          "expanded_url": "https://store.line.me/stickershop/product/23801715/ja",
+          "images": [
+            {
+              "height": 240,
+              "url": "https://pbs.twimg.com/news_img/2003737467829243905/cKGP6-99?format=png&name=orig",
+              "width": 240
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2003737467829243905/cKGP6-99?format=png&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 104,
+          "status": 200,
+          "title": "結月ゆかりと雫 byもちしく - LINE スタンプ | LINE STORE",
+          "unwound_url": "https://store.line.me/stickershop/product/23801715/ja",
+          "url": "https://t.co/NVWJoL8jYb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2003759252951978145",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 11
+    },
+    "referenced_tweets": [
+      {
+        "id": "2003737424082665796",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @VOCALOMAKETS: 【本日のPR】\n\n結月ゆかりと雫 byもちしく【LINEスタンプ】\nイラスト：もちしく\n\n結月ゆかりと結月ゆかり雫によるほのぼのラインスタンプです！ byもちしく\n\n詳細：https://t.co/NVWJoL8jYb https://t.c…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 800,
+        "media_key": "3_2003737421326974977",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G860kYVaAAEIRpk.png",
+        "width": 600
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1964331185590718464",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1416151893609390081",
+              "name": "LINE"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1416151893609390081",
+              "name": "LINE"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          }
+        ],
+        "conversation_id": "2003759252951978145",
+        "created_at": "2025-12-24T09:26:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-24T10:26:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2003759252951978145"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 31,
+              "normalized_text": "結月ゆかり",
+              "probability": 0.3453,
+              "start": 27,
+              "type": "Person"
+            },
+            {
+              "end": 49,
+              "normalized_text": "LINEスタンプ",
+              "probability": 0.3257,
+              "start": 42,
+              "type": "Product"
+            },
+            {
+              "end": 67,
+              "normalized_text": "もちしく 結月ゆかり",
+              "probability": 0.1687,
+              "start": 57,
+              "type": "Person"
+            },
+            {
+              "end": 74,
+              "normalized_text": "結月ゆかり雫",
+              "probability": 0.1863,
+              "start": 69,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "500580149",
+              "start": 3,
+              "username": "VOCALOMAKETS"
+            }
+          ],
+          "urls": [
+            {
+              "description": "結月ゆかりと結月ゆかり雫によるほのぼのラインスタンプです！ byもちしく",
+              "display_url": "store.line.me/stickershop/pr…",
+              "end": 127,
+              "expanded_url": "https://store.line.me/stickershop/product/23801715/ja",
+              "images": [
+                {
+                  "height": 240,
+                  "url": "https://pbs.twimg.com/news_img/2003737467829243905/cKGP6-99?format=png&name=orig",
+                  "width": 240
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2003737467829243905/cKGP6-99?format=png&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 104,
+              "status": 200,
+              "title": "結月ゆかりと雫 byもちしく - LINE スタンプ | LINE STORE",
+              "unwound_url": "https://store.line.me/stickershop/product/23801715/ja",
+              "url": "https://t.co/NVWJoL8jYb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003759252951978145",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 11
+        },
+        "referenced_tweets": [
+          {
+            "id": "2003737424082665796",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @VOCALOMAKETS: 【本日のPR】\n\n結月ゆかりと雫 byもちしく【LINEスタンプ】\nイラスト：もちしく\n\n結月ゆかりと結月ゆかり雫によるほのぼのラインスタンプです！ byもちしく\n\n詳細：https://t.co/NVWJoL8jYb https://t.c…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2003737421326974977"
+          ]
+        },
+        "author_id": "500580149",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1416151893609390081",
+              "name": "LINE"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1416151893609390081",
+              "name": "LINE"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          }
+        ],
+        "conversation_id": "2003737424082665796",
+        "created_at": "2025-12-24T08:00:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-24T09:00:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2003737424082665796"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 13,
+              "normalized_text": "結月ゆかり",
+              "probability": 0.3884,
+              "start": 9,
+              "type": "Person"
+            },
+            {
+              "end": 31,
+              "normalized_text": "LINEスタンプ",
+              "probability": 0.311,
+              "start": 24,
+              "type": "Product"
+            },
+            {
+              "end": 49,
+              "normalized_text": "もちしく 結月ゆかり",
+              "probability": 0.2187,
+              "start": 39,
+              "type": "Person"
+            },
+            {
+              "end": 56,
+              "normalized_text": "結月ゆかり雫",
+              "probability": 0.2398,
+              "start": 51,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "description": "結月ゆかりと結月ゆかり雫によるほのぼのラインスタンプです！ byもちしく",
+              "display_url": "store.line.me/stickershop/pr…",
+              "end": 109,
+              "expanded_url": "https://store.line.me/stickershop/product/23801715/ja",
+              "images": [
+                {
+                  "height": 240,
+                  "url": "https://pbs.twimg.com/news_img/2003737467829243905/cKGP6-99?format=png&name=orig",
+                  "width": 240
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2003737467829243905/cKGP6-99?format=png&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 86,
+              "status": 200,
+              "title": "結月ゆかりと雫 byもちしく - LINE スタンプ | LINE STORE",
+              "unwound_url": "https://store.line.me/stickershop/product/23801715/ja",
+              "url": "https://t.co/NVWJoL8jYb"
+            },
+            {
+              "display_url": "pic.x.com/kpZjEw65sN",
+              "end": 133,
+              "expanded_url": "https://x.com/VOCALOMAKETS/status/2003737424082665796/photo/1",
+              "media_key": "3_2003737421326974977",
+              "start": 110,
+              "url": "https://t.co/kpZjEw65sN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003737424082665796",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 1099,
+          "like_count": 62,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "【本日のPR】\n\n結月ゆかりと雫 byもちしく【LINEスタンプ】\nイラスト：もちしく\n\n結月ゆかりと結月ゆかり雫によるほのぼのラインスタンプです！ byもちしく\n\n詳細：https://t.co/NVWJoL8jYb https://t.co/kpZjEw65sN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-06T14:13:55.000Z",
+        "description": "中文/od/VOCALOID/音游 纯种乐子人性别不明推上啥都有 私信互关欢迎 我有对象 我很喜欢他",
+        "id": "1964331185590718464",
+        "location": "翼天国",
+        "name": "━Σ(ﾟДﾟ|||)━",
+        "pinned_tweet_id": "1966517785367871718",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001729011576426496/HumNDWc3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 48,
+          "following_count": 287,
+          "like_count": 2990,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 834
+        },
+        "username": "breakcoreWTF",
+        "verified": false
+      },
+      {
+        "created_at": "2012-02-23T08:19:10.000Z",
+        "description": "「何かワクワクするような、面白い事」をしたいクリエイターの集まりです。結月ゆかり・紲星あかりをプロデュースしています。※こちらのアカウントでは個別の返信を行っておりません。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "vocalomakets.com",
+                "end": 23,
+                "expanded_url": "http://www.vocalomakets.com/",
+                "start": 0,
+                "url": "https://t.co/zHlEiaj0oz"
+              }
+            ]
+          }
+        },
+        "id": "500580149",
+        "location": "東京都",
+        "name": "VOCALOMAKETS",
+        "pinned_tweet_id": "2003036109048295642",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2604676365/movoqsto8dowekzd7i58_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17024,
+          "following_count": 88,
+          "like_count": 14016,
+          "listed_count": 138,
+          "media_count": 1342,
+          "tweet_count": 6346
+        },
+        "url": "https://t.co/zHlEiaj0oz",
+        "username": "VOCALOMAKETS",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2006805701784399872"
+      ],
+      "media_source_tweet_id": [
+        "2006805758546161832"
+      ]
+    },
+    "author_id": "1964331185590718464",
+    "conversation_id": "2007418983910351169",
+    "created_at": "2026-01-03T11:49:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-03T12:49:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2007418983910351169"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1238520105841168386",
+          "start": 3,
+          "username": "akiraevils"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/521lbbdCwy",
+          "end": 39,
+          "expanded_url": "https://x.com/akiraevils/status/2006805758546161832/video/1",
+          "media_key": "13_2006805701784399872",
+          "start": 16,
+          "url": "https://t.co/521lbbdCwy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2007418983910351169",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2422
+    },
+    "referenced_tweets": [
+      {
+        "id": "2006805758546161832",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @akiraevils: https://t.co/521lbbdCwy"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 20666,
+        "height": 540,
+        "media_key": "13_2006805701784399872",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2006805701784399872/img/DpwfVEJnzJsbvmQz.jpg",
+        "public_metrics": {
+          "view_count": 39400
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2006805701784399872/vid/avc1/360x270/1i3-CJHgBQWs1wiY.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2006805701784399872/vid/avc1/480x360/dBAxhZmWFrlEzeR6.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2006805701784399872/vid/avc1/720x540/C12ogbpFaoGH1jeY.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2006805701784399872/pl/SJhi2XWx93m2Wi-U.m3u8?v=c61"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2006805701784399872"
+          ],
+          "media_source_tweet_id": [
+            "2006805758546161832"
+          ]
+        },
+        "author_id": "1964331185590718464",
+        "conversation_id": "2007418983910351169",
+        "created_at": "2026-01-03T11:49:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-03T12:49:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2007418983910351169"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1238520105841168386",
+              "start": 3,
+              "username": "akiraevils"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/521lbbdCwy",
+              "end": 39,
+              "expanded_url": "https://x.com/akiraevils/status/2006805758546161832/video/1",
+              "media_key": "13_2006805701784399872",
+              "start": 16,
+              "url": "https://t.co/521lbbdCwy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007418983910351169",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2422
+        },
+        "referenced_tweets": [
+          {
+            "id": "2006805758546161832",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @akiraevils: https://t.co/521lbbdCwy"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2006805701784399872"
+          ]
+        },
+        "author_id": "1238520105841168386",
+        "conversation_id": "2006805758546161832",
+        "created_at": "2026-01-01T19:12:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-01T20:12:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2006805758546161832"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/521lbbdCwy",
+              "end": 23,
+              "expanded_url": "https://x.com/akiraevils/status/2006805758546161832/video/1",
+              "media_key": "13_2006805701784399872",
+              "start": 0,
+              "url": "https://t.co/521lbbdCwy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006805758546161832",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1824,
+          "impression_count": 108510,
+          "like_count": 12148,
+          "quote_count": 22,
+          "reply_count": 13,
+          "retweet_count": 2422
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/521lbbdCwy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-06T14:13:55.000Z",
+        "description": "中文/od/VOCALOID/音游 纯种乐子人性别不明推上啥都有 会发泄情绪无需理会 私信互关欢迎",
+        "id": "1964331185590718464",
+        "location": "幻想郷",
+        "name": "━Σ(ﾟДﾟ|||)━",
+        "pinned_tweet_id": "2003760156488986744",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001729011576426496/HumNDWc3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 49,
+          "following_count": 306,
+          "like_count": 3384,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 994
+        },
+        "username": "breakcoreWTF",
+        "verified": false
+      },
+      {
+        "created_at": "2020-03-13T17:40:00.000Z",
+        "description": "yare yare",
+        "id": "1238520105841168386",
+        "name": "a k i r a",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002171596673335296/Z_aL7cN3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 45380,
+          "following_count": 2,
+          "like_count": 404,
+          "listed_count": 51,
+          "media_count": 181,
+          "tweet_count": 193
+        },
+        "username": "akiraevils",
+        "verified": true
+      }
+    ]
+  }
+}

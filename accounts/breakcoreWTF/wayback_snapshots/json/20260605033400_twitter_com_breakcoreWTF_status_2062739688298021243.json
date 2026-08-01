@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2062410980944969729"
+      ],
+      "media_source_tweet_id": [
+        "2062474445198066078"
+      ]
+    },
+    "author_id": "1964331185590718464",
+    "conversation_id": "2062739688298021243",
+    "created_at": "2026-06-05T03:34:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-05T04:34:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062739688298021243"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1920601980638052352",
+          "start": 3,
+          "username": "anindanet"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/TXcNBjotPX",
+          "end": 93,
+          "expanded_url": "https://x.com/anindanet/status/2062474445198066078/video/1",
+          "media_key": "13_2062410980944969729",
+          "start": 70,
+          "url": "https://t.co/TXcNBjotPX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062739688298021243",
+    "lang": "tr",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 847
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062474445198066078",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @anindanet: Bir adam, mavi gözlü kedisinin sevimliliğini paylaştı. https://t.co/TXcNBjotPX"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 8033,
+        "height": 1280,
+        "media_key": "13_2062410980944969729",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2062410980944969729/img/qbnDM2MuAODWsvHf.jpg",
+        "public_metrics": {
+          "view_count": 107876
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2062410980944969729/vid/avc1/320x568/Ths5fzyzp7xyTBvb.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2062410980944969729/vid/avc1/480x852/R2JY1la5z_D3EyQG.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2062410980944969729/vid/avc1/720x1280/wnm8H1JUZf2vjOeg.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2062410980944969729/pl/vAw5w-ZNmgBM6cl6.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2062410980944969729"
+          ],
+          "media_source_tweet_id": [
+            "2062474445198066078"
+          ]
+        },
+        "author_id": "1964331185590718464",
+        "conversation_id": "2062739688298021243",
+        "created_at": "2026-06-05T03:34:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T04:34:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062739688298021243"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1920601980638052352",
+              "start": 3,
+              "username": "anindanet"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/TXcNBjotPX",
+              "end": 93,
+              "expanded_url": "https://x.com/anindanet/status/2062474445198066078/video/1",
+              "media_key": "13_2062410980944969729",
+              "start": 70,
+              "url": "https://t.co/TXcNBjotPX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062739688298021243",
+        "lang": "tr",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 847
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062474445198066078",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @anindanet: Bir adam, mavi gözlü kedisinin sevimliliğini paylaştı. https://t.co/TXcNBjotPX"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2062410980944969729"
+          ]
+        },
+        "author_id": "1920601980638052352",
+        "conversation_id": "2062474445198066078",
+        "created_at": "2026-06-04T10:00:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T11:00:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062474445198066078"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TXcNBjotPX",
+              "end": 78,
+              "expanded_url": "https://x.com/anindanet/status/2062474445198066078/video/1",
+              "media_key": "13_2062410980944969729",
+              "start": 55,
+              "url": "https://t.co/TXcNBjotPX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062474445198066078",
+        "lang": "tr",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 768,
+          "impression_count": 329539,
+          "like_count": 13341,
+          "quote_count": 97,
+          "reply_count": 206,
+          "retweet_count": 847
+        },
+        "reply_settings": "everyone",
+        "text": "Bir adam, mavi gözlü kedisinin sevimliliğini paylaştı. https://t.co/TXcNBjotPX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-06T14:13:55.000Z",
+        "description": "OD丨自伤丨Vocaloid丨音游丨友跨顺女\n不喜欢的直接b 同类回fo 取关请双取",
+        "id": "1964331185590718464",
+        "location": "颅内",
+        "name": "箸",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061439509125074944/Hf-Lim6c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 683,
+          "following_count": 614,
+          "like_count": 14788,
+          "listed_count": 0,
+          "media_count": 217,
+          "tweet_count": 4376
+        },
+        "username": "breakcoreWTF",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-08T22:09:51.000Z",
+        "description": "⚡️Anlık gelişmeler ve sosyal medyanın gündemine oturan popüler paylaşımlar için takipte kalınız. | İletişim için DM.",
+        "id": "1920601980638052352",
+        "name": "Anında",
+        "pinned_tweet_id": "2062474445198066078",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035486270646878208/glqQqbvT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 147626,
+          "following_count": 37,
+          "like_count": 8047,
+          "listed_count": 57,
+          "media_count": 5323,
+          "tweet_count": 6242
+        },
+        "username": "anindanet",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,343 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1964331185590718464",
+    "conversation_id": "1970737263211663475",
+    "created_at": "2025-09-24T06:29:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-24T07:29:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1970737263211663475"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/tapiokanule/st…",
+          "end": 25,
+          "expanded_url": "https://twitter.com/tapiokanule/status/1970080743633424459",
+          "start": 2,
+          "url": "https://t.co/qUHg8Cmug8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1970737263211663475",
+    "lang": "qst",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1970080743633424459",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "？ https://t.co/qUHg8Cmug8"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 9680,
+        "height": 1128,
+        "media_key": "13_1970080680752340992",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1970080680752340992/img/81DE4oFtLsMxKA0h.jpg",
+        "public_metrics": {
+          "view_count": 644779
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1970080680752340992/vid/avc1/320x500/BKW_n_-8ng95RkC9.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1970080680752340992/vid/avc1/480x752/LE8QQSa13Qj8icB3.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1970080680752340992/vid/avc1/720x1128/XnGMP6Oe_DOGMqaA.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1970080680752340992/pl/9_Z-3xOBIuXtUHDr.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1964331185590718464",
+        "conversation_id": "1970737263211663475",
+        "created_at": "2025-09-24T06:29:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-24T07:29:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1970737263211663475"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/tapiokanule/st…",
+              "end": 25,
+              "expanded_url": "https://twitter.com/tapiokanule/status/1970080743633424459",
+              "start": 2,
+              "url": "https://t.co/qUHg8Cmug8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1970737263211663475",
+        "lang": "qst",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1970080743633424459",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "？ https://t.co/qUHg8Cmug8"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1970080680752340992"
+          ]
+        },
+        "author_id": "1220705663707275265",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597222535168",
+              "name": "Online Services - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10040276669",
+              "name": "Spotify"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "id": "1288826829634035714",
+              "name": "Backstage"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10040276669",
+              "name": "Spotify"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1196457934370172928",
+              "name": "Music industry"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1405172481590140933",
+              "name": "Music streaming service"
+            }
+          }
+        ],
+        "conversation_id": "1970080743633424459",
+        "created_at": "2025-09-22T11:00:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-22T12:00:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1970080743633424459"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/a9D5tQAPcN",
+              "end": 23,
+              "expanded_url": "https://x.com/tapiokanule/status/1970080743633424459/video/1",
+              "media_key": "13_1970080680752340992",
+              "start": 0,
+              "url": "https://t.co/a9D5tQAPcN"
+            },
+            {
+              "display_url": "x.com/saibasi644/sta…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/saibasi644/status/1968577769480040824",
+              "start": 24,
+              "url": "https://t.co/1vGnP6dQBd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1970080743633424459",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 12393,
+          "impression_count": 4502490,
+          "like_count": 71765,
+          "quote_count": 1565,
+          "reply_count": 2,
+          "retweet_count": 18557
+        },
+        "referenced_tweets": [
+          {
+            "id": "1968577769480040824",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "mentionedUsers",
+        "text": "https://t.co/a9D5tQAPcN https://t.co/1vGnP6dQBd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-06T14:13:55.000Z",
+        "description": "中文/od/自残/精神病/网蛆/VOCALOID/音游/舞萌w43/中二14.9/世界计划 无底线无雷点无素质 含暴论/地域黑/辱男女/发情等成分 私信互关欢迎 我有对象 我很喜欢他",
+        "id": "1964331185590718464",
+        "location": "翼天国",
+        "name": "💊人工時代完全犯罪",
+        "pinned_tweet_id": "1966517785367871718",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1964333475118665733/qxlL_t3T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41,
+          "following_count": 204,
+          "like_count": 1229,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 281
+        },
+        "username": "breakcoreWTF",
+        "verified": false
+      },
+      {
+        "created_at": "2020-01-24T13:52:12.000Z",
+        "description": "見る専",
+        "id": "1220705663707275265",
+        "name": "citron",
+        "pinned_tweet_id": "1260366020339879938",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1512751701316751360/krNu5pbw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 92,
+          "following_count": 130,
+          "like_count": 7307,
+          "listed_count": 1,
+          "media_count": 2,
+          "tweet_count": 114
+        },
+        "username": "tapiokanule",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,718 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1964331185590718464",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "description": "Nico Nico Douga",
+          "id": "1034894313908396037",
+          "name": "Nico Nico Douga"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Nico Nico Douga",
+          "id": "1034894313908396037",
+          "name": "Nico Nico Douga"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1293615037932646400",
+          "name": "YouTubers"
+        }
+      }
+    ],
+    "conversation_id": "2019725272543854926",
+    "created_at": "2026-02-06T10:50:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-06T11:50:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2019725272543854926"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 24,
+          "normalized_text": "罰して光",
+          "probability": 0.7262,
+          "start": 21,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "3262969398",
+          "start": 3,
+          "username": "7kiso_nakiso"
+        },
+        {
+          "end": 69,
+          "id": "3262969398",
+          "start": 56,
+          "username": "7kiso_nakiso"
+        },
+        {
+          "end": 90,
+          "id": "1154761448985255936",
+          "start": 82,
+          "username": "nurie_7"
+        }
+      ],
+      "urls": [
+        {
+          "description": "□Streaming / Downloadhttps://linkco.re/MDumGgH6なきそと申します。生まれ落ちてごめんね■音楽：なきそ　https://twitter.com/7kiso_nakiso■絵：鮫島ぬりえ　https://twitter.com/nurie_7▼オフボーカル・利用規約等ht...",
+          "display_url": "youtu.be/9wD-XL07Rbw",
+          "end": 126,
+          "expanded_url": "https://youtu.be/9wD-XL07Rbw",
+          "images": [
+            {
+              "height": 720,
+              "url": "https://pbs.twimg.com/news_img/2019670743844564992/vZrH6hOk?format=jpg&name=orig",
+              "width": 1280
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2019670743844564992/vZrH6hOk?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 103,
+          "status": 200,
+          "title": "罰して光 / 初音ミク",
+          "unwound_url": "https://www.youtube.com/watch?v=9wD-XL07Rbw&feature=youtu.be",
+          "url": "https://t.co/HLcVSO2Hqk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2019725272543854926",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 876
+    },
+    "referenced_tweets": [
+      {
+        "id": "2019712682908147786",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @7kiso_nakiso: 新曲『罰して光』を投稿しました。\n\n生まれ落ちてごめんね\n\n音楽─なきそ (@7kiso_nakiso )\n絵─ 鮫島ぬりえ (@nurie_7 )\n\n□YouTube\nhttps://t.co/HLcVSO2Hqk\n\n□niconico\nh…"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 22393,
+        "height": 1080,
+        "media_key": "13_2019636671541858304",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2019636671541858304/img/2ranGMwZ8G8ECGJX.jpg",
+        "public_metrics": {
+          "view_count": 8656
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2019636671541858304/vid/avc1/480x270/gnWv96GH9cb7sOPE.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2019636671541858304/vid/avc1/1280x720/gwcit23QCjcXMLUI.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2019636671541858304/vid/avc1/1920x1080/0cpeDSvUB7i7Tgph.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2019636671541858304/vid/avc1/640x360/4s37G85CpA9X8qvU.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2019636671541858304/pl/FpHhBh6euGC4mT5H.m3u8"
+          }
+        ],
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1964331185590718464",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "Nico Nico Douga",
+              "id": "1034894313908396037",
+              "name": "Nico Nico Douga"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Nico Nico Douga",
+              "id": "1034894313908396037",
+              "name": "Nico Nico Douga"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1293615037932646400",
+              "name": "YouTubers"
+            }
+          }
+        ],
+        "conversation_id": "2019725272543854926",
+        "created_at": "2026-02-06T10:50:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-06T11:50:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2019725272543854926"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 24,
+              "normalized_text": "罰して光",
+              "probability": 0.7262,
+              "start": 21,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "3262969398",
+              "start": 3,
+              "username": "7kiso_nakiso"
+            },
+            {
+              "end": 69,
+              "id": "3262969398",
+              "start": 56,
+              "username": "7kiso_nakiso"
+            },
+            {
+              "end": 90,
+              "id": "1154761448985255936",
+              "start": 82,
+              "username": "nurie_7"
+            }
+          ],
+          "urls": [
+            {
+              "description": "□Streaming / Downloadhttps://linkco.re/MDumGgH6なきそと申します。生まれ落ちてごめんね■音楽：なきそ　https://twitter.com/7kiso_nakiso■絵：鮫島ぬりえ　https://twitter.com/nurie_7▼オフボーカル・利用規約等ht...",
+              "display_url": "youtu.be/9wD-XL07Rbw",
+              "end": 126,
+              "expanded_url": "https://youtu.be/9wD-XL07Rbw",
+              "images": [
+                {
+                  "height": 720,
+                  "url": "https://pbs.twimg.com/news_img/2019670743844564992/vZrH6hOk?format=jpg&name=orig",
+                  "width": 1280
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2019670743844564992/vZrH6hOk?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 103,
+              "status": 200,
+              "title": "罰して光 / 初音ミク",
+              "unwound_url": "https://www.youtube.com/watch?v=9wD-XL07Rbw&feature=youtu.be",
+              "url": "https://t.co/HLcVSO2Hqk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019725272543854926",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 876
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019712682908147786",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @7kiso_nakiso: 新曲『罰して光』を投稿しました。\n\n生まれ落ちてごめんね\n\n音楽─なきそ (@7kiso_nakiso )\n絵─ 鮫島ぬりえ (@nurie_7 )\n\n□YouTube\nhttps://t.co/HLcVSO2Hqk\n\n□niconico\nh…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2019636671541858304"
+          ]
+        },
+        "author_id": "3262969398",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "Nico Nico Douga",
+              "id": "1034894313908396037",
+              "name": "Nico Nico Douga"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1247236287485997056",
+              "name": "Vocaloid"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Nico Nico Douga",
+              "id": "1034894313908396037",
+              "name": "Nico Nico Douga"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Anime/Game ",
+              "id": "1138508942156345344",
+              "name": "Anime & game music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1247236287485997056",
+              "name": "Vocaloid"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1293615037932646400",
+              "name": "YouTubers"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1509257234663952386",
+              "name": "Vocal synthesizers"
+            }
+          }
+        ],
+        "conversation_id": "2019712682908147786",
+        "created_at": "2026-02-06T10:00:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-06T11:00:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2019712682908147786"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 6,
+              "normalized_text": "罰して光",
+              "probability": 0.7925,
+              "start": 3,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 210,
+              "start": 201,
+              "tag": "VOCALOID"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 51,
+              "id": "3262969398",
+              "start": 38,
+              "username": "7kiso_nakiso"
+            },
+            {
+              "end": 72,
+              "id": "1154761448985255936",
+              "start": 64,
+              "username": "nurie_7"
+            }
+          ],
+          "urls": [
+            {
+              "description": "□Streaming / Downloadhttps://linkco.re/MDumGgH6なきそと申します。生まれ落ちてごめんね■音楽：なきそ　https://twitter.com/7kiso_nakiso■絵：鮫島ぬりえ　https://twitter.com/nurie_7▼オフボーカル・利用規約等ht...",
+              "display_url": "youtu.be/9wD-XL07Rbw",
+              "end": 108,
+              "expanded_url": "https://youtu.be/9wD-XL07Rbw",
+              "images": [
+                {
+                  "height": 720,
+                  "url": "https://pbs.twimg.com/news_img/2019670743844564992/vZrH6hOk?format=jpg&name=orig",
+                  "width": 1280
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2019670743844564992/vZrH6hOk?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 85,
+              "status": 200,
+              "title": "罰して光 / 初音ミク",
+              "unwound_url": "https://www.youtube.com/watch?v=9wD-XL07Rbw&feature=youtu.be",
+              "url": "https://t.co/HLcVSO2Hqk"
+            },
+            {
+              "description": "□Streaming / Download https://www.tunecore.co.jp/artists/NAKISO なきそと申します。 生まれ落ちてご...",
+              "display_url": "nicovideo.jp/watch/sm459157…",
+              "end": 143,
+              "expanded_url": "https://www.nicovideo.jp/watch/sm45915754",
+              "images": [
+                {
+                  "height": 720,
+                  "url": "https://pbs.twimg.com/news_img/2019712690478817280/VRsh7cw6?format=jpg&name=orig",
+                  "width": 1280
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2019712690478817280/VRsh7cw6?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 120,
+              "status": 200,
+              "title": "罰して光 / 初音ミク",
+              "unwound_url": "https://www.nicovideo.jp/watch/sm45915754",
+              "url": "https://t.co/m89yonfR2O"
+            },
+            {
+              "description": "シングル • 2026年 • 1曲 • 2分",
+              "display_url": "linkco.re/MDumGgH6",
+              "end": 199,
+              "expanded_url": "https://linkco.re/MDumGgH6",
+              "images": [
+                {
+                  "height": 800,
+                  "url": "https://pbs.twimg.com/news_img/2019712693779755008/Ue0HXyOc?format=png&name=orig",
+                  "width": 800
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2019712693779755008/Ue0HXyOc?format=png&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 176,
+              "status": 200,
+              "title": "罰して光 by なきそ",
+              "unwound_url": "https://linkco.re/MDumGgH6",
+              "url": "https://t.co/Sl2WrTl43v"
+            },
+            {
+              "display_url": "pic.x.com/narrxZRhu9",
+              "end": 234,
+              "expanded_url": "https://x.com/7kiso_nakiso/status/2019712682908147786/video/1",
+              "media_key": "13_2019636671541858304",
+              "start": 211,
+              "url": "https://t.co/narrxZRhu9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019712682908147786",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 247,
+          "impression_count": 35658,
+          "like_count": 2820,
+          "quote_count": 77,
+          "reply_count": 0,
+          "retweet_count": 876
+        },
+        "reply_settings": "everyone",
+        "text": "新曲『罰して光』を投稿しました。\n\n生まれ落ちてごめんね\n\n音楽─なきそ (@7kiso_nakiso )\n絵─ 鮫島ぬりえ (@nurie_7 )\n\n□YouTube\nhttps://t.co/HLcVSO2Hqk\n\n□niconico\nhttps://t.co/m89yonfR2O\n\n□Streaming / Download (順次配信予定)\nhttps://t.co/Sl2WrTl43v\n\n#VOCALOID https://t.co/narrxZRhu9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-06T14:13:55.000Z",
+        "description": "中文/od/自伤/友跨顺女/VOCALOID/音游 舞萌普通w53 纯种乐子人 推上啥都有 看到你不喜欢的东西请无视 对我的负能量关心不要太频繁 其他交流欢迎 我不想在推特都做不到口无遮拦 同类回fo 🚪40加微信纯绿可配聊 熟悉的推友可以免门费",
+        "id": "1964331185590718464",
+        "location": "Internet",
+        "name": "箸",
+        "pinned_tweet_id": "2016685165557534981",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015679257582964737/T8W4H246_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 438,
+          "following_count": 510,
+          "like_count": 6567,
+          "listed_count": 0,
+          "media_count": 112,
+          "tweet_count": 2052
+        },
+        "username": "breakcoreWTF",
+        "verified": false
+      },
+      {
+        "created_at": "2015-07-01T07:28:29.000Z",
+        "description": "NAKISO □info：@NAKISO_info □YouTube：https://t.co/OAqBUfGUSY □niconico：https://t.co/R9mpQAvU19",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 13,
+                "username": "NAKISO_info"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "youtube.com/@NAKISO",
+                "end": 58,
+                "expanded_url": "http://youtube.com/@NAKISO",
+                "start": 35,
+                "url": "https://t.co/OAqBUfGUSY"
+              },
+              {
+                "display_url": "nico.ms/user/53610183",
+                "end": 92,
+                "expanded_url": "http://nico.ms/user/53610183",
+                "start": 69,
+                "url": "https://t.co/R9mpQAvU19"
+              }
+            ]
+          }
+        },
+        "id": "3262969398",
+        "location": "7kiso.nakiso@gmail.com",
+        "name": "なきそ",
+        "pinned_tweet_id": "2019712682908147786",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1643824923683717121/fmpjBpsk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 180837,
+          "following_count": 224,
+          "like_count": 22315,
+          "listed_count": 489,
+          "media_count": 346,
+          "tweet_count": 1886
+        },
+        "username": "7kiso_nakiso",
+        "verified": true
+      },
+      {
+        "created_at": "2019-07-26T14:32:38.000Z",
+        "description": "絵 https://t.co/vMPOnd05Tr",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "lit.link/nurie7",
+                "end": 25,
+                "expanded_url": "https://lit.link/nurie7",
+                "start": 2,
+                "url": "https://t.co/vMPOnd05Tr"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "skeb.jp/@nurie_7",
+                "end": 23,
+                "expanded_url": "https://skeb.jp/@nurie_7",
+                "start": 0,
+                "url": "https://t.co/XKJf2NdfXl"
+              }
+            ]
+          }
+        },
+        "id": "1154761448985255936",
+        "name": "鮫島ぬりえ",
+        "pinned_tweet_id": "2019008895151391052",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1860792928056287232/8QSjkAI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 58453,
+          "following_count": 360,
+          "like_count": 19479,
+          "listed_count": 385,
+          "media_count": 64,
+          "tweet_count": 640
+        },
+        "url": "https://t.co/XKJf2NdfXl",
+        "username": "nurie_7",
+        "verified": false
+      }
+    ]
+  }
+}

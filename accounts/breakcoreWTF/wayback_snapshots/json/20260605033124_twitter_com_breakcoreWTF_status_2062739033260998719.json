@@ -1,0 +1,187 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1964331185590718464",
+    "conversation_id": "2062739033260998719",
+    "created_at": "2026-06-05T03:31:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-05T04:31:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062739033260998719"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2044080103232090112",
+          "start": 3,
+          "username": "_iz_u3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062739033260998719",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 40
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062299243986255951",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @_iz_u3: リスカって深いほど痛くないの私だけ？\n真皮まで切れた時と浅く切った時じゃ浅い方が痛い"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1964331185590718464",
+        "conversation_id": "2062739033260998719",
+        "created_at": "2026-06-05T03:31:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T04:31:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062739033260998719"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2044080103232090112",
+              "start": 3,
+              "username": "_iz_u3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062739033260998719",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 40
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062299243986255951",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @_iz_u3: リスカって深いほど痛くないの私だけ？\n真皮まで切れた時と浅く切った時じゃ浅い方が痛い"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2044080103232090112",
+        "conversation_id": "2062299243986255951",
+        "created_at": "2026-06-03T22:23:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T23:23:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062299243986255951"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2062299243986255951",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 35,
+          "impression_count": 52273,
+          "like_count": 1171,
+          "quote_count": 17,
+          "reply_count": 11,
+          "retweet_count": 40
+        },
+        "reply_settings": "everyone",
+        "text": "リスカって深いほど痛くないの私だけ？\n真皮まで切れた時と浅く切った時じゃ浅い方が痛い"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-06T14:13:55.000Z",
+        "description": "OD丨自伤丨Vocaloid丨音游丨友跨顺女\n不喜欢的直接b 同类回fo 取关请双取",
+        "id": "1964331185590718464",
+        "location": "颅内",
+        "name": "箸",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061439509125074944/Hf-Lim6c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 683,
+          "following_count": 614,
+          "like_count": 14775,
+          "listed_count": 0,
+          "media_count": 217,
+          "tweet_count": 4373
+        },
+        "username": "breakcoreWTF",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-14T15:47:49.000Z",
+        "description": "251 @mayu03250825",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 4,
+                "username": "mayu03250825"
+              }
+            ]
+          }
+        },
+        "id": "2044080103232090112",
+        "location": "ゴミの呟き",
+        "name": "和泉",
+        "pinned_tweet_id": "2061948207341666737",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060622174931898368/ZX5FWzfJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 102,
+          "following_count": 58,
+          "like_count": 8314,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 755
+        },
+        "username": "_iz_u3",
+        "verified": false
+      }
+    ]
+  }
+}

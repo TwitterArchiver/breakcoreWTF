@@ -1,0 +1,390 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1871581383107416064"
+      ],
+      "media_source_tweet_id": [
+        "1871581388383961201"
+      ]
+    },
+    "author_id": "1964331185590718464",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1390782787301494785",
+          "name": "Touhou Project"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1390782787301494785",
+          "name": "Touhou Project"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1403427158953922560",
+          "name": "Shooting games"
+        }
+      }
+    ],
+    "conversation_id": "2004054726137225436",
+    "created_at": "2025-12-25T05:00:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-25T06:00:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2004054726137225436"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 32,
+          "start": 22,
+          "tag": "東方Project"
+        },
+        {
+          "end": 38,
+          "start": 33,
+          "tag": "藤原妹紅"
+        },
+        {
+          "end": 45,
+          "start": 39,
+          "tag": "蓬莱山輝夜"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 18,
+          "id": "962900358048567296",
+          "start": 3,
+          "username": "sniper16783072"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/iTrAuomCa1",
+          "end": 69,
+          "expanded_url": "https://x.com/sniper16783072/status/1871581388383961201/photo/1",
+          "media_key": "3_1871581383107416064",
+          "start": 46,
+          "url": "https://t.co/iTrAuomCa1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2004054726137225436",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 552
+    },
+    "referenced_tweets": [
+      {
+        "id": "1871581388383961201",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @sniper16783072: 🎄\n#東方Project #藤原妹紅 #蓬莱山輝夜 https://t.co/iTrAuomCa1"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1429,
+        "media_key": "3_1871581383107416064",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GfkxWhRaEAAL5mz.jpg",
+        "width": 1589
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1871581383107416064"
+          ],
+          "media_source_tweet_id": [
+            "1871581388383961201"
+          ]
+        },
+        "author_id": "1964331185590718464",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1390782787301494785",
+              "name": "Touhou Project"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1390782787301494785",
+              "name": "Touhou Project"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1403427158953922560",
+              "name": "Shooting games"
+            }
+          }
+        ],
+        "conversation_id": "2004054726137225436",
+        "created_at": "2025-12-25T05:00:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-25T06:00:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2004054726137225436"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 32,
+              "start": 22,
+              "tag": "東方Project"
+            },
+            {
+              "end": 38,
+              "start": 33,
+              "tag": "藤原妹紅"
+            },
+            {
+              "end": 45,
+              "start": 39,
+              "tag": "蓬莱山輝夜"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 18,
+              "id": "962900358048567296",
+              "start": 3,
+              "username": "sniper16783072"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/iTrAuomCa1",
+              "end": 69,
+              "expanded_url": "https://x.com/sniper16783072/status/1871581388383961201/photo/1",
+              "media_key": "3_1871581383107416064",
+              "start": 46,
+              "url": "https://t.co/iTrAuomCa1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004054726137225436",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 552
+        },
+        "referenced_tweets": [
+          {
+            "id": "1871581388383961201",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @sniper16783072: 🎄\n#東方Project #藤原妹紅 #蓬莱山輝夜 https://t.co/iTrAuomCa1"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1871581383107416064"
+          ]
+        },
+        "author_id": "962900358048567296",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1390782787301494785",
+              "name": "Touhou Project"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1390782787301494785",
+              "name": "Touhou Project"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1403427158953922560",
+              "name": "Shooting games"
+            }
+          }
+        ],
+        "conversation_id": "1871581388383961201",
+        "created_at": "2024-12-24T15:39:09.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-24T16:39:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1871581388383961201"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 12,
+              "start": 2,
+              "tag": "東方Project"
+            },
+            {
+              "end": 18,
+              "start": 13,
+              "tag": "藤原妹紅"
+            },
+            {
+              "end": 25,
+              "start": 19,
+              "tag": "蓬莱山輝夜"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/iTrAuomCa1",
+              "end": 49,
+              "expanded_url": "https://x.com/sniper16783072/status/1871581388383961201/photo/1",
+              "media_key": "3_1871581383107416064",
+              "start": 26,
+              "url": "https://t.co/iTrAuomCa1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1871581388383961201",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 290,
+          "impression_count": 39621,
+          "like_count": 2766,
+          "quote_count": 9,
+          "reply_count": 6,
+          "retweet_count": 552
+        },
+        "reply_settings": "everyone",
+        "text": "🎄\n#東方Project #藤原妹紅 #蓬莱山輝夜 https://t.co/iTrAuomCa1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-06T14:13:55.000Z",
+        "description": "中文/od/VOCALOID/音游 纯种乐子人性别不明推上啥都有 私信互关欢迎",
+        "id": "1964331185590718464",
+        "location": "幻想郷",
+        "name": "━Σ(ﾟДﾟ|||)━",
+        "pinned_tweet_id": "2003760156488986744",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001729011576426496/HumNDWc3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 49,
+          "following_count": 288,
+          "like_count": 3111,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 893
+        },
+        "username": "breakcoreWTF",
+        "verified": false
+      },
+      {
+        "created_at": "2018-02-12T04:05:09.000Z",
+        "description": "どうも、sniper（スナイパー）です。2024/10/6東方紅楼夢でサークル初参加。Xはほぼ見る専でしたが、宣伝のため期間限定のつもりでイラスト投稿したら、リアクションやフォロー下さる方がいらっしゃり辞めるに辞めれなくなった所存です。絵はよく描くので、東方やらデジモンやらカービィやら色々✏️",
+        "id": "962900358048567296",
+        "name": "sniper",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842226885952159744/x9D8GSwj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1349,
+          "following_count": 78,
+          "like_count": 15617,
+          "listed_count": 11,
+          "media_count": 109,
+          "tweet_count": 733
+        },
+        "username": "sniper16783072",
+        "verified": false
+      }
+    ]
+  }
+}

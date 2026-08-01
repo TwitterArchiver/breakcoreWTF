@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1984259933815312384"
+      ],
+      "media_source_tweet_id": [
+        "1984259936612950068"
+      ]
+    },
+    "author_id": "1964331185590718464",
+    "conversation_id": "1985724738208137684",
+    "created_at": "2025-11-04T15:04:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-04T16:04:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1985724738208137684"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1567266247171252224",
+          "start": 3,
+          "username": "tukemono6500"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/FfUKyPhwH6",
+          "end": 49,
+          "expanded_url": "https://x.com/tukemono6500/status/1984259936612950068/photo/1",
+          "media_key": "3_1984259933815312384",
+          "start": 26,
+          "url": "https://t.co/FfUKyPhwH6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1985724738208137684",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3124
+    },
+    "referenced_tweets": [
+      {
+        "id": "1984259936612950068",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "RT @tukemono6500: クソ雑重音テト https://t.co/FfUKyPhwH6"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1985724738208137684].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1985724738208137684",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1985724738208137684"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1984259933815312384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4mB5ZEaEAAqK4k.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1984259933815312384"
+          ]
+        },
+        "author_id": "1567266247171252224",
+        "conversation_id": "1984259936612950068",
+        "created_at": "2025-10-31T14:03:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-31T15:03:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1984259936612950068"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FfUKyPhwH6",
+              "end": 31,
+              "expanded_url": "https://x.com/tukemono6500/status/1984259936612950068/photo/1",
+              "media_key": "3_1984259933815312384",
+              "start": 8,
+              "url": "https://t.co/FfUKyPhwH6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984259936612950068",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 13511,
+          "impression_count": 897366,
+          "like_count": 78310,
+          "quote_count": 53,
+          "reply_count": 0,
+          "retweet_count": 3124
+        },
+        "reply_settings": "following",
+        "text": "クソ雑重音テト https://t.co/FfUKyPhwH6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-06T14:13:55.000Z",
+        "description": "中文/od/VOCALOID/音游/舞萌w47/世界计划 无底线无雷点无素质 含暴论/地域黑/辱男女/发情等成分 推特是我发泄负能放开自己的地方 私信互关欢迎 我有对象 我很喜欢他",
+        "id": "1964331185590718464",
+        "location": "翼天国",
+        "name": "━Σ(ﾟДﾟ|||)━",
+        "pinned_tweet_id": "1966517785367871718",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976879373207977984/JH6MsfDA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38,
+          "following_count": 244,
+          "like_count": 2068,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 516
+        },
+        "username": "breakcoreWTF",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-06T21:39:43.000Z",
+        "description": "ヘッダー描いてくれた友達→ @PickleS1002D",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 14,
+                "username": "PickleS1002D"
+              }
+            ]
+          }
+        },
+        "id": "1567266247171252224",
+        "name": "ふももの",
+        "pinned_tweet_id": "1972225048393253162",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1982136708448526337/HOe6fXAn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 70159,
+          "following_count": 4,
+          "like_count": 19519,
+          "listed_count": 203,
+          "media_count": 1198,
+          "tweet_count": 5784
+        },
+        "username": "tukemono6500",
+        "verified": false
+      }
+    ]
+  }
+}

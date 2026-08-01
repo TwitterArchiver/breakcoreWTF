@@ -1,0 +1,468 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2016477044461223936"
+      ],
+      "media_source_tweet_id": [
+        "2016477150468350303"
+      ]
+    },
+    "author_id": "1964331185590718464",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1104125539877412864",
+          "name": "Miku Hatsune"
+        }
+      },
+      {
+        "domain": {
+          "description": "A person or other being in a narrative work of art, like Tom Sawyer or Jon Snow",
+          "id": "122",
+          "name": "Fictional Character"
+        },
+        "entity": {
+          "id": "1104125539877412864",
+          "name": "Miku Hatsune"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1104125539877412864",
+          "name": "Miku Hatsune"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1247236287485997056",
+          "name": "Vocaloid"
+        }
+      }
+    ],
+    "conversation_id": "2016606899429589058",
+    "created_at": "2026-01-28T20:18:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-28T21:18:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2016606899429589058"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 16,
+          "normalized_text": "初音ミク",
+          "probability": 0.6535,
+          "start": 13,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1708980810",
+          "start": 3,
+          "username": "skyw315"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/mXg3tJSgV7",
+          "end": 44,
+          "expanded_url": "https://x.com/skyw315/status/2016477150468350303/video/1",
+          "media_key": "13_2016477044461223936",
+          "start": 21,
+          "url": "https://t.co/mXg3tJSgV7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2016606899429589058",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 566
+    },
+    "referenced_tweets": [
+      {
+        "id": "2016477150468350303",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @skyw315: 初音ミクの暴走 https://t.co/mXg3tJSgV7"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 3358,
+        "height": 1080,
+        "media_key": "13_2016477044461223936",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2016477044461223936/img/aArjOi1jFFYK5igp.jpg",
+        "public_metrics": {
+          "view_count": 19807
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2016477044461223936/vid/avc1/960x720/uMqhfLueaOcBq7rm.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2016477044461223936/vid/avc1/1440x1080/-mfrCo8OC2lyKRqR.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2016477044461223936/vid/avc1/480x360/MYFnacjmWBfgCOKN.mp4"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2016477044461223936/vid/avc1/360x270/NXypgVak9jtW-e9p.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2016477044461223936/pl/LLKw_olm9L0i86gv.m3u8"
+          }
+        ],
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2016477044461223936"
+          ],
+          "media_source_tweet_id": [
+            "2016477150468350303"
+          ]
+        },
+        "author_id": "1964331185590718464",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "A person or other being in a narrative work of art, like Tom Sawyer or Jon Snow",
+              "id": "122",
+              "name": "Fictional Character"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1247236287485997056",
+              "name": "Vocaloid"
+            }
+          }
+        ],
+        "conversation_id": "2016606899429589058",
+        "created_at": "2026-01-28T20:18:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-28T21:18:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016606899429589058"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 16,
+              "normalized_text": "初音ミク",
+              "probability": 0.6535,
+              "start": 13,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1708980810",
+              "start": 3,
+              "username": "skyw315"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/mXg3tJSgV7",
+              "end": 44,
+              "expanded_url": "https://x.com/skyw315/status/2016477150468350303/video/1",
+              "media_key": "13_2016477044461223936",
+              "start": 21,
+              "url": "https://t.co/mXg3tJSgV7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016606899429589058",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 566
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016477150468350303",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @skyw315: 初音ミクの暴走 https://t.co/mXg3tJSgV7"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2016477044461223936"
+          ]
+        },
+        "author_id": "1708980810",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "A person or other being in a narrative work of art, like Tom Sawyer or Jon Snow",
+              "id": "122",
+              "name": "Fictional Character"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1247236287485997056",
+              "name": "Vocaloid"
+            }
+          }
+        ],
+        "conversation_id": "2016477150468350303",
+        "created_at": "2026-01-28T11:43:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-28T12:43:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2016477150468350303"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 3,
+              "normalized_text": "初音ミク",
+              "probability": 0.6765,
+              "start": 0,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/mXg3tJSgV7",
+              "end": 31,
+              "expanded_url": "https://x.com/skyw315/status/2016477150468350303/video/1",
+              "media_key": "13_2016477044461223936",
+              "start": 8,
+              "url": "https://t.co/mXg3tJSgV7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016477150468350303",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 633,
+          "impression_count": 46123,
+          "like_count": 4394,
+          "quote_count": 17,
+          "reply_count": 4,
+          "retweet_count": 566
+        },
+        "reply_settings": "everyone",
+        "text": "初音ミクの暴走 https://t.co/mXg3tJSgV7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-06T14:13:55.000Z",
+        "description": "中文/od/自伤/VOCALOID/音游 舞萌普通w53 纯种乐子人 友跨性别不公开 推上啥都有 会发泄情绪无需理会 私信互关欢迎 🚪40加微信纯绿可陪聊",
+        "id": "1964331185590718464",
+        "location": "Internet",
+        "name": "薄幸",
+        "pinned_tweet_id": "2003760156488986744",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015679257582964737/T8W4H246_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 58,
+          "following_count": 346,
+          "like_count": 4200,
+          "listed_count": 0,
+          "media_count": 48,
+          "tweet_count": 1334
+        },
+        "username": "breakcoreWTF",
+        "verified": false
+      },
+      {
+        "created_at": "2013-08-29T04:23:14.000Z",
+        "description": "読みはダンジョウ ソラです。絵と映像をしています。 詳細・依頼について https://t.co/IP6dw2iCTJ ғᴀɴᴀʀᴛ💔#sorapiart 通販 https://t.co/z2r8PSMjDa",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 77,
+                "start": 67,
+                "tag": "sorapiart"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "lit.link/skyw315",
+                "end": 59,
+                "expanded_url": "https://lit.link/skyw315",
+                "start": 36,
+                "url": "https://t.co/IP6dw2iCTJ"
+              },
+              {
+                "display_url": "skyw315.booth.pm",
+                "end": 104,
+                "expanded_url": "https://skyw315.booth.pm/",
+                "start": 81,
+                "url": "https://t.co/z2r8PSMjDa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "skyw315.wixsite.com/skyw315",
+                "end": 23,
+                "expanded_url": "https://skyw315.wixsite.com/skyw315",
+                "start": 0,
+                "url": "https://t.co/ee3EWkYb20"
+              }
+            ]
+          }
+        },
+        "id": "1708980810",
+        "location": "AI学習・無断転載禁止です",
+        "name": "檀上大空",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006382439074263040/1c-lDHjH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 71350,
+          "following_count": 517,
+          "like_count": 9021,
+          "listed_count": 590,
+          "media_count": 629,
+          "tweet_count": 695
+        },
+        "url": "https://t.co/ee3EWkYb20",
+        "username": "skyw315",
+        "verified": true
+      }
+    ]
+  }
+}

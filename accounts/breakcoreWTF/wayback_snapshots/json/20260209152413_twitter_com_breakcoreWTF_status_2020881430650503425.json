@@ -1,0 +1,377 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2020801871116718080",
+        "3_2020801871297028096",
+        "3_2020801871309578240"
+      ],
+      "media_source_tweet_id": [
+        "2020801893824385400",
+        "2020801893824385400",
+        "2020801893824385400"
+      ]
+    },
+    "author_id": "1964331185590718464",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2020881430650503425",
+    "created_at": "2026-02-09T15:24:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-09T16:24:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2020881430650503425"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 18,
+          "normalized_text": "衛拓",
+          "probability": 0.5809,
+          "start": 17,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1993228729150324740",
+          "start": 3,
+          "username": "Mercury_403"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/O60zhzEL0z",
+          "end": 65,
+          "expanded_url": "https://x.com/Mercury_403/status/2020801893824385400/photo/1",
+          "media_key": "3_2020801871116718080",
+          "start": 42,
+          "url": "https://t.co/O60zhzEL0z"
+        },
+        {
+          "display_url": "pic.x.com/O60zhzEL0z",
+          "end": 65,
+          "expanded_url": "https://x.com/Mercury_403/status/2020801893824385400/photo/1",
+          "media_key": "3_2020801871297028096",
+          "start": 42,
+          "url": "https://t.co/O60zhzEL0z"
+        },
+        {
+          "display_url": "pic.x.com/O60zhzEL0z",
+          "end": 65,
+          "expanded_url": "https://x.com/Mercury_403/status/2020801893824385400/photo/1",
+          "media_key": "3_2020801871309578240",
+          "start": 42,
+          "url": "https://t.co/O60zhzEL0z"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2020881430650503425",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 413
+    },
+    "referenced_tweets": [
+      {
+        "id": "2020801893824385400",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Mercury_403: 衛拓 捏他needy girl overdose https://t.co/O60zhzEL0z"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2480,
+        "media_key": "3_2020801871116718080",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAtUmFlbUAAPZj4.jpg",
+        "width": 3508
+      },
+      {
+        "height": 2480,
+        "media_key": "3_2020801871297028096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAtUmGQaoAAZLm_.jpg",
+        "width": 3508
+      },
+      {
+        "height": 1986,
+        "media_key": "3_2020801871309578240",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAtUmGTaIAAYFN6.jpg",
+        "width": 3351
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2020801871116718080",
+            "3_2020801871297028096",
+            "3_2020801871309578240"
+          ],
+          "media_source_tweet_id": [
+            "2020801893824385400",
+            "2020801893824385400",
+            "2020801893824385400"
+          ]
+        },
+        "author_id": "1964331185590718464",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2020881430650503425",
+        "created_at": "2026-02-09T15:24:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-09T16:24:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2020881430650503425"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 18,
+              "normalized_text": "衛拓",
+              "probability": 0.5809,
+              "start": 17,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1993228729150324740",
+              "start": 3,
+              "username": "Mercury_403"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/O60zhzEL0z",
+              "end": 65,
+              "expanded_url": "https://x.com/Mercury_403/status/2020801893824385400/photo/1",
+              "media_key": "3_2020801871116718080",
+              "start": 42,
+              "url": "https://t.co/O60zhzEL0z"
+            },
+            {
+              "display_url": "pic.x.com/O60zhzEL0z",
+              "end": 65,
+              "expanded_url": "https://x.com/Mercury_403/status/2020801893824385400/photo/1",
+              "media_key": "3_2020801871297028096",
+              "start": 42,
+              "url": "https://t.co/O60zhzEL0z"
+            },
+            {
+              "display_url": "pic.x.com/O60zhzEL0z",
+              "end": 65,
+              "expanded_url": "https://x.com/Mercury_403/status/2020801893824385400/photo/1",
+              "media_key": "3_2020801871309578240",
+              "start": 42,
+              "url": "https://t.co/O60zhzEL0z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020881430650503425",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 413
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020801893824385400",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Mercury_403: 衛拓 捏他needy girl overdose https://t.co/O60zhzEL0z"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2020801871116718080",
+            "3_2020801871297028096",
+            "3_2020801871309578240"
+          ]
+        },
+        "author_id": "1993228729150324740",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2020801893824385400",
+        "created_at": "2026-02-09T10:08:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-09T11:08:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2020801893824385400"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 1,
+              "normalized_text": "衛拓",
+              "probability": 0.6645,
+              "start": 0,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/O60zhzEL0z",
+              "end": 48,
+              "expanded_url": "https://x.com/Mercury_403/status/2020801893824385400/photo/1",
+              "media_key": "3_2020801871116718080",
+              "start": 25,
+              "url": "https://t.co/O60zhzEL0z"
+            },
+            {
+              "display_url": "pic.x.com/O60zhzEL0z",
+              "end": 48,
+              "expanded_url": "https://x.com/Mercury_403/status/2020801893824385400/photo/1",
+              "media_key": "3_2020801871297028096",
+              "start": 25,
+              "url": "https://t.co/O60zhzEL0z"
+            },
+            {
+              "display_url": "pic.x.com/O60zhzEL0z",
+              "end": 48,
+              "expanded_url": "https://x.com/Mercury_403/status/2020801893824385400/photo/1",
+              "media_key": "3_2020801871309578240",
+              "start": 25,
+              "url": "https://t.co/O60zhzEL0z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020801893824385400",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 757,
+          "impression_count": 48283,
+          "like_count": 3254,
+          "quote_count": 25,
+          "reply_count": 5,
+          "retweet_count": 413
+        },
+        "reply_settings": "everyone",
+        "text": "衛拓 捏他needy girl overdose https://t.co/O60zhzEL0z"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-06T14:13:55.000Z",
+        "description": "中文/od/自伤/友跨女/VOCALOID/音游 舞萌普通w53 纯种乐子人 遇到不喜欢的直接b 推上啥都有 看到你不喜欢的东西请无视 对我的负能量关心不要太频繁 其他交流欢迎 我不想在推特都做不到口无遮拦 同类回fo 🚪40加微信纯绿可配聊 熟悉的推友可以免门费",
+        "id": "1964331185590718464",
+        "location": "Internet",
+        "name": "箸",
+        "pinned_tweet_id": "2016685165557534981",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019848796881186816/pdjXkx-3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 467,
+          "following_count": 539,
+          "like_count": 7383,
+          "listed_count": 0,
+          "media_count": 120,
+          "tweet_count": 2230
+        },
+        "username": "breakcoreWTF",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-25T08:02:28.000Z",
+        "description": "20↑丨🌙🌊🔁❌丨低浮上 仅堆图用 随时删画",
+        "id": "1993228729150324740",
+        "name": "水银海🌙🌊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993231281723719680/1h0whSjj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 485,
+          "following_count": 0,
+          "like_count": 0,
+          "listed_count": 2,
+          "media_count": 10,
+          "tweet_count": 12
+        },
+        "username": "Mercury_403",
+        "verified": false
+      }
+    ]
+  }
+}

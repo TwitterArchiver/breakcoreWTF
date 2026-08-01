@@ -1,0 +1,199 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1964331185590718464",
+    "conversation_id": "2001736690784981035",
+    "created_at": "2025-12-18T19:29:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-18T20:29:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2001736690784981035"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1384536357461061635",
+          "start": 3,
+          "username": "__mp40"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2001736690784981035",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993985817078022639",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @__mp40: 性格の悪い人に「君って素で他人を見下してるよね」って言うと何故か喜ぶよね\n\n嫌味のつもりなんだけど、伝わってないのかな？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1964331185590718464",
+        "conversation_id": "2001736690784981035",
+        "created_at": "2025-12-18T19:29:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-18T20:29:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2001736690784981035"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1384536357461061635",
+              "start": 3,
+              "username": "__mp40"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001736690784981035",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993985817078022639",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @__mp40: 性格の悪い人に「君って素で他人を見下してるよね」って言うと何故か喜ぶよね\n\n嫌味のつもりなんだけど、伝わってないのかな？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1384536357461061635",
+        "conversation_id": "1993985817078022639",
+        "created_at": "2025-11-27T10:10:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-27T11:10:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1993985817078022639"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1993985817078022639",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1315,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "性格の悪い人に「君って素で他人を見下してるよね」って言うと何故か喜ぶよね\n\n嫌味のつもりなんだけど、伝わってないのかな？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-06T14:13:55.000Z",
+        "description": "中文/od/VOCALOID/音游 纯种乐子人性别不明推上啥都有 私信互关欢迎 我有对象 我很喜欢他",
+        "id": "1964331185590718464",
+        "location": "翼天国",
+        "name": "━Σ(ﾟДﾟ|||)━",
+        "pinned_tweet_id": "1966517785367871718",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001729011576426496/HumNDWc3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 48,
+          "following_count": 271,
+          "like_count": 2681,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 704
+        },
+        "username": "breakcoreWTF",
+        "verified": false
+      },
+      {
+        "created_at": "2021-04-20T15:56:13.000Z",
+        "description": "𝘀𝘂𝗯 @__mp44",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 4,
+                "username": "__mp44"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mp40s.github.io/MyPortfolio/",
+                "end": 23,
+                "expanded_url": "https://mp40s.github.io/MyPortfolio/",
+                "start": 0,
+                "url": "https://t.co/WN07RVl4Rv"
+              }
+            ]
+          }
+        },
+        "id": "1384536357461061635",
+        "name": "⚑おかしら もっぷ⚐︎",
+        "pinned_tweet_id": "1919712106640716283",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1395389865789771782/voGpz51y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16259,
+          "following_count": 0,
+          "like_count": 26,
+          "listed_count": 12,
+          "media_count": 303,
+          "tweet_count": 603
+        },
+        "url": "https://t.co/WN07RVl4Rv",
+        "username": "__mp40",
+        "verified": false
+      }
+    ]
+  }
+}

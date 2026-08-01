@@ -1,0 +1,315 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1972984561765380096"
+      ],
+      "media_source_tweet_id": [
+        "1972984624537350284"
+      ]
+    },
+    "author_id": "1964331185590718464",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1974038934331273504",
+    "created_at": "2025-10-03T09:08:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-03T10:08:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1974038934331273504"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "819911529906610176",
+          "start": 3,
+          "username": "Shimon0518"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/eFUMEG6zWj",
+          "end": 42,
+          "expanded_url": "https://x.com/Shimon0518/status/1972984624537350284/video/1",
+          "media_key": "13_1972984561765380096",
+          "start": 19,
+          "url": "https://t.co/eFUMEG6zWj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1974038934331273504",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 420
+    },
+    "referenced_tweets": [
+      {
+        "id": "1972984624537350284",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Shimon0518: かに https://t.co/eFUMEG6zWj"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 10148,
+        "height": 1080,
+        "media_key": "13_1972984561765380096",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1972984561765380096/img/n-AW1JxPVK8yX_tY.jpg",
+        "public_metrics": {
+          "view_count": 12978
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1972984561765380096/vid/avc1/1280x720/D7G-7HA7p55JHt75.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1972984561765380096/pl/AMaolHgK70FtJj0O.m3u8?v=cfc"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1972984561765380096/vid/avc1/640x360/sWk1tmwEZZaox4sH.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1972984561765380096/vid/avc1/1920x1080/B5H9bU6nhBWm_r3b.mp4"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1972984561765380096/vid/avc1/480x270/yRwdzASTJSdyinWi.mp4"
+          }
+        ],
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1972984561765380096"
+          ],
+          "media_source_tweet_id": [
+            "1972984624537350284"
+          ]
+        },
+        "author_id": "1964331185590718464",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1974038934331273504",
+        "created_at": "2025-10-03T09:08:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-03T10:08:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1974038934331273504"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "819911529906610176",
+              "start": 3,
+              "username": "Shimon0518"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/eFUMEG6zWj",
+              "end": 42,
+              "expanded_url": "https://x.com/Shimon0518/status/1972984624537350284/video/1",
+              "media_key": "13_1972984561765380096",
+              "start": 19,
+              "url": "https://t.co/eFUMEG6zWj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974038934331273504",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 420
+        },
+        "referenced_tweets": [
+          {
+            "id": "1972984624537350284",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Shimon0518: かに https://t.co/eFUMEG6zWj"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1972984561765380096"
+          ]
+        },
+        "author_id": "819911529906610176",
+        "conversation_id": "1972984624537350284",
+        "created_at": "2025-09-30T11:19:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-30T12:19:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1972984624537350284"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/eFUMEG6zWj",
+              "end": 26,
+              "expanded_url": "https://x.com/Shimon0518/status/1972984624537350284/video/1",
+              "media_key": "13_1972984561765380096",
+              "start": 3,
+              "url": "https://t.co/eFUMEG6zWj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1972984624537350284",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 184,
+          "impression_count": 40393,
+          "like_count": 2488,
+          "quote_count": 41,
+          "reply_count": 33,
+          "retweet_count": 420
+        },
+        "reply_settings": "everyone",
+        "text": "かに https://t.co/eFUMEG6zWj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-06T14:13:55.000Z",
+        "description": "中文/od/自残/精神病/网蛆/VOCALOID/音游/舞萌w43/中二14.9/世界计划 无底线无雷点无素质 含暴论/地域黑/辱男女/发情等成分 私信互关欢迎 我有对象 我很喜欢他",
+        "id": "1964331185590718464",
+        "location": "翼天国",
+        "name": "💊人工時代完全犯罪",
+        "pinned_tweet_id": "1966517785367871718",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1964333475118665733/qxlL_t3T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36,
+          "following_count": 209,
+          "like_count": 1331,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 314
+        },
+        "username": "breakcoreWTF",
+        "verified": false
+      },
+      {
+        "created_at": "2017-01-13T14:18:36.000Z",
+        "description": "¿? @97kids_Aster",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 3,
+                "username": "97kids_Aster"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/c/Shimon0518",
+                "end": 23,
+                "expanded_url": "https://youtube.com/c/Shimon0518",
+                "start": 0,
+                "url": "https://t.co/ZJCzhCtEqE"
+              }
+            ]
+          }
+        },
+        "id": "819911529906610176",
+        "name": "¿?",
+        "pinned_tweet_id": "1829474494098084018",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1788176168887398400/CwIKn7OT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 64596,
+          "following_count": 226,
+          "like_count": 173,
+          "listed_count": 235,
+          "media_count": 104,
+          "tweet_count": 371
+        },
+        "url": "https://t.co/ZJCzhCtEqE",
+        "username": "Shimon0518",
+        "verified": true
+      }
+    ]
+  }
+}

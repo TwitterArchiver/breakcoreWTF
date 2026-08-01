@@ -1,0 +1,273 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1991805888240451584"
+      ],
+      "media_source_tweet_id": [
+        "1991805892107587608"
+      ]
+    },
+    "author_id": "1964331185590718464",
+    "conversation_id": "1992410093632303439",
+    "created_at": "2025-11-23T01:49:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-23T02:49:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1992410093632303439"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1771867187512594432",
+          "start": 3,
+          "username": "mnhr_hkmn"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/epPYtq9LzR",
+          "end": 38,
+          "expanded_url": "https://x.com/mnhr_hkmn/status/1991805892107587608/photo/1",
+          "media_key": "3_1991805888240451584",
+          "start": 15,
+          "url": "https://t.co/epPYtq9LzR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992410093632303439",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 30
+    },
+    "referenced_tweets": [
+      {
+        "id": "1991805892107587608",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @mnhr_hkmn: https://t.co/epPYtq9LzR"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 724,
+        "media_key": "3_1991805888240451584",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6RQ5v4agAAQGGr.jpg",
+        "width": 959
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1991805888240451584"
+          ],
+          "media_source_tweet_id": [
+            "1991805892107587608"
+          ]
+        },
+        "author_id": "1964331185590718464",
+        "conversation_id": "1992410093632303439",
+        "created_at": "2025-11-23T01:49:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-23T02:49:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992410093632303439"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1771867187512594432",
+              "start": 3,
+              "username": "mnhr_hkmn"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/epPYtq9LzR",
+              "end": 38,
+              "expanded_url": "https://x.com/mnhr_hkmn/status/1991805892107587608/photo/1",
+              "media_key": "3_1991805888240451584",
+              "start": 15,
+              "url": "https://t.co/epPYtq9LzR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992410093632303439",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 30
+        },
+        "referenced_tweets": [
+          {
+            "id": "1991805892107587608",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @mnhr_hkmn: https://t.co/epPYtq9LzR"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1991805888240451584"
+          ]
+        },
+        "author_id": "1771867187512594432",
+        "conversation_id": "1991805892107587608",
+        "created_at": "2025-11-21T09:48:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-21T10:48:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1991805892107587608"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/epPYtq9LzR",
+              "end": 23,
+              "expanded_url": "https://x.com/mnhr_hkmn/status/1991805892107587608/photo/1",
+              "media_key": "3_1991805888240451584",
+              "start": 0,
+              "url": "https://t.co/epPYtq9LzR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1991805892107587608",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 36,
+          "impression_count": 10865,
+          "like_count": 497,
+          "quote_count": 13,
+          "reply_count": 5,
+          "retweet_count": 30
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/epPYtq9LzR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-06T14:13:55.000Z",
+        "description": "中文/od/VOCALOID/音游 纯种乐子人性别不明推上啥都有 私信互关欢迎 我有对象 我很喜欢他",
+        "id": "1964331185590718464",
+        "location": "翼天国",
+        "name": "━Σ(ﾟДﾟ|||)━",
+        "pinned_tweet_id": "1966517785367871718",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986080929002164224/0ugqBVVT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40,
+          "following_count": 256,
+          "like_count": 2312,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 559
+        },
+        "username": "breakcoreWTF",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-24T11:51:07.000Z",
+        "description": "※オ一バ一ド一ズを推奨する目的はありません Discord鯖:https://t.co/3O01i9Pa4Gサブ垢@ODdaisukinTV 自我垢@the_last09s コラ画像のリクエスト、提供受け付けてます🦪",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 57,
+                "username": "ODdaisukinTV"
+              },
+              {
+                "end": 86,
+                "start": 74,
+                "username": "the_last09s"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "discord.gg/Tyfp7DryE2",
+                "end": 54,
+                "expanded_url": "https://discord.gg/Tyfp7DryE2",
+                "start": 31,
+                "url": "https://t.co/3O01i9Pa4G"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "nicovideo.jp/user/132701830…",
+                "end": 23,
+                "expanded_url": "https://www.nicovideo.jp/user/132701830?ref=nicoiphone_other",
+                "start": 0,
+                "url": "https://t.co/ebgFGJNDCO"
+              }
+            ]
+          }
+        },
+        "id": "1771867187512594432",
+        "location": "投稿してる画像はほぼコラ画像、改変動画です。",
+        "name": "オ一バ一ド一ズキン",
+        "pinned_tweet_id": "1885310578090230113",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975136555204493312/5pT0MMK5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3589,
+          "following_count": 2152,
+          "like_count": 303,
+          "listed_count": 2,
+          "media_count": 514,
+          "tweet_count": 571
+        },
+        "url": "https://t.co/ebgFGJNDCO",
+        "username": "mnhr_hkmn",
+        "verified": false
+      }
+    ]
+  }
+}

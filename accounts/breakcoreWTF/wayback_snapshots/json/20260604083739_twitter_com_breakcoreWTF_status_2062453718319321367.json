@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2062419038320635904"
+      ],
+      "media_source_tweet_id": [
+        "2062419043517419610"
+      ]
+    },
+    "author_id": "1964331185590718464",
+    "conversation_id": "2062453718319321367",
+    "created_at": "2026-06-04T08:37:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-04T09:37:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062453718319321367"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "924212890244022272",
+          "start": 3,
+          "username": "iiiichimarU_03"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/LuD6NA4dda",
+          "end": 43,
+          "expanded_url": "https://x.com/iiiichimarU_03/status/2062419043517419610/photo/1",
+          "media_key": "3_2062419038320635904",
+          "start": 20,
+          "url": "https://t.co/LuD6NA4dda"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062453718319321367",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 161
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062419043517419610",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @iiiichimarU_03: https://t.co/LuD6NA4dda"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1600,
+        "media_key": "3_2062419038320635904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ8vMC0asAAtkd0.jpg",
+        "width": 1800
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062419038320635904"
+          ],
+          "media_source_tweet_id": [
+            "2062419043517419610"
+          ]
+        },
+        "author_id": "1964331185590718464",
+        "conversation_id": "2062453718319321367",
+        "created_at": "2026-06-04T08:37:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T09:37:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062453718319321367"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "924212890244022272",
+              "start": 3,
+              "username": "iiiichimarU_03"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/LuD6NA4dda",
+              "end": 43,
+              "expanded_url": "https://x.com/iiiichimarU_03/status/2062419043517419610/photo/1",
+              "media_key": "3_2062419038320635904",
+              "start": 20,
+              "url": "https://t.co/LuD6NA4dda"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062453718319321367",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 161
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062419043517419610",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @iiiichimarU_03: https://t.co/LuD6NA4dda"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062419038320635904"
+          ]
+        },
+        "author_id": "924212890244022272",
+        "conversation_id": "2062419043517419610",
+        "created_at": "2026-06-04T06:19:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T07:19:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062419043517419610"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/LuD6NA4dda",
+              "end": 23,
+              "expanded_url": "https://x.com/iiiichimarU_03/status/2062419043517419610/photo/1",
+              "media_key": "3_2062419038320635904",
+              "start": 0,
+              "url": "https://t.co/LuD6NA4dda"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062419043517419610",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 122,
+          "impression_count": 16438,
+          "like_count": 2606,
+          "quote_count": 0,
+          "reply_count": 17,
+          "retweet_count": 161
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/LuD6NA4dda"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-06T14:13:55.000Z",
+        "description": "OD丨自伤丨Vocaloid丨音游丨友跨顺女\n不喜欢的直接b 同类回fo 取关请双取",
+        "id": "1964331185590718464",
+        "location": "颅内",
+        "name": "箸",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061439509125074944/Hf-Lim6c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 667,
+          "following_count": 605,
+          "like_count": 14332,
+          "listed_count": 0,
+          "media_count": 211,
+          "tweet_count": 4243
+        },
+        "username": "breakcoreWTF",
+        "verified": false
+      },
+      {
+        "created_at": "2017-10-28T09:54:58.000Z",
+        "description": "不憫な女の子がすき FA→ #はよ見ろ一円",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 21,
+                "start": 14,
+                "tag": "はよ見ろ一円"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "skeb.jp/@iiiichimarU_03",
+                "end": 23,
+                "expanded_url": "http://skeb.jp/@iiiichimarU_03",
+                "start": 0,
+                "url": "https://t.co/7L6E84I5jq"
+              }
+            ]
+          }
+        },
+        "id": "924212890244022272",
+        "name": "いちまる",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1636547213928333312/LwdyYOo8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 139962,
+          "following_count": 318,
+          "like_count": 36862,
+          "listed_count": 516,
+          "media_count": 476,
+          "tweet_count": 2761
+        },
+        "url": "https://t.co/7L6E84I5jq",
+        "username": "iiiichimarU_03",
+        "verified": false
+      }
+    ]
+  }
+}

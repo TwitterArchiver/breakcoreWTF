@@ -1,0 +1,516 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1964331185590718464",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1104125539877412864",
+          "name": "Miku Hatsune"
+        }
+      },
+      {
+        "domain": {
+          "description": "A person or other being in a narrative work of art, like Tom Sawyer or Jon Snow",
+          "id": "122",
+          "name": "Fictional Character"
+        },
+        "entity": {
+          "id": "1104125539877412864",
+          "name": "Miku Hatsune"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1104125539877412864",
+          "name": "Miku Hatsune"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1247236287485997056",
+          "name": "Vocaloid"
+        }
+      }
+    ],
+    "conversation_id": "2005946249506107811",
+    "created_at": "2025-12-30T10:17:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-30T11:17:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2005946249506107811"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 27,
+          "normalized_text": "初音ミク",
+          "probability": 0.2951,
+          "start": 24,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "261741721",
+          "start": 3,
+          "username": "maretu01"
+        },
+        {
+          "end": 78,
+          "id": "10228272",
+          "start": 70,
+          "username": "YouTube"
+        }
+      ],
+      "urls": [
+        {
+          "description": "-",
+          "display_url": "youtu.be/UShV3NXq00U?si…",
+          "end": 69,
+          "expanded_url": "https://youtu.be/UShV3NXq00U?si=3M5dLsNj9UzOF7Bw",
+          "images": [
+            {
+              "height": 360,
+              "url": "https://pbs.twimg.com/news_img/2005811331891617792/0Eo13y10?format=jpg&name=orig",
+              "width": 480
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2005811331891617792/0Eo13y10?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 46,
+          "status": 200,
+          "title": "【初音ミク】　ファシネイター　【オリジナル】",
+          "unwound_url": "https://www.youtube.com/watch?si=3M5dLsNj9UzOF7Bw&v=UShV3NXq00U&feature=youtu.be",
+          "url": "https://t.co/nG0eWRgEvF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2005946249506107811",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4841
+    },
+    "referenced_tweets": [
+      {
+        "id": "2005811331639935091",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @maretu01: 19:00～公開\n【初音ミク】　ファシネイター　【オリジナル】 https://t.co/nG0eWRgEvF @YouTubeより"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1964331185590718464",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "A person or other being in a narrative work of art, like Tom Sawyer or Jon Snow",
+              "id": "122",
+              "name": "Fictional Character"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1247236287485997056",
+              "name": "Vocaloid"
+            }
+          }
+        ],
+        "conversation_id": "2005946249506107811",
+        "created_at": "2025-12-30T10:17:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-30T11:17:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2005946249506107811"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 27,
+              "normalized_text": "初音ミク",
+              "probability": 0.2951,
+              "start": 24,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "261741721",
+              "start": 3,
+              "username": "maretu01"
+            },
+            {
+              "end": 78,
+              "id": "10228272",
+              "start": 70,
+              "username": "YouTube"
+            }
+          ],
+          "urls": [
+            {
+              "description": "-",
+              "display_url": "youtu.be/UShV3NXq00U?si…",
+              "end": 69,
+              "expanded_url": "https://youtu.be/UShV3NXq00U?si=3M5dLsNj9UzOF7Bw",
+              "images": [
+                {
+                  "height": 360,
+                  "url": "https://pbs.twimg.com/news_img/2005811331891617792/0Eo13y10?format=jpg&name=orig",
+                  "width": 480
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2005811331891617792/0Eo13y10?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 46,
+              "status": 200,
+              "title": "【初音ミク】　ファシネイター　【オリジナル】",
+              "unwound_url": "https://www.youtube.com/watch?si=3M5dLsNj9UzOF7Bw&v=UShV3NXq00U&feature=youtu.be",
+              "url": "https://t.co/nG0eWRgEvF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2005946249506107811",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4841
+        },
+        "referenced_tweets": [
+          {
+            "id": "2005811331639935091",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @maretu01: 19:00～公開\n【初音ミク】　ファシネイター　【オリジナル】 https://t.co/nG0eWRgEvF @YouTubeより"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "261741721",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "A person or other being in a narrative work of art, like Tom Sawyer or Jon Snow",
+              "id": "122",
+              "name": "Fictional Character"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1247236287485997056",
+              "name": "Vocaloid"
+            }
+          }
+        ],
+        "conversation_id": "2005811331639935091",
+        "created_at": "2025-12-30T01:21:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-30T02:21:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2005811331639935091"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 13,
+              "normalized_text": "初音ミク",
+              "probability": 0.3158,
+              "start": 10,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 64,
+              "id": "10228272",
+              "start": 56,
+              "username": "YouTube"
+            }
+          ],
+          "urls": [
+            {
+              "description": "-",
+              "display_url": "youtu.be/UShV3NXq00U?si…",
+              "end": 55,
+              "expanded_url": "https://youtu.be/UShV3NXq00U?si=3M5dLsNj9UzOF7Bw",
+              "images": [
+                {
+                  "height": 360,
+                  "url": "https://pbs.twimg.com/news_img/2005811331891617792/0Eo13y10?format=jpg&name=orig",
+                  "width": 480
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2005811331891617792/0Eo13y10?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 32,
+              "status": 200,
+              "title": "【初音ミク】　ファシネイター　【オリジナル】",
+              "unwound_url": "https://www.youtube.com/watch?si=3M5dLsNj9UzOF7Bw&v=UShV3NXq00U&feature=youtu.be",
+              "url": "https://t.co/nG0eWRgEvF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2005811331639935091",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 834,
+          "impression_count": 440087,
+          "like_count": 17479,
+          "quote_count": 703,
+          "reply_count": 121,
+          "retweet_count": 4841
+        },
+        "reply_settings": "everyone",
+        "text": "19:00～公開\n【初音ミク】　ファシネイター　【オリジナル】 https://t.co/nG0eWRgEvF @YouTubeより"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-06T14:13:55.000Z",
+        "description": "中文/od/VOCALOID/音游 纯种乐子人性别不明推上啥都有 会发泄情绪无需理会 私信互关欢迎",
+        "id": "1964331185590718464",
+        "location": "幻想郷",
+        "name": "━Σ(ﾟДﾟ|||)━",
+        "pinned_tweet_id": "2003760156488986744",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001729011576426496/HumNDWc3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 48,
+          "following_count": 302,
+          "like_count": 3293,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 975
+        },
+        "username": "breakcoreWTF",
+        "verified": false
+      },
+      {
+        "created_at": "2011-03-06T16:14:35.000Z",
+        "description": "◉YouTube(1) : https://t.co/X4Y3HAMXJ5 ◉YouTube(2) : https://t.co/lx5uIP6TlG ◉FAQ：https://t.co/IycCoZZ0uJ ◉:@maretu00",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 116,
+                "start": 107,
+                "username": "maretu00"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "goo.gl/tCJ58E",
+                "end": 37,
+                "expanded_url": "http://goo.gl/tCJ58E",
+                "start": 14,
+                "url": "https://t.co/X4Y3HAMXJ5"
+              },
+              {
+                "display_url": "x.gd/dVl5u",
+                "end": 75,
+                "expanded_url": "https://x.gd/dVl5u",
+                "start": 52,
+                "url": "https://t.co/lx5uIP6TlG"
+              },
+              {
+                "display_url": "maretu01.wixsite.com/mrtclb/about",
+                "end": 104,
+                "expanded_url": "https://maretu01.wixsite.com/mrtclb/about",
+                "start": 81,
+                "url": "https://t.co/IycCoZZ0uJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "maretu01.wixsite.com/mrtclb",
+                "end": 23,
+                "expanded_url": "https://maretu01.wixsite.com/mrtclb",
+                "start": 0,
+                "url": "https://t.co/CVIycczvC1"
+              }
+            ]
+          }
+        },
+        "id": "261741721",
+        "location": "◉Mail : maretu01@gmail.com",
+        "name": "MARETU",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1793969298836537344/38lp58hQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 318548,
+          "following_count": 1085,
+          "like_count": 3189,
+          "listed_count": 1069,
+          "media_count": 865,
+          "tweet_count": 3273
+        },
+        "url": "https://t.co/CVIycczvC1",
+        "username": "maretu01",
+        "verified": false
+      },
+      {
+        "created_at": "2007-11-13T21:43:46.000Z",
+        "description": "your 2025 Recap just dropped! link in bio 👇",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/recap",
+                "end": 23,
+                "expanded_url": "http://youtube.com/recap",
+                "start": 0,
+                "url": "https://t.co/URnyVVvAVr"
+              }
+            ]
+          }
+        },
+        "id": "10228272",
+        "location": "San Bruno, CA",
+        "name": "YouTube",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984471345854566400/5pd8GpgC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 68024631,
+          "following_count": 1144,
+          "like_count": 6038,
+          "listed_count": 74826,
+          "media_count": 16067,
+          "tweet_count": 60592
+        },
+        "url": "https://t.co/URnyVVvAVr",
+        "username": "YouTube",
+        "verified": true
+      }
+    ]
+  }
+}

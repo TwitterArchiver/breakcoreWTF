@@ -1,0 +1,198 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1964331185590718464",
+    "conversation_id": "2062153557118525897",
+    "created_at": "2026-06-03T18:43:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-03T19:43:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062243714601549946"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1596798310785978369",
+          "start": 0,
+          "username": "maybeanormalppl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062243714601549946",
+    "in_reply_to_user_id": "1596798310785978369",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062153557118525897",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@maybeanormalppl 可以"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1964331185590718464",
+        "conversation_id": "2062153557118525897",
+        "created_at": "2026-06-03T18:43:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T19:43:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062243714601549946"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1596798310785978369",
+              "start": 0,
+              "username": "maybeanormalppl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062243714601549946",
+        "in_reply_to_user_id": "1596798310785978369",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062153557118525897",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@maybeanormalppl 可以"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596798310785978369",
+        "conversation_id": "2062153557118525897",
+        "created_at": "2026-06-03T12:44:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T13:44:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062153557118525897"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2062153557118525897",
+        "lang": "de",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 42872,
+          "like_count": 398,
+          "quote_count": 1,
+          "reply_count": 364,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "Leute in china，kannst du den post sehen？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-06T14:13:55.000Z",
+        "description": "OD丨自伤丨Vocaloid丨音游丨友跨顺女\n不喜欢的直接b 同类回fo 取关请双取",
+        "id": "1964331185590718464",
+        "location": "颅内",
+        "name": "箸",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061439509125074944/Hf-Lim6c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 664,
+          "following_count": 604,
+          "like_count": 14318,
+          "listed_count": 0,
+          "media_count": 211,
+          "tweet_count": 4235
+        },
+        "username": "breakcoreWTF",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-27T09:29:34.000Z",
+        "description": "脑雾，解离，精神不稳定，休学状态，正在挣扎着想要回归平静的日常生活的一只普通人。\n普通话 | 粤语 | English | 日本語 | 自动化专业本科休学中，嵌入式（51、stm32），plc学习中 | 恋人：@XI2VANAS\n提问箱：https://t.co/qU3XmbiiB0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 114,
+                "start": 105,
+                "username": "XI2VANAS"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/maybeanormalpp…",
+                "end": 142,
+                "expanded_url": "https://ngl.link/maybeanormalppl49233",
+                "start": 119,
+                "url": "https://t.co/qU3XmbiiB0"
+              }
+            ]
+          }
+        },
+        "id": "1596798310785978369",
+        "location": "utopia",
+        "name": "a normal ppl",
+        "pinned_tweet_id": "2056998303233880502",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1774829944306302976/I1pin9Zp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2210,
+          "following_count": 694,
+          "like_count": 15882,
+          "listed_count": 6,
+          "media_count": 961,
+          "tweet_count": 20376
+        },
+        "username": "maybeanormalppl",
+        "verified": false
+      }
+    ]
+  }
+}

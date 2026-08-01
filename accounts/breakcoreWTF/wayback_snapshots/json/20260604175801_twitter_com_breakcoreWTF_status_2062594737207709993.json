@@ -1,0 +1,276 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2062224686277406720"
+      ],
+      "media_source_tweet_id": [
+        "2062224695106413026"
+      ]
+    },
+    "author_id": "1964331185590718464",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2062594737207709993",
+    "created_at": "2026-06-04T17:58:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-04T18:58:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062594737207709993"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "2042276998668525573",
+          "start": 3,
+          "username": "SakurabaAya514"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/9E3EWCsAYM",
+          "end": 49,
+          "expanded_url": "https://x.com/SakurabaAya514/status/2062224695106413026/photo/1",
+          "media_key": "3_2062224686277406720",
+          "start": 26,
+          "url": "https://t.co/9E3EWCsAYM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062594737207709993",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 18
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062224695106413026",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @SakurabaAya514: /今日猪猪 https://t.co/9E3EWCsAYM"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2062224686277406720",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ5-bRCbMAAaH2S.jpg",
+        "width": 1256
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062224686277406720"
+          ],
+          "media_source_tweet_id": [
+            "2062224695106413026"
+          ]
+        },
+        "author_id": "1964331185590718464",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2062594737207709993",
+        "created_at": "2026-06-04T17:58:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T18:58:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062594737207709993"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "2042276998668525573",
+              "start": 3,
+              "username": "SakurabaAya514"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/9E3EWCsAYM",
+              "end": 49,
+              "expanded_url": "https://x.com/SakurabaAya514/status/2062224695106413026/photo/1",
+              "media_key": "3_2062224686277406720",
+              "start": 26,
+              "url": "https://t.co/9E3EWCsAYM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062594737207709993",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 18
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062224695106413026",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @SakurabaAya514: /今日猪猪 https://t.co/9E3EWCsAYM"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062224686277406720"
+          ]
+        },
+        "author_id": "2042276998668525573",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2062224695106413026",
+        "created_at": "2026-06-03T17:27:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T18:27:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062224695106413026"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9E3EWCsAYM",
+              "end": 29,
+              "expanded_url": "https://x.com/SakurabaAya514/status/2062224695106413026/photo/1",
+              "media_key": "3_2062224686277406720",
+              "start": 6,
+              "url": "https://t.co/9E3EWCsAYM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062224695106413026",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 16,
+          "impression_count": 13261,
+          "like_count": 297,
+          "quote_count": 1,
+          "reply_count": 14,
+          "retweet_count": 18
+        },
+        "reply_settings": "everyone",
+        "text": "/今日猪猪 https://t.co/9E3EWCsAYM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-06T14:13:55.000Z",
+        "description": "OD丨自伤丨Vocaloid丨音游丨友跨顺女\n不喜欢的直接b 同类回fo 取关请双取",
+        "id": "1964331185590718464",
+        "location": "颅内",
+        "name": "箸",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061439509125074944/Hf-Lim6c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 675,
+          "following_count": 610,
+          "like_count": 14487,
+          "listed_count": 0,
+          "media_count": 216,
+          "tweet_count": 4307
+        },
+        "username": "breakcoreWTF",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-09T16:22:54.000Z",
+        "description": "来自坎通国/东方project/魔裁/Arcaea/键政⚠️/双向情感障碍⚠️/亚文化B/欢迎互fo（会看成分致歉）/LGBTQ+🏳️‍🌈友好\n主要在X上网冲浪评论搞抽象为主，发帖主要是日常生活和碎碎念，以及负面推文⚠️",
+        "id": "2042276998668525573",
+        "name": "赤月 サクラ",
+        "pinned_tweet_id": "2062567762682384434",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061538359978373120/bewxtVD1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 256,
+          "following_count": 405,
+          "like_count": 5337,
+          "listed_count": 0,
+          "media_count": 144,
+          "tweet_count": 1630
+        },
+        "username": "SakurabaAya514",
+        "verified": false
+      }
+    ]
+  }
+}

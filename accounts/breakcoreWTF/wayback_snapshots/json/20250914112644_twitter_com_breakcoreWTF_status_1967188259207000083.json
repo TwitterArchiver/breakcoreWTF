@@ -1,0 +1,337 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1967156275965513728"
+      ],
+      "media_source_tweet_id": [
+        "1967166437249761481"
+      ]
+    },
+    "author_id": "1964331185590718464",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1967188259207000083",
+    "created_at": "2025-09-14T11:26:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-14T12:26:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1967188259207000083"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "128631478",
+          "start": 3,
+          "username": "kairiki_bear"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/gzduAeyb93",
+          "end": 49,
+          "expanded_url": "https://x.com/kairiki_bear/status/1967166437249761481/video/1",
+          "media_key": "13_1967156275965513728",
+          "start": 26,
+          "url": "https://t.co/gzduAeyb93"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1967188259207000083",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 476
+    },
+    "referenced_tweets": [
+      {
+        "id": "1967166437249761481",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kairiki_bear: ダーリンダンス https://t.co/gzduAeyb93"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 39933,
+        "height": 1080,
+        "media_key": "13_1967156275965513728",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1967156275965513728/img/GpJr5j6wVVcSODWQ.jpg",
+        "public_metrics": {
+          "view_count": 11090
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1967156275965513728/vid/avc1/1920x1080/V6avYRwtcb-A0rco.mp4"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1967156275965513728/vid/avc1/480x270/Bdi_jU3kwCQCtGmd.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1967156275965513728/vid/avc1/640x360/Gv_U_EDBR9O60Lzo.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1967156275965513728/pl/YhD4uxawmHFytt2f.m3u8?v=c3d"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1967156275965513728/vid/avc1/1280x720/y-L0aFtU0iIa4tCI.mp4"
+          }
+        ],
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1967156275965513728"
+          ],
+          "media_source_tweet_id": [
+            "1967166437249761481"
+          ]
+        },
+        "author_id": "1964331185590718464",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1967188259207000083",
+        "created_at": "2025-09-14T11:26:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-14T12:26:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1967188259207000083"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "128631478",
+              "start": 3,
+              "username": "kairiki_bear"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/gzduAeyb93",
+              "end": 49,
+              "expanded_url": "https://x.com/kairiki_bear/status/1967166437249761481/video/1",
+              "media_key": "13_1967156275965513728",
+              "start": 26,
+              "url": "https://t.co/gzduAeyb93"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967188259207000083",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 476
+        },
+        "referenced_tweets": [
+          {
+            "id": "1967166437249761481",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kairiki_bear: ダーリンダンス https://t.co/gzduAeyb93"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1967156275965513728"
+          ]
+        },
+        "author_id": "128631478",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1967166437249761481",
+        "created_at": "2025-09-14T10:00:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-14T11:00:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1967166437249761481"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gzduAeyb93",
+              "end": 31,
+              "expanded_url": "https://x.com/kairiki_bear/status/1967166437249761481/video/1",
+              "media_key": "13_1967156275965513728",
+              "start": 8,
+              "url": "https://t.co/gzduAeyb93"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967166437249761481",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 215,
+          "impression_count": 31688,
+          "like_count": 2590,
+          "quote_count": 37,
+          "reply_count": 13,
+          "retweet_count": 476
+        },
+        "reply_settings": "everyone",
+        "text": "ダーリンダンス https://t.co/gzduAeyb93"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-06T14:13:55.000Z",
+        "description": "中文/od/自残/精神病/网蛆/VOCALOID/音游/舞萌w43/中二14.9/世界计划 无底线无雷点无素质 含暴论/地域黑/辱男女/发情等成分 我有对象 我很喜欢他",
+        "id": "1964331185590718464",
+        "name": "💊人工時代完全犯罪",
+        "pinned_tweet_id": "1966517785367871718",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1964333475118665733/qxlL_t3T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33,
+          "following_count": 174,
+          "like_count": 657,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 156
+        },
+        "username": "breakcoreWTF",
+        "verified": false
+      },
+      {
+        "created_at": "2010-04-01T18:21:39.000Z",
+        "description": "JAPANでクマをやっています。音楽を作ります。 YouTube【https://t.co/PabdyxsVzY】 LINEスタンプ【https://t.co/OGUkgxcAbC】",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "youtube.com/kairikibear",
+                "end": 56,
+                "expanded_url": "https://youtube.com/kairikibear",
+                "start": 33,
+                "url": "https://t.co/PabdyxsVzY"
+              },
+              {
+                "display_url": "store.line.me/stickershop/au…",
+                "end": 90,
+                "expanded_url": "https://store.line.me/stickershop/author/1324598/ja",
+                "start": 67,
+                "url": "https://t.co/OGUkgxcAbC"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "nicovideo.jp/watch/sm348714…",
+                "end": 23,
+                "expanded_url": "https://www.nicovideo.jp/watch/sm34871494",
+                "start": 0,
+                "url": "https://t.co/7RPnZ8uxIL"
+              }
+            ]
+          }
+        },
+        "id": "128631478",
+        "name": "かいりきベア",
+        "pinned_tweet_id": "1917156928574357647",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1509907129154834435/D8q-9fhV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 410898,
+          "following_count": 469,
+          "like_count": 20883,
+          "listed_count": 1663,
+          "media_count": 360,
+          "tweet_count": 4554
+        },
+        "url": "https://t.co/7RPnZ8uxIL",
+        "username": "kairiki_bear",
+        "verified": true
+      }
+    ]
+  }
+}

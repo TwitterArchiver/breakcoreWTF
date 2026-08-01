@@ -1,0 +1,286 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2063057699462680576"
+      ],
+      "media_source_tweet_id": [
+        "2063057761089499571"
+      ]
+    },
+    "author_id": "1964331185590718464",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2063145969634726377",
+    "created_at": "2026-06-06T06:28:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-06T07:28:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063145969634726377"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1939518279418347520",
+          "start": 3,
+          "username": "gashiiii_6"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/q0M4c9wnsc",
+          "end": 45,
+          "expanded_url": "https://x.com/gashiiii_6/status/2063057761089499571/video/1",
+          "media_key": "13_2063057699462680576",
+          "start": 22,
+          "url": "https://t.co/q0M4c9wnsc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063145969634726377",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 18
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063057761089499571",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @gashiiii_6: 大あくび🥱 https://t.co/q0M4c9wnsc"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 5285,
+        "height": 1280,
+        "media_key": "13_2063057699462680576",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2063057699462680576/img/8TG779pMpievmTTX.jpg",
+        "public_metrics": {
+          "view_count": 471
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2063057699462680576/vid/avc1/320x568/lEpxjWnr3eksp9PT.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2063057699462680576/vid/avc1/480x852/IyLbt8PUk6HhK_Ag.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2063057699462680576/vid/avc1/720x1280/zXajAqN0x_GzP6mC.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2063057699462680576/pl/-Adm8kjY4qA-qkVf.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2063057699462680576"
+          ],
+          "media_source_tweet_id": [
+            "2063057761089499571"
+          ]
+        },
+        "author_id": "1964331185590718464",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2063145969634726377",
+        "created_at": "2026-06-06T06:28:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T07:28:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063145969634726377"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1939518279418347520",
+              "start": 3,
+              "username": "gashiiii_6"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/q0M4c9wnsc",
+              "end": 45,
+              "expanded_url": "https://x.com/gashiiii_6/status/2063057761089499571/video/1",
+              "media_key": "13_2063057699462680576",
+              "start": 22,
+              "url": "https://t.co/q0M4c9wnsc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063145969634726377",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 18
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063057761089499571",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @gashiiii_6: 大あくび🥱 https://t.co/q0M4c9wnsc"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2063057699462680576"
+          ]
+        },
+        "author_id": "1939518279418347520",
+        "conversation_id": "2063057761089499571",
+        "created_at": "2026-06-06T00:37:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T01:37:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063057761089499571"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/q0M4c9wnsc",
+              "end": 29,
+              "expanded_url": "https://x.com/gashiiii_6/status/2063057761089499571/video/1",
+              "media_key": "13_2063057699462680576",
+              "start": 6,
+              "url": "https://t.co/q0M4c9wnsc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063057761089499571",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 1469,
+          "like_count": 158,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 18
+        },
+        "reply_settings": "everyone",
+        "text": "大あくび🥱 https://t.co/q0M4c9wnsc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-06T14:13:55.000Z",
+        "description": "OD丨自伤丨Vocaloid丨音游丨友跨顺女\n不喜欢的直接b 同类回fo 取关请双取",
+        "id": "1964331185590718464",
+        "location": "颅内",
+        "name": "箸",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061439509125074944/Hf-Lim6c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 714,
+          "following_count": 631,
+          "like_count": 15140,
+          "listed_count": 0,
+          "media_count": 221,
+          "tweet_count": 4451
+        },
+        "username": "breakcoreWTF",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-30T02:56:22.000Z",
+        "description": "ヤモリ トカゲ イモリ ヘビ ネコ",
+        "id": "1939518279418347520",
+        "name": "わたねき",
+        "pinned_tweet_id": "2021984765776474464",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1939519520768503808/F7M2qXTO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 179,
+          "following_count": 166,
+          "like_count": 12656,
+          "listed_count": 3,
+          "media_count": 427,
+          "tweet_count": 917
+        },
+        "username": "gashiiii_6",
+        "verified": false
+      }
+    ]
+  }
+}

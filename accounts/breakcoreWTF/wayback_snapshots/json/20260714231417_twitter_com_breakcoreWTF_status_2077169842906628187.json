@@ -1,0 +1,362 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2077048715320418304"
+      ],
+      "media_source_tweet_id": [
+        "2077049501920174541"
+      ]
+    },
+    "author_id": "1964331185590718464",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Drawing and sketching",
+          "id": "847869251595542528",
+          "name": "Drawing & illustration"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Drawing and sketching",
+          "id": "847869251595542528",
+          "name": "Drawing & illustration"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Visual Arts",
+          "id": "1046577790353428480",
+          "name": "Visual arts"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1265660441822281728",
+          "name": "Art"
+        }
+      }
+    ],
+    "conversation_id": "2077169842906628187",
+    "created_at": "2026-07-14T23:14:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-15T00:14:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077169842906628187"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1793231402760323072",
+          "start": 3,
+          "username": "tabunkaku"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/GZ4x5xTDCc",
+          "end": 66,
+          "expanded_url": "https://x.com/tabunkaku/status/2077049501920174541/photo/1",
+          "media_key": "3_2077048715320418304",
+          "start": 43,
+          "url": "https://t.co/GZ4x5xTDCc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077169842906628187",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 77
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077049501920174541",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @tabunkaku: よりスケバンらしさを求めて髪を巻かれる📻、パシられる📺 https://t.co/GZ4x5xTDCc"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 960,
+        "media_key": "3_2077048715320418304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNMozUna4AA5sBv.jpg",
+        "width": 918
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077048715320418304"
+          ],
+          "media_source_tweet_id": [
+            "2077049501920174541"
+          ]
+        },
+        "author_id": "1964331185590718464",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          }
+        ],
+        "conversation_id": "2077169842906628187",
+        "created_at": "2026-07-14T23:14:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T00:14:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077169842906628187"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1793231402760323072",
+              "start": 3,
+              "username": "tabunkaku"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/GZ4x5xTDCc",
+              "end": 66,
+              "expanded_url": "https://x.com/tabunkaku/status/2077049501920174541/photo/1",
+              "media_key": "3_2077048715320418304",
+              "start": 43,
+              "url": "https://t.co/GZ4x5xTDCc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077169842906628187",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 77
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077049501920174541",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @tabunkaku: よりスケバンらしさを求めて髪を巻かれる📻、パシられる📺 https://t.co/GZ4x5xTDCc"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077048715320418304"
+          ]
+        },
+        "author_id": "1793231402760323072",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          }
+        ],
+        "conversation_id": "2077049501920174541",
+        "created_at": "2026-07-14T15:16:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T16:16:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077049501920174541"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GZ4x5xTDCc",
+              "end": 51,
+              "expanded_url": "https://x.com/tabunkaku/status/2077049501920174541/photo/1",
+              "media_key": "3_2077048715320418304",
+              "start": 28,
+              "url": "https://t.co/GZ4x5xTDCc"
+            },
+            {
+              "display_url": "x.com/tabunkaku/stat…",
+              "end": 75,
+              "expanded_url": "https://twitter.com/tabunkaku/status/2076633935103345147",
+              "start": 52,
+              "url": "https://t.co/mUYdOBnz8Q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077049501920174541",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 58,
+          "impression_count": 6394,
+          "like_count": 593,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 77
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076633935103345147",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "よりスケバンらしさを求めて髪を巻かれる📻、パシられる📺 https://t.co/GZ4x5xTDCc https://t.co/mUYdOBnz8Q"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-06T14:13:55.000Z",
+        "description": "OD丨自伤丨Vocaloid丨音游丨顺女 LGBTQ+friendly\n喜欢爬宠 不卖药 非必要不回私信 我很穷欢迎投喂\n不喜欢的直接b 同类查成分回fo 取关请双取",
+        "id": "1964331185590718464",
+        "location": "颅内",
+        "name": "箸",
+        "pinned_tweet_id": "2072469945422934327",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074711282427842560/EOM9Puhb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 976,
+          "following_count": 731,
+          "like_count": 27764,
+          "listed_count": 0,
+          "media_count": 316,
+          "tweet_count": 5735
+        },
+        "url": "",
+        "username": "breakcoreWTF",
+        "verified": true
+      },
+      {
+        "created_at": "2024-05-22T10:44:33.000Z",
+        "description": "20↑ 📺📻 転載・使用・AI学習禁止 DO NOT re-upload or use my artworks.",
+        "id": "1793231402760323072",
+        "name": "各",
+        "pinned_tweet_id": "2052703124826259840",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996202813014376449/CB-qqQju_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7348,
+          "following_count": 3,
+          "like_count": 562,
+          "listed_count": 21,
+          "media_count": 112,
+          "tweet_count": 667
+        },
+        "url": "",
+        "username": "tabunkaku",
+        "verified": false
+      }
+    ]
+  }
+}

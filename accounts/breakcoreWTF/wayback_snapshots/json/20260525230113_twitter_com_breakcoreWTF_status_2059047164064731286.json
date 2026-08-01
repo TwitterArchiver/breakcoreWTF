@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2058891612772806656"
+      ],
+      "media_source_tweet_id": [
+        "2058891616837071219"
+      ]
+    },
+    "author_id": "1964331185590718464",
+    "conversation_id": "2059047164064731286",
+    "created_at": "2026-05-25T23:01:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-26T00:01:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059047164064731286"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1914611702747779072",
+          "start": 3,
+          "username": "nox8964"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/27Qaq2V5Ot",
+          "end": 56,
+          "expanded_url": "https://x.com/nox8964/status/2058891616837071219/photo/1",
+          "media_key": "3_2058891612772806656",
+          "start": 33,
+          "url": "https://t.co/27Qaq2V5Ot"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059047164064731286",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058891616837071219",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @nox8964: 广州禁毒发新视频了，奶龙下令摧毁评论区 https://t.co/27Qaq2V5Ot"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 235,
+        "media_key": "3_2058891612772806656",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJKnA2pasAA0A5I.jpg",
+        "width": 431
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058891612772806656"
+          ],
+          "media_source_tweet_id": [
+            "2058891616837071219"
+          ]
+        },
+        "author_id": "1964331185590718464",
+        "conversation_id": "2059047164064731286",
+        "created_at": "2026-05-25T23:01:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T00:01:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059047164064731286"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1914611702747779072",
+              "start": 3,
+              "username": "nox8964"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/27Qaq2V5Ot",
+              "end": 56,
+              "expanded_url": "https://x.com/nox8964/status/2058891616837071219/photo/1",
+              "media_key": "3_2058891612772806656",
+              "start": 33,
+              "url": "https://t.co/27Qaq2V5Ot"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059047164064731286",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058891616837071219",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @nox8964: 广州禁毒发新视频了，奶龙下令摧毁评论区 https://t.co/27Qaq2V5Ot"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058891612772806656"
+          ]
+        },
+        "author_id": "1914611702747779072",
+        "conversation_id": "2058891616837071219",
+        "created_at": "2026-05-25T12:43:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T13:43:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058891616837071219"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/27Qaq2V5Ot",
+              "end": 43,
+              "expanded_url": "https://x.com/nox8964/status/2058891616837071219/photo/1",
+              "media_key": "3_2058891612772806656",
+              "start": 20,
+              "url": "https://t.co/27Qaq2V5Ot"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058891616837071219",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1731,
+          "like_count": 47,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "广州禁毒发新视频了，奶龙下令摧毁评论区 https://t.co/27Qaq2V5Ot"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-06T14:13:55.000Z",
+        "description": "OD丨自伤丨Vocaloid丨音游丨友跨顺女\n不喜欢的直接b 同类回fo 取关请双取",
+        "id": "1964331185590718464",
+        "location": "颅内",
+        "name": "箸",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059045985826078721/d21n6gXC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 653,
+          "following_count": 587,
+          "like_count": 13629,
+          "listed_count": 0,
+          "media_count": 187,
+          "tweet_count": 4008
+        },
+        "username": "breakcoreWTF",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-22T09:26:32.000Z",
+        "description": "enby｜Social liberalism｜德语🇩🇪学习中（目前很烂很烂）｜Liberté, égalité, fraternité🇫🇷｜你喜欢我＝我喜欢你｜接受任何友善的立场和我交流｜如果心结解不开那就系成蝴蝶结吧｜小猪：@misumikaede3 ｜逃避现实通道：@saki8964\n 叫我小夜就可以了",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 126,
+                "start": 113,
+                "username": "misumikaede3"
+              },
+              {
+                "end": 144,
+                "start": 135,
+                "username": "saki8964"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/asukayeyezi",
+                "end": 23,
+                "expanded_url": "http://t.me/asukayeyezi",
+                "start": 0,
+                "url": "https://t.co/wdpxB4gr7A"
+              }
+            ]
+          }
+        },
+        "id": "1914611702747779072",
+        "location": "夜深寂靜之時",
+        "name": "⁺✞ʚNachtɞ✟₊🌹🏴‍☠️🏳️‍⚧️#bot",
+        "pinned_tweet_id": "2039820910442471655",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057534039838322688/cxsPhag1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 582,
+          "following_count": 681,
+          "like_count": 9558,
+          "listed_count": 4,
+          "media_count": 135,
+          "tweet_count": 2403
+        },
+        "url": "https://t.co/wdpxB4gr7A",
+        "username": "nox8964",
+        "verified": false
+      }
+    ]
+  }
+}

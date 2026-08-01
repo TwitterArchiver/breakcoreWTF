@@ -1,0 +1,454 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2063918627217440768"
+      ],
+      "media_source_tweet_id": [
+        "2063918653603766523"
+      ]
+    },
+    "author_id": "1964331185590718464",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Food",
+          "id": "825047692124442624",
+          "name": "Food"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Cuisines",
+          "id": "860133563332648963",
+          "name": "Cuisines"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Chinese Cuisine",
+          "id": "860136866950950912",
+          "name": "Chinese cuisine"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Chinese Cuisine",
+          "id": "860136866950950912",
+          "name": "Chinese cuisine"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1193991001892745216",
+          "name": "Cuisines"
+        }
+      }
+    ],
+    "conversation_id": "2064050950093103217",
+    "created_at": "2026-06-08T18:24:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-08T19:24:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064050950093103217"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "158092941",
+          "start": 3,
+          "username": "kimzooh"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/jx46Vtx6hX",
+          "end": 57,
+          "expanded_url": "https://x.com/kimzooh/status/2063918653603766523/photo/1",
+          "media_key": "3_2063918627217440768",
+          "start": 34,
+          "url": "https://t.co/jx46Vtx6hX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064050950093103217",
+    "lang": "ko",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 409
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063918653603766523",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kimzooh: 중국요리 최고의 아침밥은 창펀 아닐까 https://t.co/jx46Vtx6hX"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2063918627217440768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKSDDmybgAAPv-E.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063918627217440768"
+          ],
+          "media_source_tweet_id": [
+            "2063918653603766523"
+          ]
+        },
+        "author_id": "1964331185590718464",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Food",
+              "id": "825047692124442624",
+              "name": "Food"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cuisines",
+              "id": "860133563332648963",
+              "name": "Cuisines"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Chinese Cuisine",
+              "id": "860136866950950912",
+              "name": "Chinese cuisine"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Chinese Cuisine",
+              "id": "860136866950950912",
+              "name": "Chinese cuisine"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1193991001892745216",
+              "name": "Cuisines"
+            }
+          }
+        ],
+        "conversation_id": "2064050950093103217",
+        "created_at": "2026-06-08T18:24:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T19:24:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064050950093103217"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "158092941",
+              "start": 3,
+              "username": "kimzooh"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/jx46Vtx6hX",
+              "end": 57,
+              "expanded_url": "https://x.com/kimzooh/status/2063918653603766523/photo/1",
+              "media_key": "3_2063918627217440768",
+              "start": 34,
+              "url": "https://t.co/jx46Vtx6hX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064050950093103217",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 409
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063918653603766523",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kimzooh: 중국요리 최고의 아침밥은 창펀 아닐까 https://t.co/jx46Vtx6hX"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063918627217440768"
+          ]
+        },
+        "author_id": "158092941",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Food",
+              "id": "825047692124442624",
+              "name": "Food"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cuisines",
+              "id": "860133563332648963",
+              "name": "Cuisines"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Chinese Cuisine",
+              "id": "860136866950950912",
+              "name": "Chinese cuisine"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Chinese Cuisine",
+              "id": "860136866950950912",
+              "name": "Chinese cuisine"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1193991001892745216",
+              "name": "Cuisines"
+            }
+          }
+        ],
+        "conversation_id": "2063918653603766523",
+        "created_at": "2026-06-08T09:38:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T10:38:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063918653603766523"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jx46Vtx6hX",
+              "end": 44,
+              "expanded_url": "https://x.com/kimzooh/status/2063918653603766523/photo/1",
+              "media_key": "3_2063918627217440768",
+              "start": 21,
+              "url": "https://t.co/jx46Vtx6hX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063918653603766523",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 230,
+          "impression_count": 311148,
+          "like_count": 3584,
+          "quote_count": 259,
+          "reply_count": 552,
+          "retweet_count": 409
+        },
+        "reply_settings": "everyone",
+        "text": "중국요리 최고의 아침밥은 창펀 아닐까 https://t.co/jx46Vtx6hX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-06T14:13:55.000Z",
+        "description": "OD丨自伤丨Vocaloid丨音游丨友跨顺女\n不喜欢的直接b 同类回fo 取关请双取",
+        "id": "1964331185590718464",
+        "location": "颅内",
+        "name": "箸",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061439509125074944/Hf-Lim6c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 752,
+          "following_count": 654,
+          "like_count": 15880,
+          "listed_count": 0,
+          "media_count": 232,
+          "tweet_count": 4590
+        },
+        "username": "breakcoreWTF",
+        "verified": false
+      },
+      {
+        "created_at": "2010-06-21T19:22:13.000Z",
+        "description": "무대디자이너 | 善意",
+        "id": "158092941",
+        "location": "랜더링 지옥",
+        "name": "박주현",
+        "pinned_tweet_id": "2031364121283932457",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1717164046674472960/yd87uzMr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3391,
+          "following_count": 129,
+          "like_count": 20,
+          "listed_count": 50,
+          "media_count": 1119,
+          "tweet_count": 23241
+        },
+        "username": "kimzooh",
+        "verified": false
+      }
+    ]
+  }
+}

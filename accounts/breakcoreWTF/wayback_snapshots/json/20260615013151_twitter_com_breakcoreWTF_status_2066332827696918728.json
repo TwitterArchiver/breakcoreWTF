@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1964331185590718464",
+    "conversation_id": "2066258155726938270",
+    "created_at": "2026-06-15T01:31:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-15T02:31:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066332827696918728"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1671760170739793921",
+          "start": 0,
+          "username": "WC_wcng"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066332827696918728",
+    "in_reply_to_user_id": "1671760170739793921",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066320785246179707",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@WC_wcng 对"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1964331185590718464",
+        "conversation_id": "2066258155726938270",
+        "created_at": "2026-06-15T01:31:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T02:31:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066332827696918728"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1671760170739793921",
+              "start": 0,
+              "username": "WC_wcng"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066332827696918728",
+        "in_reply_to_user_id": "1671760170739793921",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066320785246179707",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@WC_wcng 对"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1671760170739793921",
+        "conversation_id": "2066258155726938270",
+        "created_at": "2026-06-15T00:44:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T01:44:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066320785246179707"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1964331185590718464",
+              "start": 0,
+              "username": "breakcoreWTF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066320785246179707",
+        "in_reply_to_user_id": "1964331185590718464",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066258155726938270",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@breakcoreWTF 好多蛆"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-06T14:13:55.000Z",
+        "description": "OD丨自伤丨Vocaloid丨友跨顺女\n喜欢爬宠 不卖药 非必要不回私信 我很穷欢迎投喂\n不喜欢的直接b 同类查成分回fo 取关请双取",
+        "id": "1964331185590718464",
+        "location": "颅内",
+        "name": "箸",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061439509125074944/Hf-Lim6c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 813,
+          "following_count": 684,
+          "like_count": 17757,
+          "listed_count": 0,
+          "media_count": 260,
+          "tweet_count": 4865
+        },
+        "username": "breakcoreWTF",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-22T06:01:09.000Z",
+        "description": "我是男的，目前还是",
+        "id": "1671760170739793921",
+        "location": "Taiwan",
+        "name": "渦蟲bot🇹🇼",
+        "pinned_tweet_id": "1902382834444333350",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1671768709877096449/A3xoDzcx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 202,
+          "like_count": 699,
+          "listed_count": 0,
+          "media_count": 66,
+          "tweet_count": 436
+        },
+        "username": "WC_wcng",
+        "verified": false
+      }
+    ]
+  }
+}

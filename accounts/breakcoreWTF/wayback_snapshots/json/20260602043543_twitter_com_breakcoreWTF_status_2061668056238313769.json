@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1964331185590718464",
+    "conversation_id": "2061668056238313769",
+    "created_at": "2026-06-02T04:35:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-02T05:35:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061668056238313769"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1877771587539353600",
+          "start": 3,
+          "username": "fumei0811xxx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061668056238313769",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 12
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061416578206621775",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @fumei0811xxx: ピアスとかいう合法ｼﾞｼｮｳ行為"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1964331185590718464",
+        "conversation_id": "2061668056238313769",
+        "created_at": "2026-06-02T04:35:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T05:35:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061668056238313769"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1877771587539353600",
+              "start": 3,
+              "username": "fumei0811xxx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061668056238313769",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 12
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061416578206621775",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @fumei0811xxx: ピアスとかいう合法ｼﾞｼｮｳ行為"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1877771587539353600",
+        "conversation_id": "2061416578206621775",
+        "created_at": "2026-06-01T11:56:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T12:56:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061416578206621775"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2061416578206621775",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 6240,
+          "like_count": 215,
+          "quote_count": 3,
+          "reply_count": 1,
+          "retweet_count": 12
+        },
+        "reply_settings": "everyone",
+        "text": "ピアスとかいう合法ｼﾞｼｮｳ行為"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-06T14:13:55.000Z",
+        "description": "OD丨自伤丨Vocaloid丨音游丨友跨顺女\n不喜欢的直接b 同类回fo 取关请双取",
+        "id": "1964331185590718464",
+        "location": "颅内",
+        "name": "箸",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061439509125074944/Hf-Lim6c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 656,
+          "following_count": 600,
+          "like_count": 13952,
+          "listed_count": 0,
+          "media_count": 201,
+          "tweet_count": 4165
+        },
+        "username": "breakcoreWTF",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-10T17:37:04.000Z",
+        "description": "🎀は。きは。き㌠‼️\n｜避難垢 @fuann0811xxx｜251 @427_com_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 16,
+                "username": "fuann0811xxx"
+              },
+              {
+                "end": 43,
+                "start": 34,
+                "username": "427_com_"
+              }
+            ]
+          }
+        },
+        "id": "1877771587539353600",
+        "location": "愛薬はプレコール",
+        "name": "ふめい",
+        "pinned_tweet_id": "2033821312196714601",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1877773587312267264/B97YsTi6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 584,
+          "following_count": 275,
+          "like_count": 22904,
+          "listed_count": 11,
+          "media_count": 278,
+          "tweet_count": 3254
+        },
+        "username": "fumei0811xxx",
+        "verified": false
+      }
+    ]
+  }
+}

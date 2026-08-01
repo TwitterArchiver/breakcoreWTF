@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2017623893943717889"
+      ],
+      "media_source_tweet_id": [
+        "2017623902487515614"
+      ]
+    },
+    "author_id": "1964331185590718464",
+    "conversation_id": "2017647637395358063",
+    "created_at": "2026-01-31T17:14:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-31T18:14:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2017647637395358063"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1621552410048237569",
+          "start": 3,
+          "username": "amecandy_x"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Bme9SKMuZl",
+          "end": 39,
+          "expanded_url": "https://x.com/amecandy_x/status/2017623902487515614/photo/1",
+          "media_key": "3_2017623893943717889",
+          "start": 16,
+          "url": "https://t.co/Bme9SKMuZl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2017647637395358063",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2017623902487515614",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @amecandy_x: https://t.co/Bme9SKMuZl"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1985,
+        "media_key": "3_2017623893943717889",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAAKPeDbEAEIlXw.jpg",
+        "width": 1240
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2017623893943717889"
+          ],
+          "media_source_tweet_id": [
+            "2017623902487515614"
+          ]
+        },
+        "author_id": "1964331185590718464",
+        "conversation_id": "2017647637395358063",
+        "created_at": "2026-01-31T17:14:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-31T18:14:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017647637395358063"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1621552410048237569",
+              "start": 3,
+              "username": "amecandy_x"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Bme9SKMuZl",
+              "end": 39,
+              "expanded_url": "https://x.com/amecandy_x/status/2017623902487515614/photo/1",
+              "media_key": "3_2017623893943717889",
+              "start": 16,
+              "url": "https://t.co/Bme9SKMuZl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017647637395358063",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017623902487515614",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @amecandy_x: https://t.co/Bme9SKMuZl"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2017623893943717889"
+          ]
+        },
+        "author_id": "1621552410048237569",
+        "conversation_id": "2017623902487515614",
+        "created_at": "2026-01-31T15:39:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-31T16:39:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2017623902487515614"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Bme9SKMuZl",
+              "end": 23,
+              "expanded_url": "https://x.com/amecandy_x/status/2017623902487515614/photo/1",
+              "media_key": "3_2017623893943717889",
+              "start": 0,
+              "url": "https://t.co/Bme9SKMuZl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017623902487515614",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 244,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/Bme9SKMuZl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-06T14:13:55.000Z",
+        "description": "中文/od/自伤/友跨顺女/VOCALOID/音游 舞萌普通w53 纯种乐子人 推上啥都有 负能量相关最好不要关心 其他交流欢迎 我不想在推特都做不到口无遮拦 互fo欢迎 🚪40加微信纯绿可配聊 熟悉的推友可以免门费",
+        "id": "1964331185590718464",
+        "location": "Internet",
+        "name": "薄幸",
+        "pinned_tweet_id": "2016685165557534981",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015679257582964737/T8W4H246_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 83,
+          "following_count": 349,
+          "like_count": 5326,
+          "listed_count": 0,
+          "media_count": 72,
+          "tweet_count": 1679
+        },
+        "username": "breakcoreWTF",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-03T16:53:25.000Z",
+        "description": "🌧/18yo-Transfem/She·Her/HRT 2022.7🍥/Fullstack💻/LLM/Vibe Coding/Blogger/欢迎互fo互转",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "angelkawaii.xyz",
+                "end": 23,
+                "expanded_url": "https://angelkawaii.xyz",
+                "start": 0,
+                "url": "https://t.co/Ul32kqG4uh"
+              }
+            ]
+          }
+        },
+        "id": "1621552410048237569",
+        "location": "📍济南",
+        "name": "小雨🏳️‍⚧️",
+        "pinned_tweet_id": "2015800491364803008",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976595751519326208/nobANKHE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5306,
+          "following_count": 1824,
+          "like_count": 24063,
+          "listed_count": 16,
+          "media_count": 1054,
+          "tweet_count": 8327
+        },
+        "url": "https://t.co/Ul32kqG4uh",
+        "username": "amecandy_x",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2074531008527859712"
+      ],
+      "media_source_tweet_id": [
+        "2074531026672476634"
+      ]
+    },
+    "author_id": "1964331185590718464",
+    "conversation_id": "2074707543281250444",
+    "created_at": "2026-07-08T04:09:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-08T05:09:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074707543281250444"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1809990991711264768",
+          "start": 3,
+          "username": "yamatano438799"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/jluMkJ22ss",
+          "end": 48,
+          "expanded_url": "https://x.com/yamatano438799/status/2074531026672476634/photo/1",
+          "media_key": "3_2074531008527859712",
+          "start": 25,
+          "url": "https://t.co/jluMkJ22ss"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074707543281250444",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 125
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074531026672476634",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yamatano438799: 一点练习 https://t.co/jluMkJ22ss"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2032,
+        "media_key": "3_2074531008527859712",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMo29f7WAAAQQD2.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074531008527859712"
+          ],
+          "media_source_tweet_id": [
+            "2074531026672476634"
+          ]
+        },
+        "author_id": "1964331185590718464",
+        "conversation_id": "2074707543281250444",
+        "created_at": "2026-07-08T04:09:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T05:09:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074707543281250444"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1809990991711264768",
+              "start": 3,
+              "username": "yamatano438799"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/jluMkJ22ss",
+              "end": 48,
+              "expanded_url": "https://x.com/yamatano438799/status/2074531026672476634/photo/1",
+              "media_key": "3_2074531008527859712",
+              "start": 25,
+              "url": "https://t.co/jluMkJ22ss"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074707543281250444",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 125
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074531026672476634",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yamatano438799: 一点练习 https://t.co/jluMkJ22ss"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074531008527859712"
+          ]
+        },
+        "author_id": "1809990991711264768",
+        "conversation_id": "2074531026672476634",
+        "created_at": "2026-07-07T16:28:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T17:28:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074531026672476634"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jluMkJ22ss",
+              "end": 28,
+              "expanded_url": "https://x.com/yamatano438799/status/2074531026672476634/photo/1",
+              "media_key": "3_2074531008527859712",
+              "start": 5,
+              "url": "https://t.co/jluMkJ22ss"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074531026672476634",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 91,
+          "impression_count": 5543,
+          "like_count": 1126,
+          "quote_count": 2,
+          "reply_count": 3,
+          "retweet_count": 125
+        },
+        "reply_settings": "everyone",
+        "text": "一点练习 https://t.co/jluMkJ22ss"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-06T14:13:55.000Z",
+        "description": "OD丨自伤丨Vocaloid丨音游丨顺女 LGBTQ+friendly\n喜欢爬宠 不卖药 非必要不回私信 我很穷欢迎投喂\n不喜欢的直接b 同类查成分回fo 取关请双取",
+        "id": "1964331185590718464",
+        "location": "颅内",
+        "name": "箸",
+        "pinned_tweet_id": "2072469945422934327",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071376088018956288/SAB5MTfr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 909,
+          "following_count": 709,
+          "like_count": 24766,
+          "listed_count": 0,
+          "media_count": 312,
+          "tweet_count": 5545
+        },
+        "url": "",
+        "username": "breakcoreWTF",
+        "verified": true
+      },
+      {
+        "created_at": "2024-07-07T16:41:13.000Z",
+        "description": "🀄🇨🇳/20+/HH/HB/🍎🍐🍎/🍎🍎/🍎top↑/🍎all/晨星一家全肯定/英文散装，翻译器重度依赖...刚开始使用，不太熟练，很高兴得到你们的宝贵意见\n🚫Ai",
+        "id": "1809990991711264768",
+        "location": "China",
+        "name": "浔漓",
+        "pinned_tweet_id": "2068909525004894678",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015856393966739456/ojx0AFbj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3669,
+          "following_count": 41,
+          "like_count": 1490,
+          "listed_count": 7,
+          "media_count": 181,
+          "tweet_count": 642
+        },
+        "url": "",
+        "username": "yamatano438799",
+        "verified": false
+      }
+    ]
+  }
+}

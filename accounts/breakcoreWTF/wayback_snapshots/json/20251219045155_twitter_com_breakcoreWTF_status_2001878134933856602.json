@@ -1,0 +1,275 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2001673231531687936"
+      ],
+      "media_source_tweet_id": [
+        "2001673321621131695"
+      ]
+    },
+    "author_id": "1964331185590718464",
+    "conversation_id": "2001878134933856602",
+    "created_at": "2025-12-19T04:51:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-19T05:51:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2001878134933856602"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1140297102347517953",
+          "start": 3,
+          "username": "LaCeys_ES"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/dZqRBGWNuq",
+          "end": 38,
+          "expanded_url": "https://x.com/LaCeys_ES/status/2001673321621131695/photo/1",
+          "media_key": "3_2001673231531687936",
+          "start": 15,
+          "url": "https://t.co/dZqRBGWNuq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2001878134933856602",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 286
+    },
+    "referenced_tweets": [
+      {
+        "id": "2001673321621131695",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @LaCeys_ES: https://t.co/dZqRBGWNuq"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3136,
+        "media_key": "3_2001673231531687936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8dfMuHawAAtXva.jpg",
+        "width": 4000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2001673231531687936"
+          ],
+          "media_source_tweet_id": [
+            "2001673321621131695"
+          ]
+        },
+        "author_id": "1964331185590718464",
+        "conversation_id": "2001878134933856602",
+        "created_at": "2025-12-19T04:51:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-19T05:51:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2001878134933856602"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1140297102347517953",
+              "start": 3,
+              "username": "LaCeys_ES"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/dZqRBGWNuq",
+              "end": 38,
+              "expanded_url": "https://x.com/LaCeys_ES/status/2001673321621131695/photo/1",
+              "media_key": "3_2001673231531687936",
+              "start": 15,
+              "url": "https://t.co/dZqRBGWNuq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001878134933856602",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 286
+        },
+        "referenced_tweets": [
+          {
+            "id": "2001673321621131695",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @LaCeys_ES: https://t.co/dZqRBGWNuq"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2001673231531687936"
+          ]
+        },
+        "author_id": "1140297102347517953",
+        "conversation_id": "2001673321621131695",
+        "created_at": "2025-12-18T15:18:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-18T16:18:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2001673321621131695"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dZqRBGWNuq",
+              "end": 23,
+              "expanded_url": "https://x.com/LaCeys_ES/status/2001673321621131695/photo/1",
+              "media_key": "3_2001673231531687936",
+              "start": 0,
+              "url": "https://t.co/dZqRBGWNuq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001673321621131695",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 389,
+          "impression_count": 27785,
+          "like_count": 2760,
+          "quote_count": 2,
+          "reply_count": 3,
+          "retweet_count": 286
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/dZqRBGWNuq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-06T14:13:55.000Z",
+        "description": "中文/od/VOCALOID/音游 纯种乐子人性别不明推上啥都有 私信互关欢迎 我有对象 我很喜欢他",
+        "id": "1964331185590718464",
+        "location": "翼天国",
+        "name": "━Σ(ﾟДﾟ|||)━",
+        "pinned_tweet_id": "1966517785367871718",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001729011576426496/HumNDWc3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 48,
+          "following_count": 272,
+          "like_count": 2715,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 732
+        },
+        "username": "breakcoreWTF",
+        "verified": false
+      },
+      {
+        "created_at": "2019-06-16T16:36:29.000Z",
+        "description": "ぴっぴぴとふー\nおえかきんちゅ ボイロ（広義）すきー\nicon描いた人：@gawa_wawa\n🔞アカウント：https://t.co/mbeuonoPve\nskeb：https://t.co/OyW0NYBtih",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 46,
+                "start": 36,
+                "username": "gawa_wawa"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "x.com/LaCeys_R18",
+                "end": 77,
+                "expanded_url": "https://x.com/LaCeys_R18",
+                "start": 54,
+                "url": "https://t.co/mbeuonoPve"
+              },
+              {
+                "display_url": "skeb.jp/@LaCeys_ES",
+                "end": 106,
+                "expanded_url": "https://skeb.jp/@LaCeys_ES",
+                "start": 83,
+                "url": "https://t.co/OyW0NYBtih"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/laceyses",
+                "end": 23,
+                "expanded_url": "https://lit.link/laceyses",
+                "start": 0,
+                "url": "https://t.co/XgIsNuBQn1"
+              }
+            ]
+          }
+        },
+        "id": "1140297102347517953",
+        "location": "大気圏",
+        "name": "れいしす",
+        "pinned_tweet_id": "1970317953649516828",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1568827951055253506/VM4yiRE2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18888,
+          "following_count": 467,
+          "like_count": 12266,
+          "listed_count": 123,
+          "media_count": 679,
+          "tweet_count": 3704
+        },
+        "url": "https://t.co/XgIsNuBQn1",
+        "username": "LaCeys_ES",
+        "verified": true
+      }
+    ]
+  }
+}

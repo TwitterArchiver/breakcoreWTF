@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1964331185590718464",
+    "conversation_id": "2075193482684375358",
+    "created_at": "2026-07-09T12:20:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-09T13:20:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075193482684375358"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2049099910289747968",
+          "start": 3,
+          "username": "Rainsta1n7u"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075193482684375358",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 15
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074794296088367420",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Rainsta1n7u: 每天穿黄色衣服给你送饭那男的是谁"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1964331185590718464",
+        "conversation_id": "2075193482684375358",
+        "created_at": "2026-07-09T12:20:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T13:20:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075193482684375358"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2049099910289747968",
+              "start": 3,
+              "username": "Rainsta1n7u"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075193482684375358",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 15
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074794296088367420",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Rainsta1n7u: 每天穿黄色衣服给你送饭那男的是谁"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2049099910289747968",
+        "conversation_id": "2074794296088367420",
+        "created_at": "2026-07-08T09:54:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T10:54:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074794296088367420"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2074794296088367420",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 18758,
+          "like_count": 199,
+          "quote_count": 0,
+          "reply_count": 40,
+          "retweet_count": 15
+        },
+        "reply_settings": "everyone",
+        "text": "每天穿黄色衣服给你送饭那男的是谁"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-06T14:13:55.000Z",
+        "description": "OD丨自伤丨Vocaloid丨音游丨顺女 LGBTQ+friendly\n喜欢爬宠 不卖药 非必要不回私信 我很穷欢迎投喂\n不喜欢的直接b 同类查成分回fo 取关请双取",
+        "id": "1964331185590718464",
+        "location": "颅内",
+        "name": "箸",
+        "pinned_tweet_id": "2072469945422934327",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074711282427842560/EOM9Puhb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 926,
+          "following_count": 708,
+          "like_count": 25450,
+          "listed_count": 0,
+          "media_count": 313,
+          "tweet_count": 5599
+        },
+        "url": "",
+        "username": "breakcoreWTF",
+        "verified": true
+      },
+      {
+        "created_at": "2026-04-28T12:18:47.000Z",
+        "description": "k8",
+        "id": "2049099910289747968",
+        "location": "不加联系",
+        "name": "yoyo",
+        "pinned_tweet_id": "2065611606260851187",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061092390002466816/NJwspf67_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 653,
+          "following_count": 58,
+          "like_count": 920,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 153
+        },
+        "url": "",
+        "username": "Rainsta1n7u",
+        "verified": false
+      }
+    ]
+  }
+}

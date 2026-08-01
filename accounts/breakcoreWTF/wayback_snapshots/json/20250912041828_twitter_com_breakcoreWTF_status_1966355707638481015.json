@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1964331185590718464",
+    "conversation_id": "1966355389278204163",
+    "created_at": "2025-09-12T04:18:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-12T05:18:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1966355707638481015"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "106511592",
+          "start": 0,
+          "username": "ebimayo3150"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1966355707638481015",
+    "in_reply_to_user_id": "106511592",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1966355389278204163",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ebimayo3150 かわいいですね"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1966355377718726656",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0nlzD8akAA0Pt9.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1964331185590718464",
+        "conversation_id": "1966355389278204163",
+        "created_at": "2025-09-12T04:18:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-12T05:18:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1966355707638481015"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "106511592",
+              "start": 0,
+              "username": "ebimayo3150"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1966355707638481015",
+        "in_reply_to_user_id": "106511592",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1966355389278204163",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ebimayo3150 かわいいですね"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1966355377718726656"
+          ]
+        },
+        "author_id": "106511592",
+        "conversation_id": "1966355389278204163",
+        "created_at": "2025-09-12T04:17:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-12T05:17:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1966355389278204163"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 1,
+              "normalized_text": "韓国",
+              "probability": 0.8312,
+              "start": 0,
+              "type": "Place"
+            },
+            {
+              "end": 11,
+              "normalized_text": "韓国",
+              "probability": 0.9459,
+              "start": 10,
+              "type": "Place"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/5aL85qHJps",
+              "end": 42,
+              "expanded_url": "https://x.com/ebimayo3150/status/1966355389278204163/photo/1",
+              "media_key": "3_1966355377718726656",
+              "start": 19,
+              "url": "https://t.co/5aL85qHJps"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1966355389278204163",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 23,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "韓国来ちゃ。\nこれは韓国の交通系IC https://t.co/5aL85qHJps"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-06T14:13:55.000Z",
+        "description": "161/39/中文/od/自残/精神病/网蛆/VOCALOID/音游/舞萌w43/中二14.9/世界计划 无底线无雷点无素质 含暴论/地域黑/辱男女/发情等成分 我有对象 我很喜欢他",
+        "id": "1964331185590718464",
+        "name": "💊人工時代完全犯罪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1964333475118665733/qxlL_t3T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22,
+          "following_count": 156,
+          "like_count": 413,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 106
+        },
+        "username": "breakcoreWTF",
+        "verified": false
+      },
+      {
+        "created_at": "2010-01-19T20:16:11.000Z",
+        "description": "趣味程度に机上音楽をしたりする一般甲殻類生物 ⋮ ▶️ https://t.co/XnBlsXXefH ⋮ 🔗 https://t.co/ReJqhSCfjN",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "youtube.com/ebimayo3150",
+                "end": 51,
+                "expanded_url": "https://www.youtube.com/ebimayo3150",
+                "start": 28,
+                "url": "https://t.co/XnBlsXXefH"
+              },
+              {
+                "display_url": "ffm.bio/ebimayo3150",
+                "end": 79,
+                "expanded_url": "https://ffm.bio/ebimayo3150",
+                "start": 56,
+                "url": "https://t.co/ReJqhSCfjN"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ab-sounds.com",
+                "end": 23,
+                "expanded_url": "https://ab-sounds.com",
+                "start": 0,
+                "url": "https://t.co/iPffPw7fc2"
+              }
+            ]
+          }
+        },
+        "id": "106511592",
+        "location": "パソンコの前",
+        "name": "EBIMAYO",
+        "pinned_tweet_id": "1913895419559419942",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906995170425573376/wzFvL6QG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44285,
+          "following_count": 2428,
+          "like_count": 30239,
+          "listed_count": 199,
+          "media_count": 7017,
+          "tweet_count": 73995
+        },
+        "url": "https://t.co/iPffPw7fc2",
+        "username": "ebimayo3150",
+        "verified": false
+      }
+    ]
+  }
+}

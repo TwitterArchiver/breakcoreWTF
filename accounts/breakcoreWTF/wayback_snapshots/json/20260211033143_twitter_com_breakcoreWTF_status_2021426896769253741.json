@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1964331185590718464",
+    "conversation_id": "2021249700456759732",
+    "created_at": "2026-02-11T03:31:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-11T04:31:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2021426896769253741"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1942218142010552320",
+          "start": 0,
+          "username": "utc_08"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2021426896769253741",
+    "in_reply_to_user_id": "1942218142010552320",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2021426130029580335",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@utc_08 对"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1964331185590718464",
+        "conversation_id": "2021249700456759732",
+        "created_at": "2026-02-11T03:31:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-11T04:31:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021426896769253741"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1942218142010552320",
+              "start": 0,
+              "username": "utc_08"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021426896769253741",
+        "in_reply_to_user_id": "1942218142010552320",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021426130029580335",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@utc_08 对"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1942218142010552320",
+        "conversation_id": "2021249700456759732",
+        "created_at": "2026-02-11T03:28:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-11T04:28:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021426130029580335"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1964331185590718464",
+              "start": 0,
+              "username": "breakcoreWTF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021426130029580335",
+        "in_reply_to_user_id": "1964331185590718464",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021249700456759732",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@breakcoreWTF 我"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-06T14:13:55.000Z",
+        "description": "OD丨自伤丨Vocaloid丨音游丨友跨顺女\n不喜欢的直接b 推特是垃圾桶口无遮拦 同类回fo",
+        "id": "1964331185590718464",
+        "location": "🚪40 熟推免",
+        "name": "箸",
+        "pinned_tweet_id": "2016685165557534981",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019848796881186816/pdjXkx-3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 492,
+          "following_count": 554,
+          "like_count": 7633,
+          "listed_count": 0,
+          "media_count": 123,
+          "tweet_count": 2369
+        },
+        "username": "breakcoreWTF",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-07T13:44:37.000Z",
+        "description": "listening http://127.0.0.1:2024",
+        "id": "1942218142010552320",
+        "location": "重庆",
+        "name": "timezone!()/ss",
+        "pinned_tweet_id": "2018316346011070845",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958907475270488064/gml8DRKH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 72,
+          "following_count": 183,
+          "like_count": 1318,
+          "listed_count": 0,
+          "media_count": 61,
+          "tweet_count": 549
+        },
+        "username": "utc_08",
+        "verified": false
+      }
+    ]
+  }
+}

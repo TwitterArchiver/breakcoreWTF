@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1964331185590718464",
+    "conversation_id": "2008506740510519583",
+    "created_at": "2026-01-12T09:33:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-12T10:33:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2010646314498097216"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1671760170739793921",
+          "start": 0,
+          "username": "WC_wcng"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2010646314498097216",
+    "in_reply_to_user_id": "1671760170739793921",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2009287596153745787",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@WC_wcng 估计我删了吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1964331185590718464",
+        "conversation_id": "2008506740510519583",
+        "created_at": "2026-01-12T09:33:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-12T10:33:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2010646314498097216"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1671760170739793921",
+              "start": 0,
+              "username": "WC_wcng"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010646314498097216",
+        "in_reply_to_user_id": "1671760170739793921",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2009287596153745787",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@WC_wcng 估计我删了吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1671760170739793921",
+        "conversation_id": "2008506740510519583",
+        "created_at": "2026-01-08T15:34:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-08T16:34:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2009287596153745787"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1964331185590718464",
+              "start": 0,
+              "username": "breakcoreWTF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009287596153745787",
+        "in_reply_to_user_id": "1964331185590718464",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2009229315309998390",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@breakcoreWTF 不是为啥啊没看到"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-06T14:13:55.000Z",
+        "description": "中文/od/VOCALOID/音游 纯种乐子人性别不明推上啥都有 会发泄情绪无需理会 私信互关欢迎",
+        "id": "1964331185590718464",
+        "location": "幻想郷",
+        "name": "━Σ(ﾟДﾟ|||)━",
+        "pinned_tweet_id": "2003760156488986744",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001729011576426496/HumNDWc3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 47,
+          "following_count": 308,
+          "like_count": 3436,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 1024
+        },
+        "username": "breakcoreWTF",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-22T06:01:09.000Z",
+        "description": "我是男的，目前还是",
+        "id": "1671760170739793921",
+        "location": "Taiwan",
+        "name": "渦蟲bot🇹🇼🏳️‍⚧",
+        "pinned_tweet_id": "1902382834444333350",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1671768709877096449/A3xoDzcx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 191,
+          "like_count": 568,
+          "listed_count": 0,
+          "media_count": 52,
+          "tweet_count": 368
+        },
+        "username": "WC_wcng",
+        "verified": false
+      }
+    ]
+  }
+}

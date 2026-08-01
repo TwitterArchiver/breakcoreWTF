@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2055287288142221312"
+      ],
+      "media_source_tweet_id": [
+        "2055287300033036610"
+      ]
+    },
+    "author_id": "1964331185590718464",
+    "conversation_id": "2064581832688230849",
+    "created_at": "2026-06-10T05:34:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T06:34:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064581832688230849"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1795283221988462592",
+          "start": 3,
+          "username": "normal_ballerz"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/d3khBfoC7a",
+          "end": 43,
+          "expanded_url": "https://x.com/equine__dentist/status/2055287300033036610/video/1",
+          "media_key": "7_2055287288142221312",
+          "start": 20,
+          "url": "https://t.co/d3khBfoC7a"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064581832688230849",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 274
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064474658884272152",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @normal_ballerz: https://t.co/d3khBfoC7a"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 11366,
+        "height": 848,
+        "media_key": "7_2055287288142221312",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2055287288142221312/pu/img/qH5A0_SwLHHY-SVK.jpg",
+        "public_metrics": {
+          "view_count": 414053
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2055287288142221312/pu/vid/avc1/320x584/UUaGJ7_WYKDJz4DG.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2055287288142221312/pu/vid/avc1/464x848/-VXzHX6JWyt8PQQ3.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2055287288142221312/pu/pl/A-p9Ua78zIkjI07E.m3u8?tag=12&v=cfc"
+          }
+        ],
+        "width": 464
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2055287288142221312"
+          ],
+          "media_source_tweet_id": [
+            "2055287300033036610"
+          ]
+        },
+        "author_id": "1964331185590718464",
+        "conversation_id": "2064581832688230849",
+        "created_at": "2026-06-10T05:34:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T06:34:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064581832688230849"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1795283221988462592",
+              "start": 3,
+              "username": "normal_ballerz"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/d3khBfoC7a",
+              "end": 43,
+              "expanded_url": "https://x.com/equine__dentist/status/2055287300033036610/video/1",
+              "media_key": "7_2055287288142221312",
+              "start": 20,
+              "url": "https://t.co/d3khBfoC7a"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064581832688230849",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 274
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064474658884272152",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @normal_ballerz: https://t.co/d3khBfoC7a"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2055287288142221312"
+          ],
+          "media_source_tweet_id": [
+            "2055287300033036610"
+          ]
+        },
+        "author_id": "1795283221988462592",
+        "conversation_id": "2064474658884272152",
+        "created_at": "2026-06-09T22:28:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T23:28:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064474658884272152"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/d3khBfoC7a",
+              "end": 23,
+              "expanded_url": "https://x.com/equine__dentist/status/2055287300033036610/video/1",
+              "media_key": "7_2055287288142221312",
+              "start": 0,
+              "url": "https://t.co/d3khBfoC7a"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064474658884272152",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 402,
+          "impression_count": 45149,
+          "like_count": 2365,
+          "quote_count": 26,
+          "reply_count": 19,
+          "retweet_count": 274
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/d3khBfoC7a"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-06T14:13:55.000Z",
+        "description": "OD丨自伤丨Vocaloid丨友跨顺女\n喜欢爬宠 不卖药 非必要不回私信\n不喜欢的直接b 同类查成分回fo 取关请双取",
+        "id": "1964331185590718464",
+        "location": "颅内",
+        "name": "箸",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061439509125074944/Hf-Lim6c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 767,
+          "following_count": 665,
+          "like_count": 16432,
+          "listed_count": 0,
+          "media_count": 236,
+          "tweet_count": 4686
+        },
+        "username": "breakcoreWTF",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-28T02:38:26.000Z",
+        "description": "riddled with riddles",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ultramundane2.wordpress.com",
+                "end": 23,
+                "expanded_url": "https://ultramundane2.wordpress.com",
+                "start": 0,
+                "url": "https://t.co/unwDFPebvW"
+              }
+            ]
+          }
+        },
+        "id": "1795283221988462592",
+        "location": "22/$skunkbunnyy/MDNI/I’M TRANS",
+        "name": "very baller cash money normal sane person",
+        "pinned_tweet_id": "1824137780596969708",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1819169741195366400/pE51XHV8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22185,
+          "following_count": 1076,
+          "like_count": 160489,
+          "listed_count": 27,
+          "media_count": 3209,
+          "tweet_count": 167164
+        },
+        "url": "https://t.co/unwDFPebvW",
+        "username": "normal_ballerz",
+        "verified": false
+      }
+    ]
+  }
+}

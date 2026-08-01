@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1969226170723155968"
+      ],
+      "media_source_tweet_id": [
+        "1969226177727336571"
+      ]
+    },
+    "author_id": "1964331185590718464",
+    "conversation_id": "1969617127176094084",
+    "created_at": "2025-09-21T04:18:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-21T05:18:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1969617127176094084"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1947652886273368065",
+          "start": 3,
+          "username": "lysol1i"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/3rYhPkEIyc",
+          "end": 36,
+          "expanded_url": "https://x.com/lysol1i/status/1969226177727336571/photo/1",
+          "media_key": "3_1969226170723155968",
+          "start": 13,
+          "url": "https://t.co/3rYhPkEIyc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1969617127176094084",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1969226177727336571",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @lysol1i: https://t.co/3rYhPkEIyc"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1522,
+        "media_key": "3_1969226170723155968",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1QYxNRbQAAaUu-.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1969226170723155968"
+          ],
+          "media_source_tweet_id": [
+            "1969226177727336571"
+          ]
+        },
+        "author_id": "1964331185590718464",
+        "conversation_id": "1969617127176094084",
+        "created_at": "2025-09-21T04:18:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-21T05:18:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1969617127176094084"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1947652886273368065",
+              "start": 3,
+              "username": "lysol1i"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/3rYhPkEIyc",
+              "end": 36,
+              "expanded_url": "https://x.com/lysol1i/status/1969226177727336571/photo/1",
+              "media_key": "3_1969226170723155968",
+              "start": 13,
+              "url": "https://t.co/3rYhPkEIyc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1969617127176094084",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1969226177727336571",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @lysol1i: https://t.co/3rYhPkEIyc"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1969226170723155968"
+          ]
+        },
+        "author_id": "1947652886273368065",
+        "conversation_id": "1969226177727336571",
+        "created_at": "2025-09-20T02:24:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-20T03:24:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1969226177727336571"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3rYhPkEIyc",
+              "end": 23,
+              "expanded_url": "https://x.com/lysol1i/status/1969226177727336571/photo/1",
+              "media_key": "3_1969226170723155968",
+              "start": 0,
+              "url": "https://t.co/3rYhPkEIyc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1969226177727336571",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 896,
+          "like_count": 29,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/3rYhPkEIyc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-06T14:13:55.000Z",
+        "description": "中文/od/自残/精神病/网蛆/VOCALOID/音游/舞萌w43/中二14.9/世界计划 无底线无雷点无素质 含暴论/地域黑/辱男女/发情等成分 私信互关欢迎 我有对象 我很喜欢他",
+        "id": "1964331185590718464",
+        "location": "翼天国",
+        "name": "💊人工時代完全犯罪",
+        "pinned_tweet_id": "1966517785367871718",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1964333475118665733/qxlL_t3T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37,
+          "following_count": 194,
+          "like_count": 1104,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 268
+        },
+        "username": "breakcoreWTF",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-22T13:40:15.000Z",
+        "description": "",
+        "id": "1947652886273368065",
+        "name": "额你桶死了",
+        "pinned_tweet_id": "1959477578546475359",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967652925108523010/wbWoooP5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 75,
+          "following_count": 83,
+          "like_count": 1082,
+          "listed_count": 0,
+          "media_count": 96,
+          "tweet_count": 473
+        },
+        "username": "lysol1i",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1964331185590718464",
+    "conversation_id": "2081407979015012731",
+    "created_at": "2026-07-26T16:23:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-26T17:23:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081415088238670149"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1997581268545146881",
+          "start": 0,
+          "username": "H0Ri2ON_000"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081415088238670149",
+    "in_reply_to_user_id": "1997581268545146881",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081407979015012731",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@H0Ri2ON_000 妈妈"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 42767,
+        "height": 720,
+        "media_key": "13_2081407881350713344",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2081407881350713344/img/WIFzlAast7_MGKtl.jpg",
+        "public_metrics": {
+          "view_count": 4
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2081407881350713344/vid/avc1/356x270/YqLB1hUAwYkUJmF6.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2081407881350713344/vid/avc1/476x360/6VyC-A3EUsiq5BNN.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2081407881350713344/vid/avc1/952x720/PwccT4lVtOy-o5hV.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2081407881350713344/pl/5BDtm_NEJ_l8K0ZO.m3u8"
+          }
+        ],
+        "width": 952
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1964331185590718464",
+        "conversation_id": "2081407979015012731",
+        "created_at": "2026-07-26T16:23:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T17:23:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081415088238670149"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1997581268545146881",
+              "start": 0,
+              "username": "H0Ri2ON_000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081415088238670149",
+        "in_reply_to_user_id": "1997581268545146881",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081407979015012731",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@H0Ri2ON_000 妈妈"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2081407881350713344"
+          ]
+        },
+        "author_id": "1997581268545146881",
+        "conversation_id": "2081407979015012731",
+        "created_at": "2026-07-26T15:55:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T16:55:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081407979015012731"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JxqR54FWt6",
+              "end": 65,
+              "expanded_url": "https://x.com/H0Ri2ON_000/status/2081407979015012731/video/1",
+              "media_key": "13_2081407881350713344",
+              "start": 42,
+              "url": "https://t.co/JxqR54FWt6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081407979015012731",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "哎哎。這個神曲神譜然後這段特別特別爽。板子餓了吃了一個鍵不要在意，然後我很菜。。！ https://t.co/JxqR54FWt6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-06T14:13:55.000Z",
+        "description": "叫我筷子就可以了(:3っ )っ\nOD丨🔪丨Vocaloid丨音游丨顺女 LGBTQ+friendly\n不卖药 只看互关私信 我很穷欢迎投喂\n不喜欢的直接b 查成分同类回fo 取关请双取",
+        "id": "1964331185590718464",
+        "location": "颅内",
+        "name": "箸",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074711282427842560/EOM9Puhb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1280,
+          "following_count": 815,
+          "like_count": 34923,
+          "listed_count": 0,
+          "media_count": 349,
+          "tweet_count": 6277
+        },
+        "url": "",
+        "username": "breakcoreWTF",
+        "verified": true
+      },
+      {
+        "created_at": "2025-12-07T08:18:06.000Z",
+        "description": "你好我是HR2 表@ayamariNK\n非二元性別 無性戀 有喜歡的人類♡\n號主是一隻貓咪不太會說人話。\nr18 rkgk 雜談 互fo隨緣",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 9,
+                "username": "ayamariNK"
+              }
+            ]
+          }
+        },
+        "id": "1997581268545146881",
+        "name": "HR2Nyan",
+        "pinned_tweet_id": "2080573937671623144",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078348030852665344/V9l3EY5T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 80,
+          "like_count": 525,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 291
+        },
+        "url": "",
+        "username": "H0Ri2ON_000",
+        "verified": false
+      }
+    ]
+  }
+}

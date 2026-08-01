@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2062576651968667648"
+      ],
+      "media_source_tweet_id": [
+        "2062576664480194929"
+      ]
+    },
+    "author_id": "1964331185590718464",
+    "conversation_id": "2062752576085668140",
+    "created_at": "2026-06-05T04:25:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-05T05:25:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062752576085668140"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1191030472316338176",
+          "start": 3,
+          "username": "ZanEngineer"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/yFS7MKrH6Z",
+          "end": 71,
+          "expanded_url": "https://x.com/ZanEngineer/status/2062576664480194929/video/1",
+          "media_key": "7_2062576651968667648",
+          "start": 48,
+          "url": "https://t.co/yFS7MKrH6Z"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062752576085668140",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 57
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062576664480194929",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ZanEngineer: ウーパールーパーに親近感しかない。だいたい俺と同じ反応速度。 https://t.co/yFS7MKrH6Z"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 5566,
+        "height": 320,
+        "media_key": "7_2062576651968667648",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2062576651968667648/pu/img/UVQxH2fqR7q6VjKr.jpg",
+        "public_metrics": {
+          "view_count": 3687
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 432000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2062576651968667648/pu/vid/avc1/320x320/9J4pqTCVVLANLP5g.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2062576651968667648/pu/pl/1KOT1UOJ53-MlCLc.m3u8"
+          }
+        ],
+        "width": 320
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2062576651968667648"
+          ],
+          "media_source_tweet_id": [
+            "2062576664480194929"
+          ]
+        },
+        "author_id": "1964331185590718464",
+        "conversation_id": "2062752576085668140",
+        "created_at": "2026-06-05T04:25:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T05:25:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062752576085668140"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1191030472316338176",
+              "start": 3,
+              "username": "ZanEngineer"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/yFS7MKrH6Z",
+              "end": 71,
+              "expanded_url": "https://x.com/ZanEngineer/status/2062576664480194929/video/1",
+              "media_key": "7_2062576651968667648",
+              "start": 48,
+              "url": "https://t.co/yFS7MKrH6Z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062752576085668140",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 57
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062576664480194929",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ZanEngineer: ウーパールーパーに親近感しかない。だいたい俺と同じ反応速度。 https://t.co/yFS7MKrH6Z"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2062576651968667648"
+          ]
+        },
+        "author_id": "1191030472316338176",
+        "conversation_id": "2062576664480194929",
+        "created_at": "2026-06-04T16:46:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T17:46:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062576664480194929"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yFS7MKrH6Z",
+              "end": 54,
+              "expanded_url": "https://x.com/ZanEngineer/status/2062576664480194929/video/1",
+              "media_key": "7_2062576651968667648",
+              "start": 31,
+              "url": "https://t.co/yFS7MKrH6Z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062576664480194929",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 38,
+          "impression_count": 9907,
+          "like_count": 476,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 57
+        },
+        "reply_settings": "everyone",
+        "text": "ウーパールーパーに親近感しかない。だいたい俺と同じ反応速度。 https://t.co/yFS7MKrH6Z"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-06T14:13:55.000Z",
+        "description": "OD丨自伤丨Vocaloid丨音游丨友跨顺女\n不喜欢的直接b 同类回fo 取关请双取",
+        "id": "1964331185590718464",
+        "location": "颅内",
+        "name": "箸",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061439509125074944/Hf-Lim6c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 686,
+          "following_count": 617,
+          "like_count": 14911,
+          "listed_count": 0,
+          "media_count": 218,
+          "tweet_count": 4391
+        },
+        "username": "breakcoreWTF",
+        "verified": false
+      },
+      {
+        "created_at": "2019-11-03T16:33:12.000Z",
+        "description": "TLの“今”をシュールに言語化して斬る侍。フォローすると時代の違和感が見えるかも？0からポストだけで有名になった人。言語化職人。バズ職人。通算1277回、月間最高60回万バズ。月間最高7億7千万imp。ねとらぼ掲載3回、その他メディア掲載テレビ放映多数。過去の万バズはハイライトに。ポストはリンクの最新タブから見るの推奨",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/search?q=from%…",
+                "end": 23,
+                "expanded_url": "https://x.com/search?q=from%3AzanEngineer%20min_faves%3A100%20exclude%3Areplies",
+                "start": 0,
+                "url": "https://t.co/4mrScXaoMg"
+              }
+            ]
+          }
+        },
+        "id": "1191030472316338176",
+        "location": "amazonアソシエイト参加者",
+        "name": "お侍さん",
+        "pinned_tweet_id": "2056733668627104220",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056615661695279104/3oM7h1OQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 125066,
+          "following_count": 3621,
+          "like_count": 555365,
+          "listed_count": 1106,
+          "media_count": 52825,
+          "tweet_count": 162462
+        },
+        "url": "https://t.co/4mrScXaoMg",
+        "username": "ZanEngineer",
+        "verified": true
+      }
+    ]
+  }
+}

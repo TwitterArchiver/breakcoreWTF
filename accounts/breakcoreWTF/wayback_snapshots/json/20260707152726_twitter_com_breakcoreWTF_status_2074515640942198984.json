@@ -1,0 +1,458 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1964331185590718464",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Television shows from around the world",
+          "id": "3",
+          "name": "TV Shows"
+        },
+        "entity": {
+          "description": "Adult animated web series",
+          "id": "1444043338236104705",
+          "name": "Hazbin Hotel"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1281311833593282560",
+          "name": "Adult animation"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1444046743423762434",
+          "name": "Hazbin Hotel"
+        }
+      },
+      {
+        "domain": {
+          "description": "For global/conceptual TV shows without localization.",
+          "id": "172",
+          "name": "Global TV Show"
+        },
+        "entity": {
+          "id": "1444046743423762434",
+          "name": "Hazbin Hotel"
+        }
+      }
+    ],
+    "conversation_id": "2074515640942198984",
+    "created_at": "2026-07-07T15:27:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-07T16:27:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074515640942198984"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 125,
+          "start": 110,
+          "tag": "HazbinHotelVox"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 11,
+          "id": "980001554789838849",
+          "start": 3,
+          "username": "feiief4"
+        },
+        {
+          "end": 92,
+          "id": "1625048647078674432",
+          "start": 82,
+          "username": "ShivLoDeM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074515640942198984",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 172
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074255896268747067",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @feiief4: Drunk 2: A story in three parts \n(Thank the coolest kid on the block @ShivLoDeM for the idea! 💕)\n#HazbinHotelVox #HazbinHotelA…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1791,
+        "media_key": "3_2074255893269823488",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMk8vrubwAATgmT.jpg",
+        "width": 2600
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1964331185590718464",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "description": "Adult animated web series",
+              "id": "1444043338236104705",
+              "name": "Hazbin Hotel"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1281311833593282560",
+              "name": "Adult animation"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1444046743423762434",
+              "name": "Hazbin Hotel"
+            }
+          },
+          {
+            "domain": {
+              "description": "For global/conceptual TV shows without localization.",
+              "id": "172",
+              "name": "Global TV Show"
+            },
+            "entity": {
+              "id": "1444046743423762434",
+              "name": "Hazbin Hotel"
+            }
+          }
+        ],
+        "conversation_id": "2074515640942198984",
+        "created_at": "2026-07-07T15:27:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T16:27:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074515640942198984"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 125,
+              "start": 110,
+              "tag": "HazbinHotelVox"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 11,
+              "id": "980001554789838849",
+              "start": 3,
+              "username": "feiief4"
+            },
+            {
+              "end": 92,
+              "id": "1625048647078674432",
+              "start": 82,
+              "username": "ShivLoDeM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074515640942198984",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 172
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074255896268747067",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @feiief4: Drunk 2: A story in three parts \n(Thank the coolest kid on the block @ShivLoDeM for the idea! 💕)\n#HazbinHotelVox #HazbinHotelA…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074255893269823488"
+          ]
+        },
+        "author_id": "980001554789838849",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "description": "Adult animated web series",
+              "id": "1444043338236104705",
+              "name": "Hazbin Hotel"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1281311833593282560",
+              "name": "Adult animation"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1444046743423762434",
+              "name": "Hazbin Hotel"
+            }
+          },
+          {
+            "domain": {
+              "description": "For global/conceptual TV shows without localization.",
+              "id": "172",
+              "name": "Global TV Show"
+            },
+            "entity": {
+              "id": "1444046743423762434",
+              "name": "Hazbin Hotel"
+            }
+          }
+        ],
+        "conversation_id": "2074255896268747067",
+        "created_at": "2026-07-06T22:15:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T23:15:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074255896268747067"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 112,
+              "start": 97,
+              "tag": "HazbinHotelVox"
+            },
+            {
+              "end": 132,
+              "start": 113,
+              "tag": "HazbinHotelAlastor"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 79,
+              "id": "1625048647078674432",
+              "start": 69,
+              "username": "ShivLoDeM"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/3wtflqRRjC",
+              "end": 156,
+              "expanded_url": "https://x.com/feiief4/status/2074255896268747067/photo/1",
+              "media_key": "3_2074255893269823488",
+              "start": 133,
+              "url": "https://t.co/3wtflqRRjC"
+            },
+            {
+              "display_url": "x.com/feiief4/status…",
+              "end": 180,
+              "expanded_url": "https://twitter.com/feiief4/status/2074254647766982672",
+              "start": 157,
+              "url": "https://t.co/ChTlfQsg42"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074255896268747067",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 172,
+          "impression_count": 12944,
+          "like_count": 1282,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 172
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074254647766982672",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Drunk 2: A story in three parts \n(Thank the coolest kid on the block @ShivLoDeM for the idea! 💕)\n#HazbinHotelVox #HazbinHotelAlastor https://t.co/3wtflqRRjC https://t.co/ChTlfQsg42"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-06T14:13:55.000Z",
+        "description": "OD丨自伤丨Vocaloid丨音游丨顺女 LGBTQ+friendly\n喜欢爬宠 不卖药 非必要不回私信 我很穷欢迎投喂\n不喜欢的直接b 同类查成分回fo 取关请双取",
+        "id": "1964331185590718464",
+        "location": "颅内",
+        "name": "箸",
+        "pinned_tweet_id": "2072469945422934327",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071376088018956288/SAB5MTfr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 909,
+          "following_count": 709,
+          "like_count": 24551,
+          "listed_count": 0,
+          "media_count": 312,
+          "tweet_count": 5533
+        },
+        "url": "",
+        "username": "breakcoreWTF",
+        "verified": true
+      },
+      {
+        "created_at": "2018-03-31T08:39:12.000Z",
+        "description": "✦ Comic/Digital Artist just for kicks | She/her | 🔥 Hazbin Hotel |  ▲ feiief4✉️@gmail.com | ✖️ Using art without permission is a no-no",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 85,
+                "start": 79,
+                "username": "gmail"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ko-fi.com/feiief",
+                "end": 23,
+                "expanded_url": "https://ko-fi.com/feiief",
+                "start": 0,
+                "url": "https://t.co/TYoo8HtU0Z"
+              }
+            ]
+          }
+        },
+        "id": "980001554789838849",
+        "name": "Feiief✨⭐",
+        "pinned_tweet_id": "1969692321055985876",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1779101886856994816/skoh_5s9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16686,
+          "following_count": 400,
+          "like_count": 12571,
+          "listed_count": 25,
+          "media_count": 150,
+          "tweet_count": 851
+        },
+        "url": "https://t.co/TYoo8HtU0Z",
+        "username": "feiief4",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-13T08:26:34.000Z",
+        "description": "FIND ME ON: BSKY / TUMBLR / INSTA \nArt used to go here. \n30~ \\\\ All pronouns at once // Fanartist\nINSTA@shiveagitarts/",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/ShiveAGit",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/ShiveAGit",
+                "start": 0,
+                "url": "https://t.co/fIC5v1brpG"
+              }
+            ]
+          }
+        },
+        "id": "1625048647078674432",
+        "location": "A rock in space",
+        "name": "ShiveAGit",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847071031615541250/YMSBk2N2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1271,
+          "following_count": 379,
+          "like_count": 36371,
+          "listed_count": 2,
+          "media_count": 440,
+          "tweet_count": 1121
+        },
+        "url": "https://t.co/fIC5v1brpG",
+        "username": "ShivLoDeM",
+        "verified": false
+      }
+    ]
+  }
+}

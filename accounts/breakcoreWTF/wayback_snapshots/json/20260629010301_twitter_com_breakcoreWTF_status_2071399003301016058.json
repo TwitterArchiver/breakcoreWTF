@@ -1,0 +1,675 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2071201946917289984"
+      ],
+      "media_source_tweet_id": [
+        "2071202014156210415"
+      ]
+    },
+    "author_id": "1964331185590718464",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t ",
+          "id": "1574831043118395392",
+          "name": "Fate series"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t ",
+          "id": "1574831043118395392",
+          "name": "Fate series"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Mobile gaming",
+          "id": "847527946864607232",
+          "name": "Mobile gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+          "id": "855313203634462720",
+          "name": "Fate/Grand Order"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+          "id": "855313203634462720",
+          "name": "Fate/Grand Order"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+          "id": "855313203634462720",
+          "name": "Fate/Grand Order"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      }
+    ],
+    "conversation_id": "2071399003301016058",
+    "created_at": "2026-06-29T01:03:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-29T02:03:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071399003301016058"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 21,
+          "start": 16,
+          "tag": "重音テト"
+        },
+        {
+          "end": 28,
+          "start": 23,
+          "tag": "足立レイ"
+        },
+        {
+          "end": 35,
+          "start": 30,
+          "tag": "デフォ子"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1862791401232289792",
+          "start": 3,
+          "username": "okayuyuyu2"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/UDIv3a2yur",
+          "end": 59,
+          "expanded_url": "https://x.com/okayuyuyu2/status/2071202014156210415/video/1",
+          "media_key": "13_2071201946917289984",
+          "start": 36,
+          "url": "https://t.co/UDIv3a2yur"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071399003301016058",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 730
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071202014156210415",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @okayuyuyu2: #重音テト  #足立レイ  #デフォ子 https://t.co/UDIv3a2yur"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 18066,
+        "height": 1186,
+        "media_key": "13_2071201946917289984",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2071201946917289984/img/iPjHxCBcwrf5y3JU.jpg",
+        "public_metrics": {
+          "view_count": 19034
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2071201946917289984/vid/avc1/320x526/LJpUHg__2C-tc853.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2071201946917289984/vid/avc1/480x790/McJ7b2xe_Qbg-_jz.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2071201946917289984/vid/avc1/720x1186/fVYyfnNcZ0OkV9bj.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2071201946917289984/pl/4TEGhXJCVS72rW-A.m3u8?v=a27"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2071201946917289984"
+          ],
+          "media_source_tweet_id": [
+            "2071202014156210415"
+          ]
+        },
+        "author_id": "1964331185590718464",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t ",
+              "id": "1574831043118395392",
+              "name": "Fate series"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t ",
+              "id": "1574831043118395392",
+              "name": "Fate series"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Mobile gaming",
+              "id": "847527946864607232",
+              "name": "Mobile gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "855313203634462720",
+              "name": "Fate/Grand Order"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "855313203634462720",
+              "name": "Fate/Grand Order"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "855313203634462720",
+              "name": "Fate/Grand Order"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          }
+        ],
+        "conversation_id": "2071399003301016058",
+        "created_at": "2026-06-29T01:03:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T02:03:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071399003301016058"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 21,
+              "start": 16,
+              "tag": "重音テト"
+            },
+            {
+              "end": 28,
+              "start": 23,
+              "tag": "足立レイ"
+            },
+            {
+              "end": 35,
+              "start": 30,
+              "tag": "デフォ子"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1862791401232289792",
+              "start": 3,
+              "username": "okayuyuyu2"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/UDIv3a2yur",
+              "end": 59,
+              "expanded_url": "https://x.com/okayuyuyu2/status/2071202014156210415/video/1",
+              "media_key": "13_2071201946917289984",
+              "start": 36,
+              "url": "https://t.co/UDIv3a2yur"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071399003301016058",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 730
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071202014156210415",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @okayuyuyu2: #重音テト  #足立レイ  #デフォ子 https://t.co/UDIv3a2yur"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2071201946917289984"
+          ]
+        },
+        "author_id": "1862791401232289792",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t ",
+              "id": "1574831043118395392",
+              "name": "Fate series"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t ",
+              "id": "1574831043118395392",
+              "name": "Fate series"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Mobile gaming",
+              "id": "847527946864607232",
+              "name": "Mobile gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "855313203634462720",
+              "name": "Fate/Grand Order"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "855313203634462720",
+              "name": "Fate/Grand Order"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "855313203634462720",
+              "name": "Fate/Grand Order"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          }
+        ],
+        "conversation_id": "2071202014156210415",
+        "created_at": "2026-06-28T12:00:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T13:00:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071202014156210415"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 5,
+              "start": 0,
+              "tag": "重音テト"
+            },
+            {
+              "end": 12,
+              "start": 7,
+              "tag": "足立レイ"
+            },
+            {
+              "end": 19,
+              "start": 14,
+              "tag": "デフォ子"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/UDIv3a2yur",
+              "end": 43,
+              "expanded_url": "https://x.com/okayuyuyu2/status/2071202014156210415/video/1",
+              "media_key": "13_2071201946917289984",
+              "start": 20,
+              "url": "https://t.co/UDIv3a2yur"
+            },
+            {
+              "display_url": "x.com/arjunyanya/sta…",
+              "end": 67,
+              "expanded_url": "https://twitter.com/arjunyanya/status/2061006466014745022",
+              "start": 44,
+              "url": "https://t.co/pUuPYeiO3f"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071202014156210415",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 771,
+          "impression_count": 78511,
+          "like_count": 4239,
+          "quote_count": 14,
+          "reply_count": 5,
+          "retweet_count": 730
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061006466014745022",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "#重音テト  #足立レイ  #デフォ子 https://t.co/UDIv3a2yur https://t.co/pUuPYeiO3f"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-06T14:13:55.000Z",
+        "description": "OD丨自伤丨Vocaloid丨音游丨LGBTQ+friendly\n喜欢爬宠 不卖药 非必要不回私信 我很穷欢迎投喂\n不喜欢的直接b 同类查成分回fo 取关请双取",
+        "id": "1964331185590718464",
+        "location": "颅内",
+        "name": "箸",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071376088018956288/SAB5MTfr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 875,
+          "following_count": 731,
+          "like_count": 20667,
+          "listed_count": 0,
+          "media_count": 298,
+          "tweet_count": 5254
+        },
+        "url": "",
+        "username": "breakcoreWTF",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-30T09:31:04.000Z",
+        "description": "雑多 絵と動画\nテトさんと呪のお兄ちゃんが推しです\nskeb➤https://t.co/jTillc3KuX \nご依頼・ご連絡➤okayuyuyu222@gmail.com",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "skeb.jp/@okayuyuyu2",
+                "end": 54,
+                "expanded_url": "https://skeb.jp/@okayuyuyu2",
+                "start": 31,
+                "url": "https://t.co/jTillc3KuX"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "tiktok.com/@okayuyuyu2?_r…",
+                "end": 23,
+                "expanded_url": "https://www.tiktok.com/@okayuyuyu2?_r=1&_t=ZS-95zAQbLFF4f",
+                "start": 0,
+                "url": "https://t.co/YOHdIXbGlw"
+              }
+            ]
+          }
+        },
+        "id": "1862791401232289792",
+        "name": "おかゆ",
+        "pinned_tweet_id": "2004522584776347728",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050903130339246082/2f4cY7Ub_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11725,
+          "following_count": 69,
+          "like_count": 10727,
+          "listed_count": 46,
+          "media_count": 254,
+          "tweet_count": 1215
+        },
+        "url": "https://t.co/YOHdIXbGlw",
+        "username": "okayuyuyu2",
+        "verified": false
+      }
+    ]
+  }
+}

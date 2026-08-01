@@ -1,0 +1,283 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1981657413993336832"
+      ],
+      "media_source_tweet_id": [
+        "1981657519778070543"
+      ]
+    },
+    "author_id": "1964331185590718464",
+    "conversation_id": "1981708569176363390",
+    "created_at": "2025-10-24T13:05:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-24T14:05:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1981708569176363390"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "776096283802996737",
+          "start": 3,
+          "username": "yottan20001202"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Z7snvpkP30",
+          "end": 58,
+          "expanded_url": "https://x.com/yottan20001202/status/1981657519778070543/video/1",
+          "media_key": "13_1981657413993336832",
+          "start": 35,
+          "url": "https://t.co/Z7snvpkP30"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1981708569176363390",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 77
+    },
+    "referenced_tweets": [
+      {
+        "id": "1981657519778070543",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yottan20001202: TRG！！！！！！！！！！！ https://t.co/Z7snvpkP30"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 9146,
+        "height": 1280,
+        "media_key": "13_1981657413993336832",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1981657413993336832/img/jaZN91pSAwoce6jU.jpg",
+        "public_metrics": {
+          "view_count": 4610
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1981657413993336832/vid/avc1/320x568/MbKROK_5UtgTeW-F.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1981657413993336832/vid/avc1/480x852/3IE-VHu96SUMIQb0.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1981657413993336832/vid/avc1/720x1280/BdhXTxp37eGsHMUd.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1981657413993336832/pl/kRa3DQ8dHlDlYQ7h.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1981657413993336832"
+          ],
+          "media_source_tweet_id": [
+            "1981657519778070543"
+          ]
+        },
+        "author_id": "1964331185590718464",
+        "conversation_id": "1981708569176363390",
+        "created_at": "2025-10-24T13:05:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-24T14:05:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1981708569176363390"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "776096283802996737",
+              "start": 3,
+              "username": "yottan20001202"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Z7snvpkP30",
+              "end": 58,
+              "expanded_url": "https://x.com/yottan20001202/status/1981657519778070543/video/1",
+              "media_key": "13_1981657413993336832",
+              "start": 35,
+              "url": "https://t.co/Z7snvpkP30"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981708569176363390",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 77
+        },
+        "referenced_tweets": [
+          {
+            "id": "1981657519778070543",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yottan20001202: TRG！！！！！！！！！！！ https://t.co/Z7snvpkP30"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1981657413993336832"
+          ]
+        },
+        "author_id": "776096283802996737",
+        "conversation_id": "1981657519778070543",
+        "created_at": "2025-10-24T09:42:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-24T10:42:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1981657519778070543"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Z7snvpkP30",
+              "end": 38,
+              "expanded_url": "https://x.com/yottan20001202/status/1981657519778070543/video/1",
+              "media_key": "13_1981657413993336832",
+              "start": 15,
+              "url": "https://t.co/Z7snvpkP30"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981657519778070543",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 27,
+          "impression_count": 13781,
+          "like_count": 608,
+          "quote_count": 4,
+          "reply_count": 4,
+          "retweet_count": 77
+        },
+        "reply_settings": "everyone",
+        "text": "TRG！！！！！！！！！！！ https://t.co/Z7snvpkP30"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-06T14:13:55.000Z",
+        "description": "中文/od/VOCALOID/音游/舞萌w47/世界计划 无底线无雷点无素质 含暴论/地域黑/辱男女/发情等成分 推特是我发泄负能放开自己的地方 私信互关欢迎 我有对象 我很喜欢他",
+        "id": "1964331185590718464",
+        "location": "翼天国",
+        "name": "━Σ(ﾟДﾟ|||)━",
+        "pinned_tweet_id": "1966517785367871718",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976879373207977984/JH6MsfDA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37,
+          "following_count": 239,
+          "like_count": 1936,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 498
+        },
+        "username": "breakcoreWTF",
+        "verified": false
+      },
+      {
+        "created_at": "2016-09-14T16:32:28.000Z",
+        "description": "maimai／🏆全国大会7回優勝(5連覇中！)🏆／フジテレビ2時間生放送出演+大会優勝／地上波テレビ出演／公式生放送出演／ST紫全曲理論値／PANDORA白世界初完走＆理論値＆☆5／太鼓.全良71(25)／ウニ、プロセカ／サブ@ysk__sub_／インスタ→yottan20001202／KoP皆勤賞(単独)",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 123,
+                "start": 113,
+                "username": "ysk__sub_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/channel/UC3HT8…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/channel/UC3HT8BsvQAa4WNZgOjCkIfQ",
+                "start": 0,
+                "url": "https://t.co/4IMXwPomYi"
+              }
+            ]
+          }
+        },
+        "id": "776096283802996737",
+        "location": "↓   チャンネル登録してね♪   ↓",
+        "name": "よしき",
+        "pinned_tweet_id": "1976247447199563795",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893924468168290304/wLCBA0FG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 48954,
+          "following_count": 793,
+          "like_count": 24752,
+          "listed_count": 95,
+          "media_count": 13378,
+          "tweet_count": 64476
+        },
+        "url": "https://t.co/4IMXwPomYi",
+        "username": "yottan20001202",
+        "verified": true
+      }
+    ]
+  }
+}

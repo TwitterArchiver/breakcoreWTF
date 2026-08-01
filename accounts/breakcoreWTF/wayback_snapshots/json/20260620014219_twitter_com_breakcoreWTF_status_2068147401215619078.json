@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2067958042218700800"
+      ],
+      "media_source_tweet_id": [
+        "2067958045716644199"
+      ]
+    },
+    "author_id": "1964331185590718464",
+    "conversation_id": "2068147401215619078",
+    "created_at": "2026-06-20T01:42:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-20T02:42:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068147401215619078"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "622036546",
+          "start": 3,
+          "username": "overdose_six"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/9JObWKDI3l",
+          "end": 47,
+          "expanded_url": "https://x.com/overdose_six/status/2067958045716644199/photo/1",
+          "media_key": "3_2067958042218700800",
+          "start": 24,
+          "url": "https://t.co/9JObWKDI3l"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068147401215619078",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067958045716644199",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @overdose_six: 剧烈复活？ https://t.co/9JObWKDI3l"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1783,
+        "media_key": "3_2067958042218700800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLLc4gTboAA6Zzx.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067958042218700800"
+          ],
+          "media_source_tweet_id": [
+            "2067958045716644199"
+          ]
+        },
+        "author_id": "1964331185590718464",
+        "conversation_id": "2068147401215619078",
+        "created_at": "2026-06-20T01:42:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T02:42:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068147401215619078"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "622036546",
+              "start": 3,
+              "username": "overdose_six"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/9JObWKDI3l",
+              "end": 47,
+              "expanded_url": "https://x.com/overdose_six/status/2067958045716644199/photo/1",
+              "media_key": "3_2067958042218700800",
+              "start": 24,
+              "url": "https://t.co/9JObWKDI3l"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068147401215619078",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067958045716644199",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @overdose_six: 剧烈复活？ https://t.co/9JObWKDI3l"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067958042218700800"
+          ]
+        },
+        "author_id": "622036546",
+        "conversation_id": "2067958045716644199",
+        "created_at": "2026-06-19T13:09:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T14:09:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067958045716644199"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9JObWKDI3l",
+              "end": 29,
+              "expanded_url": "https://x.com/overdose_six/status/2067958045716644199/photo/1",
+              "media_key": "3_2067958042218700800",
+              "start": 6,
+              "url": "https://t.co/9JObWKDI3l"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067958045716644199",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1900,
+          "like_count": 36,
+          "quote_count": 2,
+          "reply_count": 8,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "剧烈复活？ https://t.co/9JObWKDI3l"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-06T14:13:55.000Z",
+        "description": "OD丨自伤丨Vocaloid丨音游丨友跨顺女\n喜欢爬宠 不卖药 非必要不回私信 我很穷欢迎投喂\n不喜欢的直接b 同类查成分回fo 取关请双取",
+        "id": "1964331185590718464",
+        "location": "颅内",
+        "name": "箸",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061439509125074944/Hf-Lim6c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 856,
+          "following_count": 712,
+          "like_count": 19179,
+          "listed_count": 0,
+          "media_count": 283,
+          "tweet_count": 5089
+        },
+        "url": "",
+        "username": "breakcoreWTF",
+        "verified": false
+      },
+      {
+        "created_at": "2012-06-29T16:18:50.000Z",
+        "description": "",
+        "id": "622036546",
+        "location": "天国",
+        "name": "椎名Shiina",
+        "pinned_tweet_id": "1982097076855996754",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004582178806693888/5V-kT5y0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2997,
+          "following_count": 104,
+          "like_count": 11617,
+          "listed_count": 8,
+          "media_count": 720,
+          "tweet_count": 4249
+        },
+        "url": "",
+        "username": "overdose_six",
+        "verified": false
+      }
+    ]
+  }
+}

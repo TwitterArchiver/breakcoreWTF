@@ -1,0 +1,531 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2067948713054711808"
+      ],
+      "media_source_tweet_id": [
+        "2067949015694729686"
+      ]
+    },
+    "author_id": "1964331185590718464",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1247236287485997056",
+          "name": "Vocaloid"
+        }
+      },
+      {
+        "domain": {
+          "description": "A category for a musical style, like Pop, Rock, or Rap",
+          "id": "55",
+          "name": "Music Genre"
+        },
+        "entity": {
+          "description": "Anime/Game ",
+          "id": "1138508942156345344",
+          "name": "Anime & game music"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "id": "1297951101136732160",
+          "name": "Animation & comics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Music and radio",
+          "id": "847524658970636288",
+          "name": "Music"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Anime/Game ",
+          "id": "1138508942156345344",
+          "name": "Anime & game music"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1247236287485997056",
+          "name": "Vocaloid"
+        }
+      }
+    ],
+    "conversation_id": "2068149772826100125",
+    "created_at": "2026-06-20T01:51:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-20T02:51:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068149772826100125"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "84625899",
+          "start": 3,
+          "username": "sasakure__UK"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/L7hJce0KRR",
+          "end": 56,
+          "expanded_url": "https://x.com/sasakure__UK/status/2067949015694729686/photo/1",
+          "media_key": "3_2067948713054711808",
+          "start": 33,
+          "url": "https://t.co/L7hJce0KRR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068149772826100125",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 379
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067949015694729686",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @sasakure__UK: # 平均的ボカロpの作業環境 https://t.co/L7hJce0KRR"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 720,
+        "media_key": "3_2067948713054711808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLLUZedaMAAZpmQ.jpg",
+        "width": 1212
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067948713054711808"
+          ],
+          "media_source_tweet_id": [
+            "2067949015694729686"
+          ]
+        },
+        "author_id": "1964331185590718464",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1247236287485997056",
+              "name": "Vocaloid"
+            }
+          },
+          {
+            "domain": {
+              "description": "A category for a musical style, like Pop, Rock, or Rap",
+              "id": "55",
+              "name": "Music Genre"
+            },
+            "entity": {
+              "description": "Anime/Game ",
+              "id": "1138508942156345344",
+              "name": "Anime & game music"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Anime/Game ",
+              "id": "1138508942156345344",
+              "name": "Anime & game music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1247236287485997056",
+              "name": "Vocaloid"
+            }
+          }
+        ],
+        "conversation_id": "2068149772826100125",
+        "created_at": "2026-06-20T01:51:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T02:51:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068149772826100125"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "84625899",
+              "start": 3,
+              "username": "sasakure__UK"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/L7hJce0KRR",
+              "end": 56,
+              "expanded_url": "https://x.com/sasakure__UK/status/2067949015694729686/photo/1",
+              "media_key": "3_2067948713054711808",
+              "start": 33,
+              "url": "https://t.co/L7hJce0KRR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068149772826100125",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 379
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067949015694729686",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @sasakure__UK: # 平均的ボカロpの作業環境 https://t.co/L7hJce0KRR"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067948713054711808"
+          ]
+        },
+        "author_id": "84625899",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1247236287485997056",
+              "name": "Vocaloid"
+            }
+          },
+          {
+            "domain": {
+              "description": "A category for a musical style, like Pop, Rock, or Rap",
+              "id": "55",
+              "name": "Music Genre"
+            },
+            "entity": {
+              "description": "Anime/Game ",
+              "id": "1138508942156345344",
+              "name": "Anime & game music"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Anime/Game ",
+              "id": "1138508942156345344",
+              "name": "Anime & game music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1247236287485997056",
+              "name": "Vocaloid"
+            }
+          }
+        ],
+        "conversation_id": "2067949015694729686",
+        "created_at": "2026-06-19T12:34:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T13:34:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067949015694729686"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/L7hJce0KRR",
+              "end": 38,
+              "expanded_url": "https://x.com/sasakure__UK/status/2067949015694729686/photo/1",
+              "media_key": "3_2067948713054711808",
+              "start": 15,
+              "url": "https://t.co/L7hJce0KRR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067949015694729686",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 134,
+          "impression_count": 94705,
+          "like_count": 4147,
+          "quote_count": 22,
+          "reply_count": 12,
+          "retweet_count": 379
+        },
+        "reply_settings": "everyone",
+        "text": "# 平均的ボカロpの作業環境 https://t.co/L7hJce0KRR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-06T14:13:55.000Z",
+        "description": "OD丨自伤丨Vocaloid丨音游丨友跨顺女\n喜欢爬宠 不卖药 非必要不回私信 我很穷欢迎投喂\n不喜欢的直接b 同类查成分回fo 取关请双取",
+        "id": "1964331185590718464",
+        "location": "颅内",
+        "name": "箸",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061439509125074944/Hf-Lim6c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 856,
+          "following_count": 713,
+          "like_count": 19211,
+          "listed_count": 0,
+          "media_count": 283,
+          "tweet_count": 5093
+        },
+        "url": "",
+        "username": "breakcoreWTF",
+        "verified": false
+      },
+      {
+        "created_at": "2009-10-23T16:06:14.000Z",
+        "description": "Music Composer／有形ランペイジ @UKRampage_info ▼Youtube https://t.co/qanjCAcQQF ▼niconico https://t.co/iiVSZJaMoI ◆contact https://t.co/KYtx88ht9v",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 23,
+                "username": "UKRampage_info"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "youtube.com/c/sasakureUK02…",
+                "end": 71,
+                "expanded_url": "http://youtube.com/c/sasakureUK0211",
+                "start": 48,
+                "url": "https://t.co/qanjCAcQQF"
+              },
+              {
+                "display_url": "nicovideo.jp/mylist/6280579",
+                "end": 105,
+                "expanded_url": "http://nicovideo.jp/mylist/6280579",
+                "start": 82,
+                "url": "https://t.co/iiVSZJaMoI"
+              },
+              {
+                "display_url": "x.gd/hcZzV",
+                "end": 138,
+                "expanded_url": "https://x.gd/hcZzV",
+                "start": 115,
+                "url": "https://t.co/KYtx88ht9v"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "sasakuration.com",
+                "end": 23,
+                "expanded_url": "https://www.sasakuration.com/",
+                "start": 0,
+                "url": "https://t.co/sG4aEuLqzF"
+              }
+            ]
+          }
+        },
+        "id": "84625899",
+        "location": "???",
+        "name": "sasakure.UK",
+        "pinned_tweet_id": "2058160305801445689",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039503248797868032/ZTfvL5MH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 295932,
+          "following_count": 1135,
+          "like_count": 9049,
+          "listed_count": 2705,
+          "media_count": 4524,
+          "tweet_count": 30874
+        },
+        "url": "https://t.co/sG4aEuLqzF",
+        "username": "sasakure__UK",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,378 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2064663735730683904"
+      ],
+      "media_source_tweet_id": [
+        "2064663819868311895"
+      ]
+    },
+    "author_id": "1964331185590718464",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2065362151695663533",
+    "created_at": "2026-06-12T09:14:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-12T10:14:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065362151695663533"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 29,
+          "start": 18,
+          "tag": "コバルトヤドクガエル"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 10,
+          "id": "816764160763576320",
+          "start": 3,
+          "username": "gGyKRm"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/upBL7tcxfd",
+          "end": 53,
+          "expanded_url": "https://x.com/gGyKRm/status/2064663819868311895/video/1",
+          "media_key": "13_2064663735730683904",
+          "start": 30,
+          "url": "https://t.co/upBL7tcxfd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065362151695663533",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 16
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064663819868311895",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @gGyKRm: 食べろ〜🪰\n#コバルトヤドクガエル https://t.co/upBL7tcxfd"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 39275,
+        "height": 1280,
+        "media_key": "13_2064663735730683904",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2064663735730683904/img/jay-DWlVu4CV9QMN.jpg",
+        "public_metrics": {
+          "view_count": 17748
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2064663735730683904/vid/avc1/320x568/0kamFom07s85saS1.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2064663735730683904/vid/avc1/480x852/-Tr_h02vcVJNMnty.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2064663735730683904/vid/avc1/720x1280/uYevPwl441OuhNob.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2064663735730683904/pl/NEuILTHgT7I9WzTV.m3u8"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "duration_ms": 39275,
+        "height": 1280,
+        "media_key": "13_2064663735730683904",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2064663735730683904/img/jay-DWlVu4CV9QMN.jpg",
+        "public_metrics": {
+          "view_count": 17750
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2064663735730683904/vid/avc1/320x568/0kamFom07s85saS1.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2064663735730683904/vid/avc1/480x852/-Tr_h02vcVJNMnty.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2064663735730683904/vid/avc1/720x1280/uYevPwl441OuhNob.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2064663735730683904/pl/NEuILTHgT7I9WzTV.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2064663735730683904"
+          ],
+          "media_source_tweet_id": [
+            "2064663819868311895"
+          ]
+        },
+        "author_id": "1964331185590718464",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2065362151695663533",
+        "created_at": "2026-06-12T09:14:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T10:14:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065362151695663533"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 29,
+              "start": 18,
+              "tag": "コバルトヤドクガエル"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 10,
+              "id": "816764160763576320",
+              "start": 3,
+              "username": "gGyKRm"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/upBL7tcxfd",
+              "end": 53,
+              "expanded_url": "https://x.com/gGyKRm/status/2064663819868311895/video/1",
+              "media_key": "13_2064663735730683904",
+              "start": 30,
+              "url": "https://t.co/upBL7tcxfd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065362151695663533",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 16
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064663819868311895",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @gGyKRm: 食べろ〜🪰\n#コバルトヤドクガエル https://t.co/upBL7tcxfd"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2064663735730683904"
+          ]
+        },
+        "author_id": "816764160763576320",
+        "conversation_id": "2064663819868311895",
+        "created_at": "2026-06-10T10:59:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T11:59:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064663819868311895"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 17,
+              "start": 6,
+              "tag": "コバルトヤドクガエル"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/upBL7tcxfd",
+              "end": 41,
+              "expanded_url": "https://x.com/gGyKRm/status/2064663819868311895/video/1",
+              "media_key": "13_2064663735730683904",
+              "start": 18,
+              "url": "https://t.co/upBL7tcxfd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064663819868311895",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 20,
+          "impression_count": 47090,
+          "like_count": 355,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 16
+        },
+        "reply_settings": "everyone",
+        "text": "食べろ〜🪰\n#コバルトヤドクガエル https://t.co/upBL7tcxfd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-06T14:13:55.000Z",
+        "description": "OD丨自伤丨Vocaloid丨友跨顺女\n喜欢爬宠 不卖药 非必要不回私信\n不喜欢的直接b 同类查成分回fo 取关请双取",
+        "id": "1964331185590718464",
+        "location": "颅内",
+        "name": "箸",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061439509125074944/Hf-Lim6c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 805,
+          "following_count": 677,
+          "like_count": 17052,
+          "listed_count": 0,
+          "media_count": 247,
+          "tweet_count": 4790
+        },
+        "username": "breakcoreWTF",
+        "verified": false
+      },
+      {
+        "created_at": "2017-01-04T21:52:05.000Z",
+        "description": "ヤドクガエルの繁殖しています🐸\nレッドテグー、カールシュミットモニター、ハルマヘラアオジタトカゲ、メラウケアオジタトカゲ、ローソンアゴヒゲトカゲ\nチェリーヘッドアカアシガメ\nレオパ，ニシアフ，カータートゲオヤモリ\nヤドクガエル、イエアメガエル、アフリカウシガエル\nアメイロイボイモリ \nボールパイソン、セイブシシバナ等",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/channel/UCzyBG…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/channel/UCzyBGCmvBp6VZ0mW8grjq0A",
+                "start": 0,
+                "url": "https://t.co/FmLoqK1NsH"
+              }
+            ]
+          }
+        },
+        "id": "816764160763576320",
+        "location": "日本 島根",
+        "name": "ドテチン",
+        "pinned_tweet_id": "1485219561310154754",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057585233214722048/g7cRUyCd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5272,
+          "following_count": 4712,
+          "like_count": 901180,
+          "listed_count": 16,
+          "media_count": 2652,
+          "tweet_count": 18963
+        },
+        "url": "https://t.co/FmLoqK1NsH",
+        "username": "gGyKRm",
+        "verified": false
+      }
+    ]
+  }
+}

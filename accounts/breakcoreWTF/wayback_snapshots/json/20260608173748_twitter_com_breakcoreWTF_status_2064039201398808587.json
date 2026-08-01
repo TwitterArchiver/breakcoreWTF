@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1964331185590718464",
+    "conversation_id": "2063958412959137829",
+    "created_at": "2026-06-08T17:37:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-08T18:37:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064039201398808587"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1809519299754958848",
+          "start": 0,
+          "username": "xiuyui1114"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064039201398808587",
+    "in_reply_to_user_id": "1809519299754958848",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064038504871645488",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiuyui1114 没蜕皮呀，"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1964331185590718464",
+        "conversation_id": "2063958412959137829",
+        "created_at": "2026-06-08T17:37:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T18:37:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064039201398808587"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1809519299754958848",
+              "start": 0,
+              "username": "xiuyui1114"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064039201398808587",
+        "in_reply_to_user_id": "1809519299754958848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064038504871645488",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiuyui1114 没蜕皮呀，"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1809519299754958848",
+        "conversation_id": "2063958412959137829",
+        "created_at": "2026-06-08T17:35:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T18:35:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064038504871645488"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1964331185590718464",
+              "start": 0,
+              "username": "breakcoreWTF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064038504871645488",
+        "in_reply_to_user_id": "1964331185590718464",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063958412959137829",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@breakcoreWTF 这只在蛻皮哎,第一次见"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-06T14:13:55.000Z",
+        "description": "OD丨自伤丨Vocaloid丨音游丨友跨顺女\n不喜欢的直接b 同类回fo 取关请双取",
+        "id": "1964331185590718464",
+        "location": "颅内",
+        "name": "箸",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061439509125074944/Hf-Lim6c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 751,
+          "following_count": 653,
+          "like_count": 15850,
+          "listed_count": 0,
+          "media_count": 231,
+          "tweet_count": 4586
+        },
+        "username": "breakcoreWTF",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-06T09:26:50.000Z",
+        "description": "",
+        "id": "1809519299754958848",
+        "name": "喵喵喵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061275309962567680/X3g7VkQp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 5,
+          "like_count": 112,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 46
+        },
+        "username": "xiuyui1114",
+        "verified": false
+      }
+    ]
+  }
+}

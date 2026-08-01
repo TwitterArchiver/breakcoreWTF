@@ -1,0 +1,310 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2008493952027291649"
+      ],
+      "media_source_tweet_id": [
+        "2008495515957440933"
+      ]
+    },
+    "author_id": "1964331185590718464",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2008880610094502020",
+    "created_at": "2026-01-07T12:37:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-07T13:37:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2008880610094502020"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1513831744558231552",
+          "start": 3,
+          "username": "okan_eizo"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/g9KAnwZJcB",
+          "end": 66,
+          "expanded_url": "https://x.com/okan_eizo/status/2008495515957440933/video/1",
+          "media_key": "13_2008493952027291649",
+          "start": 43,
+          "url": "https://t.co/g9KAnwZJcB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2008880610094502020",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 494
+    },
+    "referenced_tweets": [
+      {
+        "id": "2008495515957440933",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @okan_eizo: FREELY TOMORROW\n絵と映像の二次創作です https://t.co/g9KAnwZJcB"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 16600,
+        "height": 1068,
+        "media_key": "13_2008493952027291649",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2008493952027291649/img/6h-WWriIgkgpOSJp.jpg",
+        "public_metrics": {
+          "view_count": 19838
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2008493952027291649/vid/avc1/394x270/hokkJ78siH9BChrR.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2008493952027291649/vid/avc1/526x360/J_Pntf6Weexa2ezi.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2008493952027291649/vid/avc1/1052x720/3M_E4t53PUMD4m4X.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2008493952027291649/pl/HxE535JiwUh6XsC3.m3u8?tag=14&v=d31"
+          }
+        ],
+        "width": 1562
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2008493952027291649"
+          ],
+          "media_source_tweet_id": [
+            "2008495515957440933"
+          ]
+        },
+        "author_id": "1964331185590718464",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2008880610094502020",
+        "created_at": "2026-01-07T12:37:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-07T13:37:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2008880610094502020"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1513831744558231552",
+              "start": 3,
+              "username": "okan_eizo"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/g9KAnwZJcB",
+              "end": 66,
+              "expanded_url": "https://x.com/okan_eizo/status/2008495515957440933/video/1",
+              "media_key": "13_2008493952027291649",
+              "start": 43,
+              "url": "https://t.co/g9KAnwZJcB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008880610094502020",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 494
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008495515957440933",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @okan_eizo: FREELY TOMORROW\n絵と映像の二次創作です https://t.co/g9KAnwZJcB"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2008493952027291649"
+          ]
+        },
+        "author_id": "1513831744558231552",
+        "conversation_id": "2008495515957440933",
+        "created_at": "2026-01-06T11:07:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-06T12:07:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2008495515957440933"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/g9KAnwZJcB",
+              "end": 51,
+              "expanded_url": "https://x.com/okan_eizo/status/2008495515957440933/video/1",
+              "media_key": "13_2008493952027291649",
+              "start": 28,
+              "url": "https://t.co/g9KAnwZJcB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008495515957440933",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 554,
+          "impression_count": 46909,
+          "like_count": 2724,
+          "quote_count": 8,
+          "reply_count": 2,
+          "retweet_count": 494
+        },
+        "reply_settings": "everyone",
+        "text": "FREELY TOMORROW\n絵と映像の二次創作です https://t.co/g9KAnwZJcB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-06T14:13:55.000Z",
+        "description": "中文/od/VOCALOID/音游 纯种乐子人性别不明推上啥都有 会发泄情绪无需理会 私信互关欢迎",
+        "id": "1964331185590718464",
+        "location": "幻想郷",
+        "name": "━Σ(ﾟДﾟ|||)━",
+        "pinned_tweet_id": "2003760156488986744",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001729011576426496/HumNDWc3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 49,
+          "following_count": 309,
+          "like_count": 3435,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 1012
+        },
+        "username": "breakcoreWTF",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-12T10:50:14.000Z",
+        "description": "映像 @karure0401",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 3,
+                "username": "karure0401"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "okanworks.myportfolio.com/work",
+                "end": 23,
+                "expanded_url": "https://okanworks.myportfolio.com/work",
+                "start": 0,
+                "url": "https://t.co/1yO0CQv4GH"
+              }
+            ]
+          }
+        },
+        "id": "1513831744558231552",
+        "location": "okan.works100@gmail.com",
+        "name": "Okan",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008409476932698113/ibxPI6D1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1797,
+          "following_count": 333,
+          "like_count": 18460,
+          "listed_count": 20,
+          "media_count": 364,
+          "tweet_count": 2475
+        },
+        "url": "https://t.co/1yO0CQv4GH",
+        "username": "okan_eizo",
+        "verified": false
+      }
+    ]
+  }
+}

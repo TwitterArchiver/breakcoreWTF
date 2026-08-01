@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2072984024990244864"
+      ],
+      "media_source_tweet_id": [
+        "2072984030451265587"
+      ]
+    },
+    "author_id": "1964331185590718464",
+    "conversation_id": "2079359035372175550",
+    "created_at": "2026-07-21T00:13:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-21T01:13:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079359035372175550"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1965688270840647681",
+          "start": 3,
+          "username": "0x002E880x"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/kUSBryWt1k",
+          "end": 46,
+          "expanded_url": "https://x.com/0x002E880x/status/2072984030451265587/photo/1",
+          "media_key": "3_2072984024990244864",
+          "start": 23,
+          "url": "https://t.co/kUSBryWt1k"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079359035372175550",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072984030451265587",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @0x002E880x: 前描いたやつ https://t.co/kUSBryWt1k"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1313,
+        "media_key": "3_2072984024990244864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMS3_NKaYAApxaX.jpg",
+        "width": 1618
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072984024990244864"
+          ]
+        },
+        "author_id": "1965688270840647681",
+        "conversation_id": "2072984030451265587",
+        "created_at": "2026-07-03T10:01:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T11:01:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072984030451265587"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kUSBryWt1k",
+              "end": 30,
+              "expanded_url": "https://x.com/0x002E880x/status/2072984030451265587/photo/1",
+              "media_key": "3_2072984024990244864",
+              "start": 7,
+              "url": "https://t.co/kUSBryWt1k"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072984030451265587",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 474,
+          "like_count": 37,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "前描いたやつ https://t.co/kUSBryWt1k"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072984024990244864"
+          ],
+          "media_source_tweet_id": [
+            "2072984030451265587"
+          ]
+        },
+        "author_id": "1964331185590718464",
+        "conversation_id": "2079359035372175550",
+        "created_at": "2026-07-21T00:13:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T01:13:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079359035372175550"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1965688270840647681",
+              "start": 3,
+              "username": "0x002E880x"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/kUSBryWt1k",
+              "end": 46,
+              "expanded_url": "https://x.com/0x002E880x/status/2072984030451265587/photo/1",
+              "media_key": "3_2072984024990244864",
+              "start": 23,
+              "url": "https://t.co/kUSBryWt1k"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079359035372175550",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072984030451265587",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @0x002E880x: 前描いたやつ https://t.co/kUSBryWt1k"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-06T14:13:55.000Z",
+        "description": "叫我筷子就可以了(:3っ )っ\nOD丨Vocaloid丨音游丨顺女 LGBTQ+friendly\n不卖药 只看互关私信 我很穷欢迎投喂\n不喜欢的直接b 查成分同类回fo 取关请双取",
+        "id": "1964331185590718464",
+        "location": "颅内",
+        "name": "箸",
+        "pinned_tweet_id": "2077686522225270845",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074711282427842560/EOM9Puhb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1095,
+          "following_count": 783,
+          "like_count": 31943,
+          "listed_count": 0,
+          "media_count": 336,
+          "tweet_count": 6019
+        },
+        "url": "",
+        "username": "breakcoreWTF",
+        "verified": true
+      },
+      {
+        "created_at": "2025-09-10T08:06:30.000Z",
+        "description": "︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎",
+        "id": "1965688270840647681",
+        "name": "ْ",
+        "pinned_tweet_id": "2063583614844203462",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044545925075677184/CXKU3Dtm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 111,
+          "following_count": 0,
+          "like_count": 333,
+          "listed_count": 1,
+          "media_count": 41,
+          "tweet_count": 58
+        },
+        "url": "",
+        "username": "0x002E880x",
+        "verified": false
+      }
+    ]
+  }
+}

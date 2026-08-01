@@ -1,0 +1,273 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1976714102434414593"
+      ],
+      "media_source_tweet_id": [
+        "1976940586499555666"
+      ]
+    },
+    "author_id": "1964331185590718464",
+    "conversation_id": "1982351894648586578",
+    "created_at": "2025-10-26T07:41:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-26T08:41:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1982351894648586578"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1708980810",
+          "start": 3,
+          "username": "skyw315"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/3XdKfYDtGY",
+          "end": 39,
+          "expanded_url": "https://x.com/skyw315/status/1976940586499555666/photo/1",
+          "media_key": "3_1976714102434414593",
+          "start": 16,
+          "url": "https://t.co/3XdKfYDtGY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1982351894648586578",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 835
+    },
+    "referenced_tweets": [
+      {
+        "id": "1976940586499555666",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "mentionedUsers",
+    "text": "RT @skyw315: 💙💜 https://t.co/3XdKfYDtGY"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2524,
+        "media_key": "3_1976714102434414593",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G26zAMobwAEr4kT.jpg",
+        "width": 2079
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1976714102434414593"
+          ],
+          "media_source_tweet_id": [
+            "1976940586499555666"
+          ]
+        },
+        "author_id": "1964331185590718464",
+        "conversation_id": "1982351894648586578",
+        "created_at": "2025-10-26T07:41:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-26T08:41:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1982351894648586578"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1708980810",
+              "start": 3,
+              "username": "skyw315"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/3XdKfYDtGY",
+              "end": 39,
+              "expanded_url": "https://x.com/skyw315/status/1976940586499555666/photo/1",
+              "media_key": "3_1976714102434414593",
+              "start": 16,
+              "url": "https://t.co/3XdKfYDtGY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982351894648586578",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 835
+        },
+        "referenced_tweets": [
+          {
+            "id": "1976940586499555666",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "mentionedUsers",
+        "text": "RT @skyw315: 💙💜 https://t.co/3XdKfYDtGY"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1976714102434414593"
+          ]
+        },
+        "author_id": "1708980810",
+        "conversation_id": "1976940586499555666",
+        "created_at": "2025-10-11T09:19:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-11T10:19:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1976940586499555666"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3XdKfYDtGY",
+              "end": 26,
+              "expanded_url": "https://x.com/skyw315/status/1976940586499555666/photo/1",
+              "media_key": "3_1976714102434414593",
+              "start": 3,
+              "url": "https://t.co/3XdKfYDtGY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976940586499555666",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 489,
+          "impression_count": 83019,
+          "like_count": 5868,
+          "quote_count": 18,
+          "reply_count": 0,
+          "retweet_count": 835
+        },
+        "reply_settings": "mentionedUsers",
+        "text": "💙💜 https://t.co/3XdKfYDtGY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-06T14:13:55.000Z",
+        "description": "中文/od/VOCALOID/音游/舞萌w47/世界计划 无底线无雷点无素质 含暴论/地域黑/辱男女/发情等成分 推特是我发泄负能放开自己的地方 私信互关欢迎 我有对象 我很喜欢他",
+        "id": "1964331185590718464",
+        "location": "翼天国",
+        "name": "━Σ(ﾟДﾟ|||)━",
+        "pinned_tweet_id": "1966517785367871718",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976879373207977984/JH6MsfDA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39,
+          "following_count": 241,
+          "like_count": 2001,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 509
+        },
+        "username": "breakcoreWTF",
+        "verified": false
+      },
+      {
+        "created_at": "2013-08-29T04:23:14.000Z",
+        "description": "読みはダンジョウ ソラです。絵と映像をしています。 詳細 https://t.co/IP6dw2jaJh ғᴀɴᴀʀᴛ💔#sorapiart  個展💘＃魔法が溶けるまで",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 70,
+                "start": 60,
+                "tag": "sorapiart"
+              },
+              {
+                "end": 84,
+                "start": 75,
+                "tag": "魔法が溶けるまで"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "lit.link/skyw315",
+                "end": 52,
+                "expanded_url": "https://lit.link/skyw315",
+                "start": 29,
+                "url": "https://t.co/IP6dw2jaJh"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "skyw315.wixsite.com/skyw315",
+                "end": 23,
+                "expanded_url": "https://skyw315.wixsite.com/skyw315",
+                "start": 0,
+                "url": "https://t.co/ee3EWkYIRy"
+              }
+            ]
+          }
+        },
+        "id": "1708980810",
+        "location": "無断転載・使用禁止です",
+        "name": "檀上大空",
+        "pinned_tweet_id": "1923280140471042418",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1602249026623090688/qsEqdevP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 69481,
+          "following_count": 500,
+          "like_count": 8936,
+          "listed_count": 588,
+          "media_count": 615,
+          "tweet_count": 705
+        },
+        "url": "https://t.co/ee3EWkYIRy",
+        "username": "skyw315",
+        "verified": true
+      }
+    ]
+  }
+}

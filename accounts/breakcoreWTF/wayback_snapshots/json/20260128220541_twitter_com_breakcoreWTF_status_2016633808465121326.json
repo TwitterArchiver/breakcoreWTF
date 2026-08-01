@@ -1,0 +1,291 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2016358209661898752"
+      ],
+      "media_source_tweet_id": [
+        "2016358265081270279"
+      ]
+    },
+    "author_id": "1964331185590718464",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2016633808465121326",
+    "created_at": "2026-01-28T22:05:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-28T23:05:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2016633808465121326"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "205565258",
+          "start": 3,
+          "username": "HatsuneMiku"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/vnyyCpXX9B",
+          "end": 40,
+          "expanded_url": "https://x.com/HatsuneMiku/status/2016358265081270279/video/1",
+          "media_key": "13_2016358209661898752",
+          "start": 17,
+          "url": "https://t.co/vnyyCpXX9B"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2016633808465121326",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 334
+    },
+    "referenced_tweets": [
+      {
+        "id": "2016358265081270279",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @HatsuneMiku: https://t.co/vnyyCpXX9B"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 12700,
+        "height": 544,
+        "media_key": "13_2016358209661898752",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2016358209661898752/img/S6sxLciySFEfy9Iz.jpg",
+        "public_metrics": {
+          "view_count": 6483
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 432000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2016358209661898752/vid/avc1/320x320/jO_kIv3Gxb9SaCOI.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2016358209661898752/vid/avc1/544x544/PBK2V_szBYD5XXPS.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2016358209661898752/pl/7XGqN1QnHZDjyZPq.m3u8?v=811"
+          }
+        ],
+        "width": 544
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2016358209661898752"
+          ],
+          "media_source_tweet_id": [
+            "2016358265081270279"
+          ]
+        },
+        "author_id": "1964331185590718464",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2016633808465121326",
+        "created_at": "2026-01-28T22:05:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-28T23:05:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016633808465121326"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "205565258",
+              "start": 3,
+              "username": "HatsuneMiku"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/vnyyCpXX9B",
+              "end": 40,
+              "expanded_url": "https://x.com/HatsuneMiku/status/2016358265081270279/video/1",
+              "media_key": "13_2016358209661898752",
+              "start": 17,
+              "url": "https://t.co/vnyyCpXX9B"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016633808465121326",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 334
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016358265081270279",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @HatsuneMiku: https://t.co/vnyyCpXX9B"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2016358209661898752"
+          ]
+        },
+        "author_id": "205565258",
+        "conversation_id": "2016358265081270279",
+        "created_at": "2026-01-28T03:50:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-28T04:50:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2016358265081270279"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vnyyCpXX9B",
+              "end": 23,
+              "expanded_url": "https://x.com/HatsuneMiku/status/2016358265081270279/video/1",
+              "media_key": "13_2016358209661898752",
+              "start": 0,
+              "url": "https://t.co/vnyyCpXX9B"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016358265081270279",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 269,
+          "impression_count": 19096,
+          "like_count": 2083,
+          "quote_count": 3,
+          "reply_count": 3,
+          "retweet_count": 334
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/vnyyCpXX9B"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-06T14:13:55.000Z",
+        "description": "中文/od/自伤/友跨/VOCALOID/音游 舞萌普通w53 纯种乐子人 性别不公开 推上啥都有 无意义废话与发泄或者你讨厌的东西无需理会 关心我的任何负能量只会给我带来困扰 我不想在推特都做不到口无遮拦 互关欢迎 🚪40加微信纯绿可陪聊",
+        "id": "1964331185590718464",
+        "location": "Internet",
+        "name": "薄幸",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015679257582964737/T8W4H246_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 64,
+          "following_count": 352,
+          "like_count": 4306,
+          "listed_count": 0,
+          "media_count": 49,
+          "tweet_count": 1377
+        },
+        "username": "breakcoreWTF",
+        "verified": false
+      },
+      {
+        "created_at": "2010-10-21T04:24:33.000Z",
+        "description": "Daily Miku & Vocaloid Content! | Fan Account | DMs open for credit, removal & submissions! (ran by @xtc_addict)",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 110,
+                "start": 99,
+                "username": "xtc_addict"
+              }
+            ]
+          }
+        },
+        "id": "205565258",
+        "name": "Miku",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011293899122147328/q7gu9Een_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 427320,
+          "following_count": 17,
+          "like_count": 3791,
+          "listed_count": 141,
+          "media_count": 986,
+          "tweet_count": 1026
+        },
+        "username": "HatsuneMiku",
+        "verified": true
+      }
+    ]
+  }
+}

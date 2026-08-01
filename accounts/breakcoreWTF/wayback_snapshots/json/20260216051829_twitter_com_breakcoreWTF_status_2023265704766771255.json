@@ -1,0 +1,497 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1964331185590718464",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Food",
+          "id": "825047692124442624",
+          "name": "Food"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Cooking/Baking",
+          "id": "831530561680191490",
+          "name": "Cooking"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Recipies/Books",
+          "id": "846736745517350912",
+          "name": "Recipes"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Drinks",
+          "id": "834828264786898945",
+          "name": "Drinks"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Recipies/Books",
+          "id": "846736745517350912",
+          "name": "Recipes"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Milk",
+          "id": "850419241790472192",
+          "name": "Milk"
+        }
+      },
+      {
+        "domain": {
+          "description": "Topics about food, like Donuts or Brunch",
+          "id": "152",
+          "name": "Food"
+        },
+        "entity": {
+          "description": "Milk",
+          "id": "850419241790472192",
+          "name": "Milk"
+        }
+      },
+      {
+        "domain": {
+          "description": "A product taxonomy for labeling categories of products. ",
+          "id": "173",
+          "name": "Product Taxonomy"
+        },
+        "entity": {
+          "description": "Milk",
+          "id": "850419241790472192",
+          "name": "Milk"
+        }
+      }
+    ],
+    "conversation_id": "2023265704766771255",
+    "created_at": "2026-02-16T05:18:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-16T06:18:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2023265704766771255"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 20,
+          "start": 14,
+          "tag": "抹茶ミルク"
+        },
+        {
+          "end": 36,
+          "start": 27,
+          "tag": "ミルクランド王国"
+        },
+        {
+          "end": 72,
+          "start": 59,
+          "tag": "冬のミルクレシピ国民投票"
+        },
+        {
+          "end": 119,
+          "start": 110,
+          "tag": "私のホットミルク"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 55,
+          "id": "1993199716159627264",
+          "start": 39,
+          "username": "milklandkingdom"
+        }
+      ],
+      "urls": [
+        {
+          "description": "ミルクで、もっとやさしく。もっとおいしく。ここ、北海道に広がる豊かな自然。そして、その大地の中で丁寧に育てられた牛たちが、毎日、新鮮なミルクをくれる。ミルクは、大地にも、つくる人にも、飲む人にもやさしい。この一杯から、やさしさが広がっていく。そんなやさしさがめぐる場所、それが、北海道であり、ミルクランド王国です。",
+          "display_url": "milkland-hokkaido.com/milkland-kingd…",
+          "end": 152,
+          "expanded_url": "https://www.milkland-hokkaido.com/milkland-kingdom?utm_source=twitter&utm_medium=social&utm_campaign=milklandkingdom_2026wtr&utm_content=twitter_1",
+          "images": [
+            {
+              "height": 630,
+              "url": "https://pbs.twimg.com/news_img/2021460157256122368/AC_VkCoW?format=jpg&name=orig",
+              "width": 1200
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2021460157256122368/AC_VkCoW?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 129,
+          "status": 200,
+          "title": "ミルクランド王国",
+          "unwound_url": "https://www.milkland-hokkaido.com/milkland-kingdom/?utm_source=twitter&utm_medium=social&utm_campaign=milklandkingdom_2026wtr&utm_content=twitter_1",
+          "url": "https://t.co/WOixD53Xv3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023265704766771255",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "私が飲みたいミルクレシピは #抹茶ミルク で決まり！ #ミルクランド王国 （ @milklandkingdom )の #冬のミルクレシピ国民投票 ！レシピを作って当選確率2倍、オリジナルアレンジを投稿して3倍にアップ！ #私のホットミルク 詳しくはこちら→ https://t.co/WOixD53Xv3"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1964331185590718464",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Food",
+              "id": "825047692124442624",
+              "name": "Food"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cooking/Baking",
+              "id": "831530561680191490",
+              "name": "Cooking"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Recipies/Books",
+              "id": "846736745517350912",
+              "name": "Recipes"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drinks",
+              "id": "834828264786898945",
+              "name": "Drinks"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Recipies/Books",
+              "id": "846736745517350912",
+              "name": "Recipes"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Milk",
+              "id": "850419241790472192",
+              "name": "Milk"
+            }
+          },
+          {
+            "domain": {
+              "description": "Topics about food, like Donuts or Brunch",
+              "id": "152",
+              "name": "Food"
+            },
+            "entity": {
+              "description": "Milk",
+              "id": "850419241790472192",
+              "name": "Milk"
+            }
+          },
+          {
+            "domain": {
+              "description": "A product taxonomy for labeling categories of products. ",
+              "id": "173",
+              "name": "Product Taxonomy"
+            },
+            "entity": {
+              "description": "Milk",
+              "id": "850419241790472192",
+              "name": "Milk"
+            }
+          }
+        ],
+        "conversation_id": "2023265704766771255",
+        "created_at": "2026-02-16T05:18:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-16T06:18:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2023265704766771255"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 20,
+              "start": 14,
+              "tag": "抹茶ミルク"
+            },
+            {
+              "end": 36,
+              "start": 27,
+              "tag": "ミルクランド王国"
+            },
+            {
+              "end": 72,
+              "start": 59,
+              "tag": "冬のミルクレシピ国民投票"
+            },
+            {
+              "end": 119,
+              "start": 110,
+              "tag": "私のホットミルク"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 55,
+              "id": "1993199716159627264",
+              "start": 39,
+              "username": "milklandkingdom"
+            }
+          ],
+          "urls": [
+            {
+              "description": "ミルクで、もっとやさしく。もっとおいしく。ここ、北海道に広がる豊かな自然。そして、その大地の中で丁寧に育てられた牛たちが、毎日、新鮮なミルクをくれる。ミルクは、大地にも、つくる人にも、飲む人にもやさしい。この一杯から、やさしさが広がっていく。そんなやさしさがめぐる場所、それが、北海道であり、ミルクランド王国です。",
+              "display_url": "milkland-hokkaido.com/milkland-kingd…",
+              "end": 152,
+              "expanded_url": "https://www.milkland-hokkaido.com/milkland-kingdom?utm_source=twitter&utm_medium=social&utm_campaign=milklandkingdom_2026wtr&utm_content=twitter_1",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/2021460157256122368/AC_VkCoW?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2021460157256122368/AC_VkCoW?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 129,
+              "status": 200,
+              "title": "ミルクランド王国",
+              "unwound_url": "https://www.milkland-hokkaido.com/milkland-kingdom/?utm_source=twitter&utm_medium=social&utm_campaign=milklandkingdom_2026wtr&utm_content=twitter_1",
+              "url": "https://t.co/WOixD53Xv3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023265704766771255",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "私が飲みたいミルクレシピは #抹茶ミルク で決まり！ #ミルクランド王国 （ @milklandkingdom )の #冬のミルクレシピ国民投票 ！レシピを作って当選確率2倍、オリジナルアレンジを投稿して3倍にアップ！ #私のホットミルク 詳しくはこちら→ https://t.co/WOixD53Xv3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-06T14:13:55.000Z",
+        "description": "OD丨自伤丨Vocaloid丨音游丨友跨顺女丨少关心我\n不喜欢的直接b 推特是垃圾桶口无遮拦 同类回fo",
+        "id": "1964331185590718464",
+        "location": "🚪40走vx+10pyq 熟推免",
+        "name": "箸",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019848796881186816/pdjXkx-3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 532,
+          "following_count": 575,
+          "like_count": 8195,
+          "listed_count": 0,
+          "media_count": 136,
+          "tweet_count": 2572
+        },
+        "username": "breakcoreWTF",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-25T06:07:14.000Z",
+        "description": "ミルクランド王国のモモリーだよ！\n国王さま（松岡昌宏さん）や参謀さんたちが教えてくれる北海道産牛乳・乳製品の「おいしさ」と「やさしさ」をぼくがみんなに紹介するモ～！\nみんなもミルクを飲んで王国の仲間になってね🐄\nキャンペーン情報も発信中！\n#ミルクランド王国 #ミルクランド北海道",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 129,
+                "start": 120,
+                "tag": "ミルクランド王国"
+              },
+              {
+                "end": 140,
+                "start": 130,
+                "tag": "ミルクランド北海道"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "milkland-hokkaido.com/milkland-kingd…",
+                "end": 23,
+                "expanded_url": "https://www.milkland-hokkaido.com/milkland-kingdom",
+                "start": 0,
+                "url": "https://t.co/IVujN9J5ug"
+              }
+            ]
+          }
+        },
+        "id": "1993199716159627264",
+        "location": "北海道",
+        "name": "ミルクランド王国",
+        "pinned_tweet_id": "2003631719216480325",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003400369456771072/h6Qhew5Z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25796,
+          "following_count": 1,
+          "like_count": 0,
+          "listed_count": 32,
+          "media_count": 36,
+          "tweet_count": 54
+        },
+        "url": "https://t.co/IVujN9J5ug",
+        "username": "milklandkingdom",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2082062201096126464"
+      ],
+      "media_source_tweet_id": [
+        "2082062289096835403"
+      ]
+    },
+    "author_id": "1964331185590718464",
+    "conversation_id": "2082174420878274876",
+    "created_at": "2026-07-28T18:40:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-28T19:40:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082174420878274876"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1759822804336386048",
+          "start": 3,
+          "username": "hotchoco8oz"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/xKxeWez92W",
+          "end": 58,
+          "expanded_url": "https://x.com/hotchoco8oz/status/2082062289096835403/photo/1",
+          "media_key": "3_2082062201096126464",
+          "start": 35,
+          "url": "https://t.co/xKxeWez92W"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082174420878274876",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 156
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082062289096835403",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hotchoco8oz: behind the scenes https://t.co/xKxeWez92W"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1673,
+        "media_key": "3_2082062201096126464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOT4imiaQAAZr_I.jpg",
+        "width": 1356
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082062201096126464"
+          ]
+        },
+        "author_id": "1759822804336386048",
+        "conversation_id": "2082062289096835403",
+        "created_at": "2026-07-28T11:15:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T12:15:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082062289096835403"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xKxeWez92W",
+              "end": 41,
+              "expanded_url": "https://x.com/hotchoco8oz/status/2082062289096835403/photo/1",
+              "media_key": "3_2082062201096126464",
+              "start": 18,
+              "url": "https://t.co/xKxeWez92W"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082062289096835403",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 113,
+          "impression_count": 6000,
+          "like_count": 1305,
+          "quote_count": 3,
+          "reply_count": 0,
+          "retweet_count": 156
+        },
+        "reply_settings": "everyone",
+        "text": "behind the scenes https://t.co/xKxeWez92W"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082062201096126464"
+          ],
+          "media_source_tweet_id": [
+            "2082062289096835403"
+          ]
+        },
+        "author_id": "1964331185590718464",
+        "conversation_id": "2082174420878274876",
+        "created_at": "2026-07-28T18:40:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T19:40:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082174420878274876"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1759822804336386048",
+              "start": 3,
+              "username": "hotchoco8oz"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/xKxeWez92W",
+              "end": 58,
+              "expanded_url": "https://x.com/hotchoco8oz/status/2082062289096835403/photo/1",
+              "media_key": "3_2082062201096126464",
+              "start": 35,
+              "url": "https://t.co/xKxeWez92W"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082174420878274876",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 156
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082062289096835403",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hotchoco8oz: behind the scenes https://t.co/xKxeWez92W"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-06T14:13:55.000Z",
+        "description": "叫我筷子就可以了(:3っ )っ\nOD丨🔪丨Vocaloid丨音游丨顺女 LGBTQ+friendly\n不卖药 只看互关私信 我很穷欢迎投喂\n不喜欢的直接b 查成分同类回fo 取关请双取",
+        "id": "1964331185590718464",
+        "location": "颅内",
+        "name": "箸",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074711282427842560/EOM9Puhb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1395,
+          "following_count": 835,
+          "like_count": 36314,
+          "listed_count": 0,
+          "media_count": 359,
+          "tweet_count": 6436
+        },
+        "url": "",
+        "username": "breakcoreWTF",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-20T06:10:34.000Z",
+        "description": "🎼.•*¨*•.🎙•*¨*•.¸¸🎶*♬*̣̥🎙･:*ೄ‧͙·* ♪♬*゜",
+        "id": "1759822804336386048",
+        "name": "🍽️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073016959504117760/x3j3Yy3r_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6987,
+          "following_count": 11,
+          "like_count": 221,
+          "listed_count": 6,
+          "media_count": 223,
+          "tweet_count": 459
+        },
+        "url": "",
+        "username": "hotchoco8oz",
+        "verified": false
+      }
+    ]
+  }
+}

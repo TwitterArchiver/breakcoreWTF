@@ -1,0 +1,568 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2003778084311609344"
+      ],
+      "media_source_tweet_id": [
+        "2003784669914071267"
+      ]
+    },
+    "author_id": "1964331185590718464",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "description": "This entity includes all conversations for Christmas for all years.",
+          "id": "1250078501849280512",
+          "name": "Christmas"
+        }
+      },
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "id": "1853510897634873344",
+          "name": "Christmas 2024"
+        }
+      },
+      {
+        "domain": {
+          "description": "Holidays like Christmas or Halloween",
+          "id": "119",
+          "name": "Holiday"
+        },
+        "entity": {
+          "description": "This entity includes all conversations for Christmas for all years.",
+          "id": "1250078501849280512",
+          "name": "Christmas"
+        }
+      },
+      {
+        "domain": {
+          "description": "Holidays like Christmas or Halloween",
+          "id": "119",
+          "name": "Holiday"
+        },
+        "entity": {
+          "id": "1853510897634873344",
+          "name": "Christmas 2024"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Holidays",
+          "id": "847548225712119808",
+          "name": "Holidays"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "This entity includes all conversations for Christmas for all years.",
+          "id": "1250078501849280512",
+          "name": "Christmas"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1291095284756357120",
+          "name": "Cultural events"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1436053202835689485",
+          "name": "Events"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1853510897634873344",
+          "name": "Christmas 2024"
+        }
+      }
+    ],
+    "conversation_id": "2004062191214121158",
+    "created_at": "2025-12-25T05:30:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-25T06:30:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2004062191214121158"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1416660874362646528",
+          "start": 3,
+          "username": "halkaluka"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/5p9jv9b8z6",
+          "end": 46,
+          "expanded_url": "https://x.com/halkaluka/status/2003784669914071267/photo/1",
+          "media_key": "3_2003778084311609344",
+          "start": 23,
+          "url": "https://t.co/5p9jv9b8z6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2004062191214121158",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 334
+    },
+    "referenced_tweets": [
+      {
+        "id": "2003784669914071267",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @halkaluka: ﾒﾘｸﾘみね🎄 https://t.co/5p9jv9b8z6"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1000,
+        "media_key": "3_2003778084311609344",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G87ZjRwbMAAqzhe.jpg",
+        "width": 1000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2003778084311609344"
+          ],
+          "media_source_tweet_id": [
+            "2003784669914071267"
+          ]
+        },
+        "author_id": "1964331185590718464",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for Christmas for all years.",
+              "id": "1250078501849280512",
+              "name": "Christmas"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "1853510897634873344",
+              "name": "Christmas 2024"
+            }
+          },
+          {
+            "domain": {
+              "description": "Holidays like Christmas or Halloween",
+              "id": "119",
+              "name": "Holiday"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for Christmas for all years.",
+              "id": "1250078501849280512",
+              "name": "Christmas"
+            }
+          },
+          {
+            "domain": {
+              "description": "Holidays like Christmas or Halloween",
+              "id": "119",
+              "name": "Holiday"
+            },
+            "entity": {
+              "id": "1853510897634873344",
+              "name": "Christmas 2024"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Holidays",
+              "id": "847548225712119808",
+              "name": "Holidays"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for Christmas for all years.",
+              "id": "1250078501849280512",
+              "name": "Christmas"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291095284756357120",
+              "name": "Cultural events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1853510897634873344",
+              "name": "Christmas 2024"
+            }
+          }
+        ],
+        "conversation_id": "2004062191214121158",
+        "created_at": "2025-12-25T05:30:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-25T06:30:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2004062191214121158"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1416660874362646528",
+              "start": 3,
+              "username": "halkaluka"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/5p9jv9b8z6",
+              "end": 46,
+              "expanded_url": "https://x.com/halkaluka/status/2003784669914071267/photo/1",
+              "media_key": "3_2003778084311609344",
+              "start": 23,
+              "url": "https://t.co/5p9jv9b8z6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004062191214121158",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 334
+        },
+        "referenced_tweets": [
+          {
+            "id": "2003784669914071267",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @halkaluka: ﾒﾘｸﾘみね🎄 https://t.co/5p9jv9b8z6"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2003778084311609344"
+          ]
+        },
+        "author_id": "1416660874362646528",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for Christmas for all years.",
+              "id": "1250078501849280512",
+              "name": "Christmas"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "1853510897634873344",
+              "name": "Christmas 2024"
+            }
+          },
+          {
+            "domain": {
+              "description": "Holidays like Christmas or Halloween",
+              "id": "119",
+              "name": "Holiday"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for Christmas for all years.",
+              "id": "1250078501849280512",
+              "name": "Christmas"
+            }
+          },
+          {
+            "domain": {
+              "description": "Holidays like Christmas or Halloween",
+              "id": "119",
+              "name": "Holiday"
+            },
+            "entity": {
+              "id": "1853510897634873344",
+              "name": "Christmas 2024"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Holidays",
+              "id": "847548225712119808",
+              "name": "Holidays"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for Christmas for all years.",
+              "id": "1250078501849280512",
+              "name": "Christmas"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1853510897634873344",
+              "name": "Christmas 2024"
+            }
+          }
+        ],
+        "conversation_id": "2003784669914071267",
+        "created_at": "2025-12-24T11:07:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-24T12:07:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2003784669914071267"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5p9jv9b8z6",
+              "end": 31,
+              "expanded_url": "https://x.com/halkaluka/status/2003784669914071267/photo/1",
+              "media_key": "3_2003778084311609344",
+              "start": 8,
+              "url": "https://t.co/5p9jv9b8z6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003784669914071267",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 116,
+          "impression_count": 13968,
+          "like_count": 2031,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 334
+        },
+        "reply_settings": "everyone",
+        "text": "ﾒﾘｸﾘみね🎄 https://t.co/5p9jv9b8z6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-06T14:13:55.000Z",
+        "description": "中文/od/VOCALOID/音游 纯种乐子人性别不明推上啥都有 会发泄情绪无需理会 私信互关欢迎",
+        "id": "1964331185590718464",
+        "location": "幻想郷",
+        "name": "━Σ(ﾟДﾟ|||)━",
+        "pinned_tweet_id": "2003760156488986744",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001729011576426496/HumNDWc3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 49,
+          "following_count": 292,
+          "like_count": 3187,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 920
+        },
+        "username": "breakcoreWTF",
+        "verified": false
+      },
+      {
+        "created_at": "2021-07-18T07:27:36.000Z",
+        "description": "曲と歌と絵と鏡音と\n▣youtube▣ https://t.co/wJjGyJzM1R\nFAとか→#はるかくらぶ \nｻﾌﾞ→@halka_canata",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 56,
+                "start": 49,
+                "tag": "はるかくらぶ"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 75,
+                "start": 62,
+                "username": "halka_canata"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "youtube.com/HALKAchan",
+                "end": 43,
+                "expanded_url": "http://youtube.com/HALKAchan",
+                "start": 20,
+                "url": "https://t.co/wJjGyJzM1R"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/halka",
+                "end": 23,
+                "expanded_url": "https://lit.link/halka",
+                "start": 0,
+                "url": "https://t.co/CfKUS6WH4v"
+              }
+            ]
+          }
+        },
+        "id": "1416660874362646528",
+        "location": "連絡はDM か kanatahalka@gmail.com",
+        "name": "HALKA",
+        "pinned_tweet_id": "1986393861741289502",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861825768235659264/Q3RQ9yW2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 881,
+          "following_count": 151,
+          "like_count": 3122,
+          "listed_count": 20,
+          "media_count": 316,
+          "tweet_count": 780
+        },
+        "url": "https://t.co/CfKUS6WH4v",
+        "username": "halkaluka",
+        "verified": true
+      }
+    ]
+  }
+}

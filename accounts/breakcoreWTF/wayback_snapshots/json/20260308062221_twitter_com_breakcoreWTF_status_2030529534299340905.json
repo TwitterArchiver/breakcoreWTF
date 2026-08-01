@@ -1,0 +1,407 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1964331185590718464",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "id": "1012447344627814400",
+          "name": "Case Closed"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1012447344627814400",
+          "name": "Case Closed"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1297951101136732160",
+          "name": "Animation & comics"
+        }
+      }
+    ],
+    "conversation_id": "2030529534299340905",
+    "created_at": "2026-03-08T06:22:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-08T07:22:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2030529534299340905"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1586955045450416129",
+          "start": 3,
+          "username": "WesterAOC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2030529534299340905",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 21
+    },
+    "referenced_tweets": [
+      {
+        "id": "2030305613574443026",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @WesterAOC: 好番推荐：“辱华少女乐队”\n继柯南辱华之后，小粉红因《哭泣少女乐队》GBC把香港澳门台湾列为国家再次破防。\n官方虽然迅速删帖，但是没有任何道歉，倒是发了一张友邦惊诧的表情包作为回应。\n已经将我的英雄学院，柯南和GBC全部加入追番列表😋🫵这下不得不看…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 456,
+        "media_key": "3_2030305225798545408",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HC0X2IlXcAAYMyi.jpg",
+        "width": 492
+      },
+      {
+        "height": 1278,
+        "media_key": "3_2030305225915936768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HC0X2JBWsAA-sEF.jpg",
+        "width": 1170
+      },
+      {
+        "height": 563,
+        "media_key": "3_2030305225815302144",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HC0X2IpXIAA97ly.jpg",
+        "width": 750
+      },
+      {
+        "height": 964,
+        "media_key": "3_2030305225802690560",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HC0X2ImWsAADBlo.jpg",
+        "width": 1078
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1964331185590718464",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1012447344627814400",
+              "name": "Case Closed"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1012447344627814400",
+              "name": "Case Closed"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          }
+        ],
+        "conversation_id": "2030529534299340905",
+        "created_at": "2026-03-08T06:22:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-08T07:22:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030529534299340905"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1586955045450416129",
+              "start": 3,
+              "username": "WesterAOC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030529534299340905",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 21
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030305613574443026",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @WesterAOC: 好番推荐：“辱华少女乐队”\n继柯南辱华之后，小粉红因《哭泣少女乐队》GBC把香港澳门台湾列为国家再次破防。\n官方虽然迅速删帖，但是没有任何道歉，倒是发了一张友邦惊诧的表情包作为回应。\n已经将我的英雄学院，柯南和GBC全部加入追番列表😋🫵这下不得不看…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2030305225798545408",
+            "3_2030305225915936768",
+            "3_2030305225815302144",
+            "3_2030305225802690560"
+          ]
+        },
+        "author_id": "1586955045450416129",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1012447344627814400",
+              "name": "Case Closed"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1012447344627814400",
+              "name": "Case Closed"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          }
+        ],
+        "conversation_id": "2030305613574443026",
+        "created_at": "2026-03-07T15:32:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-07T16:31:03.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2030305232480084024",
+          "2030305613574443026"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pE132WayZ6",
+              "end": 149,
+              "expanded_url": "https://x.com/WesterAOC/status/2030305613574443026/photo/1",
+              "media_key": "3_2030305225798545408",
+              "start": 126,
+              "url": "https://t.co/pE132WayZ6"
+            },
+            {
+              "display_url": "pic.x.com/pE132WayZ6",
+              "end": 149,
+              "expanded_url": "https://x.com/WesterAOC/status/2030305613574443026/photo/1",
+              "media_key": "3_2030305225915936768",
+              "start": 126,
+              "url": "https://t.co/pE132WayZ6"
+            },
+            {
+              "display_url": "pic.x.com/pE132WayZ6",
+              "end": 149,
+              "expanded_url": "https://x.com/WesterAOC/status/2030305613574443026/photo/1",
+              "media_key": "3_2030305225815302144",
+              "start": 126,
+              "url": "https://t.co/pE132WayZ6"
+            },
+            {
+              "display_url": "pic.x.com/pE132WayZ6",
+              "end": 149,
+              "expanded_url": "https://x.com/WesterAOC/status/2030305613574443026/photo/1",
+              "media_key": "3_2030305225802690560",
+              "start": 126,
+              "url": "https://t.co/pE132WayZ6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030305613574443026",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 29,
+          "impression_count": 25845,
+          "like_count": 379,
+          "quote_count": 2,
+          "reply_count": 21,
+          "retweet_count": 21
+        },
+        "reply_settings": "everyone",
+        "text": "好番推荐：“辱华少女乐队”\n继柯南辱华之后，小粉红因《哭泣少女乐队》GBC把香港澳门台湾列为国家再次破防。\n官方虽然迅速删帖，但是没有任何道歉，倒是发了一张友邦惊诧的表情包作为回应。\n已经将我的英雄学院，柯南和GBC全部加入追番列表😋🫵这下不得不看了 https://t.co/pE132WayZ6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-06T14:13:55.000Z",
+        "description": "OD丨自伤丨Vocaloid丨音游丨友跨顺女丨少关心我\n不喜欢的直接b 推特是垃圾桶口无遮拦 同类回fo",
+        "id": "1964331185590718464",
+        "location": "🚪50/88 同类熟推免",
+        "name": "箸",
+        "pinned_tweet_id": "2024039744276189189",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019848796881186816/pdjXkx-3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 678,
+          "following_count": 592,
+          "like_count": 12570,
+          "listed_count": 0,
+          "media_count": 172,
+          "tweet_count": 3604
+        },
+        "username": "breakcoreWTF",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-31T05:36:01.000Z",
+        "description": "满朝臣宰皆囊括，位卑未敢忘忧国。务实的民主工作者。",
+        "id": "1586955045450416129",
+        "location": "转型正义纪念馆, 北京",
+        "name": "杨若晖 Ruohui Yang",
+        "pinned_tweet_id": "1798123206311625007",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005635551546732544/rIxHZdBq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24370,
+          "following_count": 663,
+          "like_count": 654,
+          "listed_count": 101,
+          "media_count": 802,
+          "tweet_count": 1247
+        },
+        "username": "WesterAOC",
+        "verified": true
+      }
+    ]
+  }
+}

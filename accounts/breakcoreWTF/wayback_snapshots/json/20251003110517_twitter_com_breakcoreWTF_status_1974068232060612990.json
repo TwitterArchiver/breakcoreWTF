@@ -1,0 +1,506 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1964331185590718464",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Drawing and sketching",
+          "id": "847869251595542528",
+          "name": "Drawing & illustration"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Drawing and sketching",
+          "id": "847869251595542528",
+          "name": "Drawing & illustration"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Visual Arts",
+          "id": "1046577790353428480",
+          "name": "Visual arts"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1265660441822281728",
+          "name": "Art"
+        }
+      }
+    ],
+    "conversation_id": "1974068232060612990",
+    "created_at": "2025-10-03T11:05:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-03T12:05:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1974068232060612990"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 42,
+          "normalized_text": "スーサイダーズ・ディストピア",
+          "probability": 0.8254,
+          "start": 29,
+          "type": "Other"
+        },
+        {
+          "end": 78,
+          "normalized_text": "藍瀬 まなみ",
+          "probability": 0.6447,
+          "start": 73,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1279623571",
+          "start": 3,
+          "username": "MIX_Destroy"
+        }
+      ],
+      "urls": [
+        {
+          "description": "DIVELA 2nd Album『ロストテクノロジー』収録曲https://music.apple.com/jp/album/lost-technology/1641054361■Music ＆ Lyric：DIVELA：https://twitter.com/MIX_Destroy■Illust：アルセチカ 様...",
+          "display_url": "youtu.be/cc4gv4XKgFQ?si…",
+          "end": 135,
+          "expanded_url": "https://youtu.be/cc4gv4XKgFQ?si=wBhN3n3SRtJwXybA",
+          "images": [
+            {
+              "height": 720,
+              "url": "https://pbs.twimg.com/news_img/1972532461721767936/5AxSDq32?format=jpg&name=orig",
+              "width": 1280
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/1972532461721767936/5AxSDq32?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 112,
+          "status": 200,
+          "title": "スーサイダーズ・ディストピア ／ DIVELA feat.鏡音リン",
+          "unwound_url": "https://www.youtube.com/watch?si=wBhN3n3SRtJwXybA&v=cc4gv4XKgFQ&feature=youtu.be",
+          "url": "https://t.co/bswf1yIeUR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1974068232060612990",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 430
+    },
+    "referenced_tweets": [
+      {
+        "id": "1972983172347621629",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @MIX_Destroy: 2ndアルバム収録曲\n『スーサイダーズ・ディストピア』がMV化しました！\n\n素敵なイラストをアルセチカ様\n動画を藍瀬 まなみ様にご制作頂きました\n\n宜しくお願いします⚔️\n\nYouTube：https://t.co/bswf1yIeUR\nnic…"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 32468,
+        "height": 720,
+        "media_key": "13_1972983070400847872",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1972983070400847872/img/veUHzTd-GbQ9uRpi.jpg",
+        "public_metrics": {
+          "view_count": 7897
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1972983070400847872/vid/avc1/480x270/aeNLkTykcihDqouI.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1972983070400847872/vid/avc1/640x360/XCpcJaKo7NFKWDT-.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1972983070400847872/vid/avc1/1280x720/rCnxK7H2XpYigXKo.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1972983070400847872/pl/TqZyIfkpNIg-MQ-o.m3u8?v=cfc"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1964331185590718464",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          }
+        ],
+        "conversation_id": "1974068232060612990",
+        "created_at": "2025-10-03T11:05:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-03T12:05:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1974068232060612990"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 42,
+              "normalized_text": "スーサイダーズ・ディストピア",
+              "probability": 0.8254,
+              "start": 29,
+              "type": "Other"
+            },
+            {
+              "end": 78,
+              "normalized_text": "藍瀬 まなみ",
+              "probability": 0.6447,
+              "start": 73,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1279623571",
+              "start": 3,
+              "username": "MIX_Destroy"
+            }
+          ],
+          "urls": [
+            {
+              "description": "DIVELA 2nd Album『ロストテクノロジー』収録曲https://music.apple.com/jp/album/lost-technology/1641054361■Music ＆ Lyric：DIVELA：https://twitter.com/MIX_Destroy■Illust：アルセチカ 様...",
+              "display_url": "youtu.be/cc4gv4XKgFQ?si…",
+              "end": 135,
+              "expanded_url": "https://youtu.be/cc4gv4XKgFQ?si=wBhN3n3SRtJwXybA",
+              "images": [
+                {
+                  "height": 720,
+                  "url": "https://pbs.twimg.com/news_img/1972532461721767936/5AxSDq32?format=jpg&name=orig",
+                  "width": 1280
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1972532461721767936/5AxSDq32?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 112,
+              "status": 200,
+              "title": "スーサイダーズ・ディストピア ／ DIVELA feat.鏡音リン",
+              "unwound_url": "https://www.youtube.com/watch?si=wBhN3n3SRtJwXybA&v=cc4gv4XKgFQ&feature=youtu.be",
+              "url": "https://t.co/bswf1yIeUR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974068232060612990",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 430
+        },
+        "referenced_tweets": [
+          {
+            "id": "1972983172347621629",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @MIX_Destroy: 2ndアルバム収録曲\n『スーサイダーズ・ディストピア』がMV化しました！\n\n素敵なイラストをアルセチカ様\n動画を藍瀬 まなみ様にご制作頂きました\n\n宜しくお願いします⚔️\n\nYouTube：https://t.co/bswf1yIeUR\nnic…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1972983070400847872"
+          ]
+        },
+        "author_id": "1279623571",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "Nico Nico Douga",
+              "id": "1034894313908396037",
+              "name": "Nico Nico Douga"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          }
+        ],
+        "conversation_id": "1972983172347621629",
+        "created_at": "2025-09-30T11:13:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-30T12:13:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1972983172347621629"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 25,
+              "normalized_text": "スーサイダーズ・ディストピア",
+              "probability": 0.8409,
+              "start": 12,
+              "type": "Other"
+            },
+            {
+              "end": 61,
+              "normalized_text": "藍瀬 まなみ",
+              "probability": 0.6729,
+              "start": 56,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "description": "DIVELA 2nd Album『ロストテクノロジー』収録曲https://music.apple.com/jp/album/lost-technology/1641054361■Music ＆ Lyric：DIVELA：https://twitter.com/MIX_Destroy■Illust：アルセチカ 様...",
+              "display_url": "youtu.be/cc4gv4XKgFQ?si…",
+              "end": 118,
+              "expanded_url": "https://youtu.be/cc4gv4XKgFQ?si=wBhN3n3SRtJwXybA",
+              "images": [
+                {
+                  "height": 720,
+                  "url": "https://pbs.twimg.com/news_img/1972532461721767936/5AxSDq32?format=jpg&name=orig",
+                  "width": 1280
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1972532461721767936/5AxSDq32?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 95,
+              "status": 200,
+              "title": "スーサイダーズ・ディストピア ／ DIVELA feat.鏡音リン",
+              "unwound_url": "https://www.youtube.com/watch?si=wBhN3n3SRtJwXybA&v=cc4gv4XKgFQ&feature=youtu.be",
+              "url": "https://t.co/bswf1yIeUR"
+            },
+            {
+              "description": "DIVELA 2nd Album『ロストテクノロジー』収録曲■曲＆歌詞＆調声：DIVELA：https://twitter.com/MIX_Dest...",
+              "display_url": "nicovideo.jp/watch/sm454636…",
+              "end": 151,
+              "expanded_url": "https://www.nicovideo.jp/watch/sm45463657",
+              "start": 128,
+              "status": 200,
+              "title": "スーサイダーズ・ディストピア ／ DIVELA feat.鏡音リン",
+              "unwound_url": "https://www.nicovideo.jp/watch/sm45463657",
+              "url": "https://t.co/xfqGiG7PW6"
+            },
+            {
+              "display_url": "pic.x.com/l8IjMNp0qv",
+              "end": 175,
+              "expanded_url": "https://x.com/MIX_Destroy/status/1972983172347621629/video/1",
+              "media_key": "13_1972983070400847872",
+              "start": 152,
+              "url": "https://t.co/l8IjMNp0qv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1972983172347621629",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 116,
+          "impression_count": 54473,
+          "like_count": 1097,
+          "quote_count": 28,
+          "reply_count": 7,
+          "retweet_count": 430
+        },
+        "reply_settings": "everyone",
+        "text": "2ndアルバム収録曲\n『スーサイダーズ・ディストピア』がMV化しました！\n\n素敵なイラストをアルセチカ様\n動画を藍瀬 まなみ様にご制作頂きました\n\n宜しくお願いします⚔️\n\nYouTube：https://t.co/bswf1yIeUR\nniconico：https://t.co/xfqGiG7PW6 https://t.co/l8IjMNp0qv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-06T14:13:55.000Z",
+        "description": "中文/od/自残/精神病/网蛆/VOCALOID/音游/舞萌w43/中二14.9/世界计划 无底线无雷点无素质 含暴论/地域黑/辱男女/发情等成分 私信互关欢迎 我有对象 我很喜欢他",
+        "id": "1964331185590718464",
+        "location": "翼天国",
+        "name": "💊人工時代完全犯罪",
+        "pinned_tweet_id": "1966517785367871718",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1964333475118665733/qxlL_t3T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35,
+          "following_count": 214,
+          "like_count": 1457,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 346
+        },
+        "username": "breakcoreWTF",
+        "verified": false
+      },
+      {
+        "created_at": "2013-03-19T05:39:20.000Z",
+        "description": "ボカロP　divela001@gmail.com",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@DIVELA",
+                "end": 23,
+                "expanded_url": "http://youtube.com/@DIVELA",
+                "start": 0,
+                "url": "https://t.co/wrGHNnTnWu"
+              }
+            ]
+          }
+        },
+        "id": "1279623571",
+        "location": "万物：ぬくぬくにぎりめし 様",
+        "name": "DIVELA",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1129043334452916226/Qzkapoq5_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 45536,
+          "following_count": 639,
+          "like_count": 12398,
+          "listed_count": 445,
+          "media_count": 118,
+          "tweet_count": 2835
+        },
+        "url": "https://t.co/wrGHNnTnWu",
+        "username": "MIX_Destroy",
+        "verified": true
+      }
+    ]
+  }
+}

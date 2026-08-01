@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1964331185590718464",
+    "conversation_id": "2064453309461828063",
+    "created_at": "2026-06-09T21:03:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-09T22:03:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064453309461828063"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2058980226009280512",
+          "start": 3,
+          "username": "sprinklbun"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064453309461828063",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 772
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064269516440236541",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @sprinklbun: why r teenage boys irl so mean,, like what did i even do to u ???"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1964331185590718464",
+        "conversation_id": "2064453309461828063",
+        "created_at": "2026-06-09T21:03:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T22:03:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064453309461828063"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2058980226009280512",
+              "start": 3,
+              "username": "sprinklbun"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064453309461828063",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 772
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064269516440236541",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @sprinklbun: why r teenage boys irl so mean,, like what did i even do to u ???"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2058980226009280512",
+        "conversation_id": "2064269516440236541",
+        "created_at": "2026-06-09T08:52:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T09:52:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064269516440236541"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2064269516440236541",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 136,
+          "impression_count": 66040,
+          "like_count": 5028,
+          "quote_count": 36,
+          "reply_count": 106,
+          "retweet_count": 772
+        },
+        "reply_settings": "everyone",
+        "text": "why r teenage boys irl so mean,, like what did i even do to u ???"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-06T14:13:55.000Z",
+        "description": "OD丨自伤丨Vocaloid丨友跨顺女\n喜欢爬宠 不卖药 非必要不回私信\n不喜欢的直接b 同类查成分回fo 取关请双取",
+        "id": "1964331185590718464",
+        "location": "颅内",
+        "name": "箸",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061439509125074944/Hf-Lim6c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 762,
+          "following_count": 663,
+          "like_count": 16322,
+          "listed_count": 0,
+          "media_count": 234,
+          "tweet_count": 4660
+        },
+        "username": "breakcoreWTF",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-25T18:36:21.000Z",
+        "description": "not so secret acc 🤫 i follow back,, \n\nʚso378ɞ",
+        "id": "2058980226009280512",
+        "name": "Nathan",
+        "pinned_tweet_id": "2058991052116074545",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059250393469644800/j_4Bbbi9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 178,
+          "following_count": 168,
+          "like_count": 375,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 224
+        },
+        "username": "sprinklbun",
+        "verified": false
+      }
+    ]
+  }
+}

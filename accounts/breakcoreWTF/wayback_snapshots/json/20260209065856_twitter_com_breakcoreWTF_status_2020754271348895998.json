@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2020569879741640704"
+      ],
+      "media_source_tweet_id": [
+        "2020569887899316283"
+      ]
+    },
+    "author_id": "1964331185590718464",
+    "conversation_id": "2020754271348895998",
+    "created_at": "2026-02-09T06:58:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-09T07:58:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2020754271348895998"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1862723179858558976",
+          "start": 3,
+          "username": "hami0076"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/rGI08dbUkl",
+          "end": 37,
+          "expanded_url": "https://x.com/hami0076/status/2020569887899316283/photo/1",
+          "media_key": "3_2020569879741640704",
+          "start": 14,
+          "url": "https://t.co/rGI08dbUkl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2020754271348895998",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 41
+    },
+    "referenced_tweets": [
+      {
+        "id": "2020569887899316283",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hami0076: https://t.co/rGI08dbUkl"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1600,
+        "media_key": "3_2020569879741640704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAqBmaXasAAjdrV.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2020569879741640704"
+          ],
+          "media_source_tweet_id": [
+            "2020569887899316283"
+          ]
+        },
+        "author_id": "1964331185590718464",
+        "conversation_id": "2020754271348895998",
+        "created_at": "2026-02-09T06:58:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-09T07:58:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2020754271348895998"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1862723179858558976",
+              "start": 3,
+              "username": "hami0076"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/rGI08dbUkl",
+              "end": 37,
+              "expanded_url": "https://x.com/hami0076/status/2020569887899316283/photo/1",
+              "media_key": "3_2020569879741640704",
+              "start": 14,
+              "url": "https://t.co/rGI08dbUkl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020754271348895998",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 41
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020569887899316283",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hami0076: https://t.co/rGI08dbUkl"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2020569879741640704"
+          ]
+        },
+        "author_id": "1862723179858558976",
+        "conversation_id": "2020569887899316283",
+        "created_at": "2026-02-08T18:46:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-08T19:46:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2020569887899316283"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rGI08dbUkl",
+              "end": 23,
+              "expanded_url": "https://x.com/hami0076/status/2020569887899316283/photo/1",
+              "media_key": "3_2020569879741640704",
+              "start": 0,
+              "url": "https://t.co/rGI08dbUkl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020569887899316283",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 25,
+          "impression_count": 2480,
+          "like_count": 383,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 41
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/rGI08dbUkl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-06T14:13:55.000Z",
+        "description": "中文/od/自伤/友跨女/VOCALOID/音游 舞萌普通w53 纯种乐子人 遇到不喜欢的直接b 推上啥都有 看到你不喜欢的东西请无视 对我的负能量关心不要太频繁 其他交流欢迎 我不想在推特都做不到口无遮拦 同类回fo 🚪40加微信纯绿可配聊 熟悉的推友可以免门费",
+        "id": "1964331185590718464",
+        "location": "Internet",
+        "name": "箸",
+        "pinned_tweet_id": "2016685165557534981",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019848796881186816/pdjXkx-3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 466,
+          "following_count": 530,
+          "like_count": 7200,
+          "listed_count": 0,
+          "media_count": 116,
+          "tweet_count": 2195
+        },
+        "username": "breakcoreWTF",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-30T05:00:01.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "skeb.jp/@hami0076",
+                "end": 23,
+                "expanded_url": "https://skeb.jp/@hami0076",
+                "start": 0,
+                "url": "https://t.co/9ldv3KMh5G"
+              }
+            ]
+          }
+        },
+        "id": "1862723179858558976",
+        "name": "はみ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1994981874939396096/Pvm6N77X_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7124,
+          "following_count": 290,
+          "like_count": 5955,
+          "listed_count": 32,
+          "media_count": 261,
+          "tweet_count": 652
+        },
+        "url": "https://t.co/9ldv3KMh5G",
+        "username": "hami0076",
+        "verified": false
+      }
+    ]
+  }
+}

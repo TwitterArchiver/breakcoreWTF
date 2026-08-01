@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1964331185590718464",
+    "conversation_id": "2077185752400810235",
+    "created_at": "2026-07-15T05:48:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-15T06:48:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077268924572549516"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2058710627464712192",
+          "start": 0,
+          "username": "krienes"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077268924572549516",
+    "in_reply_to_user_id": "2058710627464712192",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077259293292966144",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@krienes 没了乐子就想死"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1964331185590718464",
+        "conversation_id": "2077185752400810235",
+        "created_at": "2026-07-15T05:48:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T06:48:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077268924572549516"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2058710627464712192",
+              "start": 0,
+              "username": "krienes"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077268924572549516",
+        "in_reply_to_user_id": "2058710627464712192",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077259293292966144",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@krienes 没了乐子就想死"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2058710627464712192",
+        "conversation_id": "2077185752400810235",
+        "created_at": "2026-07-15T05:09:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T06:09:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077259293292966144"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1964331185590718464",
+              "start": 0,
+              "username": "breakcoreWTF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077259293292966144",
+        "in_reply_to_user_id": "1964331185590718464",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077185752400810235",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@breakcoreWTF 你应该找点乐子或者找点事做"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-06T14:13:55.000Z",
+        "description": "叫我筷子就可以了(:3っ )っ\nOD丨Vocaloid丨音游丨顺女 LGBTQ+friendly\n不卖药 只看互关私信 我很穷欢迎投喂\n不喜欢的直接b 查成分同类回fo 取关请双取",
+        "id": "1964331185590718464",
+        "location": "颅内",
+        "name": "箸",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074711282427842560/EOM9Puhb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 991,
+          "following_count": 739,
+          "like_count": 28259,
+          "listed_count": 0,
+          "media_count": 320,
+          "tweet_count": 5784
+        },
+        "url": "",
+        "username": "breakcoreWTF",
+        "verified": true
+      },
+      {
+        "created_at": "2026-05-25T00:45:57.000Z",
+        "description": "",
+        "id": "2058710627464712192",
+        "name": "krien",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076350350706057217/CccahViX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 34,
+          "like_count": 198,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 145
+        },
+        "url": "",
+        "username": "krienes",
+        "verified": false
+      }
+    ]
+  }
+}

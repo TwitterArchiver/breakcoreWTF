@@ -1,0 +1,393 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2014526446094675969"
+      ],
+      "media_source_tweet_id": [
+        "2014526448925872421"
+      ]
+    },
+    "author_id": "1964331185590718464",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1247236287485997056",
+          "name": "Vocaloid"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Anime/Game ",
+          "id": "1138508942156345344",
+          "name": "Anime & game music"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1247236287485997056",
+          "name": "Vocaloid"
+        }
+      }
+    ],
+    "conversation_id": "2015997334195470606",
+    "created_at": "2026-01-27T03:56:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-27T04:56:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2015997334195470606"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 42,
+          "start": 33,
+          "tag": "VOCALOID"
+        },
+        {
+          "end": 48,
+          "start": 43,
+          "tag": "巡音ルカ"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1295273814675222528",
+          "start": 3,
+          "username": "lariatAme"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/aBdiEjQJ1m",
+          "end": 72,
+          "expanded_url": "https://x.com/lariatAme/status/2014526448925872421/photo/1",
+          "media_key": "3_2014526446094675969",
+          "start": 49,
+          "url": "https://t.co/aBdiEjQJ1m"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2015997334195470606",
+    "lang": "ko",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 12
+    },
+    "referenced_tweets": [
+      {
+        "id": "2014526448925872421",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @lariatAme: 부담스럽고 귀여운 인형 루카미쿠\n#VOCALOID #巡音ルカ https://t.co/aBdiEjQJ1m"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1692,
+        "media_key": "3_2014526446094675969",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_UJIRoacAEbO5g.jpg",
+        "width": 1693
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2014526446094675969"
+          ],
+          "media_source_tweet_id": [
+            "2014526448925872421"
+          ]
+        },
+        "author_id": "1964331185590718464",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1247236287485997056",
+              "name": "Vocaloid"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Anime/Game ",
+              "id": "1138508942156345344",
+              "name": "Anime & game music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1247236287485997056",
+              "name": "Vocaloid"
+            }
+          }
+        ],
+        "conversation_id": "2015997334195470606",
+        "created_at": "2026-01-27T03:56:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-27T04:56:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015997334195470606"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 42,
+              "start": 33,
+              "tag": "VOCALOID"
+            },
+            {
+              "end": 48,
+              "start": 43,
+              "tag": "巡音ルカ"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1295273814675222528",
+              "start": 3,
+              "username": "lariatAme"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/aBdiEjQJ1m",
+              "end": 72,
+              "expanded_url": "https://x.com/lariatAme/status/2014526448925872421/photo/1",
+              "media_key": "3_2014526446094675969",
+              "start": 49,
+              "url": "https://t.co/aBdiEjQJ1m"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015997334195470606",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 12
+        },
+        "referenced_tweets": [
+          {
+            "id": "2014526448925872421",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @lariatAme: 부담스럽고 귀여운 인형 루카미쿠\n#VOCALOID #巡音ルカ https://t.co/aBdiEjQJ1m"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2014526446094675969"
+          ]
+        },
+        "author_id": "1295273814675222528",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1247236287485997056",
+              "name": "Vocaloid"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Anime/Game ",
+              "id": "1138508942156345344",
+              "name": "Anime & game music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1247236287485997056",
+              "name": "Vocaloid"
+            }
+          }
+        ],
+        "conversation_id": "2014526448925872421",
+        "created_at": "2026-01-23T02:31:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-23T03:31:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2014526448925872421"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 27,
+              "start": 18,
+              "tag": "VOCALOID"
+            },
+            {
+              "end": 33,
+              "start": 28,
+              "tag": "巡音ルカ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/aBdiEjQJ1m",
+              "end": 57,
+              "expanded_url": "https://x.com/lariatAme/status/2014526448925872421/photo/1",
+              "media_key": "3_2014526446094675969",
+              "start": 34,
+              "url": "https://t.co/aBdiEjQJ1m"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014526448925872421",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 529,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 12
+        },
+        "reply_settings": "everyone",
+        "text": "부담스럽고 귀여운 인형 루카미쿠\n#VOCALOID #巡音ルカ https://t.co/aBdiEjQJ1m"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-06T14:13:55.000Z",
+        "description": "中文/od/VOCALOID/音游 纯种乐子人性别不明推上啥都有 会发泄情绪无需理会 私信互关欢迎 🚪40加微信纯绿可陪聊",
+        "id": "1964331185590718464",
+        "location": "Internet",
+        "name": "薄幸",
+        "pinned_tweet_id": "2003760156488986744",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015679257582964737/T8W4H246_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 55,
+          "following_count": 333,
+          "like_count": 3949,
+          "listed_count": 0,
+          "media_count": 42,
+          "tweet_count": 1244
+        },
+        "username": "breakcoreWTF",
+        "verified": false
+      },
+      {
+        "created_at": "2020-08-17T08:18:48.000Z",
+        "description": "공주님공 성애자",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/Amering",
+                "end": 23,
+                "expanded_url": "https://lit.link/Amering",
+                "start": 0,
+                "url": "https://t.co/XtHuCZQd57"
+              }
+            ]
+          }
+        },
+        "id": "1295273814675222528",
+        "name": "아메링",
+        "pinned_tweet_id": "2007375306248839562",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1992135165301436416/fST70vQC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 63,
+          "following_count": 24,
+          "like_count": 254,
+          "listed_count": 1,
+          "media_count": 11,
+          "tweet_count": 57
+        },
+        "url": "https://t.co/XtHuCZQd57",
+        "username": "lariatAme",
+        "verified": false
+      }
+    ]
+  }
+}

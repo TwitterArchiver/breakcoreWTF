@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2062349732522151936"
+      ],
+      "media_source_tweet_id": [
+        "2062349736309625152"
+      ]
+    },
+    "author_id": "1964331185590718464",
+    "conversation_id": "2062454254036770820",
+    "created_at": "2026-06-04T08:39:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-04T09:39:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062454254036770820"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "3227407405",
+          "start": 3,
+          "username": "maryan_2nd"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/wcnb3vZYYK",
+          "end": 39,
+          "expanded_url": "https://x.com/maryan_2nd/status/2062349736309625152/photo/1",
+          "media_key": "3_2062349732522151936",
+          "start": 16,
+          "url": "https://t.co/wcnb3vZYYK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062454254036770820",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2616
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062349736309625152",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @maryan_2nd: https://t.co/wcnb3vZYYK"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2062349732522151936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ7wJ6ma0AAPaFx.jpg",
+        "width": 1495
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062349732522151936"
+          ],
+          "media_source_tweet_id": [
+            "2062349736309625152"
+          ]
+        },
+        "author_id": "1964331185590718464",
+        "conversation_id": "2062454254036770820",
+        "created_at": "2026-06-04T08:39:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T09:39:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062454254036770820"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "3227407405",
+              "start": 3,
+              "username": "maryan_2nd"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/wcnb3vZYYK",
+              "end": 39,
+              "expanded_url": "https://x.com/maryan_2nd/status/2062349736309625152/photo/1",
+              "media_key": "3_2062349732522151936",
+              "start": 16,
+              "url": "https://t.co/wcnb3vZYYK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062454254036770820",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2616
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062349736309625152",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @maryan_2nd: https://t.co/wcnb3vZYYK"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062349732522151936"
+          ]
+        },
+        "author_id": "3227407405",
+        "conversation_id": "2062349736309625152",
+        "created_at": "2026-06-04T01:44:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T02:44:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062349736309625152"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wcnb3vZYYK",
+              "end": 23,
+              "expanded_url": "https://x.com/maryan_2nd/status/2062349736309625152/photo/1",
+              "media_key": "3_2062349732522151936",
+              "start": 0,
+              "url": "https://t.co/wcnb3vZYYK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062349736309625152",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1368,
+          "impression_count": 1128150,
+          "like_count": 28683,
+          "quote_count": 133,
+          "reply_count": 85,
+          "retweet_count": 2616
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/wcnb3vZYYK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-06T14:13:55.000Z",
+        "description": "OD丨自伤丨Vocaloid丨音游丨友跨顺女\n不喜欢的直接b 同类回fo 取关请双取",
+        "id": "1964331185590718464",
+        "location": "颅内",
+        "name": "箸",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061439509125074944/Hf-Lim6c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 667,
+          "following_count": 605,
+          "like_count": 14337,
+          "listed_count": 0,
+          "media_count": 211,
+          "tweet_count": 4245
+        },
+        "username": "breakcoreWTF",
+        "verified": false
+      },
+      {
+        "created_at": "2015-05-26T17:21:59.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "peing.net/maryan_2nd",
+                "end": 23,
+                "expanded_url": "https://peing.net/maryan_2nd",
+                "start": 0,
+                "url": "https://t.co/vWQnlaCy9X"
+              }
+            ]
+          }
+        },
+        "id": "3227407405",
+        "location": "大都会三重→愛知の田舎",
+        "name": "花粉さん",
+        "pinned_tweet_id": "1505944668022149122",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1650985372825026562/F7Xc9HxT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 486,
+          "following_count": 345,
+          "like_count": 64351,
+          "listed_count": 25,
+          "media_count": 2597,
+          "tweet_count": 68289
+        },
+        "url": "https://t.co/vWQnlaCy9X",
+        "username": "maryan_2nd",
+        "verified": false
+      }
+    ]
+  }
+}

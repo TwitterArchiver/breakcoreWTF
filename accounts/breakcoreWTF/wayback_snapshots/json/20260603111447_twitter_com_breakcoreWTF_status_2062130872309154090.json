@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2061870877227069440"
+      ],
+      "media_source_tweet_id": [
+        "2061870898236244392"
+      ]
+    },
+    "author_id": "1964331185590718464",
+    "conversation_id": "2062130872309154090",
+    "created_at": "2026-06-03T11:14:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-03T12:14:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062130872309154090"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1562677302143565824",
+          "start": 3,
+          "username": "t_tuelhinhos"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/OekYWUAnxg",
+          "end": 83,
+          "expanded_url": "https://x.com/t_tuelhinhos/status/2061870898236244392/video/1",
+          "media_key": "13_2061870877227069440",
+          "start": 60,
+          "url": "https://t.co/OekYWUAnxg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062130872309154090",
+    "lang": "pt",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 263
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061870898236244392",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @t_tuelhinhos: Até que ter um ajudante humano é bem útil https://t.co/OekYWUAnxg"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 7766,
+        "height": 570,
+        "media_key": "13_2061870877227069440",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2061870877227069440/img/_5tVgCWDwmaJdcfy.jpg",
+        "public_metrics": {
+          "view_count": 10290
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2061870877227069440/vid/avc1/320x380/jqjRhHbJwRcgOccp.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2061870877227069440/vid/avc1/480x570/DTaw02KHy9QCxusi.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2061870877227069440/pl/XHc54awWaAs_7GvF.m3u8?tag=14"
+          }
+        ],
+        "width": 480
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2061870877227069440"
+          ],
+          "media_source_tweet_id": [
+            "2061870898236244392"
+          ]
+        },
+        "author_id": "1964331185590718464",
+        "conversation_id": "2062130872309154090",
+        "created_at": "2026-06-03T11:14:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T12:14:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062130872309154090"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1562677302143565824",
+              "start": 3,
+              "username": "t_tuelhinhos"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/OekYWUAnxg",
+              "end": 83,
+              "expanded_url": "https://x.com/t_tuelhinhos/status/2061870898236244392/video/1",
+              "media_key": "13_2061870877227069440",
+              "start": 60,
+              "url": "https://t.co/OekYWUAnxg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062130872309154090",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 263
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061870898236244392",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @t_tuelhinhos: Até que ter um ajudante humano é bem útil https://t.co/OekYWUAnxg"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2061870877227069440"
+          ]
+        },
+        "author_id": "1562677302143565824",
+        "conversation_id": "2061870898236244392",
+        "created_at": "2026-06-02T18:01:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T19:01:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061870898236244392"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/OekYWUAnxg",
+              "end": 65,
+              "expanded_url": "https://x.com/t_tuelhinhos/status/2061870898236244392/video/1",
+              "media_key": "13_2061870877227069440",
+              "start": 42,
+              "url": "https://t.co/OekYWUAnxg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061870898236244392",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 195,
+          "impression_count": 29950,
+          "like_count": 1428,
+          "quote_count": 16,
+          "reply_count": 3,
+          "retweet_count": 263
+        },
+        "reply_settings": "everyone",
+        "text": "Até que ter um ajudante humano é bem útil https://t.co/OekYWUAnxg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-06T14:13:55.000Z",
+        "description": "OD丨自伤丨Vocaloid丨音游丨友跨顺女\n不喜欢的直接b 同类回fo 取关请双取",
+        "id": "1964331185590718464",
+        "location": "颅内",
+        "name": "箸",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061439509125074944/Hf-Lim6c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 662,
+          "following_count": 602,
+          "like_count": 14151,
+          "listed_count": 0,
+          "media_count": 203,
+          "tweet_count": 4198
+        },
+        "username": "breakcoreWTF",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-25T05:44:49.000Z",
+        "description": "Está é uma pagina de compilação e coleção de conteúdos sobre coelho, vale ressaltar que não sou dono de nenhum dos conteúdos postados!",
+        "id": "1562677302143565824",
+        "location": "Aos pés da Yggdrasil",
+        "name": "Tuelhinhos 🐇",
+        "pinned_tweet_id": "2033647891131076800",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970638790797488128/qiNeFgLh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5063,
+          "following_count": 73,
+          "like_count": 47107,
+          "listed_count": 23,
+          "media_count": 5550,
+          "tweet_count": 19204
+        },
+        "username": "t_tuelhinhos",
+        "verified": false
+      }
+    ]
+  }
+}

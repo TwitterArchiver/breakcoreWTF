@@ -1,0 +1,527 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2062548890688356353"
+      ],
+      "media_source_tweet_id": [
+        "2062548896107389021"
+      ]
+    },
+    "author_id": "1964331185590718464",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Drinks",
+          "id": "834828264786898945",
+          "name": "Drinks"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Generic Drinks",
+          "id": "834828445238431744",
+          "name": "Generic Drinks"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Smoothies",
+          "id": "850149084488900608",
+          "name": "Smoothies"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Drinks",
+          "id": "834828264786898945",
+          "name": "Drinks"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Smoothies",
+          "id": "850149084488900608",
+          "name": "Smoothies"
+        }
+      }
+    ],
+    "conversation_id": "2062594296742850810",
+    "created_at": "2026-06-04T17:56:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-04T18:56:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062594296742850810"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "996864025634877440",
+          "start": 3,
+          "username": "pepoyoPPY"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ksXH5hBxpD",
+          "end": 50,
+          "expanded_url": "https://x.com/pepoyoPPY/status/2062548896107389021/photo/1",
+          "media_key": "3_2062548890688356353",
+          "start": 27,
+          "url": "https://t.co/ksXH5hBxpD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062594296742850810",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 29
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062548896107389021",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @pepoyoPPY: スムージーがデカすぎる https://t.co/ksXH5hBxpD"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2062548890688356353",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ-lSclbAAEcdKM.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062548890688356353"
+          ],
+          "media_source_tweet_id": [
+            "2062548896107389021"
+          ]
+        },
+        "author_id": "1964331185590718464",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Drinks",
+              "id": "834828264786898945",
+              "name": "Drinks"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Generic Drinks",
+              "id": "834828445238431744",
+              "name": "Generic Drinks"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Smoothies",
+              "id": "850149084488900608",
+              "name": "Smoothies"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drinks",
+              "id": "834828264786898945",
+              "name": "Drinks"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Smoothies",
+              "id": "850149084488900608",
+              "name": "Smoothies"
+            }
+          }
+        ],
+        "conversation_id": "2062594296742850810",
+        "created_at": "2026-06-04T17:56:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T18:56:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062594296742850810"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "996864025634877440",
+              "start": 3,
+              "username": "pepoyoPPY"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ksXH5hBxpD",
+              "end": 50,
+              "expanded_url": "https://x.com/pepoyoPPY/status/2062548896107389021/photo/1",
+              "media_key": "3_2062548890688356353",
+              "start": 27,
+              "url": "https://t.co/ksXH5hBxpD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062594296742850810",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 29
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062548896107389021",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @pepoyoPPY: スムージーがデカすぎる https://t.co/ksXH5hBxpD"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062548890688356353"
+          ]
+        },
+        "author_id": "996864025634877440",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Drinks",
+              "id": "834828264786898945",
+              "name": "Drinks"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Generic Drinks",
+              "id": "834828445238431744",
+              "name": "Generic Drinks"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Smoothies",
+              "id": "850149084488900608",
+              "name": "Smoothies"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drinks",
+              "id": "834828264786898945",
+              "name": "Drinks"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Smoothies",
+              "id": "850149084488900608",
+              "name": "Smoothies"
+            }
+          }
+        ],
+        "conversation_id": "2062548896107389021",
+        "created_at": "2026-06-04T14:55:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T15:55:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062548896107389021"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ksXH5hBxpD",
+              "end": 35,
+              "expanded_url": "https://x.com/pepoyoPPY/status/2062548896107389021/photo/1",
+              "media_key": "3_2062548890688356353",
+              "start": 12,
+              "url": "https://t.co/ksXH5hBxpD"
+            },
+            {
+              "display_url": "x.com/joruzinhina/st…",
+              "end": 59,
+              "expanded_url": "https://twitter.com/joruzinhina/status/2062529096547254461",
+              "start": 36,
+              "url": "https://t.co/MnfmIhfaW7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062548896107389021",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 5248,
+          "like_count": 252,
+          "quote_count": 5,
+          "reply_count": 1,
+          "retweet_count": 29
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062529096547254461",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "スムージーがデカすぎる https://t.co/ksXH5hBxpD https://t.co/MnfmIhfaW7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-06T14:13:55.000Z",
+        "description": "OD丨自伤丨Vocaloid丨音游丨友跨顺女\n不喜欢的直接b 同类回fo 取关请双取",
+        "id": "1964331185590718464",
+        "location": "颅内",
+        "name": "箸",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061439509125074944/Hf-Lim6c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 675,
+          "following_count": 610,
+          "like_count": 14483,
+          "listed_count": 0,
+          "media_count": 216,
+          "tweet_count": 4304
+        },
+        "username": "breakcoreWTF",
+        "verified": false
+      },
+      {
+        "created_at": "2018-05-16T21:24:39.000Z",
+        "description": "絵/曲/歌/動画など色々 ⚠️過激な表現を含むのでフォロー自己責任 作品の使用についてはガイドライン参照 創作 #ぽよぺっぷ #おす氏っす #じさつようせい 曲→ #PEPOYOmusic FA→#PPYfanart 色々タグ #ペポン通信 skeb https://t.co/zIRzvEEfjq",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 62,
+                "start": 56,
+                "tag": "ぽよぺっぷ"
+              },
+              {
+                "end": 69,
+                "start": 63,
+                "tag": "おす氏っす"
+              },
+              {
+                "end": 78,
+                "start": 70,
+                "tag": "じさつようせい"
+              },
+              {
+                "end": 94,
+                "start": 82,
+                "tag": "PEPOYOmusic"
+              },
+              {
+                "end": 108,
+                "start": 98,
+                "tag": "PPYfanart"
+              },
+              {
+                "end": 120,
+                "start": 114,
+                "tag": "ペポン通信"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "skeb.jp/@pepoyoPPY",
+                "end": 149,
+                "expanded_url": "https://skeb.jp/@pepoyoPPY",
+                "start": 126,
+                "url": "https://t.co/zIRzvEEfjq"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/pepoyo",
+                "end": 23,
+                "expanded_url": "https://lit.link/pepoyo",
+                "start": 0,
+                "url": "https://t.co/ceFDwkDxQC"
+              }
+            ]
+          }
+        },
+        "id": "996864025634877440",
+        "location": "リンクまとめ↓✉️→pepoyoppy⭐︎gmail.com",
+        "name": "ぺぽよ",
+        "pinned_tweet_id": "2061456333073965469",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039685246707503104/Y1ex6-ib_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 59483,
+          "following_count": 253,
+          "like_count": 6367,
+          "listed_count": 117,
+          "media_count": 2836,
+          "tweet_count": 21922
+        },
+        "url": "https://t.co/ceFDwkDxQC",
+        "username": "pepoyoPPY",
+        "verified": true
+      }
+    ]
+  }
+}

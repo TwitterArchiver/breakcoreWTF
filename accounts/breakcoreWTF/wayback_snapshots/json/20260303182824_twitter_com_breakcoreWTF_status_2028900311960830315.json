@@ -1,0 +1,287 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2028701611187679232"
+      ],
+      "media_source_tweet_id": [
+        "2028702499088244856"
+      ]
+    },
+    "author_id": "1964331185590718464",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2028900311960830315",
+    "created_at": "2026-03-03T18:28:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-03T19:28:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2028900311960830315"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1671447420750929920",
+          "start": 3,
+          "username": "sakito333_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/V2TuD065FO",
+          "end": 47,
+          "expanded_url": "https://x.com/sakito333_/status/2028702499088244856/video/1",
+          "media_key": "13_2028701611187679232",
+          "start": 24,
+          "url": "https://t.co/V2TuD065FO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028900311960830315",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 9454
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028702499088244856",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @sakito333_: 弱弱ずんだもん https://t.co/V2TuD065FO"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 15069,
+        "height": 1112,
+        "media_key": "13_2028701611187679232",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2028701611187679232/img/pYXNDCatgDI6szSJ.jpg",
+        "public_metrics": {
+          "view_count": 2621406
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2028701611187679232/vid/avc1/320x426/ZHDkY02SJ3Fr4jHg.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2028701611187679232/vid/avc1/480x640/RFxhYmQxujoFIpfl.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2028701611187679232/vid/avc1/720x958/h2egHsKTCY_0jmud.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2028701611187679232/pl/6S5q0n0LShfIcC4e.m3u8?tag=14&v=cfc"
+          }
+        ],
+        "width": 834
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2028701611187679232"
+          ],
+          "media_source_tweet_id": [
+            "2028702499088244856"
+          ]
+        },
+        "author_id": "1964331185590718464",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2028900311960830315",
+        "created_at": "2026-03-03T18:28:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-03T19:28:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028900311960830315"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1671447420750929920",
+              "start": 3,
+              "username": "sakito333_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/V2TuD065FO",
+              "end": 47,
+              "expanded_url": "https://x.com/sakito333_/status/2028702499088244856/video/1",
+              "media_key": "13_2028701611187679232",
+              "start": 24,
+              "url": "https://t.co/V2TuD065FO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028900311960830315",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 9454
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028702499088244856",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @sakito333_: 弱弱ずんだもん https://t.co/V2TuD065FO"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2028701611187679232"
+          ]
+        },
+        "author_id": "1671447420750929920",
+        "conversation_id": "2028702499088244856",
+        "created_at": "2026-03-03T05:22:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-03T06:22:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2028702499088244856"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/V2TuD065FO",
+              "end": 31,
+              "expanded_url": "https://x.com/sakito333_/status/2028702499088244856/video/1",
+              "media_key": "13_2028701611187679232",
+              "start": 8,
+              "url": "https://t.co/V2TuD065FO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028702499088244856",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 25242,
+          "impression_count": 9076640,
+          "like_count": 91476,
+          "quote_count": 4348,
+          "reply_count": 1241,
+          "retweet_count": 9454
+        },
+        "reply_settings": "everyone",
+        "text": "弱弱ずんだもん https://t.co/V2TuD065FO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-06T14:13:55.000Z",
+        "description": "OD丨自伤丨Vocaloid丨音游丨友跨顺女丨少关心我\n不喜欢的直接b 推特是垃圾桶口无遮拦 同类回fo",
+        "id": "1964331185590718464",
+        "location": "🚪50/88 同类熟推免",
+        "name": "箸",
+        "pinned_tweet_id": "2024039744276189189",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019848796881186816/pdjXkx-3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 661,
+          "following_count": 599,
+          "like_count": 11554,
+          "listed_count": 0,
+          "media_count": 170,
+          "tweet_count": 3429
+        },
+        "username": "breakcoreWTF",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-21T09:18:38.000Z",
+        "description": "アニメ好き　ずんだもん好き　筋トレ好き\n中文 English 日本語 is ok\nAI illustrations and videos",
+        "id": "1671447420750929920",
+        "name": "三三Sakito",
+        "pinned_tweet_id": "2002232097306722401",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1961844158349643776/4aY6ZDIN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3505,
+          "following_count": 141,
+          "like_count": 7087,
+          "listed_count": 17,
+          "media_count": 126,
+          "tweet_count": 356
+        },
+        "username": "sakito333_",
+        "verified": false
+      }
+    ]
+  }
+}

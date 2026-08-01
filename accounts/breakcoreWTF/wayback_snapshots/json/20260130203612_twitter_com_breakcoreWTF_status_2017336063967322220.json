@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2012879520454348800"
+      ],
+      "media_source_tweet_id": [
+        "2017130659618414610"
+      ]
+    },
+    "author_id": "1964331185590718464",
+    "conversation_id": "2017336063967322220",
+    "created_at": "2026-01-30T20:36:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-30T21:36:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2017336063967322220"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1545277694325116928",
+          "start": 3,
+          "username": "BI3BXI"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/W5YPzfJHtk",
+          "end": 35,
+          "expanded_url": "https://x.com/BI3BXI/status/2017130659618414610/photo/1",
+          "media_key": "3_2012879520454348800",
+          "start": 12,
+          "url": "https://t.co/W5YPzfJHtk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2017336063967322220",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 10
+    },
+    "referenced_tweets": [
+      {
+        "id": "2017130659618414610",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @BI3BXI: https://t.co/W5YPzfJHtk"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2012879520454348800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-8vQlhXEAAwJXb.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2012879520454348800"
+          ],
+          "media_source_tweet_id": [
+            "2017130659618414610"
+          ]
+        },
+        "author_id": "1964331185590718464",
+        "conversation_id": "2017336063967322220",
+        "created_at": "2026-01-30T20:36:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-30T21:36:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017336063967322220"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1545277694325116928",
+              "start": 3,
+              "username": "BI3BXI"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/W5YPzfJHtk",
+              "end": 35,
+              "expanded_url": "https://x.com/BI3BXI/status/2017130659618414610/photo/1",
+              "media_key": "3_2012879520454348800",
+              "start": 12,
+              "url": "https://t.co/W5YPzfJHtk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017336063967322220",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 10
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017130659618414610",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @BI3BXI: https://t.co/W5YPzfJHtk"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2012879520454348800"
+          ]
+        },
+        "author_id": "1545277694325116928",
+        "conversation_id": "2017130659618414610",
+        "created_at": "2026-01-30T07:00:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-30T08:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2017130659618414610"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/W5YPzfJHtk",
+              "end": 23,
+              "expanded_url": "https://x.com/BI3BXI/status/2017130659618414610/photo/1",
+              "media_key": "3_2012879520454348800",
+              "start": 0,
+              "url": "https://t.co/W5YPzfJHtk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017130659618414610",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 28259,
+          "like_count": 268,
+          "quote_count": 1,
+          "reply_count": 7,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/W5YPzfJHtk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-06T14:13:55.000Z",
+        "description": "中文/od/自伤/友跨顺女/VOCALOID/音游 舞萌普通w53 纯种乐子人 推上啥都有 负能量相关最好不要关心 其他交流欢迎 我不想在推特都做不到口无遮拦 互fo欢迎 🚪40加微信纯绿可配聊 熟悉的推友可以免门费",
+        "id": "1964331185590718464",
+        "location": "Internet",
+        "name": "薄幸",
+        "pinned_tweet_id": "2016685165557534981",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015679257582964737/T8W4H246_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 80,
+          "following_count": 349,
+          "like_count": 5152,
+          "listed_count": 0,
+          "media_count": 67,
+          "tweet_count": 1646
+        },
+        "username": "breakcoreWTF",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-08T05:24:56.000Z",
+        "description": "07年的大只MtX🏳️‍⚧️｜请不要屏蔽我🥺｜前世 @ryq59｜本体@yqua_｜点击“查看更多”可以了解我～",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 26,
+                "username": "ryq59"
+              },
+              {
+                "end": 41,
+                "start": 35,
+                "username": "yqua_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "qm.qq.com/q/TT3IUMhhUQ",
+                "end": 23,
+                "expanded_url": "https://qm.qq.com/q/TT3IUMhhUQ",
+                "start": 0,
+                "url": "https://t.co/9ZD7jPC8bX"
+              }
+            ]
+          }
+        },
+        "id": "1545277694325116928",
+        "location": "阿彬秘制羊排饭",
+        "name": "你是要气死铨酱么🍥（二代目）",
+        "pinned_tweet_id": "2010144496995258841",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998173383339712512/6wVG25qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6771,
+          "following_count": 3358,
+          "like_count": 30997,
+          "listed_count": 17,
+          "media_count": 1324,
+          "tweet_count": 5765
+        },
+        "url": "https://t.co/9ZD7jPC8bX",
+        "username": "BI3BXI",
+        "verified": true
+      }
+    ]
+  }
+}

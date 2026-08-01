@@ -1,0 +1,331 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1992079539435134976"
+      ],
+      "media_source_tweet_id": [
+        "1992079545160351975"
+      ]
+    },
+    "author_id": "1964331185590718464",
+    "conversation_id": "2001738692365598777",
+    "created_at": "2025-12-18T19:37:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-18T20:37:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2001738692365598777"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 24,
+          "normalized_text": "ゆかりさん",
+          "probability": 0.8588,
+          "start": 20,
+          "type": "Person"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 41,
+          "start": 35,
+          "tag": "結月ゆかり"
+        },
+        {
+          "end": 49,
+          "start": 43,
+          "tag": "紲星あかり"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1938382435592638467",
+          "start": 3,
+          "username": "esRfcRk5dZ2726"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/DdRtqciC3r",
+          "end": 73,
+          "expanded_url": "https://x.com/esRfcRk5dZ2726/status/1992079545160351975/photo/1",
+          "media_key": "3_1992079539435134976",
+          "start": 50,
+          "url": "https://t.co/DdRtqciC3r"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2001738692365598777",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 219
+    },
+    "referenced_tweets": [
+      {
+        "id": "1992079545160351975",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @esRfcRk5dZ2726: ゆかりさん、可愛いやった！！\n#結月ゆかり  #紲星あかり https://t.co/DdRtqciC3r"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1800,
+        "media_key": "3_1992079539435134976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6VJyWBa4AARmOj.jpg",
+        "width": 1400
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1992079539435134976"
+          ],
+          "media_source_tweet_id": [
+            "1992079545160351975"
+          ]
+        },
+        "author_id": "1964331185590718464",
+        "conversation_id": "2001738692365598777",
+        "created_at": "2025-12-18T19:37:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-18T20:37:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2001738692365598777"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 24,
+              "normalized_text": "ゆかりさん",
+              "probability": 0.8588,
+              "start": 20,
+              "type": "Person"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 41,
+              "start": 35,
+              "tag": "結月ゆかり"
+            },
+            {
+              "end": 49,
+              "start": 43,
+              "tag": "紲星あかり"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1938382435592638467",
+              "start": 3,
+              "username": "esRfcRk5dZ2726"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/DdRtqciC3r",
+              "end": 73,
+              "expanded_url": "https://x.com/esRfcRk5dZ2726/status/1992079545160351975/photo/1",
+              "media_key": "3_1992079539435134976",
+              "start": 50,
+              "url": "https://t.co/DdRtqciC3r"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001738692365598777",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 219
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992079545160351975",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @esRfcRk5dZ2726: ゆかりさん、可愛いやった！！\n#結月ゆかり  #紲星あかり https://t.co/DdRtqciC3r"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1992079539435134976"
+          ]
+        },
+        "author_id": "1938382435592638467",
+        "conversation_id": "1992079545160351975",
+        "created_at": "2025-11-22T03:55:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-22T04:55:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1992079545160351975"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 4,
+              "normalized_text": "ゆかりさん",
+              "probability": 0.8686,
+              "start": 0,
+              "type": "Person"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 21,
+              "start": 15,
+              "tag": "結月ゆかり"
+            },
+            {
+              "end": 29,
+              "start": 23,
+              "tag": "紲星あかり"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/DdRtqciC3r",
+              "end": 53,
+              "expanded_url": "https://x.com/esRfcRk5dZ2726/status/1992079545160351975/photo/1",
+              "media_key": "3_1992079539435134976",
+              "start": 30,
+              "url": "https://t.co/DdRtqciC3r"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992079545160351975",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 80,
+          "impression_count": 16161,
+          "like_count": 1207,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 219
+        },
+        "reply_settings": "everyone",
+        "text": "ゆかりさん、可愛いやった！！\n#結月ゆかり  #紲星あかり https://t.co/DdRtqciC3r"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-06T14:13:55.000Z",
+        "description": "中文/od/VOCALOID/音游 纯种乐子人性别不明推上啥都有 私信互关欢迎 我有对象 我很喜欢他",
+        "id": "1964331185590718464",
+        "location": "翼天国",
+        "name": "━Σ(ﾟДﾟ|||)━",
+        "pinned_tweet_id": "1966517785367871718",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001729011576426496/HumNDWc3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 48,
+          "following_count": 272,
+          "like_count": 2693,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 713
+        },
+        "username": "breakcoreWTF",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-26T23:43:09.000Z",
+        "description": "女の子などのほのぼのイラストや漫画など描いてます。総合タグ　#らいちゃそ　pixiv https://t.co/hMyp6k91ZT",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 36,
+                "start": 30,
+                "tag": "らいちゃそ"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "pixiv.net/dashboard/works",
+                "end": 66,
+                "expanded_url": "https://www.pixiv.net/dashboard/works",
+                "start": 43,
+                "url": "https://t.co/hMyp6k91ZT"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xfolio.jp/portfolio/Rait…",
+                "end": 23,
+                "expanded_url": "https://xfolio.jp/portfolio/Raithaso",
+                "start": 0,
+                "url": "https://t.co/RNH7oIvMlE"
+              }
+            ]
+          }
+        },
+        "id": "1938382435592638467",
+        "location": "ポートフォリオ",
+        "name": "ライスフラワー",
+        "pinned_tweet_id": "1993895147566977192",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988585924578668544/btxt9sSf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 315,
+          "following_count": 12,
+          "like_count": 1362,
+          "listed_count": 0,
+          "media_count": 101,
+          "tweet_count": 232
+        },
+        "url": "https://t.co/RNH7oIvMlE",
+        "username": "esRfcRk5dZ2726",
+        "verified": false
+      }
+    ]
+  }
+}

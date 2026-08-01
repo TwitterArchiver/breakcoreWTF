@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2074078768118079488"
+      ],
+      "media_source_tweet_id": [
+        "2074078772178153657"
+      ]
+    },
+    "author_id": "1964331185590718464",
+    "conversation_id": "2074376679443902807",
+    "created_at": "2026-07-07T06:15:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-07T07:15:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074376679443902807"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2058635206538805248",
+          "start": 3,
+          "username": "Egg1wpq"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/PySOepAKSR",
+          "end": 43,
+          "expanded_url": "https://x.com/Egg1wpq/status/2074078772178153657/photo/1",
+          "media_key": "3_2074078768118079488",
+          "start": 20,
+          "url": "https://t.co/PySOepAKSR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074376679443902807",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 44
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074078772178153657",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Egg1wpq: 女ｮﾀスター https://t.co/PySOepAKSR"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 715,
+        "media_key": "3_2074078768118079488",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMibppHboAAHAgY.jpg",
+        "width": 497
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074078768118079488"
+          ],
+          "media_source_tweet_id": [
+            "2074078772178153657"
+          ]
+        },
+        "author_id": "1964331185590718464",
+        "conversation_id": "2074376679443902807",
+        "created_at": "2026-07-07T06:15:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T07:15:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074376679443902807"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2058635206538805248",
+              "start": 3,
+              "username": "Egg1wpq"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/PySOepAKSR",
+              "end": 43,
+              "expanded_url": "https://x.com/Egg1wpq/status/2074078772178153657/photo/1",
+              "media_key": "3_2074078768118079488",
+              "start": 20,
+              "url": "https://t.co/PySOepAKSR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074376679443902807",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 44
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074078772178153657",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Egg1wpq: 女ｮﾀスター https://t.co/PySOepAKSR"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074078768118079488"
+          ]
+        },
+        "author_id": "2058635206538805248",
+        "conversation_id": "2074078772178153657",
+        "created_at": "2026-07-06T10:31:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T11:31:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074078772178153657"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PySOepAKSR",
+              "end": 30,
+              "expanded_url": "https://x.com/Egg1wpq/status/2074078772178153657/photo/1",
+              "media_key": "3_2074078768118079488",
+              "start": 7,
+              "url": "https://t.co/PySOepAKSR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074078772178153657",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 29,
+          "impression_count": 2759,
+          "like_count": 276,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 44
+        },
+        "reply_settings": "everyone",
+        "text": "女ｮﾀスター https://t.co/PySOepAKSR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-06T14:13:55.000Z",
+        "description": "OD丨自伤丨Vocaloid丨音游丨顺女 LGBTQ+friendly\n喜欢爬宠 不卖药 非必要不回私信 我很穷欢迎投喂\n不喜欢的直接b 同类查成分回fo 取关请双取",
+        "id": "1964331185590718464",
+        "location": "颅内",
+        "name": "箸",
+        "pinned_tweet_id": "2072469945422934327",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071376088018956288/SAB5MTfr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 903,
+          "following_count": 703,
+          "like_count": 23618,
+          "listed_count": 0,
+          "media_count": 312,
+          "tweet_count": 5490
+        },
+        "url": "",
+        "username": "breakcoreWTF",
+        "verified": true
+      },
+      {
+        "created_at": "2026-05-24T19:44:52.000Z",
+        "description": "SMILE",
+        "id": "2058635206538805248",
+        "name": "Egg",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058639152846184448/fw9LHBoO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 4,
+          "like_count": 80,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 1
+        },
+        "url": "",
+        "username": "Egg1wpq",
+        "verified": false
+      }
+    ]
+  }
+}

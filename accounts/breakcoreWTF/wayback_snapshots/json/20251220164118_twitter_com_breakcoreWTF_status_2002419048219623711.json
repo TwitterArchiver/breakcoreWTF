@@ -1,0 +1,376 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2002220931503304707"
+      ],
+      "media_source_tweet_id": [
+        "2002220943398322318"
+      ]
+    },
+    "author_id": "1964331185590718464",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1390782787301494785",
+          "name": "Touhou Project"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1390782787301494785",
+          "name": "Touhou Project"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1403427158953922560",
+          "name": "Shooting games"
+        }
+      }
+    ],
+    "conversation_id": "2002419048219623711",
+    "created_at": "2025-12-20T16:41:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-20T17:41:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2002419048219623711"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 36,
+          "start": 26,
+          "tag": "東方Project"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1782749648459030528",
+          "start": 3,
+          "username": "sfnnEZL_0u0"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/txR872ObwE",
+          "end": 60,
+          "expanded_url": "https://x.com/sfnnEZL_0u0/status/2002220943398322318/photo/1",
+          "media_key": "3_2002220931503304707",
+          "start": 37,
+          "url": "https://t.co/txR872ObwE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2002419048219623711",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 251
+    },
+    "referenced_tweets": [
+      {
+        "id": "2002220943398322318",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @sfnnEZL_0u0: 直に朝が来るよ　 #東方Project https://t.co/txR872ObwE"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4047,
+        "media_key": "3_2002220931503304707",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8lRVDgbMAMqGXs.jpg",
+        "width": 2866
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2002220931503304707"
+          ],
+          "media_source_tweet_id": [
+            "2002220943398322318"
+          ]
+        },
+        "author_id": "1964331185590718464",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1390782787301494785",
+              "name": "Touhou Project"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1390782787301494785",
+              "name": "Touhou Project"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1403427158953922560",
+              "name": "Shooting games"
+            }
+          }
+        ],
+        "conversation_id": "2002419048219623711",
+        "created_at": "2025-12-20T16:41:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-20T17:41:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2002419048219623711"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 36,
+              "start": 26,
+              "tag": "東方Project"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1782749648459030528",
+              "start": 3,
+              "username": "sfnnEZL_0u0"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/txR872ObwE",
+              "end": 60,
+              "expanded_url": "https://x.com/sfnnEZL_0u0/status/2002220943398322318/photo/1",
+              "media_key": "3_2002220931503304707",
+              "start": 37,
+              "url": "https://t.co/txR872ObwE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002419048219623711",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 251
+        },
+        "referenced_tweets": [
+          {
+            "id": "2002220943398322318",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @sfnnEZL_0u0: 直に朝が来るよ　 #東方Project https://t.co/txR872ObwE"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2002220931503304707"
+          ]
+        },
+        "author_id": "1782749648459030528",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1390782787301494785",
+              "name": "Touhou Project"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1390782787301494785",
+              "name": "Touhou Project"
+            }
+          }
+        ],
+        "conversation_id": "2002220943398322318",
+        "created_at": "2025-12-20T03:34:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-20T04:34:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2002220943398322318"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 19,
+              "start": 9,
+              "tag": "東方Project"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/txR872ObwE",
+              "end": 43,
+              "expanded_url": "https://x.com/sfnnEZL_0u0/status/2002220943398322318/photo/1",
+              "media_key": "3_2002220931503304707",
+              "start": 20,
+              "url": "https://t.co/txR872ObwE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002220943398322318",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 217,
+          "impression_count": 21140,
+          "like_count": 2576,
+          "quote_count": 2,
+          "reply_count": 0,
+          "retweet_count": 251
+        },
+        "reply_settings": "everyone",
+        "text": "直に朝が来るよ　 #東方Project https://t.co/txR872ObwE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-06T14:13:55.000Z",
+        "description": "中文/od/VOCALOID/音游 纯种乐子人性别不明推上啥都有 私信互关欢迎 我有对象 我很喜欢他",
+        "id": "1964331185590718464",
+        "location": "翼天国",
+        "name": "━Σ(ﾟДﾟ|||)━",
+        "pinned_tweet_id": "1966517785367871718",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001729011576426496/HumNDWc3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 48,
+          "following_count": 276,
+          "like_count": 2784,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 763
+        },
+        "username": "breakcoreWTF",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-23T12:36:09.000Z",
+        "description": "紛うことなき関係性オタ │ 🌷次回春例予定 🌷│ skeb(作業中) ： https://t.co/RG2ggZHBrZ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "skeb.jp/@sfnnEZL_0u0",
+                "end": 60,
+                "expanded_url": "https://skeb.jp/@sfnnEZL_0u0",
+                "start": 37,
+                "url": "https://t.co/RG2ggZHBrZ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/i09bodw2nzo9r6…",
+                "end": 23,
+                "expanded_url": "https://marshmallow-qa.com/i09bodw2nzo9r6l?t=VwE9p1&utm_medium=url_text&utm_source=promotion",
+                "start": 0,
+                "url": "https://t.co/oYYHqYn0yk"
+              }
+            ]
+          }
+        },
+        "id": "1782749648459030528",
+        "location": "絵柄ぶれぶれ界隈ぐるぐるマン",
+        "name": "しぇなふぃな",
+        "pinned_tweet_id": "2002220943398322318",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990430237143048192/FbumT0pt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 913,
+          "following_count": 296,
+          "like_count": 4675,
+          "listed_count": 4,
+          "media_count": 64,
+          "tweet_count": 248
+        },
+        "url": "https://t.co/oYYHqYn0yk",
+        "username": "sfnnEZL_0u0",
+        "verified": false
+      }
+    ]
+  }
+}

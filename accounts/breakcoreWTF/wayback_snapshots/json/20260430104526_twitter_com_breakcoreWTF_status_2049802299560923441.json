@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1964331185590718464",
+    "conversation_id": "2049802299560923441",
+    "created_at": "2026-04-30T10:45:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-30T11:45:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049802299560923441"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1325054341040967682",
+          "start": 3,
+          "username": "slienten0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049802299560923441",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049801907095695800",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @slienten0: 谁来互关"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1964331185590718464",
+        "conversation_id": "2049802299560923441",
+        "created_at": "2026-04-30T10:45:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T11:45:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049802299560923441"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1325054341040967682",
+              "start": 3,
+              "username": "slienten0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049802299560923441",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049801907095695800",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @slienten0: 谁来互关"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1325054341040967682",
+        "conversation_id": "2049801907095695800",
+        "created_at": "2026-04-30T10:43:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T11:43:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049801907095695800"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2049801907095695800",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "谁来互关"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-06T14:13:55.000Z",
+        "description": "OD丨自伤丨Vocaloid丨音游丨友跨顺女丨少关心我\n不喜欢的直接b 同类回fo 取关双取",
+        "id": "1964331185590718464",
+        "location": "颅内",
+        "name": "箸",
+        "pinned_tweet_id": "2049800654940758233",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033843739777765378/i5JkmA8N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 665,
+          "following_count": 603,
+          "like_count": 13697,
+          "listed_count": 0,
+          "media_count": 184,
+          "tweet_count": 3960
+        },
+        "username": "breakcoreWTF",
+        "verified": false
+      },
+      {
+        "created_at": "2020-11-07T12:36:09.000Z",
+        "description": "summer",
+        "id": "1325054341040967682",
+        "name": "slienten",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1936740821434236928/gV4s_Aro_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 141,
+          "like_count": 19,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 12
+        },
+        "username": "slienten0",
+        "verified": false
+      }
+    ]
+  }
+}

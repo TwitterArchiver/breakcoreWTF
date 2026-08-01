@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2018023374447128576"
+      ],
+      "media_source_tweet_id": [
+        "2018023378628866224"
+      ]
+    },
+    "author_id": "1964331185590718464",
+    "conversation_id": "2018406386594714101",
+    "created_at": "2026-02-02T19:29:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-02T20:29:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2018406386594714101"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1891929994877861891",
+          "start": 3,
+          "username": "Kyban47"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/u2fsiGpzUV",
+          "end": 49,
+          "expanded_url": "https://x.com/Kyban47/status/2018023378628866224/photo/1",
+          "media_key": "3_2018023374447128576",
+          "start": 26,
+          "url": "https://t.co/u2fsiGpzUV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2018406386594714101",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 66
+    },
+    "referenced_tweets": [
+      {
+        "id": "2018023378628866224",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Kyban47: Good morning https://t.co/u2fsiGpzUV"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1500,
+        "media_key": "3_2018023374447128576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAF1kS5bMAAVBHU.jpg",
+        "width": 1055
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2018023374447128576"
+          ],
+          "media_source_tweet_id": [
+            "2018023378628866224"
+          ]
+        },
+        "author_id": "1964331185590718464",
+        "conversation_id": "2018406386594714101",
+        "created_at": "2026-02-02T19:29:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-02T20:29:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018406386594714101"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1891929994877861891",
+              "start": 3,
+              "username": "Kyban47"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/u2fsiGpzUV",
+              "end": 49,
+              "expanded_url": "https://x.com/Kyban47/status/2018023378628866224/photo/1",
+              "media_key": "3_2018023374447128576",
+              "start": 26,
+              "url": "https://t.co/u2fsiGpzUV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018406386594714101",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 66
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018023378628866224",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Kyban47: Good morning https://t.co/u2fsiGpzUV"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2018023374447128576"
+          ]
+        },
+        "author_id": "1891929994877861891",
+        "conversation_id": "2018023378628866224",
+        "created_at": "2026-02-01T18:07:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-01T19:07:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2018023378628866224"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/u2fsiGpzUV",
+              "end": 36,
+              "expanded_url": "https://x.com/Kyban47/status/2018023378628866224/photo/1",
+              "media_key": "3_2018023374447128576",
+              "start": 13,
+              "url": "https://t.co/u2fsiGpzUV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018023378628866224",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 70,
+          "impression_count": 8534,
+          "like_count": 776,
+          "quote_count": 2,
+          "reply_count": 3,
+          "retweet_count": 66
+        },
+        "reply_settings": "everyone",
+        "text": "Good morning https://t.co/u2fsiGpzUV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-06T14:13:55.000Z",
+        "description": "中文/od/自伤/友跨顺女/VOCALOID/音游 舞萌普通w53 纯种乐子人 推上啥都有 对我的负能量关心不要太频繁 其他交流欢迎 我不想在推特都做不到口无遮拦 同类回佛 🚪40加微信纯绿可配聊 熟悉的推友可以免门费",
+        "id": "1964331185590718464",
+        "location": "Internet",
+        "name": "薄幸",
+        "pinned_tweet_id": "2016685165557534981",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015679257582964737/T8W4H246_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 94,
+          "following_count": 366,
+          "like_count": 6015,
+          "listed_count": 0,
+          "media_count": 87,
+          "tweet_count": 1833
+        },
+        "username": "breakcoreWTF",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-18T19:17:25.000Z",
+        "description": "",
+        "id": "1891929994877861891",
+        "name": "カイバン",
+        "pinned_tweet_id": "1990550949128237508",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014402365336780803/ZgS0evr0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 375,
+          "following_count": 123,
+          "like_count": 2645,
+          "listed_count": 5,
+          "media_count": 207,
+          "tweet_count": 1593
+        },
+        "username": "Kyban47",
+        "verified": false
+      }
+    ]
+  }
+}

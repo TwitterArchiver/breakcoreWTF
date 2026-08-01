@@ -1,0 +1,351 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1964331185590718464",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "Politicians in the world, like Joe Biden",
+          "id": "35",
+          "name": "Politician"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politician",
+          "id": "1070032753834438656",
+          "name": "Political figures"
+        }
+      }
+    ],
+    "conversation_id": "2081191026946195473",
+    "created_at": "2026-07-27T12:42:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-27T13:42:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081721933910225120"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2048619166542761985",
+          "start": 0,
+          "username": "Sbmjk8FOTj38356"
+        },
+        {
+          "end": 26,
+          "id": "2048422571339857920",
+          "start": 17,
+          "username": "Johntpnx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081721933910225120",
+    "in_reply_to_user_id": "2048619166542761985",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081257974945997236",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Sbmjk8FOTj38356 @Johntpnx 你他妈去找习近平自首你翻墙吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1964331185590718464",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "2081191026946195473",
+        "created_at": "2026-07-27T12:42:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T13:42:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081721933910225120"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2048619166542761985",
+              "start": 0,
+              "username": "Sbmjk8FOTj38356"
+            },
+            {
+              "end": 26,
+              "id": "2048422571339857920",
+              "start": 17,
+              "username": "Johntpnx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081721933910225120",
+        "in_reply_to_user_id": "2048619166542761985",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081257974945997236",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sbmjk8FOTj38356 @Johntpnx 你他妈去找习近平自首你翻墙吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2048619166542761985",
+        "conversation_id": "2081191026946195473",
+        "created_at": "2026-07-26T05:59:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T06:59:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081257974945997236"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2048422571339857920",
+              "start": 0,
+              "username": "Johntpnx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081257974945997236",
+        "in_reply_to_user_id": "2048422571339857920",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 29425,
+          "like_count": 21,
+          "quote_count": 6,
+          "reply_count": 53,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081191026946195473",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Johntpnx 你妈死了  拿国家领导开完笑"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-06T14:13:55.000Z",
+        "description": "叫我筷子就可以了(:3っ )っ\nOD丨🔪丨Vocaloid丨音游丨顺女 LGBTQ+friendly\n不卖药 只看互关私信 我很穷欢迎投喂\n不喜欢的直接b 查成分同类回fo 取关请双取",
+        "id": "1964331185590718464",
+        "location": "颅内",
+        "name": "箸",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074711282427842560/EOM9Puhb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1352,
+          "following_count": 831,
+          "like_count": 35926,
+          "listed_count": 0,
+          "media_count": 355,
+          "tweet_count": 6397
+        },
+        "url": "",
+        "username": "breakcoreWTF",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-27T04:24:13.000Z",
+        "description": "",
+        "id": "2048619166542761985",
+        "name": "柒柒",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075960837957906432/lPOMJBeo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 48,
+          "like_count": 438,
+          "listed_count": 4,
+          "media_count": 2,
+          "tweet_count": 27
+        },
+        "url": "",
+        "username": "Sbmjk8FOTj38356",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-26T15:23:27.000Z",
+        "description": "我最大的爱好就是在你的直肠里读书",
+        "id": "2048422571339857920",
+        "location": "☣️梁家河已沦陷☣️",
+        "name": "血十字零号病人",
+        "pinned_tweet_id": "2081191026946195473",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048729879613779968/QdChnIai_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33,
+          "following_count": 56,
+          "like_count": 616,
+          "listed_count": 0,
+          "media_count": 76,
+          "tweet_count": 679
+        },
+        "url": "",
+        "username": "Johntpnx",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1964331185590718464",
+    "conversation_id": "2077792820359024649",
+    "created_at": "2026-07-16T20:18:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-16T21:18:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077850286505570708"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1402705962574565378",
+          "start": 0,
+          "username": "jiuyesang"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077850286505570708",
+    "in_reply_to_user_id": "1402705962574565378",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077792820359024649",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jiuyesang 是好女孩吗"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2077792810947006465",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNXNjY1bUAEuki-.jpg",
+        "width": 1447
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1964331185590718464",
+        "conversation_id": "2077792820359024649",
+        "created_at": "2026-07-16T20:18:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T21:18:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077850286505570708"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1402705962574565378",
+              "start": 0,
+              "username": "jiuyesang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077850286505570708",
+        "in_reply_to_user_id": "1402705962574565378",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077792820359024649",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jiuyesang 是好女孩吗"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077792810947006465"
+          ]
+        },
+        "author_id": "1402705962574565378",
+        "conversation_id": "2077792820359024649",
+        "created_at": "2026-07-16T16:29:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T17:29:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077792820359024649"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bvgIF3uCPd",
+              "end": 23,
+              "expanded_url": "https://x.com/jiuyesang/status/2077792820359024649/photo/1",
+              "media_key": "3_2077792810947006465",
+              "start": 0,
+              "url": "https://t.co/bvgIF3uCPd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077792820359024649",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 126,
+          "impression_count": 8788,
+          "like_count": 1142,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 219
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/bvgIF3uCPd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-06T14:13:55.000Z",
+        "description": "叫我筷子就可以了(:3っ )っ\nOD丨Vocaloid丨音游丨顺女 LGBTQ+friendly\n不卖药 只看互关私信 我很穷欢迎投喂\n不喜欢的直接b 查成分同类回fo 取关请双取",
+        "id": "1964331185590718464",
+        "location": "颅内",
+        "name": "箸",
+        "pinned_tweet_id": "2077686522225270845",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074711282427842560/EOM9Puhb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1021,
+          "following_count": 760,
+          "like_count": 29238,
+          "listed_count": 0,
+          "media_count": 325,
+          "tweet_count": 5849
+        },
+        "url": "",
+        "username": "breakcoreWTF",
+        "verified": true
+      },
+      {
+        "created_at": "2021-06-09T19:15:47.000Z",
+        "description": "未经授权禁止搬运\\AI学习使用素材禁止 微博ID九叶桑桑",
+        "id": "1402705962574565378",
+        "name": "九叶桑",
+        "pinned_tweet_id": "1855371612973051926",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1765791453207572481/d86kRrIO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 167870,
+          "following_count": 2459,
+          "like_count": 11043,
+          "listed_count": 1091,
+          "media_count": 989,
+          "tweet_count": 3092
+        },
+        "url": "",
+        "username": "jiuyesang",
+        "verified": false
+      }
+    ]
+  }
+}

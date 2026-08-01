@@ -1,0 +1,433 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1964331185590718464",
+    "conversation_id": "2061180888214327731",
+    "created_at": "2026-06-01T13:14:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-01T14:14:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061436150569660790"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "3148733826",
+          "start": 0,
+          "username": "cancermaniaco"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061436150569660790",
+    "in_reply_to_user_id": "3148733826",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061180888214327731",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cancermaniaco 222"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1964331185590718464",
+        "conversation_id": "2061180888214327731",
+        "created_at": "2026-06-01T13:14:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T14:14:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061436150569660790"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "3148733826",
+              "start": 0,
+              "username": "cancermaniaco"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061436150569660790",
+        "in_reply_to_user_id": "3148733826",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061180888214327731",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cancermaniaco 222"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3148733826",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Horoscope",
+              "id": "1068226612380889088",
+              "name": "Horoscope"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Aries",
+              "id": "1138831355654037504",
+              "name": "Aries"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Taurus",
+              "id": "1138835583474601990",
+              "name": "Taurus"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Gemini",
+              "id": "1138860889631629312",
+              "name": "Gemini"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Cancer",
+              "id": "1138864492526297093",
+              "name": "Cancer"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Leo",
+              "id": "1138872470562172928",
+              "name": "Leo"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Virgo",
+              "id": "1138874019820662784",
+              "name": "Virgo"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Libra",
+              "id": "1138886683229806592",
+              "name": "Libra"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Scorpio",
+              "id": "1138888237630386177",
+              "name": "Scorpio"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Sagittarius ",
+              "id": "1138889680588402688",
+              "name": "Sagittarius "
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Horoscope",
+              "id": "1068226612380889088",
+              "name": "Horoscope"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Aries",
+              "id": "1138831355654037504",
+              "name": "Aries"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Taurus",
+              "id": "1138835583474601990",
+              "name": "Taurus"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gemini",
+              "id": "1138860889631629312",
+              "name": "Gemini"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cancer",
+              "id": "1138864492526297093",
+              "name": "Cancer"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Leo",
+              "id": "1138872470562172928",
+              "name": "Leo"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Virgo",
+              "id": "1138874019820662784",
+              "name": "Virgo"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Libra",
+              "id": "1138886683229806592",
+              "name": "Libra"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Scorpio",
+              "id": "1138888237630386177",
+              "name": "Scorpio"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Sagittarius ",
+              "id": "1138889680588402688",
+              "name": "Sagittarius "
+            }
+          }
+        ],
+        "conversation_id": "2061180888214327731",
+        "created_at": "2026-05-31T20:19:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T21:19:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061180888214327731"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2061180888214327731",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {},
+          "text": "🚨 DESPUÉS DE VER ESTE MENSAJE 🚨\n\n♈ Aries → En 8 horas\n♉ Tauro → Esta noche\n♊ Géminis → En 24 horas\n♋ Cáncer → Antes del mediodía de mañana\n♌ Leo → En 36 horas\n♍ Virgo → En 12 horas\n♎ Libra → Esta tarde\n♏ Escorpio → En 6 horas\n♐ Sagitario → En 2 días\n♑ Capricornio → Mucho antes de lo que imaginas\n♒ Acuario → Mañana por la mañana\n♓ Piscis → En 18 horas\n\n✨ Algo que llevas tiempo esperando está a punto de empezar a cambiar.\n\nPuede ser una llamada, un mensaje, una noticia, una oportunidad o una persona que vuelve a aparecer cuando menos lo esperas.\n\nNo ignores las señales durante las próximas horas… porque para algunos signos, lo que viene podría sorprenderles mucho más de lo que creen. ❤️\n\nSi lo aceptas, deja un ❤️ y escribe “222” en los comentarios"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 885,
+          "impression_count": 913774,
+          "like_count": 16331,
+          "quote_count": 104,
+          "reply_count": 2417,
+          "retweet_count": 772
+        },
+        "reply_settings": "everyone",
+        "text": "🚨 DESPUÉS DE VER ESTE MENSAJE 🚨\n\n♈ Aries → En 8 horas\n♉ Tauro → Esta noche\n♊ Géminis → En 24 horas\n♋ Cáncer → Antes del mediodía de mañana\n♌ Leo → En 36 horas\n♍ Virgo → En 12 horas\n♎ Libra → Esta tarde\n♏ Escorpio → En 6 horas\n♐ Sagitario → En 2 días\n♑"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-06T14:13:55.000Z",
+        "description": "OD丨自伤丨Vocaloid丨音游丨友跨顺女\n不喜欢的直接b 同类回fo 取关请双取",
+        "id": "1964331185590718464",
+        "location": "颅内",
+        "name": "箸",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061434709981425664/mXt9TgYc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 651,
+          "following_count": 590,
+          "like_count": 13836,
+          "listed_count": 0,
+          "media_count": 198,
+          "tweet_count": 4107
+        },
+        "username": "breakcoreWTF",
+        "verified": false
+      },
+      {
+        "created_at": "2015-04-10T23:58:20.000Z",
+        "description": "👉 Si te representa lo que digo sígueme",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "open.spotify.com/episode/3i4IZz…",
+                "end": 23,
+                "expanded_url": "https://open.spotify.com/episode/3i4IZzV8a7FkBTtCMVsxzh",
+                "start": 0,
+                "url": "https://t.co/vY13QEMdw1"
+              }
+            ]
+          }
+        },
+        "id": "3148733826",
+        "name": "Cancermaniaco ♋️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050336960518946816/XkdN78CZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 121485,
+          "following_count": 687,
+          "like_count": 3655,
+          "listed_count": 66,
+          "media_count": 1046,
+          "tweet_count": 28116
+        },
+        "url": "https://t.co/vY13QEMdw1",
+        "username": "cancermaniaco",
+        "verified": true
+      }
+    ]
+  }
+}

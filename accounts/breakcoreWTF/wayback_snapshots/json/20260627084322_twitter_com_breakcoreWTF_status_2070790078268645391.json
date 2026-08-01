@@ -1,0 +1,358 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2070759837047414784"
+      ],
+      "media_source_tweet_id": [
+        "2070759920723759197"
+      ]
+    },
+    "author_id": "1964331185590718464",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "This entity tracks all conversations about going out.",
+          "id": "1045046778876153856",
+          "name": "Going Out"
+        }
+      }
+    ],
+    "conversation_id": "2070790078268645391",
+    "created_at": "2026-06-27T08:43:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-27T09:43:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070790078268645391"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1773614135575793664",
+          "start": 3,
+          "username": "umigame_kouen"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ARTKJuLpcs",
+          "end": 128,
+          "expanded_url": "https://x.com/umigame_kouen/status/2070759920723759197/video/1",
+          "media_key": "13_2070759837047414784",
+          "start": 105,
+          "url": "https://t.co/ARTKJuLpcs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070790078268645391",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 457
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070759920723759197",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @umigame_kouen: 誕生日を迎えたケヅメリクガメ三兄弟にケーキが贈られました！\n志摩マリンランド様から引き継いだこの三兄弟がこれからも健やかに育つよう、温かく見守っていただけると嬉しいです。 https://t.co/ARTKJuLpcs"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 35368,
+        "height": 812,
+        "media_key": "13_2070759837047414784",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2070759837047414784/img/T-uUk9u2mb0sLsYj.jpg",
+        "public_metrics": {
+          "view_count": 25985
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2070759837047414784/vid/avc1/424x270/H-ofbQ_ASVmVN3rD.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2070759837047414784/pl/vcEcKxX94gQR8oz8.m3u8"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2070759837047414784/vid/avc1/1134x720/lDt9lrisiWzjbDFF.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2070759837047414784/vid/avc1/566x360/dGnJStOcAc4utzoh.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2070759837047414784/vid/avc1/1280x812/j8RvpeCbFTnaz0Sp.mp4"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2070759837047414784"
+          ],
+          "media_source_tweet_id": [
+            "2070759920723759197"
+          ]
+        },
+        "author_id": "1964331185590718464",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "This entity tracks all conversations about going out.",
+              "id": "1045046778876153856",
+              "name": "Going Out"
+            }
+          }
+        ],
+        "conversation_id": "2070790078268645391",
+        "created_at": "2026-06-27T08:43:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T09:43:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070790078268645391"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1773614135575793664",
+              "start": 3,
+              "username": "umigame_kouen"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ARTKJuLpcs",
+              "end": 128,
+              "expanded_url": "https://x.com/umigame_kouen/status/2070759920723759197/video/1",
+              "media_key": "13_2070759837047414784",
+              "start": 105,
+              "url": "https://t.co/ARTKJuLpcs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070790078268645391",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 457
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070759920723759197",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @umigame_kouen: 誕生日を迎えたケヅメリクガメ三兄弟にケーキが贈られました！\n志摩マリンランド様から引き継いだこの三兄弟がこれからも健やかに育つよう、温かく見守っていただけると嬉しいです。 https://t.co/ARTKJuLpcs"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2070759837047414784"
+          ]
+        },
+        "author_id": "1773614135575793664",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "This entity tracks all conversations about going out.",
+              "id": "1045046778876153856",
+              "name": "Going Out"
+            }
+          }
+        ],
+        "conversation_id": "2070759920723759197",
+        "created_at": "2026-06-27T06:43:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T07:43:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070759920723759197"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ARTKJuLpcs",
+              "end": 109,
+              "expanded_url": "https://x.com/umigame_kouen/status/2070759920723759197/video/1",
+              "media_key": "13_2070759837047414784",
+              "start": 86,
+              "url": "https://t.co/ARTKJuLpcs"
+            },
+            {
+              "display_url": "x.com/umigame_kouen/…",
+              "end": 133,
+              "expanded_url": "https://twitter.com/umigame_kouen/status/2070452353682301284",
+              "start": 110,
+              "url": "https://t.co/Ac4GeLG8Wk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070759920723759197",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 146,
+          "impression_count": 133353,
+          "like_count": 3096,
+          "quote_count": 32,
+          "reply_count": 26,
+          "retweet_count": 457
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070452353682301284",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "誕生日を迎えたケヅメリクガメ三兄弟にケーキが贈られました！\n志摩マリンランド様から引き継いだこの三兄弟がこれからも健やかに育つよう、温かく見守っていただけると嬉しいです。 https://t.co/ARTKJuLpcs https://t.co/Ac4GeLG8Wk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-06T14:13:55.000Z",
+        "description": "OD丨自伤丨Vocaloid丨音游丨LGBTQ+friendly\n喜欢爬宠 不卖药 非必要不回私信 我很穷欢迎投喂\n不喜欢的直接b 同类查成分回fo 取关请双取",
+        "id": "1964331185590718464",
+        "location": "颅内",
+        "name": "箸",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061439509125074944/Hf-Lim6c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 869,
+          "following_count": 722,
+          "like_count": 20284,
+          "listed_count": 0,
+          "media_count": 296,
+          "tweet_count": 5224
+        },
+        "url": "",
+        "username": "breakcoreWTF",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-29T07:32:42.000Z",
+        "description": "全国で唯一ウミガメ保護施設が併設する道の駅で、野生で傷付いたウミガメの保護・野生復帰に取り組んでいます。入場無料の施設で、どなたでもウミガメを観察する事ができます。 営業時間は下記の公式HPをご確認ください。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "umigame.info",
+                "end": 23,
+                "expanded_url": "https://umigame.info/",
+                "start": 0,
+                "url": "https://t.co/KHqNlMD51y"
+              }
+            ]
+          }
+        },
+        "id": "1773614135575793664",
+        "location": "三重県南牟婁郡紀宝町井田568-7",
+        "name": "道の駅ウミガメ公園【公式】",
+        "pinned_tweet_id": "2063086310420873287",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1773922848069046272/TXRY5y9R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 67795,
+          "following_count": 20,
+          "like_count": 14588,
+          "listed_count": 470,
+          "media_count": 1198,
+          "tweet_count": 1886
+        },
+        "url": "https://t.co/KHqNlMD51y",
+        "username": "umigame_kouen",
+        "verified": true
+      }
+    ]
+  }
+}

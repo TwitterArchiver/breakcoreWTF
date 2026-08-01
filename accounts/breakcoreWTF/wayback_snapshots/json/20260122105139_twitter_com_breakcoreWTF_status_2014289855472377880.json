@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1964331185590718464",
+    "conversation_id": "2014289855472377880",
+    "created_at": "2026-01-22T10:51:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-22T11:51:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2014289855472377880"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1974688655513096192",
+          "start": 3,
+          "username": "lin_dialog"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2014289855472377880",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 10
+    },
+    "referenced_tweets": [
+      {
+        "id": "2013997581731578312",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @lin_dialog: 吃了致幻剂刷了两个小时推特结果发现自己根本没打开手机？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1964331185590718464",
+        "conversation_id": "2014289855472377880",
+        "created_at": "2026-01-22T10:51:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-22T11:51:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2014289855472377880"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1974688655513096192",
+              "start": 3,
+              "username": "lin_dialog"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014289855472377880",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 10
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013997581731578312",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @lin_dialog: 吃了致幻剂刷了两个小时推特结果发现自己根本没打开手机？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974688655513096192",
+        "conversation_id": "2013997581731578312",
+        "created_at": "2026-01-21T15:30:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-21T16:30:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2013997581731578312"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2013997581731578312",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 16963,
+          "like_count": 228,
+          "quote_count": 2,
+          "reply_count": 20,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "吃了致幻剂刷了两个小时推特结果发现自己根本没打开手机？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-06T14:13:55.000Z",
+        "description": "中文/od/VOCALOID/音游 纯种乐子人性别不明推上啥都有 会发泄情绪无需理会 私信互关欢迎",
+        "id": "1964331185590718464",
+        "location": "幻想郷",
+        "name": "薄幸",
+        "pinned_tweet_id": "2003760156488986744",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010659872770326528/BT09LiKm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 50,
+          "following_count": 322,
+          "like_count": 3722,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 1145
+        },
+        "username": "breakcoreWTF",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-05T04:10:53.000Z",
+        "description": "竹霖♡ 18 they/them｜shedtwt odtwt｜bmi14.87｜more moots!｜烟酒割药四毒俱全｜无政府个人主义｜LGBTQ+🏳️‍🌈全友好^^｜互fo私信 选拒",
+        "id": "1974688655513096192",
+        "name": "竹霖",
+        "pinned_tweet_id": "2006041221995847931",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011688510689001472/Jxs1mRH-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 666,
+          "following_count": 178,
+          "like_count": 825,
+          "listed_count": 1,
+          "media_count": 123,
+          "tweet_count": 1520
+        },
+        "username": "lin_dialog",
+        "verified": false
+      }
+    ]
+  }
+}

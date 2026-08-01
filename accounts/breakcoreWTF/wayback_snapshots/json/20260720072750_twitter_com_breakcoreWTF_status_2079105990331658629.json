@@ -1,0 +1,326 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2079048984057053184"
+      ],
+      "media_source_tweet_id": [
+        "2079049036724941062"
+      ]
+    },
+    "author_id": "1964331185590718464",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2079105990331658629",
+    "created_at": "2026-07-20T07:27:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-20T08:27:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079105990331658629"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "48651959",
+          "start": 3,
+          "username": "nico_nico_info"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/gfLmjKJSDX",
+          "end": 72,
+          "expanded_url": "https://x.com/nico_nico_info/status/2079049036724941062/video/1",
+          "media_key": "7_2079048984057053184",
+          "start": 49,
+          "url": "https://t.co/gfLmjKJSDX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079105990331658629",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 233
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079049036724941062",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @nico_nico_info: 7月20日で14周年🎉\n重音テトオリジナル　吉原ラメント https://t.co/gfLmjKJSDX"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 30016,
+        "height": 480,
+        "media_key": "7_2079048984057053184",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2079048984057053184/pu/img/aHFG5HsFsB1qNVq1.jpg",
+        "public_metrics": {
+          "view_count": 8329
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2079048984057053184/pu/vid/avc1/480x270/tgd97bgYI_jmg3Kc.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2079048984057053184/pu/vid/avc1/640x360/jEN22JubIep0BX5e.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2079048984057053184/pu/vid/avc1/854x480/kzJ-xKOPDePGYrrD.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2079048984057053184/pu/pl/sE0qRPCOI6tXTLVq.m3u8?tag=12&v=cfc"
+          }
+        ],
+        "width": 854
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2079048984057053184"
+          ]
+        },
+        "author_id": "48651959",
+        "conversation_id": "2079049036724941062",
+        "created_at": "2026-07-20T03:41:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T04:41:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079049036724941062"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gfLmjKJSDX",
+              "end": 52,
+              "expanded_url": "https://x.com/nico_nico_info/status/2079049036724941062/video/1",
+              "media_key": "7_2079048984057053184",
+              "start": 29,
+              "url": "https://t.co/gfLmjKJSDX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079049036724941062",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 49,
+          "impression_count": 30365,
+          "like_count": 663,
+          "quote_count": 6,
+          "reply_count": 2,
+          "retweet_count": 233
+        },
+        "reply_settings": "everyone",
+        "text": "7月20日で14周年🎉\n重音テトオリジナル　吉原ラメント https://t.co/gfLmjKJSDX"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2079048984057053184"
+          ],
+          "media_source_tweet_id": [
+            "2079049036724941062"
+          ]
+        },
+        "author_id": "1964331185590718464",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2079105990331658629",
+        "created_at": "2026-07-20T07:27:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T08:27:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079105990331658629"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "48651959",
+              "start": 3,
+              "username": "nico_nico_info"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/gfLmjKJSDX",
+              "end": 72,
+              "expanded_url": "https://x.com/nico_nico_info/status/2079049036724941062/video/1",
+              "media_key": "7_2079048984057053184",
+              "start": 49,
+              "url": "https://t.co/gfLmjKJSDX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079105990331658629",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 233
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079049036724941062",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @nico_nico_info: 7月20日で14周年🎉\n重音テトオリジナル　吉原ラメント https://t.co/gfLmjKJSDX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-06T14:13:55.000Z",
+        "description": "叫我筷子就可以了(:3っ )っ\nOD丨Vocaloid丨音游丨顺女 LGBTQ+friendly\n不卖药 只看互关私信 我很穷欢迎投喂\n不喜欢的直接b 查成分同类回fo 取关请双取",
+        "id": "1964331185590718464",
+        "location": "颅内",
+        "name": "箸",
+        "pinned_tweet_id": "2077686522225270845",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074711282427842560/EOM9Puhb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1089,
+          "following_count": 776,
+          "like_count": 31202,
+          "listed_count": 0,
+          "media_count": 335,
+          "tweet_count": 5966
+        },
+        "url": "",
+        "username": "breakcoreWTF",
+        "verified": true
+      },
+      {
+        "created_at": "2009-06-19T08:36:14.000Z",
+        "description": "コメントと共に楽しめる日本最大級の動画＆配信サービス「ニコニコ」のおすすめ情報、サービスや機能に関する最新情報をお届けしています。\nゲーム@nicogame_PR／アニメ@nicoanime_PR／ニュース@nico_nico_news／リリース・障害・復旧のお知らせ@nico_nico_talk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 81,
+                "start": 69,
+                "username": "nicogame_PR"
+              },
+              {
+                "end": 98,
+                "start": 85,
+                "username": "nicoanime_PR"
+              },
+              {
+                "end": 118,
+                "start": 103,
+                "username": "nico_nico_news"
+              },
+              {
+                "end": 149,
+                "start": 134,
+                "username": "nico_nico_talk"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "nicovideo.jp",
+                "end": 23,
+                "expanded_url": "https://www.nicovideo.jp/",
+                "start": 0,
+                "url": "https://t.co/kM30O8Ye0Z"
+              }
+            ]
+          }
+        },
+        "id": "48651959",
+        "location": "日本 東京",
+        "name": "ニコニコ公式",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893316114157051907/7MjEfpEM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 559455,
+          "following_count": 35,
+          "like_count": 1110,
+          "listed_count": 6600,
+          "media_count": 11826,
+          "tweet_count": 116269
+        },
+        "url": "https://t.co/kM30O8Ye0Z",
+        "username": "nico_nico_info",
+        "verified": true
+      }
+    ]
+  }
+}

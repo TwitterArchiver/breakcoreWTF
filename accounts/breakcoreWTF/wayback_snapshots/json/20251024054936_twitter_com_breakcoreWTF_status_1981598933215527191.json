@@ -1,0 +1,567 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1975360027272568833"
+      ],
+      "media_source_tweet_id": [
+        "1975360083031957930"
+      ]
+    },
+    "author_id": "1964331185590718464",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Music and radio",
+          "id": "847524658970636288",
+          "name": "Music"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Anime/Game ",
+          "id": "1138508942156345344",
+          "name": "Anime & game music"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1509249584186343426",
+          "name": "UTAU"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1509257234663952386",
+          "name": "Vocal synthesizers"
+        }
+      }
+    ],
+    "conversation_id": "1981598933215527191",
+    "created_at": "2025-10-24T05:49:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-24T06:49:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1981598933215527191"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 38,
+          "start": 33,
+          "tag": "デフォ子"
+        },
+        {
+          "end": 44,
+          "start": 39,
+          "tag": "足立レイ"
+        },
+        {
+          "end": 55,
+          "start": 45,
+          "tag": "adachirei"
+        },
+        {
+          "end": 63,
+          "start": 56,
+          "tag": "defoko"
+        },
+        {
+          "end": 69,
+          "start": 64,
+          "tag": "utau"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1712323827345022976",
+          "start": 3,
+          "username": "_ed_11_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/F1v4LzXv3e",
+          "end": 93,
+          "expanded_url": "https://x.com/_ed_11_/status/1975360083031957930/video/1",
+          "media_key": "13_1975360027272568833",
+          "start": 70,
+          "url": "https://t.co/F1v4LzXv3e"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1981598933215527191",
+    "lang": "hi",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 100
+    },
+    "referenced_tweets": [
+      {
+        "id": "1975360083031957930",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @_ed_11_: yosho ai ai ai ai \n\n#デフォ子 #足立レイ #adachirei #defoko #utau https://t.co/F1v4LzXv3e"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 6966,
+        "height": 1280,
+        "media_key": "13_1975360027272568833",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1975360027272568833/img/tM37AkMu-rcwKr8o.jpg",
+        "public_metrics": {
+          "view_count": 1812
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1975360027272568833/vid/avc1/320x568/v5Nh260b7a3kaK8I.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1975360027272568833/vid/avc1/480x852/2O2JcZRnXhwZttFy.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1975360027272568833/vid/avc1/720x1280/ywcOjoBzlK9ZCkXD.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1975360027272568833/pl/fFi5-Tsg_kth4T8z.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1975360027272568833"
+          ],
+          "media_source_tweet_id": [
+            "1975360083031957930"
+          ]
+        },
+        "author_id": "1964331185590718464",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Anime/Game ",
+              "id": "1138508942156345344",
+              "name": "Anime & game music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1509249584186343426",
+              "name": "UTAU"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1509257234663952386",
+              "name": "Vocal synthesizers"
+            }
+          }
+        ],
+        "conversation_id": "1981598933215527191",
+        "created_at": "2025-10-24T05:49:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-24T06:49:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1981598933215527191"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 38,
+              "start": 33,
+              "tag": "デフォ子"
+            },
+            {
+              "end": 44,
+              "start": 39,
+              "tag": "足立レイ"
+            },
+            {
+              "end": 55,
+              "start": 45,
+              "tag": "adachirei"
+            },
+            {
+              "end": 63,
+              "start": 56,
+              "tag": "defoko"
+            },
+            {
+              "end": 69,
+              "start": 64,
+              "tag": "utau"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1712323827345022976",
+              "start": 3,
+              "username": "_ed_11_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/F1v4LzXv3e",
+              "end": 93,
+              "expanded_url": "https://x.com/_ed_11_/status/1975360083031957930/video/1",
+              "media_key": "13_1975360027272568833",
+              "start": 70,
+              "url": "https://t.co/F1v4LzXv3e"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981598933215527191",
+        "lang": "hi",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 100
+        },
+        "referenced_tweets": [
+          {
+            "id": "1975360083031957930",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @_ed_11_: yosho ai ai ai ai \n\n#デフォ子 #足立レイ #adachirei #defoko #utau https://t.co/F1v4LzXv3e"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1975360027272568833"
+          ]
+        },
+        "author_id": "1712323827345022976",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Anime/Game ",
+              "id": "1138508942156345344",
+              "name": "Anime & game music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1509249584186343426",
+              "name": "UTAU"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1509257234663952386",
+              "name": "Vocal synthesizers"
+            }
+          }
+        ],
+        "conversation_id": "1975360083031957930",
+        "created_at": "2025-10-07T00:38:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-07T01:38:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1975360083031957930"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 25,
+              "start": 20,
+              "tag": "デフォ子"
+            },
+            {
+              "end": 31,
+              "start": 26,
+              "tag": "足立レイ"
+            },
+            {
+              "end": 42,
+              "start": 32,
+              "tag": "adachirei"
+            },
+            {
+              "end": 50,
+              "start": 43,
+              "tag": "defoko"
+            },
+            {
+              "end": 56,
+              "start": 51,
+              "tag": "utau"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/F1v4LzXv3e",
+              "end": 80,
+              "expanded_url": "https://x.com/_ed_11_/status/1975360083031957930/video/1",
+              "media_key": "13_1975360027272568833",
+              "start": 57,
+              "url": "https://t.co/F1v4LzXv3e"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975360083031957930",
+        "lang": "hi",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 70,
+          "impression_count": 4486,
+          "like_count": 248,
+          "quote_count": 8,
+          "reply_count": 4,
+          "retweet_count": 100
+        },
+        "reply_settings": "everyone",
+        "text": "yosho ai ai ai ai \n\n#デフォ子 #足立レイ #adachirei #defoko #utau https://t.co/F1v4LzXv3e"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-06T14:13:55.000Z",
+        "description": "中文/od/VOCALOID/音游/舞萌w47/世界计划 无底线无雷点无素质 含暴论/地域黑/辱男女/发情等成分 推特是我发泄负能放开自己的地方 私信互关欢迎 我有对象 我很喜欢他",
+        "id": "1964331185590718464",
+        "location": "翼天国",
+        "name": "━Σ(ﾟДﾟ|||)━",
+        "pinned_tweet_id": "1966517785367871718",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976879373207977984/JH6MsfDA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37,
+          "following_count": 238,
+          "like_count": 1897,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 494
+        },
+        "username": "breakcoreWTF",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-12T04:26:41.000Z",
+        "description": "he/him/they, minor, nsfw dni, artist, 🇵🇭🇰🇪priv : @eunandudepriv please read expanded bio I love kokone",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 49,
+                "username": "eunandudepriv"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "eunandude11.straw.page",
+                "end": 23,
+                "expanded_url": "https://eunandude11.straw.page/",
+                "start": 0,
+                "url": "https://t.co/8U6BvoWE9w"
+              }
+            ]
+          }
+        },
+        "id": "1712323827345022976",
+        "name": "kokonemaxxing",
+        "pinned_tweet_id": "1980747040184303713",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979742699277160448/FYKRebOq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 690,
+          "following_count": 2103,
+          "like_count": 18258,
+          "listed_count": 2,
+          "media_count": 2533,
+          "tweet_count": 14151
+        },
+        "url": "https://t.co/8U6BvoWE9w",
+        "username": "_ed_11_",
+        "verified": false
+      }
+    ]
+  }
+}

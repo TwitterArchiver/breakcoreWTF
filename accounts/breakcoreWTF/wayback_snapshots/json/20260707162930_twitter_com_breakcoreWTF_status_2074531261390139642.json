@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2073484240789155840"
+      ],
+      "media_source_tweet_id": [
+        "2073553946224791901"
+      ]
+    },
+    "author_id": "1964331185590718464",
+    "conversation_id": "2074531261390139642",
+    "created_at": "2026-07-07T16:29:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-07T17:29:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074531261390139642"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1473166885516906496",
+          "start": 3,
+          "username": "madaomoshiroi"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/KJgL00kz1H",
+          "end": 64,
+          "expanded_url": "https://x.com/madaomoshiroi/status/2073553946224791901/video/1",
+          "media_key": "13_2073484240789155840",
+          "start": 41,
+          "url": "https://t.co/KJgL00kz1H"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074531261390139642",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4125
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073553946224791901",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @madaomoshiroi: サメがくるくるしてるの何回も見てしまうww https://t.co/KJgL00kz1H"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 17414,
+        "height": 1280,
+        "media_key": "13_2073484240789155840",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2073484240789155840/img/dXcUSpU4CXDNCkkq.jpg",
+        "public_metrics": {
+          "view_count": 1798488
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2073484240789155840/vid/avc1/320x696/OJu3sl0PsK5dINg9.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2073484240789155840/vid/avc1/480x1044/WhVuOsQso97jk-GC.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2073484240789155840/vid/avc1/588x1280/RqXs0ALYLk4aELyx.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2073484240789155840/pl/QU99ziAV9-jBQq_u.m3u8?v=cfc"
+          }
+        ],
+        "width": 588
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2073484240789155840"
+          ],
+          "media_source_tweet_id": [
+            "2073553946224791901"
+          ]
+        },
+        "author_id": "1964331185590718464",
+        "conversation_id": "2074531261390139642",
+        "created_at": "2026-07-07T16:29:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T17:29:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074531261390139642"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1473166885516906496",
+              "start": 3,
+              "username": "madaomoshiroi"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/KJgL00kz1H",
+              "end": 64,
+              "expanded_url": "https://x.com/madaomoshiroi/status/2073553946224791901/video/1",
+              "media_key": "13_2073484240789155840",
+              "start": 41,
+              "url": "https://t.co/KJgL00kz1H"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074531261390139642",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4125
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073553946224791901",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @madaomoshiroi: サメがくるくるしてるの何回も見てしまうww https://t.co/KJgL00kz1H"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2073484240789155840"
+          ]
+        },
+        "author_id": "1473166885516906496",
+        "conversation_id": "2073553946224791901",
+        "created_at": "2026-07-04T23:46:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T00:46:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073553946224791901"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KJgL00kz1H",
+              "end": 45,
+              "expanded_url": "https://x.com/madaomoshiroi/status/2073553946224791901/video/1",
+              "media_key": "13_2073484240789155840",
+              "start": 22,
+              "url": "https://t.co/KJgL00kz1H"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073553946224791901",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4051,
+          "impression_count": 6974224,
+          "like_count": 31154,
+          "quote_count": 713,
+          "reply_count": 328,
+          "retweet_count": 4125
+        },
+        "reply_settings": "everyone",
+        "text": "サメがくるくるしてるの何回も見てしまうww https://t.co/KJgL00kz1H"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-06T14:13:55.000Z",
+        "description": "OD丨自伤丨Vocaloid丨音游丨顺女 LGBTQ+friendly\n喜欢爬宠 不卖药 非必要不回私信 我很穷欢迎投喂\n不喜欢的直接b 同类查成分回fo 取关请双取",
+        "id": "1964331185590718464",
+        "location": "颅内",
+        "name": "箸",
+        "pinned_tweet_id": "2072469945422934327",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071376088018956288/SAB5MTfr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 909,
+          "following_count": 709,
+          "like_count": 24625,
+          "listed_count": 0,
+          "media_count": 312,
+          "tweet_count": 5536
+        },
+        "url": "",
+        "username": "breakcoreWTF",
+        "verified": true
+      },
+      {
+        "created_at": "2021-12-21T05:42:16.000Z",
+        "description": "まだ面白いものを引用しています。",
+        "id": "1473166885516906496",
+        "location": "採用→👍",
+        "name": "まだ面白い",
+        "pinned_tweet_id": "1821032266757283910",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 326582,
+          "following_count": 0,
+          "like_count": 4549,
+          "listed_count": 511,
+          "media_count": 9164,
+          "tweet_count": 9306
+        },
+        "url": "",
+        "username": "madaomoshiroi",
+        "verified": true
+      }
+    ]
+  }
+}

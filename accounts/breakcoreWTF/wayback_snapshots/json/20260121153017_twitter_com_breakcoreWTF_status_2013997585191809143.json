@@ -1,0 +1,302 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1638665195085271040"
+      ],
+      "media_source_tweet_id": [
+        "1638665298101538818"
+      ]
+    },
+    "author_id": "1964331185590718464",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1334945143208611841",
+          "name": "GL"
+        }
+      }
+    ],
+    "conversation_id": "2013997585191809143",
+    "created_at": "2026-01-21T15:30:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-21T16:30:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2013997585191809143"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1050993774984216576",
+          "start": 3,
+          "username": "Grizzly89037178"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/MBUrdkjmbr",
+          "end": 52,
+          "expanded_url": "https://x.com/Grizzly89037178/status/1638665298101538818/photo/1",
+          "media_key": "3_1638665195085271040",
+          "start": 29,
+          "url": "https://t.co/MBUrdkjmbr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2013997585191809143",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 677
+    },
+    "referenced_tweets": [
+      {
+        "id": "1638665298101538818",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "mentionedUsers",
+    "text": "RT @Grizzly89037178: 創作リョナ百合 https://t.co/MBUrdkjmbr"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3508,
+        "media_key": "3_1638665195085271040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Fr21UBrakAAxV6p.jpg",
+        "width": 2480
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1638665195085271040"
+          ],
+          "media_source_tweet_id": [
+            "1638665298101538818"
+          ]
+        },
+        "author_id": "1964331185590718464",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1334945143208611841",
+              "name": "GL"
+            }
+          }
+        ],
+        "conversation_id": "2013997585191809143",
+        "created_at": "2026-01-21T15:30:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-21T16:30:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2013997585191809143"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1050993774984216576",
+              "start": 3,
+              "username": "Grizzly89037178"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/MBUrdkjmbr",
+              "end": 52,
+              "expanded_url": "https://x.com/Grizzly89037178/status/1638665298101538818/photo/1",
+              "media_key": "3_1638665195085271040",
+              "start": 29,
+              "url": "https://t.co/MBUrdkjmbr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013997585191809143",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 677
+        },
+        "referenced_tweets": [
+          {
+            "id": "1638665298101538818",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "mentionedUsers",
+        "text": "RT @Grizzly89037178: 創作リョナ百合 https://t.co/MBUrdkjmbr"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1638665195085271040"
+          ]
+        },
+        "author_id": "1050993774984216576",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1334945143208611841",
+              "name": "GL"
+            }
+          }
+        ],
+        "conversation_id": "1638665298101538818",
+        "created_at": "2023-03-22T22:13:46.000Z",
+        "edit_controls": {
+          "editable_until": "2023-03-22T22:43:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1638665298101538818"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MBUrdkjmbr",
+              "end": 31,
+              "expanded_url": "https://x.com/Grizzly89037178/status/1638665298101538818/photo/1",
+              "media_key": "3_1638665195085271040",
+              "start": 8,
+              "url": "https://t.co/MBUrdkjmbr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1638665298101538818",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 664,
+          "impression_count": 245694,
+          "like_count": 6834,
+          "quote_count": 50,
+          "reply_count": 0,
+          "retweet_count": 677
+        },
+        "reply_settings": "mentionedUsers",
+        "text": "創作リョナ百合 https://t.co/MBUrdkjmbr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-06T14:13:55.000Z",
+        "description": "中文/od/VOCALOID/音游 纯种乐子人性别不明推上啥都有 会发泄情绪无需理会 私信互关欢迎",
+        "id": "1964331185590718464",
+        "location": "幻想郷",
+        "name": "薄幸",
+        "pinned_tweet_id": "2003760156488986744",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010659872770326528/BT09LiKm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 49,
+          "following_count": 322,
+          "like_count": 3719,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 1139
+        },
+        "username": "breakcoreWTF",
+        "verified": false
+      },
+      {
+        "created_at": "2018-10-13T06:16:57.000Z",
+        "description": "🫀映像@panda23577667 🫀漫画家名義 @samezima666 メタルとハツが好きなキュート🫀ゴア🫀イラストレーターです🫀アニメやロゴなども作ります",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 3,
+                "username": "panda23577667"
+              },
+              {
+                "end": 37,
+                "start": 25,
+                "username": "samezima666"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "iidayaeba.booth.pm",
+                "end": 23,
+                "expanded_url": "https://iidayaeba.booth.pm/",
+                "start": 0,
+                "url": "https://t.co/OTmVO5QVNQ"
+              }
+            ]
+          }
+        },
+        "id": "1050993774984216576",
+        "name": "飯田ヤエ🫀ブロマンシス展1/17~",
+        "pinned_tweet_id": "1974798602427146422",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967853472629526529/g84LF6mb_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 67300,
+          "following_count": 412,
+          "like_count": 26400,
+          "listed_count": 283,
+          "media_count": 564,
+          "tweet_count": 6535
+        },
+        "url": "https://t.co/OTmVO5QVNQ",
+        "username": "Grizzly89037178",
+        "verified": false
+      }
+    ]
+  }
+}

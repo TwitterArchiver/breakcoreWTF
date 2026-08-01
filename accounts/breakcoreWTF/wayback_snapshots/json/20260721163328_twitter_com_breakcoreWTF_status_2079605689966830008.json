@@ -1,0 +1,289 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2079370267965759488"
+      ],
+      "media_source_tweet_id": [
+        "2079370293924229325"
+      ]
+    },
+    "author_id": "1964331185590718464",
+    "conversation_id": "2079605689966830008",
+    "created_at": "2026-07-21T16:33:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-21T17:33:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079605689966830008"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1374109902122053636",
+          "start": 3,
+          "username": "john_wilddog"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/0VIrB7gwwc",
+          "end": 63,
+          "expanded_url": "https://x.com/john_wilddog/status/2079370293924229325/video/1",
+          "media_key": "13_2079370267965759488",
+          "start": 40,
+          "url": "https://t.co/0VIrB7gwwc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079605689966830008",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1149
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079370293924229325",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @john_wilddog: ive had enough of you https://t.co/0VIrB7gwwc"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 3018,
+        "height": 720,
+        "media_key": "13_2079370267965759488",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2079370267965759488/img/CyZyho2n1qXts-Pq.jpg",
+        "public_metrics": {
+          "view_count": 77630
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 432000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2079370267965759488/vid/avc1/320x320/A5tuG7cFoW6yoANZ.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2079370267965759488/vid/avc1/540x540/5xpEJqz9H_KCVVYs.mp4?tag=14"
+          },
+          {
+            "bit_rate": 1280000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2079370267965759488/vid/avc1/720x720/9sZLLns49-atD1Ju.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2079370267965759488/pl/80zoGAIyFXrI61uh.m3u8?tag=14"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2079370267965759488"
+          ]
+        },
+        "author_id": "1374109902122053636",
+        "conversation_id": "2079370293924229325",
+        "created_at": "2026-07-21T00:58:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T01:58:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079370293924229325"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0VIrB7gwwc",
+              "end": 45,
+              "expanded_url": "https://x.com/john_wilddog/status/2079370293924229325/video/1",
+              "media_key": "13_2079370267965759488",
+              "start": 22,
+              "url": "https://t.co/0VIrB7gwwc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079370293924229325",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1066,
+          "impression_count": 141346,
+          "like_count": 11718,
+          "quote_count": 54,
+          "reply_count": 134,
+          "retweet_count": 1149
+        },
+        "reply_settings": "everyone",
+        "text": "ive had enough of you https://t.co/0VIrB7gwwc"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2079370267965759488"
+          ],
+          "media_source_tweet_id": [
+            "2079370293924229325"
+          ]
+        },
+        "author_id": "1964331185590718464",
+        "conversation_id": "2079605689966830008",
+        "created_at": "2026-07-21T16:33:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T17:33:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079605689966830008"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1374109902122053636",
+              "start": 3,
+              "username": "john_wilddog"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/0VIrB7gwwc",
+              "end": 63,
+              "expanded_url": "https://x.com/john_wilddog/status/2079370293924229325/video/1",
+              "media_key": "13_2079370267965759488",
+              "start": 40,
+              "url": "https://t.co/0VIrB7gwwc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079605689966830008",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1149
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079370293924229325",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @john_wilddog: ive had enough of you https://t.co/0VIrB7gwwc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-06T14:13:55.000Z",
+        "description": "叫我筷子就可以了(:3っ )っ\nOD丨🔪丨Vocaloid丨音游丨顺女 LGBTQ+friendly\n不卖药 只看互关私信 我很穷欢迎投喂\n不喜欢的直接b 查成分同类回fo 取关请双取",
+        "id": "1964331185590718464",
+        "location": "颅内",
+        "name": "箸",
+        "pinned_tweet_id": "2077686522225270845",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074711282427842560/EOM9Puhb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1107,
+          "following_count": 793,
+          "like_count": 32454,
+          "listed_count": 0,
+          "media_count": 334,
+          "tweet_count": 6072
+        },
+        "url": "",
+        "username": "breakcoreWTF",
+        "verified": true
+      },
+      {
+        "created_at": "2021-03-22T21:25:23.000Z",
+        "description": "all of my tweets meet industry standards | pfp: @riffygriff banner: @blingochu | he/they | follow @/wilddog.bsky.social | ref linked below",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 59,
+                "start": 48,
+                "username": "riffygriff"
+              },
+              {
+                "end": 78,
+                "start": 68,
+                "username": "blingochu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/johnwilddog",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/johnwilddog",
+                "start": 0,
+                "url": "https://t.co/HHf4kaEQdp"
+              }
+            ]
+          }
+        },
+        "id": "1374109902122053636",
+        "location": "socal",
+        "name": "john",
+        "pinned_tweet_id": "1554736964795916289",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066691138401263617/5vZSoQuN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2422,
+          "following_count": 1372,
+          "like_count": 14161,
+          "listed_count": 30,
+          "media_count": 2511,
+          "tweet_count": 57765
+        },
+        "url": "https://t.co/HHf4kaEQdp",
+        "username": "john_wilddog",
+        "verified": false
+      }
+    ]
+  }
+}

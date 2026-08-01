@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1964331185590718464",
+    "conversation_id": "2028116390570582433",
+    "created_at": "2026-03-02T08:02:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-02T09:02:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2028380339400577470"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1472065231228530688",
+          "start": 0,
+          "username": "ershibake1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028380339400577470",
+    "in_reply_to_user_id": "1472065231228530688",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028378759993471172",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ershibake1 乐死我了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1964331185590718464",
+        "conversation_id": "2028116390570582433",
+        "created_at": "2026-03-02T08:02:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-02T09:02:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028380339400577470"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1472065231228530688",
+              "start": 0,
+              "username": "ershibake1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028380339400577470",
+        "in_reply_to_user_id": "1472065231228530688",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028378759993471172",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ershibake1 乐死我了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1472065231228530688",
+        "conversation_id": "2028116390570582433",
+        "created_at": "2026-03-02T07:55:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-02T08:55:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028378759993471172"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1964331185590718464",
+              "start": 0,
+              "username": "breakcoreWTF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028378759993471172",
+        "in_reply_to_user_id": "1964331185590718464",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028116390570582433",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@breakcoreWTF 跳楼死再放七天还能认得出来是个什么东西吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-06T14:13:55.000Z",
+        "description": "OD丨自伤丨Vocaloid丨音游丨友跨顺女丨少关心我\n不喜欢的直接b 推特是垃圾桶口无遮拦 同类回fo",
+        "id": "1964331185590718464",
+        "location": "🚪50/88 同类熟推免",
+        "name": "箸",
+        "pinned_tweet_id": "2024039744276189189",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019848796881186816/pdjXkx-3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 655,
+          "following_count": 596,
+          "like_count": 11219,
+          "listed_count": 0,
+          "media_count": 170,
+          "tweet_count": 3386
+        },
+        "username": "breakcoreWTF",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-18T04:44:50.000Z",
+        "description": "",
+        "id": "1472065231228530688",
+        "name": "二十八颗",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1472068877408346117/dlXLfhze_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 36,
+          "like_count": 43,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 25
+        },
+        "username": "ershibake1",
+        "verified": false
+      }
+    ]
+  }
+}

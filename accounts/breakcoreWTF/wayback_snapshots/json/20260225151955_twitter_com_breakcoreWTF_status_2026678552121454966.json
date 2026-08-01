@@ -1,0 +1,282 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2026579257166802944"
+      ],
+      "media_source_tweet_id": [
+        "2026579276217331875"
+      ]
+    },
+    "author_id": "1964331185590718464",
+    "conversation_id": "2026678552121454966",
+    "created_at": "2026-02-25T15:19:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-25T16:19:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2026678552121454966"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "200068768",
+          "start": 3,
+          "username": "trcoot"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ruVczh2LGD",
+          "end": 37,
+          "expanded_url": "https://x.com/trcoot/status/2026579276217331875/photo/1",
+          "media_key": "3_2026579257166802944",
+          "start": 14,
+          "url": "https://t.co/ruVczh2LGD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026678552121454966",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 609
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026579276217331875",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @trcoot: 腎 https://t.co/ruVczh2LGD"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2572,
+        "media_key": "3_2026579257166802944",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HB_bGNyaMAAGKCf.jpg",
+        "width": 1900
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2026579257166802944"
+          ],
+          "media_source_tweet_id": [
+            "2026579276217331875"
+          ]
+        },
+        "author_id": "1964331185590718464",
+        "conversation_id": "2026678552121454966",
+        "created_at": "2026-02-25T15:19:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-25T16:19:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026678552121454966"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "200068768",
+              "start": 3,
+              "username": "trcoot"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ruVczh2LGD",
+              "end": 37,
+              "expanded_url": "https://x.com/trcoot/status/2026579276217331875/photo/1",
+              "media_key": "3_2026579257166802944",
+              "start": 14,
+              "url": "https://t.co/ruVczh2LGD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026678552121454966",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 609
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026579276217331875",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @trcoot: 腎 https://t.co/ruVczh2LGD"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2026579257166802944"
+          ]
+        },
+        "author_id": "200068768",
+        "conversation_id": "2026579276217331875",
+        "created_at": "2026-02-25T08:45:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-25T09:45:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2026579276217331875"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ruVczh2LGD",
+              "end": 25,
+              "expanded_url": "https://x.com/trcoot/status/2026579276217331875/photo/1",
+              "media_key": "3_2026579257166802944",
+              "start": 2,
+              "url": "https://t.co/ruVczh2LGD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026579276217331875",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 528,
+          "impression_count": 120697,
+          "like_count": 8681,
+          "quote_count": 10,
+          "reply_count": 17,
+          "retweet_count": 609
+        },
+        "reply_settings": "everyone",
+        "text": "腎 https://t.co/ruVczh2LGD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-06T14:13:55.000Z",
+        "description": "OD丨自伤丨Vocaloid丨音游丨友跨顺女丨少关心我\n不喜欢的直接b 推特是垃圾桶口无遮拦 同类回fo",
+        "id": "1964331185590718464",
+        "location": "🚪50/88 同类熟推免",
+        "name": "箸",
+        "pinned_tweet_id": "2024039744276189189",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019848796881186816/pdjXkx-3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 628,
+          "following_count": 593,
+          "like_count": 9913,
+          "listed_count": 0,
+          "media_count": 164,
+          "tweet_count": 3082
+        },
+        "username": "breakcoreWTF",
+        "verified": false
+      },
+      {
+        "created_at": "2010-10-08T11:15:42.000Z",
+        "description": "ɪʟʟᴜꜱᴛʀᴀᴛᴏʀ🌵\n■📗 https://t.co/Dq1PztCAaB\n■👩 https://t.co/h2wRmC5wQb \n■🛒 https://t.co/KWcgKc00hu\n■✉️ https://t.co/SO6h6Yr5KC",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "x.gd/zaVnj",
+                "end": 39,
+                "expanded_url": "https://x.gd/zaVnj",
+                "start": 16,
+                "url": "https://t.co/Dq1PztCAaB"
+              },
+              {
+                "display_url": "x.gd/DnqrN",
+                "end": 66,
+                "expanded_url": "https://x.gd/DnqrN",
+                "start": 43,
+                "url": "https://t.co/h2wRmC5wQb"
+              },
+              {
+                "display_url": "x.gd/irWzA",
+                "end": 94,
+                "expanded_url": "https://x.gd/irWzA",
+                "start": 71,
+                "url": "https://t.co/KWcgKc00hu"
+              },
+              {
+                "display_url": "x.gd/oNIft",
+                "end": 122,
+                "expanded_url": "https://x.gd/oNIft",
+                "start": 99,
+                "url": "https://t.co/SO6h6Yr5KC"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "trcootworks.tumblr.com",
+                "end": 23,
+                "expanded_url": "http://trcootworks.tumblr.com/",
+                "start": 0,
+                "url": "https://t.co/BIWWqSxX02"
+              }
+            ]
+          }
+        },
+        "id": "200068768",
+        "location": "🇯🇵",
+        "name": "寺田てら",
+        "pinned_tweet_id": "1346597539043131392",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1130990827189129217/XnkTMW-2_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 301602,
+          "following_count": 841,
+          "like_count": 8208,
+          "listed_count": 1802,
+          "media_count": 2965,
+          "tweet_count": 17593
+        },
+        "url": "https://t.co/BIWWqSxX02",
+        "username": "trcoot",
+        "verified": true
+      }
+    ]
+  }
+}

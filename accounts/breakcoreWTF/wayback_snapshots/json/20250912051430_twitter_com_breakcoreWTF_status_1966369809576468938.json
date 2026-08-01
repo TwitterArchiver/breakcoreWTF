@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1964331185590718464",
+    "conversation_id": "1966369410723229849",
+    "created_at": "2025-09-12T05:14:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-12T06:14:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1966369809576468938"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1928668517697818624",
+          "start": 0,
+          "username": "IkiruK1218"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1966369809576468938",
+    "in_reply_to_user_id": "1928668517697818624",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1966369410723229849",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@IkiruK1218 我第一次吃就掉了四斤"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1964331185590718464",
+        "conversation_id": "1966369410723229849",
+        "created_at": "2025-09-12T05:14:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-12T06:14:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1966369809576468938"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1928668517697818624",
+              "start": 0,
+              "username": "IkiruK1218"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1966369809576468938",
+        "in_reply_to_user_id": "1928668517697818624",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1966369410723229849",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IkiruK1218 我第一次吃就掉了四斤"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1928668517697818624",
+        "conversation_id": "1966369410723229849",
+        "created_at": "2025-09-12T05:12:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-12T06:12:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1966369410723229849"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1966369410723229849",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "玉梅好苦呀但是我吃了以後我的小肚子大腿內側肉啥的全少了好多肚子裡全清空了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-06T14:13:55.000Z",
+        "description": "161/39/中文/od/自残/精神病/网蛆/VOCALOID/音游/舞萌w43/中二14.9/世界计划 无底线无雷点无素质 含暴论/地域黑/辱男女/发情等成分 我有对象 我很喜欢他",
+        "id": "1964331185590718464",
+        "name": "💊人工時代完全犯罪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1964333475118665733/qxlL_t3T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22,
+          "following_count": 158,
+          "like_count": 443,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 117
+        },
+        "username": "breakcoreWTF",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-31T04:23:19.000Z",
+        "description": "blood and gore and painful sore",
+        "id": "1928668517697818624",
+        "location": "極樂天國🩵",
+        "name": "哇這個好可愛呀",
+        "pinned_tweet_id": "1963228384508690577",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928668592599711744/FSTg4wyD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 169,
+          "following_count": 307,
+          "like_count": 7807,
+          "listed_count": 0,
+          "media_count": 62,
+          "tweet_count": 509
+        },
+        "username": "IkiruK1218",
+        "verified": false
+      }
+    ]
+  }
+}

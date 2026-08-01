@@ -1,0 +1,474 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2002205087482236928"
+      ],
+      "media_source_tweet_id": [
+        "2002205103135297813"
+      ]
+    },
+    "author_id": "1964331185590718464",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1104125539877412864",
+          "name": "Miku Hatsune"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A person or other being in a narrative work of art, like Tom Sawyer or Jon Snow",
+          "id": "122",
+          "name": "Fictional Character"
+        },
+        "entity": {
+          "id": "1104125539877412864",
+          "name": "Miku Hatsune"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1104125539877412864",
+          "name": "Miku Hatsune"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1247236287485997056",
+          "name": "Vocaloid"
+        }
+      }
+    ],
+    "conversation_id": "2002417216470560860",
+    "created_at": "2025-12-20T16:34:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-20T17:34:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2002417216470560860"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 26,
+          "start": 21,
+          "tag": "初音ミク"
+        },
+        {
+          "end": 32,
+          "start": 27,
+          "tag": "重音テト"
+        },
+        {
+          "end": 38,
+          "start": 33,
+          "tag": "亞北ネル"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1344917558416211968",
+          "start": 3,
+          "username": "rarirure_rirure"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ROTcCpWnF7",
+          "end": 74,
+          "expanded_url": "https://x.com/rarirure_rirure/status/2002205103135297813/photo/1",
+          "media_key": "3_2002205087482236928",
+          "start": 51,
+          "url": "https://t.co/ROTcCpWnF7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2002417216470560860",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1782
+    },
+    "referenced_tweets": [
+      {
+        "id": "2002205103135297813",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @rarirure_rirure: #初音ミク #重音テト #亞北ネル\n\nとりぷるばか❤️🩵💛 https://t.co/ROTcCpWnF7"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1503,
+        "media_key": "3_2002205087482236928",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8lC6z7b0AASRul.jpg",
+        "width": 1127
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2002205087482236928"
+          ],
+          "media_source_tweet_id": [
+            "2002205103135297813"
+          ]
+        },
+        "author_id": "1964331185590718464",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A person or other being in a narrative work of art, like Tom Sawyer or Jon Snow",
+              "id": "122",
+              "name": "Fictional Character"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1247236287485997056",
+              "name": "Vocaloid"
+            }
+          }
+        ],
+        "conversation_id": "2002417216470560860",
+        "created_at": "2025-12-20T16:34:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-20T17:34:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2002417216470560860"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 26,
+              "start": 21,
+              "tag": "初音ミク"
+            },
+            {
+              "end": 32,
+              "start": 27,
+              "tag": "重音テト"
+            },
+            {
+              "end": 38,
+              "start": 33,
+              "tag": "亞北ネル"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1344917558416211968",
+              "start": 3,
+              "username": "rarirure_rirure"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ROTcCpWnF7",
+              "end": 74,
+              "expanded_url": "https://x.com/rarirure_rirure/status/2002205103135297813/photo/1",
+              "media_key": "3_2002205087482236928",
+              "start": 51,
+              "url": "https://t.co/ROTcCpWnF7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002417216470560860",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1782
+        },
+        "referenced_tweets": [
+          {
+            "id": "2002205103135297813",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @rarirure_rirure: #初音ミク #重音テト #亞北ネル\n\nとりぷるばか❤️🩵💛 https://t.co/ROTcCpWnF7"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2002205087482236928"
+          ]
+        },
+        "author_id": "1344917558416211968",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A person or other being in a narrative work of art, like Tom Sawyer or Jon Snow",
+              "id": "122",
+              "name": "Fictional Character"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1247236287485997056",
+              "name": "Vocaloid"
+            }
+          }
+        ],
+        "conversation_id": "2002205103135297813",
+        "created_at": "2025-12-20T02:31:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-20T03:31:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2002205103135297813"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 5,
+              "start": 0,
+              "tag": "初音ミク"
+            },
+            {
+              "end": 11,
+              "start": 6,
+              "tag": "重音テト"
+            },
+            {
+              "end": 17,
+              "start": 12,
+              "tag": "亞北ネル"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ROTcCpWnF7",
+              "end": 53,
+              "expanded_url": "https://x.com/rarirure_rirure/status/2002205103135297813/photo/1",
+              "media_key": "3_2002205087482236928",
+              "start": 30,
+              "url": "https://t.co/ROTcCpWnF7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002205103135297813",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2120,
+          "impression_count": 122141,
+          "like_count": 16754,
+          "quote_count": 10,
+          "reply_count": 9,
+          "retweet_count": 1782
+        },
+        "reply_settings": "everyone",
+        "text": "#初音ミク #重音テト #亞北ネル\n\nとりぷるばか❤️🩵💛 https://t.co/ROTcCpWnF7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-06T14:13:55.000Z",
+        "description": "中文/od/VOCALOID/音游 纯种乐子人性别不明推上啥都有 私信互关欢迎 我有对象 我很喜欢他",
+        "id": "1964331185590718464",
+        "location": "翼天国",
+        "name": "━Σ(ﾟДﾟ|||)━",
+        "pinned_tweet_id": "1966517785367871718",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001729011576426496/HumNDWc3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 48,
+          "following_count": 275,
+          "like_count": 2765,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 747
+        },
+        "username": "breakcoreWTF",
+        "verified": false
+      },
+      {
+        "created_at": "2021-01-01T08:06:05.000Z",
+        "description": "2024.05~｜AI学習・無断転載厳禁｜pixiv: https://t.co/b91GBwbuB4",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/54627562",
+                "end": 51,
+                "expanded_url": "http://pixiv.net/users/54627562",
+                "start": 28,
+                "url": "https://t.co/b91GBwbuB4"
+              }
+            ]
+          }
+        },
+        "id": "1344917558416211968",
+        "location": "タルタリ屋さん",
+        "name": "らりるれ りるれ",
+        "pinned_tweet_id": "1978010973945606454",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1994955234385563651/TSIbXDZz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9615,
+          "following_count": 411,
+          "like_count": 135420,
+          "listed_count": 35,
+          "media_count": 148,
+          "tweet_count": 2284
+        },
+        "username": "rarirure_rirure",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1964331185590718464",
+    "conversation_id": "2072640231069946060",
+    "created_at": "2026-07-02T14:32:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-02T15:32:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072689979466363320"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1998568087382274049",
+          "start": 0,
+          "username": "bvdsvge12071"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072689979466363320",
+    "in_reply_to_user_id": "1998568087382274049",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072640231069946060",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bvdsvge12071 好可爱，，"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 9636,
+        "height": 1280,
+        "media_key": "7_2072640190674563072",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2072640190674563072/pu/img/bP4eSKpAshAsLPoU.jpg",
+        "public_metrics": {
+          "view_count": 33
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2072640190674563072/pu/vid/avc1/320x568/hBn9fyIDN7fEaOx7.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2072640190674563072/pu/vid/avc1/480x852/bEJ4qtaq5sdRu4Oi.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2072640190674563072/pu/vid/avc1/720x1280/QWYI91gCARrV8iUn.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2072640190674563072/pu/pl/a-WKbGE8lPvt0dE2.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1964331185590718464",
+        "conversation_id": "2072640231069946060",
+        "created_at": "2026-07-02T14:32:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T15:32:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072689979466363320"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1998568087382274049",
+              "start": 0,
+              "username": "bvdsvge12071"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072689979466363320",
+        "in_reply_to_user_id": "1998568087382274049",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072640231069946060",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bvdsvge12071 好可爱，，"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2072640190674563072"
+          ]
+        },
+        "author_id": "1998568087382274049",
+        "conversation_id": "2072640231069946060",
+        "created_at": "2026-07-02T11:15:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T12:15:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072640231069946060"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2jxFyiyMvD",
+              "end": 25,
+              "expanded_url": "https://x.com/bvdsvge12071/status/2072640231069946060/video/1",
+              "media_key": "7_2072640190674563072",
+              "start": 2,
+              "url": "https://t.co/2jxFyiyMvD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072640231069946060",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 151,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "喵 https://t.co/2jxFyiyMvD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-06T14:13:55.000Z",
+        "description": "OD丨自伤丨Vocaloid丨音游丨LGBTQ+friendly\n喜欢爬宠 不卖药 非必要不回私信 我很穷欢迎投喂\n不喜欢的直接b 同类查成分回fo 取关请双取",
+        "id": "1964331185590718464",
+        "location": "颅内",
+        "name": "箸",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071376088018956288/SAB5MTfr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 877,
+          "following_count": 735,
+          "like_count": 21428,
+          "listed_count": 0,
+          "media_count": 300,
+          "tweet_count": 5325
+        },
+        "url": "",
+        "username": "breakcoreWTF",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-10T01:39:28.000Z",
+        "description": "＝阿宁｜05｜宅女｜穿孔｜酗酒｜日番日漫｜焦虑症吃药治疗中｜互fo私信｜喜欢在评论区互动｜很脆弱 请不要辱骂贬低。高浓度上网★私信开放 希望有人理理我",
+        "id": "1998568087382274049",
+        "name": "为何痛苦总是如影随形",
+        "pinned_tweet_id": "2070066468906291339",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000815325521068041/4eeyWtxs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 144,
+          "following_count": 132,
+          "like_count": 17692,
+          "listed_count": 0,
+          "media_count": 78,
+          "tweet_count": 955
+        },
+        "url": "",
+        "username": "bvdsvge12071",
+        "verified": false
+      }
+    ]
+  }
+}

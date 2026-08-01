@@ -1,0 +1,320 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2019702568239390720"
+      ],
+      "media_source_tweet_id": [
+        "2019702624778629207"
+      ]
+    },
+    "author_id": "1964331185590718464",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2019706836388388943",
+    "created_at": "2026-02-06T09:36:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-06T10:36:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2019706836388388943"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1603165751824687104",
+          "start": 3,
+          "username": "mmys_pic"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/UiTlHA041o",
+          "end": 37,
+          "expanded_url": "https://x.com/mmys_pic/status/2019702624778629207/video/1",
+          "media_key": "13_2019702568239390720",
+          "start": 14,
+          "url": "https://t.co/UiTlHA041o"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2019706836388388943",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2019702624778629207",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @mmys_pic: https://t.co/UiTlHA041o"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 12916,
+        "height": 720,
+        "media_key": "13_2019702568239390720",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2019702568239390720/img/O4WnfvCiw9g420Rh.jpg",
+        "public_metrics": {
+          "view_count": 69
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2019702568239390720/vid/avc1/360x270/Ae_A9Bp6R_9Ov676.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2019702568239390720/vid/avc1/480x360/b6K0-JIX29CHZsGj.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2019702568239390720/vid/avc1/960x720/wLDQPAaPJeyEs-QM.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2019702568239390720/pl/0ZuzHvSut4xUDWeS.m3u8"
+          }
+        ],
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2019702568239390720"
+          ],
+          "media_source_tweet_id": [
+            "2019702624778629207"
+          ]
+        },
+        "author_id": "1964331185590718464",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2019706836388388943",
+        "created_at": "2026-02-06T09:36:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-06T10:36:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2019706836388388943"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1603165751824687104",
+              "start": 3,
+              "username": "mmys_pic"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/UiTlHA041o",
+              "end": 37,
+              "expanded_url": "https://x.com/mmys_pic/status/2019702624778629207/video/1",
+              "media_key": "13_2019702568239390720",
+              "start": 14,
+              "url": "https://t.co/UiTlHA041o"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019706836388388943",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019702624778629207",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @mmys_pic: https://t.co/UiTlHA041o"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2019702568239390720"
+          ]
+        },
+        "author_id": "1603165751824687104",
+        "conversation_id": "2019702624778629207",
+        "created_at": "2026-02-06T09:20:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-06T10:20:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2019702624778629207"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/UiTlHA041o",
+              "end": 23,
+              "expanded_url": "https://x.com/mmys_pic/status/2019702624778629207/video/1",
+              "media_key": "13_2019702568239390720",
+              "start": 0,
+              "url": "https://t.co/UiTlHA041o"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019702624778629207",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 171,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/UiTlHA041o"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-06T14:13:55.000Z",
+        "description": "中文/od/自伤/友跨顺女/VOCALOID/音游 舞萌普通w53 纯种乐子人 推上啥都有 看到你不喜欢的东西请无视 对我的负能量关心不要太频繁 其他交流欢迎 我不想在推特都做不到口无遮拦 同类回fo 🚪40加微信纯绿可配聊 熟悉的推友可以免门费",
+        "id": "1964331185590718464",
+        "location": "Internet",
+        "name": "箸",
+        "pinned_tweet_id": "2016685165557534981",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015679257582964737/T8W4H246_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 437,
+          "following_count": 511,
+          "like_count": 6549,
+          "listed_count": 0,
+          "media_count": 112,
+          "tweet_count": 2048
+        },
+        "username": "breakcoreWTF",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-14T23:11:26.000Z",
+        "description": "雑多垢｜サブ@purpur_nnc｜AI学習/無断転載等控えてください｜https://t.co/IJNHLMkc1I",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 6,
+                "username": "purpur_nnc"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "skeb.jp/@mmys_pic",
+                "end": 59,
+                "expanded_url": "https://skeb.jp/@mmys_pic",
+                "start": 36,
+                "url": "https://t.co/IJNHLMkc1I"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/Mm6",
+                "end": 23,
+                "expanded_url": "https://lit.link/Mm6",
+                "start": 0,
+                "url": "https://t.co/dN19jt0meE"
+              }
+            ]
+          }
+        },
+        "id": "1603165751824687104",
+        "location": "i.猫浄土様　h.そせい様",
+        "name": "まめやし",
+        "pinned_tweet_id": "1890425173557317914",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1936829966773108736/jOU3dfqw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7687,
+          "following_count": 33,
+          "like_count": 3413,
+          "listed_count": 21,
+          "media_count": 152,
+          "tweet_count": 293
+        },
+        "url": "https://t.co/dN19jt0meE",
+        "username": "mmys_pic",
+        "verified": false
+      }
+    ]
+  }
+}

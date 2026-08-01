@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1964331185590718464",
+    "conversation_id": "2029042900156465446",
+    "created_at": "2026-03-04T03:54:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-04T04:54:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2029042900156465446"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/hakai_orz_/sta…",
+          "end": 26,
+          "expanded_url": "https://twitter.com/hakai_orz_/status/2028775632885444905",
+          "start": 3,
+          "url": "https://t.co/IZetlBnAFv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2029042900156465446",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028775632885444905",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "爸爸 https://t.co/IZetlBnAFv"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2028775624480022528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCeornoaYAAline.jpg",
+        "width": 1804
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1964331185590718464",
+        "conversation_id": "2029042900156465446",
+        "created_at": "2026-03-04T03:54:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-04T04:54:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2029042900156465446"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hakai_orz_/sta…",
+              "end": 26,
+              "expanded_url": "https://twitter.com/hakai_orz_/status/2028775632885444905",
+              "start": 3,
+              "url": "https://t.co/IZetlBnAFv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029042900156465446",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028775632885444905",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "爸爸 https://t.co/IZetlBnAFv"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2028775624480022528"
+          ]
+        },
+        "author_id": "1850647376299737088",
+        "conversation_id": "2028775632885444905",
+        "created_at": "2026-03-03T10:12:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-03T11:12:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2028775632885444905"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 5,
+              "normalized_text": "ミクさん",
+              "probability": 0.4743,
+              "start": 2,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/lvi0Zeby4d",
+              "end": 30,
+              "expanded_url": "https://x.com/hakai_orz_/status/2028775632885444905/photo/1",
+              "media_key": "3_2028775624480022528",
+              "start": 7,
+              "url": "https://t.co/lvi0Zeby4d"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028775632885444905",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 190,
+          "impression_count": 16649,
+          "like_count": 2511,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 171
+        },
+        "reply_settings": "everyone",
+        "text": "病みミクさん https://t.co/lvi0Zeby4d"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-06T14:13:55.000Z",
+        "description": "OD丨自伤丨Vocaloid丨音游丨友跨顺女丨少关心我\n不喜欢的直接b 推特是垃圾桶口无遮拦 同类回fo",
+        "id": "1964331185590718464",
+        "location": "🚪50/88 同类熟推免",
+        "name": "箸",
+        "pinned_tweet_id": "2024039744276189189",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019848796881186816/pdjXkx-3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 661,
+          "following_count": 600,
+          "like_count": 11678,
+          "listed_count": 0,
+          "media_count": 170,
+          "tweet_count": 3441
+        },
+        "username": "breakcoreWTF",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-27T21:15:12.000Z",
+        "description": "お仕事、ご依頼についてはDMまたはメールにてお願いいたします。 スケブはオリジナルのみ",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "skeb.jp/@hakai_orz_",
+                "end": 23,
+                "expanded_url": "https://skeb.jp/@hakai_orz_",
+                "start": 0,
+                "url": "https://t.co/PCXcjicBXp"
+              }
+            ]
+          }
+        },
+        "id": "1850647376299737088",
+        "location": "連絡→hakai3079@gmail.com",
+        "name": "ハカイ",
+        "pinned_tweet_id": "2023819578930077943",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1994476220009123842/ohGrUCJ6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15511,
+          "following_count": 143,
+          "like_count": 11283,
+          "listed_count": 95,
+          "media_count": 35,
+          "tweet_count": 753
+        },
+        "url": "https://t.co/PCXcjicBXp",
+        "username": "hakai_orz_",
+        "verified": false
+      }
+    ]
+  }
+}

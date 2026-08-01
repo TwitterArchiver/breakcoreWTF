@@ -1,0 +1,655 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1972627726621343744"
+      ],
+      "media_source_tweet_id": [
+        "1972628010802266584"
+      ]
+    },
+    "author_id": "1964331185590718464",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974597302226944",
+          "name": "Transportation"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to travel as airlines, travel agencies, hotels",
+          "id": "1557697439489880065",
+          "name": "Travel & Transportation Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "id": "1206695792582414336",
+          "name": "Railway transport"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "781974597302226944",
+          "name": "Transportation"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Travel",
+          "id": "839159814991167489",
+          "name": "Travel"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1206695792582414336",
+          "name": "Railway transport"
+        }
+      }
+    ],
+    "conversation_id": "1974061217590452528",
+    "created_at": "2025-10-03T10:37:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-03T11:37:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1974061217590452528"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 37,
+          "normalized_text": "なんとか鉄道の夕",
+          "probability": 0.5824,
+          "start": 30,
+          "type": "Other"
+        },
+        {
+          "end": 46,
+          "normalized_text": "YouTube",
+          "probability": 0.5838,
+          "start": 40,
+          "type": "Product"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1431532897995935744",
+          "start": 3,
+          "username": "ocean_tea_cafe"
+        }
+      ],
+      "urls": [
+        {
+          "description": "◇君達がぼくらになってしまう前に…◇niconico →https://www.nicovideo.jp/watch/sm42176244Twitter → https://twitter.com/ocean_tea_cafe各サブスク配信サービスにて配信中！→ https://linkco.re/7cmrq2c...",
+          "display_url": "youtu.be/FfqFKR23K7M",
+          "end": 109,
+          "expanded_url": "https://youtu.be/FfqFKR23K7M",
+          "images": [
+            {
+              "height": 720,
+              "url": "https://pbs.twimg.com/news_img/1971952238412419074/yZNwqlt2?format=jpg&name=orig",
+              "width": 1280
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/1971952238412419074/yZNwqlt2?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 86,
+          "status": 200,
+          "title": "なんとか鉄道の夕",
+          "unwound_url": "https://www.youtube.com/watch?v=FfqFKR23K7M&feature=youtu.be",
+          "url": "https://t.co/pbx29OGosz"
+        },
+        {
+          "display_url": "pic.x.com/UmW43tvpUE",
+          "end": 133,
+          "expanded_url": "https://x.com/ocean_tea_cafe/status/1972628010802266584/video/1",
+          "media_key": "13_1972627726621343744",
+          "start": 110,
+          "url": "https://t.co/UmW43tvpUE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1974061217590452528",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 248
+    },
+    "referenced_tweets": [
+      {
+        "id": "1972628010802266584",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ocean_tea_cafe: おかげさまで、拙作『なんとか鉄道の夕』がYouTubeにて100万回再生を突破いたしました👏\nみなさま応援ありがとうございます！！\nhttps://t.co/pbx29OGosz https://t.co/UmW43tvpUE"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 77740,
+        "height": 1080,
+        "media_key": "13_1972627726621343744",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1972627726621343744/img/lnFCG3L1mHZpZSjC.jpg",
+        "public_metrics": {
+          "view_count": 8498
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1972627726621343744/vid/avc1/1920x1080/hBwH1FmtaZuRcPC_.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1972627726621343744/pl/q-HWvPSj6TOGbodZ.m3u8"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1972627726621343744/vid/avc1/1280x720/ttq5JD08rJ1S7de8.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1972627726621343744/vid/avc1/640x360/S9ib7-sUcaZlWiJw.mp4"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1972627726621343744/vid/avc1/480x270/QN9qHdO_E2aBF1QT.mp4"
+          }
+        ],
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1972627726621343744"
+          ],
+          "media_source_tweet_id": [
+            "1972628010802266584"
+          ]
+        },
+        "author_id": "1964331185590718464",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597302226944",
+              "name": "Transportation"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to travel as airlines, travel agencies, hotels",
+              "id": "1557697439489880065",
+              "name": "Travel & Transportation Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "id": "1206695792582414336",
+              "name": "Railway transport"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "781974597302226944",
+              "name": "Transportation"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Travel",
+              "id": "839159814991167489",
+              "name": "Travel"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1206695792582414336",
+              "name": "Railway transport"
+            }
+          }
+        ],
+        "conversation_id": "1974061217590452528",
+        "created_at": "2025-10-03T10:37:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-03T11:37:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1974061217590452528"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 37,
+              "normalized_text": "なんとか鉄道の夕",
+              "probability": 0.5824,
+              "start": 30,
+              "type": "Other"
+            },
+            {
+              "end": 46,
+              "normalized_text": "YouTube",
+              "probability": 0.5838,
+              "start": 40,
+              "type": "Product"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1431532897995935744",
+              "start": 3,
+              "username": "ocean_tea_cafe"
+            }
+          ],
+          "urls": [
+            {
+              "description": "◇君達がぼくらになってしまう前に…◇niconico →https://www.nicovideo.jp/watch/sm42176244Twitter → https://twitter.com/ocean_tea_cafe各サブスク配信サービスにて配信中！→ https://linkco.re/7cmrq2c...",
+              "display_url": "youtu.be/FfqFKR23K7M",
+              "end": 109,
+              "expanded_url": "https://youtu.be/FfqFKR23K7M",
+              "images": [
+                {
+                  "height": 720,
+                  "url": "https://pbs.twimg.com/news_img/1971952238412419074/yZNwqlt2?format=jpg&name=orig",
+                  "width": 1280
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1971952238412419074/yZNwqlt2?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 86,
+              "status": 200,
+              "title": "なんとか鉄道の夕",
+              "unwound_url": "https://www.youtube.com/watch?v=FfqFKR23K7M&feature=youtu.be",
+              "url": "https://t.co/pbx29OGosz"
+            },
+            {
+              "display_url": "pic.x.com/UmW43tvpUE",
+              "end": 133,
+              "expanded_url": "https://x.com/ocean_tea_cafe/status/1972628010802266584/video/1",
+              "media_key": "13_1972627726621343744",
+              "start": 110,
+              "url": "https://t.co/UmW43tvpUE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974061217590452528",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 248
+        },
+        "referenced_tweets": [
+          {
+            "id": "1972628010802266584",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ocean_tea_cafe: おかげさまで、拙作『なんとか鉄道の夕』がYouTubeにて100万回再生を突破いたしました👏\nみなさま応援ありがとうございます！！\nhttps://t.co/pbx29OGosz https://t.co/UmW43tvpUE"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1972627726621343744"
+          ]
+        },
+        "author_id": "1431532897995935744",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597302226944",
+              "name": "Transportation"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to travel as airlines, travel agencies, hotels",
+              "id": "1557697439489880065",
+              "name": "Travel & Transportation Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "id": "1206695792582414336",
+              "name": "Railway transport"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "781974597302226944",
+              "name": "Transportation"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Travel",
+              "id": "839159814991167489",
+              "name": "Travel"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1206695792582414336",
+              "name": "Railway transport"
+            }
+          }
+        ],
+        "conversation_id": "1972628010802266584",
+        "created_at": "2025-09-29T11:42:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-29T12:42:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1972628010802266584"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 17,
+              "normalized_text": "なんとか鉄道の夕",
+              "probability": 0.6452,
+              "start": 10,
+              "type": "Other"
+            },
+            {
+              "end": 26,
+              "normalized_text": "YouTube",
+              "probability": 0.5682,
+              "start": 20,
+              "type": "Product"
+            }
+          ],
+          "urls": [
+            {
+              "description": "◇君達がぼくらになってしまう前に…◇niconico →https://www.nicovideo.jp/watch/sm42176244Twitter → https://twitter.com/ocean_tea_cafe各サブスク配信サービスにて配信中！→ https://linkco.re/7cmrq2c...",
+              "display_url": "youtu.be/FfqFKR23K7M",
+              "end": 89,
+              "expanded_url": "https://youtu.be/FfqFKR23K7M",
+              "images": [
+                {
+                  "height": 720,
+                  "url": "https://pbs.twimg.com/news_img/1971952238412419074/yZNwqlt2?format=jpg&name=orig",
+                  "width": 1280
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1971952238412419074/yZNwqlt2?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 66,
+              "status": 200,
+              "title": "なんとか鉄道の夕",
+              "unwound_url": "https://www.youtube.com/watch?v=FfqFKR23K7M&feature=youtu.be",
+              "url": "https://t.co/pbx29OGosz"
+            },
+            {
+              "display_url": "pic.x.com/UmW43tvpUE",
+              "end": 113,
+              "expanded_url": "https://x.com/ocean_tea_cafe/status/1972628010802266584/video/1",
+              "media_key": "13_1972627726621343744",
+              "start": 90,
+              "url": "https://t.co/UmW43tvpUE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1972628010802266584",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 97,
+          "impression_count": 25046,
+          "like_count": 1220,
+          "quote_count": 3,
+          "reply_count": 5,
+          "retweet_count": 248
+        },
+        "reply_settings": "everyone",
+        "text": "おかげさまで、拙作『なんとか鉄道の夕』がYouTubeにて100万回再生を突破いたしました👏\nみなさま応援ありがとうございます！！\nhttps://t.co/pbx29OGosz https://t.co/UmW43tvpUE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-06T14:13:55.000Z",
+        "description": "中文/od/自残/精神病/网蛆/VOCALOID/音游/舞萌w43/中二14.9/世界计划 无底线无雷点无素质 含暴论/地域黑/辱男女/发情等成分 私信互关欢迎 我有对象 我很喜欢他",
+        "id": "1964331185590718464",
+        "location": "翼天国",
+        "name": "💊人工時代完全犯罪",
+        "pinned_tweet_id": "1966517785367871718",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1964333475118665733/qxlL_t3T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35,
+          "following_count": 211,
+          "like_count": 1376,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 321
+        },
+        "username": "breakcoreWTF",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-28T08:23:46.000Z",
+        "description": "うみべのお茶屋さん 楽譜を創る\nYouTube　→　https://t.co/h07OdjvDBy\nニコニコ　→　https://t.co/yaTUuafQeA\nファンアートは #うみべの絵画展 にてよろしくお願いいたします",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 97,
+                "start": 89,
+                "tag": "うみべの絵画展"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "youtube.com/@umibeno_chaya/",
+                "end": 49,
+                "expanded_url": "http://youtube.com/@umibeno_chaya/",
+                "start": 26,
+                "url": "https://t.co/h07OdjvDBy"
+              },
+              {
+                "display_url": "nicovideo.jp/user/124316004",
+                "end": 80,
+                "expanded_url": "http://nicovideo.jp/user/124316004",
+                "start": 57,
+                "url": "https://t.co/yaTUuafQeA"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/ocean_tea_cafe",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/ocean_tea_cafe",
+                "start": 0,
+                "url": "https://t.co/XBsMTEkVM4"
+              }
+            ]
+          }
+        },
+        "id": "1431532897995935744",
+        "location": "東京 千代田区　　　　　　　　に住みたい",
+        "name": "海茶　Umicha",
+        "pinned_tweet_id": "1959911177443545446",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1521863665192140801/flVlIPh2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8940,
+          "following_count": 395,
+          "like_count": 1609,
+          "listed_count": 37,
+          "media_count": 237,
+          "tweet_count": 1504
+        },
+        "url": "https://t.co/XBsMTEkVM4",
+        "username": "ocean_tea_cafe",
+        "verified": true
+      }
+    ]
+  }
+}

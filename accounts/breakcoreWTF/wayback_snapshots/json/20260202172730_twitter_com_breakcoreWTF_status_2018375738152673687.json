@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1964331185590718464",
+    "conversation_id": "2018373951676891494",
+    "created_at": "2026-02-02T17:27:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-02T18:27:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2018375738152673687"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1761208815088001024",
+          "start": 0,
+          "username": "_Bad_Meow_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2018375738152673687",
+    "in_reply_to_user_id": "1761208815088001024",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2018373951676891494",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_Bad_Meow_ 我操我居然是最后一圈的哈哈哈"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1000,
+        "media_key": "3_2018373947616874496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAK0aVubUAAPbxt.jpg",
+        "width": 1000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1964331185590718464",
+        "conversation_id": "2018373951676891494",
+        "created_at": "2026-02-02T17:27:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-02T18:27:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018375738152673687"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1761208815088001024",
+              "start": 0,
+              "username": "_Bad_Meow_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018375738152673687",
+        "in_reply_to_user_id": "1761208815088001024",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018373951676891494",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_Bad_Meow_ 我操我居然是最后一圈的哈哈哈"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2018373947616874496"
+          ]
+        },
+        "author_id": "1761208815088001024",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "2018373951676891494",
+        "created_at": "2026-02-02T17:20:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-02T18:20:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2018373951676891494"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "This feature visually maps out your interactions, placing you in the center, with your closest interactions forming an inner circle, less frequent ones in the middle, and the occasional interactions in the outer circle.",
+              "display_url": "infinitetweet.me/interaction-ci…",
+              "end": 40,
+              "expanded_url": "https://infinitetweet.me/interaction-circle?lang=zh",
+              "start": 17,
+              "status": 200,
+              "title": "Interaction Circle • Infinitweet",
+              "unwound_url": "https://infinitetweet.me/interaction-circle?lang=zh",
+              "url": "https://t.co/4uatYAQMIH"
+            },
+            {
+              "display_url": "pic.x.com/jJuj2pM8VJ",
+              "end": 64,
+              "expanded_url": "https://x.com/_Bad_Meow_/status/2018373951676891494/photo/1",
+              "media_key": "3_2018373947616874496",
+              "start": 41,
+              "url": "https://t.co/jJuj2pM8VJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018373951676891494",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 28,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的Twitter互动圈\n\n➡️ https://t.co/4uatYAQMIH https://t.co/jJuj2pM8VJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-06T14:13:55.000Z",
+        "description": "中文/od/自伤/友跨顺女/VOCALOID/音游 舞萌普通w53 纯种乐子人 推上啥都有 对我的负能量关心不要太频繁 其他交流欢迎 我不想在推特都做不到口无遮拦 同类回佛 🚪40加微信纯绿可配聊 熟悉的推友可以免门费",
+        "id": "1964331185590718464",
+        "location": "Internet",
+        "name": "薄幸",
+        "pinned_tweet_id": "2016685165557534981",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015679257582964737/T8W4H246_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 93,
+          "following_count": 354,
+          "like_count": 5842,
+          "listed_count": 0,
+          "media_count": 84,
+          "tweet_count": 1797
+        },
+        "username": "breakcoreWTF",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-24T01:58:04.000Z",
+        "description": "精神病餐券割手女🔪🩸︱友好不鉴证谢谢！︱可以称呼我为饼干︱休学家里蹲︱OD💊︱同类互fo︱画画︱私信我时只说“你好”不会给予任何回复",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/cookie88211",
+                "end": 23,
+                "expanded_url": "https://ngl.link/cookie88211",
+                "start": 0,
+                "url": "https://t.co/k9b4PZuIff"
+              }
+            ]
+          }
+        },
+        "id": "1761208815088001024",
+        "location": "家",
+        "name": "┃☆饼干饼干☆┃",
+        "pinned_tweet_id": "1994851251377602970",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008258914010415105/8V-a0CWi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 222,
+          "following_count": 208,
+          "like_count": 792,
+          "listed_count": 0,
+          "media_count": 42,
+          "tweet_count": 997
+        },
+        "url": "https://t.co/k9b4PZuIff",
+        "username": "_Bad_Meow_",
+        "verified": false
+      }
+    ]
+  }
+}

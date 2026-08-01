@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2023990937354149888"
+      ],
+      "media_source_tweet_id": [
+        "2023990942420873420"
+      ]
+    },
+    "author_id": "1964331185590718464",
+    "conversation_id": "2024074633322877171",
+    "created_at": "2026-02-18T10:52:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-18T11:52:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024074633322877171"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1750665876205137920",
+          "start": 3,
+          "username": "Chike_master"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/F9RNMl0r7z",
+          "end": 41,
+          "expanded_url": "https://x.com/Chike_master/status/2023990942420873420/photo/1",
+          "media_key": "3_2023990937354149888",
+          "start": 18,
+          "url": "https://t.co/F9RNMl0r7z"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024074633322877171",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 158
+    },
+    "referenced_tweets": [
+      {
+        "id": "2023990942420873420",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "RT @Chike_master: https://t.co/F9RNMl0r7z"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1124,
+        "media_key": "3_2023990937354149888",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBapCLGaoAAMEDu.jpg",
+        "width": 1000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2023990937354149888"
+          ],
+          "media_source_tweet_id": [
+            "2023990942420873420"
+          ]
+        },
+        "author_id": "1964331185590718464",
+        "conversation_id": "2024074633322877171",
+        "created_at": "2026-02-18T10:52:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T11:52:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024074633322877171"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1750665876205137920",
+              "start": 3,
+              "username": "Chike_master"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/F9RNMl0r7z",
+              "end": 41,
+              "expanded_url": "https://x.com/Chike_master/status/2023990942420873420/photo/1",
+              "media_key": "3_2023990937354149888",
+              "start": 18,
+              "url": "https://t.co/F9RNMl0r7z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024074633322877171",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 158
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023990942420873420",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "RT @Chike_master: https://t.co/F9RNMl0r7z"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2023990937354149888"
+          ]
+        },
+        "author_id": "1750665876205137920",
+        "conversation_id": "2023990942420873420",
+        "created_at": "2026-02-18T05:20:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T06:20:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2023990942420873420"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/F9RNMl0r7z",
+              "end": 23,
+              "expanded_url": "https://x.com/Chike_master/status/2023990942420873420/photo/1",
+              "media_key": "3_2023990937354149888",
+              "start": 0,
+              "url": "https://t.co/F9RNMl0r7z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023990942420873420",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 657,
+          "impression_count": 40129,
+          "like_count": 5470,
+          "quote_count": 17,
+          "reply_count": 0,
+          "retweet_count": 158
+        },
+        "reply_settings": "following",
+        "text": "https://t.co/F9RNMl0r7z"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-06T14:13:55.000Z",
+        "description": "OD丨自伤丨Vocaloid丨音游丨友跨顺女丨少关心我\n不喜欢的直接b 推特是垃圾桶口无遮拦 同类回fo",
+        "id": "1964331185590718464",
+        "location": "🚪40走vx+10pyq 熟推免",
+        "name": "箸",
+        "pinned_tweet_id": "2024039744276189189",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019848796881186816/pdjXkx-3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 556,
+          "following_count": 584,
+          "like_count": 8543,
+          "listed_count": 0,
+          "media_count": 145,
+          "tweet_count": 2692
+        },
+        "username": "breakcoreWTF",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-25T23:44:16.000Z",
+        "description": "로그아웃📵\n@maguro132500(잡담 섞인 비계)\n@Chuse_cake(🔞)",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 6,
+                "username": "maguro132500"
+              },
+              {
+                "end": 41,
+                "start": 30,
+                "username": "Chuse_cake"
+              }
+            ]
+          }
+        },
+        "id": "1750665876205137920",
+        "location": "日本",
+        "name": "등푸른",
+        "pinned_tweet_id": "2007764019583783420",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012419712047779840/suLFHODX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1478,
+          "following_count": 47,
+          "like_count": 2615,
+          "listed_count": 1,
+          "media_count": 164,
+          "tweet_count": 1048
+        },
+        "username": "Chike_master",
+        "verified": false
+      }
+    ]
+  }
+}

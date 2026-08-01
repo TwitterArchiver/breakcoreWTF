@@ -1,0 +1,519 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2067604304157163520"
+      ],
+      "media_source_tweet_id": [
+        "2067604306577199481"
+      ]
+    },
+    "author_id": "1964331185590718464",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Drinks",
+          "id": "834828264786898945",
+          "name": "Drinks"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Generic Drinks",
+          "id": "834828445238431744",
+          "name": "Generic Drinks"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Coffee",
+          "id": "850442647088971776",
+          "name": "Coffee"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Drinks",
+          "id": "834828264786898945",
+          "name": "Drinks"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Generic Drinks",
+          "id": "834828445238431744",
+          "name": "Generic Drinks"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Coffee",
+          "id": "850442647088971776",
+          "name": "Coffee"
+        }
+      }
+    ],
+    "conversation_id": "2067614856954675334",
+    "created_at": "2026-06-18T14:26:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T15:26:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067614856954675334"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "14620668",
+          "start": 3,
+          "username": "tpazolite"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/cINKVFDr3V",
+          "end": 78,
+          "expanded_url": "https://x.com/tpazolite/status/2067604306577199481/photo/1",
+          "media_key": "3_2067604304157163520",
+          "start": 55,
+          "url": "https://t.co/cINKVFDr3V"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067614856954675334",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 16
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067604306577199481",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @tpazolite: カフェラテな〜〜〜〜〜〜〜んも分からん、からな〜〜んも分からん位にはなってきた https://t.co/cINKVFDr3V"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2067604304157163520",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLGbKPVbQAANk9a.jpg",
+        "width": 2013
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067604304157163520"
+          ],
+          "media_source_tweet_id": [
+            "2067604306577199481"
+          ]
+        },
+        "author_id": "1964331185590718464",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Drinks",
+              "id": "834828264786898945",
+              "name": "Drinks"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Generic Drinks",
+              "id": "834828445238431744",
+              "name": "Generic Drinks"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Coffee",
+              "id": "850442647088971776",
+              "name": "Coffee"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Drinks",
+              "id": "834828264786898945",
+              "name": "Drinks"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Generic Drinks",
+              "id": "834828445238431744",
+              "name": "Generic Drinks"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Coffee",
+              "id": "850442647088971776",
+              "name": "Coffee"
+            }
+          }
+        ],
+        "conversation_id": "2067614856954675334",
+        "created_at": "2026-06-18T14:26:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T15:26:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067614856954675334"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "14620668",
+              "start": 3,
+              "username": "tpazolite"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/cINKVFDr3V",
+              "end": 78,
+              "expanded_url": "https://x.com/tpazolite/status/2067604306577199481/photo/1",
+              "media_key": "3_2067604304157163520",
+              "start": 55,
+              "url": "https://t.co/cINKVFDr3V"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067614856954675334",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 16
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067604306577199481",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @tpazolite: カフェラテな〜〜〜〜〜〜〜んも分からん、からな〜〜んも分からん位にはなってきた https://t.co/cINKVFDr3V"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067604304157163520"
+          ]
+        },
+        "author_id": "14620668",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Drinks",
+              "id": "834828264786898945",
+              "name": "Drinks"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Generic Drinks",
+              "id": "834828445238431744",
+              "name": "Generic Drinks"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Coffee",
+              "id": "850442647088971776",
+              "name": "Coffee"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Drinks",
+              "id": "834828264786898945",
+              "name": "Drinks"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Generic Drinks",
+              "id": "834828445238431744",
+              "name": "Generic Drinks"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Coffee",
+              "id": "850442647088971776",
+              "name": "Coffee"
+            }
+          }
+        ],
+        "conversation_id": "2067604306577199481",
+        "created_at": "2026-06-18T13:44:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T14:44:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067604306577199481"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cINKVFDr3V",
+              "end": 63,
+              "expanded_url": "https://x.com/tpazolite/status/2067604306577199481/photo/1",
+              "media_key": "3_2067604304157163520",
+              "start": 40,
+              "url": "https://t.co/cINKVFDr3V"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067604306577199481",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3024,
+          "like_count": 142,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 16
+        },
+        "reply_settings": "everyone",
+        "text": "カフェラテな〜〜〜〜〜〜〜んも分からん、からな〜〜んも分からん位にはなってきた https://t.co/cINKVFDr3V"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-06T14:13:55.000Z",
+        "description": "OD丨自伤丨Vocaloid丨音游丨友跨顺女\n喜欢爬宠 不卖药 非必要不回私信 我很穷欢迎投喂\n不喜欢的直接b 同类查成分回fo 取关请双取",
+        "id": "1964331185590718464",
+        "location": "颅内",
+        "name": "箸",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061439509125074944/Hf-Lim6c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 842,
+          "following_count": 702,
+          "like_count": 18952,
+          "listed_count": 0,
+          "media_count": 277,
+          "tweet_count": 5039
+        },
+        "url": "",
+        "username": "breakcoreWTF",
+        "verified": false
+      },
+      {
+        "created_at": "2008-05-01T22:35:53.000Z",
+        "description": "曲も言動も落ち着きがない\nYouTube: https://t.co/sTky67j9Q7",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "youtube.com/tpazolite_jp",
+                "end": 45,
+                "expanded_url": "http://youtube.com/tpazolite_jp",
+                "start": 22,
+                "url": "https://t.co/sTky67j9Q7"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "c-h-s.me",
+                "end": 23,
+                "expanded_url": "http://www.c-h-s.me/",
+                "start": 0,
+                "url": "https://t.co/6qaCc3JK1Z"
+              }
+            ]
+          }
+        },
+        "id": "14620668",
+        "location": "Japan",
+        "name": "t+pazolite(とぱぞらいと)",
+        "pinned_tweet_id": "2044702407016493110",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1650440348106395650/Q-VnIcJ3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 139678,
+          "following_count": 1830,
+          "like_count": 10413,
+          "listed_count": 994,
+          "media_count": 2838,
+          "tweet_count": 78190
+        },
+        "url": "https://t.co/6qaCc3JK1Z",
+        "username": "tpazolite",
+        "verified": true
+      }
+    ]
+  }
+}

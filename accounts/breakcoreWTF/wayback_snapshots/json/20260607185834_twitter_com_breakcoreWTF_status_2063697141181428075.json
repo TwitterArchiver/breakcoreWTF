@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1964331185590718464",
+    "conversation_id": "2063695598851924458",
+    "created_at": "2026-06-07T18:58:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T19:58:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063697141181428075"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2046660159867400192",
+          "start": 0,
+          "username": "nyanyanya6767"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063697141181428075",
+    "in_reply_to_user_id": "2046660159867400192",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063696977012105277",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nyanyanya6767 你好"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1964331185590718464",
+        "conversation_id": "2063695598851924458",
+        "created_at": "2026-06-07T18:58:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T19:58:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063697141181428075"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2046660159867400192",
+              "start": 0,
+              "username": "nyanyanya6767"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063697141181428075",
+        "in_reply_to_user_id": "2046660159867400192",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063696977012105277",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nyanyanya6767 你好"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2046660159867400192",
+        "conversation_id": "2063695598851924458",
+        "created_at": "2026-06-07T18:57:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T19:57:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063696977012105277"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1964331185590718464",
+              "start": 0,
+              "username": "breakcoreWTF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063696977012105277",
+        "in_reply_to_user_id": "1964331185590718464",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063695598851924458",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@breakcoreWTF 哈嘍"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-06T14:13:55.000Z",
+        "description": "OD丨自伤丨Vocaloid丨音游丨友跨顺女\n不喜欢的直接b 同类回fo 取关请双取",
+        "id": "1964331185590718464",
+        "location": "颅内",
+        "name": "箸",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061439509125074944/Hf-Lim6c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 725,
+          "following_count": 641,
+          "like_count": 15543,
+          "listed_count": 0,
+          "media_count": 225,
+          "tweet_count": 4528
+        },
+        "username": "breakcoreWTF",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-21T18:39:55.000Z",
+        "description": "可以叫我歐姆\n躁鬱｜焦慮｜解離｜ADHD｜自傷｜od｜穿孔｜金屬｜Goth\n同圈子會互fo",
+        "id": "2046660159867400192",
+        "name": "？二代目",
+        "pinned_tweet_id": "2061471539116339494",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046663732911370240/Xy3J4G70_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 794,
+          "following_count": 419,
+          "like_count": 5978,
+          "listed_count": 0,
+          "media_count": 55,
+          "tweet_count": 213
+        },
+        "username": "nyanyanya6767",
+        "verified": false
+      }
+    ]
+  }
+}

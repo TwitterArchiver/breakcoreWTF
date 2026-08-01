@@ -1,0 +1,378 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1971932082839625728",
+        "3_1971932082843832320",
+        "3_1971932082864852992"
+      ],
+      "media_source_tweet_id": [
+        "1971932092172062920",
+        "1971932092172062920",
+        "1971932092172062920"
+      ]
+    },
+    "author_id": "1964331185590718464",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Cities around the world",
+          "id": "156",
+          "name": "Cities"
+        },
+        "entity": {
+          "description": "Tokyo",
+          "id": "855095546553393152",
+          "name": "Tokyo"
+        }
+      }
+    ],
+    "conversation_id": "1976451602727960798",
+    "created_at": "2025-10-10T00:55:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-10T01:55:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1976451602727960798"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 21,
+          "normalized_text": "東京",
+          "probability": 0.3396,
+          "start": 20,
+          "type": "Place"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1112508686402871296",
+          "start": 3,
+          "username": "__okuzus"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/k2QTfMi1DF",
+          "end": 73,
+          "expanded_url": "https://x.com/__okuzus/status/1971932092172062920/photo/1",
+          "media_key": "3_1971932082839625728",
+          "start": 50,
+          "url": "https://t.co/k2QTfMi1DF"
+        },
+        {
+          "display_url": "pic.x.com/k2QTfMi1DF",
+          "end": 73,
+          "expanded_url": "https://x.com/__okuzus/status/1971932092172062920/photo/1",
+          "media_key": "3_1971932082843832320",
+          "start": 50,
+          "url": "https://t.co/k2QTfMi1DF"
+        },
+        {
+          "display_url": "pic.x.com/k2QTfMi1DF",
+          "end": 73,
+          "expanded_url": "https://x.com/__okuzus/status/1971932092172062920/photo/1",
+          "media_key": "3_1971932082864852992",
+          "start": 50,
+          "url": "https://t.co/k2QTfMi1DF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1976451602727960798",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "1971932092172062920",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @__okuzus: cos.  東京テディベア \n\n正直者は何を見る？正直者は馬鹿をみる！ https://t.co/k2QTfMi1DF"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2880,
+        "media_key": "3_1971932082839625728",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G121yBbaIAA4l1p.jpg",
+        "width": 2160
+      },
+      {
+        "height": 2526,
+        "media_key": "3_1971932082843832320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G121yBcaUAAacvW.jpg",
+        "width": 1894
+      },
+      {
+        "height": 2880,
+        "media_key": "3_1971932082864852992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G121yBhbEAAUFhp.jpg",
+        "width": 2160
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1971932082839625728",
+            "3_1971932082843832320",
+            "3_1971932082864852992"
+          ],
+          "media_source_tweet_id": [
+            "1971932092172062920",
+            "1971932092172062920",
+            "1971932092172062920"
+          ]
+        },
+        "author_id": "1964331185590718464",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Tokyo",
+              "id": "855095546553393152",
+              "name": "Tokyo"
+            }
+          }
+        ],
+        "conversation_id": "1976451602727960798",
+        "created_at": "2025-10-10T00:55:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-10T01:55:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1976451602727960798"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 21,
+              "normalized_text": "東京",
+              "probability": 0.3396,
+              "start": 20,
+              "type": "Place"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1112508686402871296",
+              "start": 3,
+              "username": "__okuzus"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/k2QTfMi1DF",
+              "end": 73,
+              "expanded_url": "https://x.com/__okuzus/status/1971932092172062920/photo/1",
+              "media_key": "3_1971932082839625728",
+              "start": 50,
+              "url": "https://t.co/k2QTfMi1DF"
+            },
+            {
+              "display_url": "pic.x.com/k2QTfMi1DF",
+              "end": 73,
+              "expanded_url": "https://x.com/__okuzus/status/1971932092172062920/photo/1",
+              "media_key": "3_1971932082843832320",
+              "start": 50,
+              "url": "https://t.co/k2QTfMi1DF"
+            },
+            {
+              "display_url": "pic.x.com/k2QTfMi1DF",
+              "end": 73,
+              "expanded_url": "https://x.com/__okuzus/status/1971932092172062920/photo/1",
+              "media_key": "3_1971932082864852992",
+              "start": 50,
+              "url": "https://t.co/k2QTfMi1DF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976451602727960798",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "1971932092172062920",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @__okuzus: cos.  東京テディベア \n\n正直者は何を見る？正直者は馬鹿をみる！ https://t.co/k2QTfMi1DF"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1971932082839625728",
+            "3_1971932082843832320",
+            "3_1971932082864852992"
+          ]
+        },
+        "author_id": "1112508686402871296",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Tokyo",
+              "id": "855095546553393152",
+              "name": "Tokyo"
+            }
+          }
+        ],
+        "conversation_id": "1971932092172062920",
+        "created_at": "2025-09-27T13:37:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-27T14:37:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1971932092172062920"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 7,
+              "normalized_text": "東京",
+              "probability": 0.343,
+              "start": 6,
+              "type": "Place"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/k2QTfMi1DF",
+              "end": 59,
+              "expanded_url": "https://x.com/__okuzus/status/1971932092172062920/photo/1",
+              "media_key": "3_1971932082839625728",
+              "start": 36,
+              "url": "https://t.co/k2QTfMi1DF"
+            },
+            {
+              "display_url": "pic.x.com/k2QTfMi1DF",
+              "end": 59,
+              "expanded_url": "https://x.com/__okuzus/status/1971932092172062920/photo/1",
+              "media_key": "3_1971932082843832320",
+              "start": 36,
+              "url": "https://t.co/k2QTfMi1DF"
+            },
+            {
+              "display_url": "pic.x.com/k2QTfMi1DF",
+              "end": 59,
+              "expanded_url": "https://x.com/__okuzus/status/1971932092172062920/photo/1",
+              "media_key": "3_1971932082864852992",
+              "start": 36,
+              "url": "https://t.co/k2QTfMi1DF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1971932092172062920",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1076,
+          "like_count": 42,
+          "quote_count": 2,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "cos.  東京テディベア \n\n正直者は何を見る？正直者は馬鹿をみる！ https://t.co/k2QTfMi1DF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-06T14:13:55.000Z",
+        "description": "中文/od/VOCALOID/音游/舞萌w45/中二14.9/世界计划 无底线无雷点无素质 含暴论/地域黑/辱男女/发情等成分 私信互关欢迎 我有对象 我很喜欢他",
+        "id": "1964331185590718464",
+        "location": "翼天国",
+        "name": "近未来創造",
+        "pinned_tweet_id": "1966517785367871718",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976446585841254406/9Ovba-Ha_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37,
+          "following_count": 224,
+          "like_count": 1648,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 422
+        },
+        "username": "breakcoreWTF",
+        "verified": false
+      },
+      {
+        "created_at": "2019-04-01T00:15:15.000Z",
+        "description": "𝚂𝚞𝚣𝚞𝚔𝚘 ┊︎ 𝙷𝚘𝚈𝚘𝙲𝚛𝚎𝚊𝚝𝚘𝚛 ┊︎インコとコスプレ",
+        "id": "1112508686402871296",
+        "name": "すず娘",
+        "pinned_tweet_id": "1893598903984906583",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1726481429809549312/pJtYsq3f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3756,
+          "following_count": 753,
+          "like_count": 7533,
+          "listed_count": 65,
+          "media_count": 341,
+          "tweet_count": 14657
+        },
+        "username": "__okuzus",
+        "verified": false
+      }
+    ]
+  }
+}

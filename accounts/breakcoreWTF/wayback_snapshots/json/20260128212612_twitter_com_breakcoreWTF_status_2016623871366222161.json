@@ -1,0 +1,596 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1964331185590718464",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "description": "Nico Nico Douga",
+          "id": "1034894313908396037",
+          "name": "Nico Nico Douga"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1370105546607534081",
+          "name": "Project Sekai"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Nico Nico Douga",
+          "id": "1034894313908396037",
+          "name": "Nico Nico Douga"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1196446161223028736",
+          "name": "Social media"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1293615037932646400",
+          "name": "YouTubers"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1370105546607534081",
+          "name": "Project Sekai"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "id": "1196446161223028736",
+          "name": "Social media"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10029382357",
+          "name": "YouTube"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10029382357",
+          "name": "YouTube"
+        }
+      }
+    ],
+    "conversation_id": "2016623871366222161",
+    "created_at": "2026-01-28T21:26:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-28T22:26:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2016623871366222161"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/LonePi_/status…",
+          "end": 31,
+          "expanded_url": "https://twitter.com/LonePi_/status/2016156204876325146",
+          "start": 8,
+          "url": "https://t.co/cqu0k4mjeX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2016623871366222161",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2016156204876325146",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "好喜欢这个封面 https://t.co/cqu0k4mjeX"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 607,
+        "media_key": "3_2016155364236914688",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_rSnylW8AATm6S.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1964331185590718464",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "Nico Nico Douga",
+              "id": "1034894313908396037",
+              "name": "Nico Nico Douga"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1370105546607534081",
+              "name": "Project Sekai"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Nico Nico Douga",
+              "id": "1034894313908396037",
+              "name": "Nico Nico Douga"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1293615037932646400",
+              "name": "YouTubers"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1370105546607534081",
+              "name": "Project Sekai"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10029382357",
+              "name": "YouTube"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10029382357",
+              "name": "YouTube"
+            }
+          }
+        ],
+        "conversation_id": "2016623871366222161",
+        "created_at": "2026-01-28T21:26:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-28T22:26:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2016623871366222161"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/LonePi_/status…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/LonePi_/status/2016156204876325146",
+              "start": 8,
+              "url": "https://t.co/cqu0k4mjeX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016623871366222161",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016156204876325146",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "好喜欢这个封面 https://t.co/cqu0k4mjeX"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2016155364236914688"
+          ]
+        },
+        "author_id": "1010889503177768960",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "Nico Nico Douga",
+              "id": "1034894313908396037",
+              "name": "Nico Nico Douga"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1370105546607534081",
+              "name": "Project Sekai"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Nico Nico Douga",
+              "id": "1034894313908396037",
+              "name": "Nico Nico Douga"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1293615037932646400",
+              "name": "YouTubers"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1370105546607534081",
+              "name": "Project Sekai"
+            }
+          }
+        ],
+        "conversation_id": "2016156204876325146",
+        "created_at": "2026-01-27T14:27:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-27T15:27:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2016156204876325146"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 13,
+              "normalized_text": "幸福刑",
+              "probability": 0.7799,
+              "start": 11,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 177,
+              "start": 172,
+              "tag": "プロセカ"
+            }
+          ],
+          "urls": [
+            {
+              "description": "なにが君のため？『プロジェクトセカイ カラフルステージ！ feat. 初音ミク』25時、ナイトコードで。への書き下ろし楽曲https://www.youtube.com/watch?v=pWc8oCbtGKc音楽と絵と動画　LonePihttps://lit.link/LonePi配信（まってね）",
+              "display_url": "youtu.be/MlTQUSFr-gw",
+              "end": 80,
+              "expanded_url": "https://youtu.be/MlTQUSFr-gw",
+              "images": [
+                {
+                  "height": 360,
+                  "url": "https://pbs.twimg.com/news_img/2016156210484150273/6_uqRApR?format=jpg&name=orig",
+                  "width": 480
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2016156210484150273/6_uqRApR?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 57,
+              "status": 200,
+              "title": "幸福刑 - LonePi feat.初音ミク",
+              "unwound_url": "https://www.youtube.com/watch?v=MlTQUSFr-gw&feature=youtu.be",
+              "url": "https://t.co/BNFByssgZM"
+            },
+            {
+              "description": "LonePiさんのユーザーページです。音楽と絵と動画",
+              "display_url": "nicovideo.jp/user/88164211",
+              "end": 127,
+              "expanded_url": "https://www.nicovideo.jp/user/88164211",
+              "start": 104,
+              "status": 200,
+              "title": "LonePi - ニコニコ",
+              "unwound_url": "https://www.nicovideo.jp/user/88164211",
+              "url": "https://t.co/jKLllv8m36"
+            },
+            {
+              "display_url": "pic.x.com/8ArlS7heoX",
+              "end": 201,
+              "expanded_url": "https://x.com/LonePi_/status/2016156204876325146/photo/1",
+              "media_key": "3_2016155364236914688",
+              "start": 178,
+              "url": "https://t.co/8ArlS7heoX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016156204876325146",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 638,
+          "impression_count": 171845,
+          "like_count": 9708,
+          "quote_count": 214,
+          "reply_count": 7,
+          "retweet_count": 1997
+        },
+        "reply_settings": "everyone",
+        "text": "【おしらせ】\n\n新曲「幸福刑」投稿します👀\n\n2026.01.28 \n20:00~　YouTube　プレミア公開\nhttps://t.co/BNFByssgZM\n\n21:00~　niconico　ライブ公開\nhttps://t.co/jKLllv8m36\n\n大変遅くなってしまい申し訳ございません、、！\n楽しみにお待ちいただけますと幸いです\n\n#プロセカ https://t.co/8ArlS7heoX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-06T14:13:55.000Z",
+        "description": "中文/od/自伤/VOCALOID/音游 舞萌普通w53 纯种乐子人 友跨性别不公开 推上啥都有 会发泄情绪无需理会 互关欢迎 🚪40加微信纯绿可陪聊",
+        "id": "1964331185590718464",
+        "location": "Internet",
+        "name": "薄幸",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015679257582964737/T8W4H246_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 62,
+          "following_count": 351,
+          "like_count": 4250,
+          "listed_count": 0,
+          "media_count": 49,
+          "tweet_count": 1362
+        },
+        "username": "breakcoreWTF",
+        "verified": false
+      },
+      {
+        "created_at": "2018-06-24T14:16:53.000Z",
+        "description": "ろねぴ　音楽と絵と動画 #LonePicture",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 24,
+                "start": 12,
+                "tag": "LonePicture"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/LonePi",
+                "end": 23,
+                "expanded_url": "https://lit.link/LonePi",
+                "start": 0,
+                "url": "https://t.co/AOoK8cTkwL"
+              }
+            ]
+          }
+        },
+        "id": "1010889503177768960",
+        "location": "ご連絡や各リンクはこちら→",
+        "name": "LonePi",
+        "pinned_tweet_id": "2004507488004243772",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1642043382234218496/gkSTmDzh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27786,
+          "following_count": 375,
+          "like_count": 11466,
+          "listed_count": 108,
+          "media_count": 553,
+          "tweet_count": 2484
+        },
+        "url": "https://t.co/AOoK8cTkwL",
+        "username": "LonePi_",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,311 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2013340174365675520"
+      ],
+      "media_source_tweet_id": [
+        "2013340230963671304"
+      ]
+    },
+    "author_id": "1964331185590718464",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2013990695044853947",
+    "created_at": "2026-01-21T15:02:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-21T16:02:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2013990695044853947"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1778600109154172928",
+          "start": 3,
+          "username": "KMS_PzEUGIN_III"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/KK7bsiO5Y7",
+          "end": 53,
+          "expanded_url": "https://x.com/KMS_PzEUGIN_III/status/2013340230963671304/video/1",
+          "media_key": "13_2013340174365675520",
+          "start": 30,
+          "url": "https://t.co/KK7bsiO5Y7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2013990695044853947",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 384
+    },
+    "referenced_tweets": [
+      {
+        "id": "2013340230963671304",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @KMS_PzEUGIN_III: 我逃避现实就这样 https://t.co/KK7bsiO5Y7"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 30041,
+        "height": 960,
+        "media_key": "13_2013340174365675520",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2013340174365675520/img/rceSq0nrPaVA72ve.jpg",
+        "public_metrics": {
+          "view_count": 26918
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2013340174365675520/vid/avc1/320x426/faeSiAPF4EJuuvM1.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2013340174365675520/vid/avc1/480x640/lDTVIC1-JUdETaOv.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2013340174365675520/vid/avc1/720x960/bG5978FBtmf6Oacq.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2013340174365675520/pl/aif4xof96BOFmmCt.m3u8?v=cfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2013340174365675520"
+          ],
+          "media_source_tweet_id": [
+            "2013340230963671304"
+          ]
+        },
+        "author_id": "1964331185590718464",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2013990695044853947",
+        "created_at": "2026-01-21T15:02:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-21T16:02:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2013990695044853947"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1778600109154172928",
+              "start": 3,
+              "username": "KMS_PzEUGIN_III"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/KK7bsiO5Y7",
+              "end": 53,
+              "expanded_url": "https://x.com/KMS_PzEUGIN_III/status/2013340230963671304/video/1",
+              "media_key": "13_2013340174365675520",
+              "start": 30,
+              "url": "https://t.co/KK7bsiO5Y7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013990695044853947",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 384
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013340230963671304",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @KMS_PzEUGIN_III: 我逃避现实就这样 https://t.co/KK7bsiO5Y7"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2013340174365675520"
+          ]
+        },
+        "author_id": "1778600109154172928",
+        "conversation_id": "2013340230963671304",
+        "created_at": "2026-01-19T19:58:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-19T20:58:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2013340230963671304"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KK7bsiO5Y7",
+              "end": 32,
+              "expanded_url": "https://x.com/KMS_PzEUGIN_III/status/2013340230963671304/video/1",
+              "media_key": "13_2013340174365675520",
+              "start": 9,
+              "url": "https://t.co/KK7bsiO5Y7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013340230963671304",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 283,
+          "impression_count": 164167,
+          "like_count": 2908,
+          "quote_count": 24,
+          "reply_count": 30,
+          "retweet_count": 384
+        },
+        "reply_settings": "everyone",
+        "text": "我逃避现实就这样 https://t.co/KK7bsiO5Y7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-06T14:13:55.000Z",
+        "description": "中文/od/VOCALOID/音游 纯种乐子人性别不明推上啥都有 会发泄情绪无需理会 私信互关欢迎",
+        "id": "1964331185590718464",
+        "location": "幻想郷",
+        "name": "薄幸",
+        "pinned_tweet_id": "2003760156488986744",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010659872770326528/BT09LiKm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 48,
+          "following_count": 321,
+          "like_count": 3695,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 1130
+        },
+        "username": "breakcoreWTF",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-12T01:44:56.000Z",
+        "description": "屎踢姆账号：482729448/跑路小账@lappydaisuki/ 像垃圾袋这样实用的东西有时候也装满了风",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 20,
+                "username": "lappydaisuki"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kms_pzeugin_iii",
+                "end": 23,
+                "expanded_url": "https://ngl.link/kms_pzeugin_iii",
+                "start": 0,
+                "url": "https://t.co/NKw2JIeEm8"
+              }
+            ]
+          }
+        },
+        "id": "1778600109154172928",
+        "location": "8°45′9.49″N 167°40′59.60″E",
+        "name": "KMS-PrinzEugin",
+        "pinned_tweet_id": "1943389207017275820",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1790573689211346944/mT4Zy9tR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 848,
+          "following_count": 2594,
+          "like_count": 29749,
+          "listed_count": 4,
+          "media_count": 696,
+          "tweet_count": 9129
+        },
+        "url": "https://t.co/NKw2JIeEm8",
+        "username": "KMS_PzEUGIN_III",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1964331185590718464",
+    "conversation_id": "2080640610705592464",
+    "created_at": "2026-07-25T04:32:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-25T05:32:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080873818177085945"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1943042453118083072",
+          "start": 0,
+          "username": "ShuiDao34316"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080873818177085945",
+    "in_reply_to_user_id": "1943042453118083072",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080640610705592464",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ShuiDao34316 妈妈"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 14980,
+        "height": 900,
+        "media_key": "7_2080640536097255424",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2080640536097255424/pu/img/QJEG9mH4M8h9MmNk.jpg",
+        "public_metrics": {
+          "view_count": 291
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2080640536097255424/pu/vid/avc1/320x400/uwv-8od_2XHEGCFd.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2080640536097255424/pu/vid/avc1/480x600/_BqF432YAiWUpQ1V.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2080640536097255424/pu/vid/avc1/720x900/9Alj39pItxBgVMtw.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2080640536097255424/pu/pl/t46kntevWgfczLEr.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1964331185590718464",
+        "conversation_id": "2080640610705592464",
+        "created_at": "2026-07-25T04:32:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T05:32:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080873818177085945"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1943042453118083072",
+              "start": 0,
+              "username": "ShuiDao34316"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080873818177085945",
+        "in_reply_to_user_id": "1943042453118083072",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080640610705592464",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ShuiDao34316 妈妈"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2080640536097255424"
+          ]
+        },
+        "author_id": "1943042453118083072",
+        "conversation_id": "2080640610705592464",
+        "created_at": "2026-07-24T13:05:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T14:05:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080640610705592464"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 6,
+              "start": 0,
+              "tag": "alvox"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/KX2tGwTVpt",
+              "end": 30,
+              "expanded_url": "https://x.com/ShuiDao34316/status/2080640610705592464/video/1",
+              "media_key": "7_2080640536097255424",
+              "start": 7,
+              "url": "https://t.co/KX2tGwTVpt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080640610705592464",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 12,
+          "impression_count": 1077,
+          "like_count": 71,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 19
+        },
+        "reply_settings": "everyone",
+        "text": "#alvox https://t.co/KX2tGwTVpt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-06T14:13:55.000Z",
+        "description": "叫我筷子就可以了(:3っ )っ\nOD丨🔪丨Vocaloid丨音游丨顺女 LGBTQ+friendly\n不卖药 只看互关私信 我很穷欢迎投喂\n不喜欢的直接b 查成分同类回fo 取关请双取",
+        "id": "1964331185590718464",
+        "location": "颅内",
+        "name": "箸",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074711282427842560/EOM9Puhb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1146,
+          "following_count": 811,
+          "like_count": 34020,
+          "listed_count": 0,
+          "media_count": 346,
+          "tweet_count": 6191
+        },
+        "url": "",
+        "username": "breakcoreWTF",
+        "verified": true
+      },
+      {
+        "created_at": "2025-07-09T20:20:13.000Z",
+        "description": "📺Bottom 发一些我的图片( -᷅_-᷄ )",
+        "id": "1943042453118083072",
+        "name": "下水道老叔",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020851284207620097/Dl_9EYoc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 776,
+          "following_count": 115,
+          "like_count": 58,
+          "listed_count": 2,
+          "media_count": 34,
+          "tweet_count": 100
+        },
+        "url": "",
+        "username": "ShuiDao34316",
+        "verified": false
+      }
+    ]
+  }
+}

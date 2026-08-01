@@ -1,0 +1,936 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1964331185590718464",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1407374567027314690",
+          "name": "Ado"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A musician in the world, like Adele or Bob Dylan",
+          "id": "54",
+          "name": "Musician"
+        },
+        "entity": {
+          "id": "1407374567027314690",
+          "name": "Ado"
+        }
+      },
+      {
+        "domain": {
+          "description": "A category for a musical style, like Pop, Rock, or Rap",
+          "id": "55",
+          "name": "Music Genre"
+        },
+        "entity": {
+          "description": "J-POP",
+          "id": "810938095772123136",
+          "name": "J-pop"
+        }
+      },
+      {
+        "domain": {
+          "description": "A category for a musical style, like Pop, Rock, or Rap",
+          "id": "55",
+          "name": "Music Genre"
+        },
+        "entity": {
+          "description": "Anime/Game ",
+          "id": "1138508942156345344",
+          "name": "Anime & game music"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "839543165002506240",
+          "name": "Anime"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "id": "1297951101136732160",
+          "name": "Animation & comics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839543165002506240",
+          "name": "Anime"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Music and radio",
+          "id": "847524658970636288",
+          "name": "Music"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Anime/Game ",
+          "id": "1138508942156345344",
+          "name": "Anime & game music"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1297951101136732160",
+          "name": "Animation & comics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1407374567027314690",
+          "name": "Ado"
+        }
+      }
+    ],
+    "conversation_id": "1974067967907541137",
+    "created_at": "2025-10-03T11:04:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-03T12:04:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1974067967907541137"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 31,
+          "normalized_text": "キャッツ❤︎アイ",
+          "probability": 0.7806,
+          "start": 24,
+          "type": "Other"
+        },
+        {
+          "end": 58,
+          "normalized_text": "MAGIC",
+          "probability": 0.8606,
+          "start": 54,
+          "type": "Other"
+        },
+        {
+          "end": 106,
+          "normalized_text": "ツミキ様",
+          "probability": 0.3881,
+          "start": 103,
+          "type": "Person"
+        },
+        {
+          "end": 128,
+          "normalized_text": "BAKUI様",
+          "probability": 0.3475,
+          "start": 123,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 18,
+          "id": "2929136138",
+          "start": 3,
+          "username": "ado1024imokenp"
+        },
+        {
+          "end": 115,
+          "id": "822842783664783363",
+          "start": 108,
+          "username": "_23ki_"
+        }
+      ],
+      "urls": [
+        {
+          "description": "Listen to content by Ado.",
+          "display_url": "ado.lnk.to/magicTP",
+          "end": 92,
+          "expanded_url": "http://ado.lnk.to/magicTP",
+          "images": [
+            {
+              "height": 220,
+              "url": "https://pbs.twimg.com/news_img/1973708951700299776/NW4VVfyO?format=jpg&name=orig",
+              "width": 440
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/1973708951700299776/NW4VVfyO?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 69,
+          "status": 200,
+          "title": "Ado「MAGIC」",
+          "unwound_url": "https://ado.lnk.to/magicTP",
+          "url": "https://t.co/0WKoavodlC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1974067967907541137",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1386
+    },
+    "referenced_tweets": [
+      {
+        "id": "1973716455989588378",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ado1024imokenp: アニメ『キャッツ❤︎アイ』オープニングテーマ\n\n10月31日\n新曲「MAGIC」リリースされます\nhttps://t.co/0WKoavodlC\n\n作詞・作曲・編曲：ツミキ様 @_23ki_\nIllust：BAKUI様 @bakuiuka…"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 31136,
+        "height": 1080,
+        "media_key": "13_1973716390604636160",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1973716390604636160/img/Yio3fsauXrFRgvhH.jpg",
+        "public_metrics": {
+          "view_count": 35877
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 432000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1973716390604636160/vid/avc1/320x320/WIsQ_SEQOTrHb4Qe.mp4"
+          },
+          {
+            "bit_rate": 8768000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1973716390604636160/vid/avc1/1080x1080/4Ocwo3-u-CNsq7Yl.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1973716390604636160/vid/avc1/540x540/BjULCZ4PxOKTZAaa.mp4"
+          },
+          {
+            "bit_rate": 1280000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1973716390604636160/vid/avc1/720x720/pNE_DhS1n_PTiUDO.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1973716390604636160/pl/AZcLZrsoxgkd3dhL.m3u8?v=cbe"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1964331185590718464",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1407374567027314690",
+              "name": "Ado"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A musician in the world, like Adele or Bob Dylan",
+              "id": "54",
+              "name": "Musician"
+            },
+            "entity": {
+              "id": "1407374567027314690",
+              "name": "Ado"
+            }
+          },
+          {
+            "domain": {
+              "description": "A category for a musical style, like Pop, Rock, or Rap",
+              "id": "55",
+              "name": "Music Genre"
+            },
+            "entity": {
+              "description": "J-POP",
+              "id": "810938095772123136",
+              "name": "J-pop"
+            }
+          },
+          {
+            "domain": {
+              "description": "A category for a musical style, like Pop, Rock, or Rap",
+              "id": "55",
+              "name": "Music Genre"
+            },
+            "entity": {
+              "description": "Anime/Game ",
+              "id": "1138508942156345344",
+              "name": "Anime & game music"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Anime/Game ",
+              "id": "1138508942156345344",
+              "name": "Anime & game music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1407374567027314690",
+              "name": "Ado"
+            }
+          }
+        ],
+        "conversation_id": "1974067967907541137",
+        "created_at": "2025-10-03T11:04:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-03T12:04:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1974067967907541137"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 31,
+              "normalized_text": "キャッツ❤︎アイ",
+              "probability": 0.7806,
+              "start": 24,
+              "type": "Other"
+            },
+            {
+              "end": 58,
+              "normalized_text": "MAGIC",
+              "probability": 0.8606,
+              "start": 54,
+              "type": "Other"
+            },
+            {
+              "end": 106,
+              "normalized_text": "ツミキ様",
+              "probability": 0.3881,
+              "start": 103,
+              "type": "Person"
+            },
+            {
+              "end": 128,
+              "normalized_text": "BAKUI様",
+              "probability": 0.3475,
+              "start": 123,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 18,
+              "id": "2929136138",
+              "start": 3,
+              "username": "ado1024imokenp"
+            },
+            {
+              "end": 115,
+              "id": "822842783664783363",
+              "start": 108,
+              "username": "_23ki_"
+            }
+          ],
+          "urls": [
+            {
+              "description": "Listen to content by Ado.",
+              "display_url": "ado.lnk.to/magicTP",
+              "end": 92,
+              "expanded_url": "http://ado.lnk.to/magicTP",
+              "images": [
+                {
+                  "height": 220,
+                  "url": "https://pbs.twimg.com/news_img/1973708951700299776/NW4VVfyO?format=jpg&name=orig",
+                  "width": 440
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1973708951700299776/NW4VVfyO?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 69,
+              "status": 200,
+              "title": "Ado「MAGIC」",
+              "unwound_url": "https://ado.lnk.to/magicTP",
+              "url": "https://t.co/0WKoavodlC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974067967907541137",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1386
+        },
+        "referenced_tweets": [
+          {
+            "id": "1973716455989588378",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ado1024imokenp: アニメ『キャッツ❤︎アイ』オープニングテーマ\n\n10月31日\n新曲「MAGIC」リリースされます\nhttps://t.co/0WKoavodlC\n\n作詞・作曲・編曲：ツミキ様 @_23ki_\nIllust：BAKUI様 @bakuiuka…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1973716390604636160"
+          ]
+        },
+        "author_id": "2929136138",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1407374567027314690",
+              "name": "Ado"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A musician in the world, like Adele or Bob Dylan",
+              "id": "54",
+              "name": "Musician"
+            },
+            "entity": {
+              "id": "1407374567027314690",
+              "name": "Ado"
+            }
+          },
+          {
+            "domain": {
+              "description": "A category for a musical style, like Pop, Rock, or Rap",
+              "id": "55",
+              "name": "Music Genre"
+            },
+            "entity": {
+              "description": "J-POP",
+              "id": "810938095772123136",
+              "name": "J-pop"
+            }
+          },
+          {
+            "domain": {
+              "description": "A category for a musical style, like Pop, Rock, or Rap",
+              "id": "55",
+              "name": "Music Genre"
+            },
+            "entity": {
+              "description": "Anime/Game ",
+              "id": "1138508942156345344",
+              "name": "Anime & game music"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Anime/Game ",
+              "id": "1138508942156345344",
+              "name": "Anime & game music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1407374567027314690",
+              "name": "Ado"
+            }
+          }
+        ],
+        "conversation_id": "1973716455989588378",
+        "created_at": "2025-10-02T11:47:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-02T12:47:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1973716455989588378"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 11,
+              "normalized_text": "キャッツ❤︎アイ",
+              "probability": 0.8318,
+              "start": 4,
+              "type": "Other"
+            },
+            {
+              "end": 38,
+              "normalized_text": "MAGIC",
+              "probability": 0.8796,
+              "start": 34,
+              "type": "Other"
+            },
+            {
+              "end": 86,
+              "normalized_text": "ツミキ様",
+              "probability": 0.4098,
+              "start": 83,
+              "type": "Person"
+            },
+            {
+              "end": 107,
+              "normalized_text": "BAKUI",
+              "probability": 0.6313,
+              "start": 103,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 95,
+              "id": "822842783664783363",
+              "start": 88,
+              "username": "_23ki_"
+            },
+            {
+              "end": 121,
+              "id": "842774035234611200",
+              "start": 110,
+              "username": "bakuiukabu"
+            },
+            {
+              "end": 154,
+              "id": "1901886805525565440",
+              "start": 139,
+              "username": "CATS_EYE_Anime"
+            }
+          ],
+          "urls": [
+            {
+              "description": "Listen to content by Ado.",
+              "display_url": "ado.lnk.to/magicTP",
+              "end": 72,
+              "expanded_url": "http://ado.lnk.to/magicTP",
+              "images": [
+                {
+                  "height": 220,
+                  "url": "https://pbs.twimg.com/news_img/1973708951700299776/NW4VVfyO?format=jpg&name=orig",
+                  "width": 440
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1973708951700299776/NW4VVfyO?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 49,
+              "status": 200,
+              "title": "Ado「MAGIC」",
+              "unwound_url": "https://ado.lnk.to/magicTP",
+              "url": "https://t.co/0WKoavodlC"
+            },
+            {
+              "display_url": "pic.x.com/fJ3UGnUEcK",
+              "end": 178,
+              "expanded_url": "https://x.com/ado1024imokenp/status/1973716455989588378/video/1",
+              "media_key": "13_1973716390604636160",
+              "start": 155,
+              "url": "https://t.co/fJ3UGnUEcK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1973716455989588378",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 397,
+          "impression_count": 170959,
+          "like_count": 9790,
+          "quote_count": 67,
+          "reply_count": 143,
+          "retweet_count": 1386
+        },
+        "reply_settings": "everyone",
+        "text": "アニメ『キャッツ❤︎アイ』オープニングテーマ\n\n10月31日\n新曲「MAGIC」リリースされます\nhttps://t.co/0WKoavodlC\n\n作詞・作曲・編曲：ツミキ様 @_23ki_\nIllust：BAKUI様 @bakuiukabu \n\n痺れますね！お楽しみに🖼\n\n @CATS_EYE_Anime https://t.co/fJ3UGnUEcK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-06T14:13:55.000Z",
+        "description": "中文/od/自残/精神病/网蛆/VOCALOID/音游/舞萌w43/中二14.9/世界计划 无底线无雷点无素质 含暴论/地域黑/辱男女/发情等成分 私信互关欢迎 我有对象 我很喜欢他",
+        "id": "1964331185590718464",
+        "location": "翼天国",
+        "name": "💊人工時代完全犯罪",
+        "pinned_tweet_id": "1966517785367871718",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1964333475118665733/qxlL_t3T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35,
+          "following_count": 214,
+          "like_count": 1453,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 344
+        },
+        "username": "breakcoreWTF",
+        "verified": false
+      },
+      {
+        "created_at": "2014-12-14T02:19:30.000Z",
+        "description": "アドです。niconico：https://t.co/Bdx26K2k2K YouTube : https://t.co/A2EbwbLv1w イラストは「#Adoart」DMは事務所が管理しています。contact→ https://t.co/3GPesFPBFr",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 85,
+                "start": 78,
+                "tag": "Adoart"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "nicovideo.jp/mylist/58569901",
+                "end": 37,
+                "expanded_url": "http://nicovideo.jp/mylist/58569901",
+                "start": 14,
+                "url": "https://t.co/Bdx26K2k2K"
+              },
+              {
+                "display_url": "youtube.com/c/Ado1024",
+                "end": 71,
+                "expanded_url": "http://youtube.com/c/Ado1024",
+                "start": 48,
+                "url": "https://t.co/A2EbwbLv1w"
+              },
+              {
+                "display_url": "cloud9pro.co.jp/contact/",
+                "end": 133,
+                "expanded_url": "https://cloud9pro.co.jp/contact/",
+                "start": 110,
+                "url": "https://t.co/3GPesFPBFr"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "…o-dokidokihimitsukichi-daigakuimo.com",
+                "end": 23,
+                "expanded_url": "https://ado-dokidokihimitsukichi-daigakuimo.com/",
+                "start": 0,
+                "url": "https://t.co/VdcVooBwaG"
+              }
+            ]
+          }
+        },
+        "id": "2929136138",
+        "location": "i：ORIHARAさん h：トゥルさん     ↓秘密基地",
+        "name": "Ado",
+        "pinned_tweet_id": "1969011852601438407",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1877372184378949632/FwegsHDv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2733058,
+          "following_count": 677,
+          "like_count": 52004,
+          "listed_count": 3933,
+          "media_count": 928,
+          "tweet_count": 30608
+        },
+        "url": "https://t.co/VdcVooBwaG",
+        "username": "ado1024imokenp",
+        "verified": true
+      },
+      {
+        "created_at": "2017-01-21T16:26:22.000Z",
+        "description": "音楽家 ▼.▼ ／NOMELON NOLEMON (@NMNL_staff)／ Aooo(@Aooo_band)／ ✉︎ 23ki1997@gmail.com",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 26,
+                "username": "NMNL_staff"
+              },
+              {
+                "end": 55,
+                "start": 45,
+                "username": "Aooo_band"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/channel/UCpLKk…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/channel/UCpLKk1TqiGRqLWcR9_ZcNaA",
+                "start": 0,
+                "url": "https://t.co/XPRbLv591U"
+              }
+            ]
+          }
+        },
+        "id": "822842783664783363",
+        "name": "ツミキ",
+        "pinned_tweet_id": "1937545144032723354",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/964115118219931648/a1yFakR3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 173826,
+          "following_count": 217,
+          "like_count": 4787,
+          "listed_count": 1009,
+          "media_count": 571,
+          "tweet_count": 2441
+        },
+        "url": "https://t.co/XPRbLv591U",
+        "username": "_23ki_",
+        "verified": true
+      }
+    ]
+  }
+}

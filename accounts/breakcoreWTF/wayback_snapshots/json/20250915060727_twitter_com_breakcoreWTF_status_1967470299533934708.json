@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1964331185590718464",
+    "conversation_id": "1967470299533934708",
+    "created_at": "2025-09-15T06:07:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-15T07:07:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1967470299533934708"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1862675334208147456",
+          "start": 3,
+          "username": "iCc11210506"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1967470299533934708",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1967091166538818025",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @iCc11210506: 你们国庆别od，瓷爹生日看见小兔子od直接气死了。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1964331185590718464",
+        "conversation_id": "1967470299533934708",
+        "created_at": "2025-09-15T06:07:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-15T07:07:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1967470299533934708"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1862675334208147456",
+              "start": 3,
+              "username": "iCc11210506"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967470299533934708",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1967091166538818025",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @iCc11210506: 你们国庆别od，瓷爹生日看见小兔子od直接气死了。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1862675334208147456",
+        "conversation_id": "1967091166538818025",
+        "created_at": "2025-09-14T05:00:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-14T06:00:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1967091166538818025"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1967091166538818025",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 60,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你们国庆别od，瓷爹生日看见小兔子od直接气死了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-06T14:13:55.000Z",
+        "description": "中文/od/自残/精神病/网蛆/VOCALOID/音游/舞萌w43/中二14.9/世界计划 无底线无雷点无素质 含暴论/地域黑/辱男女/发情等成分 我有对象 我很喜欢他",
+        "id": "1964331185590718464",
+        "name": "💊人工時代完全犯罪",
+        "pinned_tweet_id": "1966517785367871718",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1964333475118665733/qxlL_t3T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32,
+          "following_count": 182,
+          "like_count": 802,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 211
+        },
+        "username": "breakcoreWTF",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-30T01:49:54.000Z",
+        "description": "挂壁中 喜欢我请打赏",
+        "id": "1862675334208147456",
+        "name": "血肉联结",
+        "pinned_tweet_id": "1967013511063900620",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967396443028905985/JIp-v9S5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38,
+          "following_count": 46,
+          "like_count": 298,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 102
+        },
+        "username": "iCc11210506",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1964331185590718464",
+    "conversation_id": "2077973588150468651",
+    "created_at": "2026-07-17T11:50:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-17T12:50:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078084917318345185"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1169174984389885952",
+          "start": 0,
+          "username": "Angel_SaveUsAll"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078084917318345185",
+    "in_reply_to_user_id": "1169174984389885952",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077973588150468651",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Angel_SaveUsAll 这倒是提醒我了"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 12915,
+        "height": 1180,
+        "media_key": "13_2077973483561385984",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2077973483561385984/img/C9NfXHbGaubIQ2gI.jpg",
+        "public_metrics": {
+          "view_count": 61
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2077973483561385984/vid/avc1/478x360/0d7k3aDyRH1Zn45b.mp4"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2077973483561385984/vid/avc1/358x270/6NoCzJ7d7RzbI45i.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2077973483561385984/vid/avc1/958x720/U7FJBMxKLb0Yxt_n.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2077973483561385984/pl/vrt7_Y-xtypifplR.m3u8"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2077973483561385984/vid/avc1/1572x1180/qZ3dDX7D3R5MTj41.mp4"
+          }
+        ],
+        "width": 1572
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1964331185590718464",
+        "conversation_id": "2077973588150468651",
+        "created_at": "2026-07-17T11:50:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T12:50:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078084917318345185"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1169174984389885952",
+              "start": 0,
+              "username": "Angel_SaveUsAll"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078084917318345185",
+        "in_reply_to_user_id": "1169174984389885952",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077973588150468651",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Angel_SaveUsAll 这倒是提醒我了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2077973483561385984"
+          ]
+        },
+        "author_id": "1169174984389885952",
+        "conversation_id": "2077973588150468651",
+        "created_at": "2026-07-17T04:28:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T05:28:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077973588150468651"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Nmimyktlia",
+              "end": 27,
+              "expanded_url": "https://x.com/Angel_SaveUsAll/status/2077973588150468651/video/1",
+              "media_key": "13_2077973483561385984",
+              "start": 4,
+              "url": "https://t.co/Nmimyktlia"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077973588150468651",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 184,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "热热的 https://t.co/Nmimyktlia"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-06T14:13:55.000Z",
+        "description": "叫我筷子就可以了(:3っ )っ\nOD丨Vocaloid丨音游丨顺女 LGBTQ+friendly\n不卖药 只看互关私信 我很穷欢迎投喂\n不喜欢的直接b 查成分同类回fo 取关请双取",
+        "id": "1964331185590718464",
+        "location": "颅内",
+        "name": "箸",
+        "pinned_tweet_id": "2077686522225270845",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074711282427842560/EOM9Puhb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1035,
+          "following_count": 760,
+          "like_count": 29842,
+          "listed_count": 0,
+          "media_count": 325,
+          "tweet_count": 5885
+        },
+        "url": "",
+        "username": "breakcoreWTF",
+        "verified": true
+      },
+      {
+        "created_at": "2019-09-04T09:07:06.000Z",
+        "description": "救贖天使 含糖 新人画师，阴湿蕾蕾 只是会吃神秘小药片💊💊噶手手🩸🔪 情绪不稳定/双相/焦虑症 舞萌 经常碎碎念EN&CN OK 日本語苦手 欢迎同类找我聊天贴贴🍥老婆@linwei130",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 84,
+                "username": "linwei130"
+              }
+            ]
+          }
+        },
+        "id": "1169174984389885952",
+        "location": "New York, NY",
+        "name": "小救「回归」",
+        "pinned_tweet_id": "2043782475936120911",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058870609170616320/JW0PIo2B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1580,
+          "following_count": 637,
+          "like_count": 16182,
+          "listed_count": 4,
+          "media_count": 548,
+          "tweet_count": 5083
+        },
+        "url": "",
+        "username": "Angel_SaveUsAll",
+        "verified": true
+      }
+    ]
+  }
+}

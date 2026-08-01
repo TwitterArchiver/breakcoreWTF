@@ -1,0 +1,600 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1964331185590718464",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "description": "Nico Nico Douga",
+          "id": "1034894313908396037",
+          "name": "Nico Nico Douga"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Nico Nico Douga",
+          "id": "1034894313908396037",
+          "name": "Nico Nico Douga"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1293615037932646400",
+          "name": "YouTubers"
+        }
+      }
+    ],
+    "conversation_id": "2016571934918787276",
+    "created_at": "2026-01-28T17:59:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-28T18:59:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2016571934918787276"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 18,
+          "normalized_text": "幸福刑",
+          "probability": 0.7279,
+          "start": 16,
+          "type": "Other"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 118,
+          "start": 107,
+          "tag": "vocaloPost"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1010889503177768960",
+          "start": 3,
+          "username": "LonePi_"
+        }
+      ],
+      "urls": [
+        {
+          "description": "なにが君のため？『プロジェクトセカイ カラフルステージ！ feat. 初音ミク』25時、ナイトコードで。への書き下ろし楽曲https://www.youtube.com/watch?v=pWc8oCbtGKc音楽と絵と動画　LonePihttps://lit.link/LonePi配信（まってね）",
+          "display_url": "youtube.com/watch?v=MlTQUS…",
+          "end": 71,
+          "expanded_url": "https://www.youtube.com/watch?v=MlTQUSFr-gw",
+          "images": [
+            {
+              "height": 360,
+              "url": "https://pbs.twimg.com/news_img/2016156210484150273/6_uqRApR?format=jpg&name=orig",
+              "width": 480
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2016156210484150273/6_uqRApR?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 48,
+          "status": 200,
+          "title": "幸福刑 - LonePi feat.初音ミク",
+          "unwound_url": "https://www.youtube.com/watch?v=MlTQUSFr-gw",
+          "url": "https://t.co/LWqbtNuv3o"
+        },
+        {
+          "description": "【ライブ公開開始予定 2026/01/28 20:50開始】なにが君のため？『プロジェクトセカイ カラフルステージ！ feat. 初音ミク』25時、ナイトコードで。への書き下ろし楽曲https://www.youtube",
+          "display_url": "nicovideo.jp/watch/sm458835…",
+          "end": 105,
+          "expanded_url": "https://www.nicovideo.jp/watch/sm45883571",
+          "images": [
+            {
+              "height": 720,
+              "url": "https://pbs.twimg.com/news_img/2016471834573852672/WslPEj5Z?format=jpg&name=orig",
+              "width": 1280
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2016471834573852672/WslPEj5Z?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 82,
+          "status": 200,
+          "title": "幸福刑 - LonePi feat.初音ミク",
+          "unwound_url": "https://live.nicovideo.jp/watch/lv349742339",
+          "url": "https://t.co/QrDzYc84SB"
+        },
+        {
+          "display_url": "t.co/8lT24Qh",
+          "end": 139,
+          "start": 119,
+          "url": "https://t.co/8lT24Qh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2016571934918787276",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2764
+    },
+    "referenced_tweets": [
+      {
+        "id": "2016471787140419926",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @LonePi_: 新曲「幸福刑」投稿しました。\nこれは誰のため？  \n\nYouTube\nhttps://t.co/LWqbtNuv3o\n\nniconico\nhttps://t.co/QrDzYc84SB\n\n#vocaloPost https://t.co/8lT24Qh…"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 37733,
+        "height": 1080,
+        "media_key": "13_2016471671260274688",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2016471671260274688/img/IdWXha8MvfGLlqum.jpg",
+        "public_metrics": {
+          "view_count": 44549
+        },
+        "type": "video",
+        "variants": [
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2016471671260274688/pl/ajEFGLyyi8kdCB6P.m3u8?v=abf"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2016471671260274688/vid/avc1/480x270/mnUtGXOsQuSzMnVP.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2016471671260274688/vid/avc1/640x360/qlwleH0MnR39Rcl7.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2016471671260274688/vid/avc1/1920x1080/eesB8lGHYXSVNmyK.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2016471671260274688/vid/avc1/1280x720/tR9P9v__Ov2QcP_l.mp4"
+          }
+        ],
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1964331185590718464",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "Nico Nico Douga",
+              "id": "1034894313908396037",
+              "name": "Nico Nico Douga"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Nico Nico Douga",
+              "id": "1034894313908396037",
+              "name": "Nico Nico Douga"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1293615037932646400",
+              "name": "YouTubers"
+            }
+          }
+        ],
+        "conversation_id": "2016571934918787276",
+        "created_at": "2026-01-28T17:59:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-28T18:59:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016571934918787276"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 18,
+              "normalized_text": "幸福刑",
+              "probability": 0.7279,
+              "start": 16,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 118,
+              "start": 107,
+              "tag": "vocaloPost"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1010889503177768960",
+              "start": 3,
+              "username": "LonePi_"
+            }
+          ],
+          "urls": [
+            {
+              "description": "なにが君のため？『プロジェクトセカイ カラフルステージ！ feat. 初音ミク』25時、ナイトコードで。への書き下ろし楽曲https://www.youtube.com/watch?v=pWc8oCbtGKc音楽と絵と動画　LonePihttps://lit.link/LonePi配信（まってね）",
+              "display_url": "youtube.com/watch?v=MlTQUS…",
+              "end": 71,
+              "expanded_url": "https://www.youtube.com/watch?v=MlTQUSFr-gw",
+              "images": [
+                {
+                  "height": 360,
+                  "url": "https://pbs.twimg.com/news_img/2016156210484150273/6_uqRApR?format=jpg&name=orig",
+                  "width": 480
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2016156210484150273/6_uqRApR?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 48,
+              "status": 200,
+              "title": "幸福刑 - LonePi feat.初音ミク",
+              "unwound_url": "https://www.youtube.com/watch?v=MlTQUSFr-gw",
+              "url": "https://t.co/LWqbtNuv3o"
+            },
+            {
+              "description": "【ライブ公開開始予定 2026/01/28 20:50開始】なにが君のため？『プロジェクトセカイ カラフルステージ！ feat. 初音ミク』25時、ナイトコードで。への書き下ろし楽曲https://www.youtube",
+              "display_url": "nicovideo.jp/watch/sm458835…",
+              "end": 105,
+              "expanded_url": "https://www.nicovideo.jp/watch/sm45883571",
+              "images": [
+                {
+                  "height": 720,
+                  "url": "https://pbs.twimg.com/news_img/2016471834573852672/WslPEj5Z?format=jpg&name=orig",
+                  "width": 1280
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2016471834573852672/WslPEj5Z?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 82,
+              "status": 200,
+              "title": "幸福刑 - LonePi feat.初音ミク",
+              "unwound_url": "https://live.nicovideo.jp/watch/lv349742339",
+              "url": "https://t.co/QrDzYc84SB"
+            },
+            {
+              "display_url": "t.co/8lT24Qh",
+              "end": 139,
+              "start": 119,
+              "url": "https://t.co/8lT24Qh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016571934918787276",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2764
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016471787140419926",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @LonePi_: 新曲「幸福刑」投稿しました。\nこれは誰のため？  \n\nYouTube\nhttps://t.co/LWqbtNuv3o\n\nniconico\nhttps://t.co/QrDzYc84SB\n\n#vocaloPost https://t.co/8lT24Qh…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2016471671260274688"
+          ]
+        },
+        "author_id": "1010889503177768960",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "Nico Nico Douga",
+              "id": "1034894313908396037",
+              "name": "Nico Nico Douga"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Nico Nico Douga",
+              "id": "1034894313908396037",
+              "name": "Nico Nico Douga"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1293615037932646400",
+              "name": "YouTubers"
+            }
+          }
+        ],
+        "conversation_id": "2016471787140419926",
+        "created_at": "2026-01-28T11:21:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-28T12:21:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2016471787140419926"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 5,
+              "normalized_text": "幸福刑",
+              "probability": 0.8222,
+              "start": 3,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 105,
+              "start": 94,
+              "tag": "vocaloPost"
+            }
+          ],
+          "urls": [
+            {
+              "description": "なにが君のため？『プロジェクトセカイ カラフルステージ！ feat. 初音ミク』25時、ナイトコードで。への書き下ろし楽曲https://www.youtube.com/watch?v=pWc8oCbtGKc音楽と絵と動画　LonePihttps://lit.link/LonePi配信（まってね）",
+              "display_url": "youtube.com/watch?v=MlTQUS…",
+              "end": 58,
+              "expanded_url": "https://www.youtube.com/watch?v=MlTQUSFr-gw",
+              "images": [
+                {
+                  "height": 360,
+                  "url": "https://pbs.twimg.com/news_img/2016156210484150273/6_uqRApR?format=jpg&name=orig",
+                  "width": 480
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2016156210484150273/6_uqRApR?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 35,
+              "status": 200,
+              "title": "幸福刑 - LonePi feat.初音ミク",
+              "unwound_url": "https://www.youtube.com/watch?v=MlTQUSFr-gw",
+              "url": "https://t.co/LWqbtNuv3o"
+            },
+            {
+              "description": "【ライブ公開開始予定 2026/01/28 20:50開始】なにが君のため？『プロジェクトセカイ カラフルステージ！ feat. 初音ミク』25時、ナイトコードで。への書き下ろし楽曲https://www.youtube",
+              "display_url": "nicovideo.jp/watch/sm458835…",
+              "end": 92,
+              "expanded_url": "https://www.nicovideo.jp/watch/sm45883571",
+              "images": [
+                {
+                  "height": 720,
+                  "url": "https://pbs.twimg.com/news_img/2016471834573852672/WslPEj5Z?format=jpg&name=orig",
+                  "width": 1280
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2016471834573852672/WslPEj5Z?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 69,
+              "status": 200,
+              "title": "幸福刑 - LonePi feat.初音ミク",
+              "unwound_url": "https://live.nicovideo.jp/watch/lv349742339",
+              "url": "https://t.co/QrDzYc84SB"
+            },
+            {
+              "display_url": "pic.x.com/8lT24QhWhJ",
+              "end": 129,
+              "expanded_url": "https://x.com/LonePi_/status/2016471787140419926/video/1",
+              "media_key": "13_2016471671260274688",
+              "start": 106,
+              "url": "https://t.co/8lT24QhWhJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016471787140419926",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 942,
+          "impression_count": 144747,
+          "like_count": 9536,
+          "quote_count": 152,
+          "reply_count": 9,
+          "retweet_count": 2764
+        },
+        "reply_settings": "everyone",
+        "text": "新曲「幸福刑」投稿しました。\nこれは誰のため？  \n\nYouTube\nhttps://t.co/LWqbtNuv3o\n\nniconico\nhttps://t.co/QrDzYc84SB\n\n#vocaloPost https://t.co/8lT24QhWhJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-06T14:13:55.000Z",
+        "description": "中文/od/自伤/VOCALOID/音游 舞萌普通w53 纯种乐子人性别不明推上啥都有 会发泄情绪无需理会 私信互关欢迎 🚪40加微信纯绿可陪聊",
+        "id": "1964331185590718464",
+        "location": "Internet",
+        "name": "薄幸",
+        "pinned_tweet_id": "2003760156488986744",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015679257582964737/T8W4H246_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 58,
+          "following_count": 343,
+          "like_count": 4139,
+          "listed_count": 0,
+          "media_count": 48,
+          "tweet_count": 1323
+        },
+        "username": "breakcoreWTF",
+        "verified": false
+      },
+      {
+        "created_at": "2018-06-24T14:16:53.000Z",
+        "description": "ろねぴ　音楽と絵と動画 #LonePicture",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 24,
+                "start": 12,
+                "tag": "LonePicture"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/LonePi",
+                "end": 23,
+                "expanded_url": "https://lit.link/LonePi",
+                "start": 0,
+                "url": "https://t.co/AOoK8cTkwL"
+              }
+            ]
+          }
+        },
+        "id": "1010889503177768960",
+        "location": "ご連絡や各リンクはこちら→",
+        "name": "LonePi",
+        "pinned_tweet_id": "2004507488004243772",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1642043382234218496/gkSTmDzh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27741,
+          "following_count": 375,
+          "like_count": 11466,
+          "listed_count": 108,
+          "media_count": 553,
+          "tweet_count": 2484
+        },
+        "url": "https://t.co/AOoK8cTkwL",
+        "username": "LonePi_",
+        "verified": true
+      }
+    ]
+  }
+}

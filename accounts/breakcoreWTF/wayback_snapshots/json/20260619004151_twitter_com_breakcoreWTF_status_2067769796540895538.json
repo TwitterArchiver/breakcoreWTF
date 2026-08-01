@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2067364997072867328"
+      ],
+      "media_source_tweet_id": [
+        "2067365024251961812"
+      ]
+    },
+    "author_id": "1964331185590718464",
+    "conversation_id": "2067769796540895538",
+    "created_at": "2026-06-19T00:41:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-19T01:41:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067769796540895538"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1728331524179984384",
+          "start": 3,
+          "username": "kaerunrun123456"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/XEboC4v97l",
+          "end": 81,
+          "expanded_url": "https://x.com/kaerunrun123456/status/2067365024251961812/photo/1",
+          "media_key": "3_2067364997072867328",
+          "start": 58,
+          "url": "https://t.co/XEboC4v97l"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067769796540895538",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067365024251961812",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kaerunrun123456: これは鳴いた後のアモ\n文字が反射してたので塗りつぶし(๑•̀ㅂ•́)و✧ https://t.co/XEboC4v97l"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1523,
+        "media_key": "3_2067364997072867328",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLDBgu-a0AAat-g.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067364997072867328"
+          ],
+          "media_source_tweet_id": [
+            "2067365024251961812"
+          ]
+        },
+        "author_id": "1964331185590718464",
+        "conversation_id": "2067769796540895538",
+        "created_at": "2026-06-19T00:41:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T01:41:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067769796540895538"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1728331524179984384",
+              "start": 3,
+              "username": "kaerunrun123456"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/XEboC4v97l",
+              "end": 81,
+              "expanded_url": "https://x.com/kaerunrun123456/status/2067365024251961812/photo/1",
+              "media_key": "3_2067364997072867328",
+              "start": 58,
+              "url": "https://t.co/XEboC4v97l"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067769796540895538",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067365024251961812",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kaerunrun123456: これは鳴いた後のアモ\n文字が反射してたので塗りつぶし(๑•̀ㅂ•́)و✧ https://t.co/XEboC4v97l"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067364997072867328"
+          ]
+        },
+        "author_id": "1728331524179984384",
+        "conversation_id": "2067365024251961812",
+        "created_at": "2026-06-17T21:53:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T22:53:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067365024251961812"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XEboC4v97l",
+              "end": 60,
+              "expanded_url": "https://x.com/kaerunrun123456/status/2067365024251961812/photo/1",
+              "media_key": "3_2067364997072867328",
+              "start": 37,
+              "url": "https://t.co/XEboC4v97l"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067365024251961812",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 310,
+          "like_count": 40,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "これは鳴いた後のアモ\n文字が反射してたので塗りつぶし(๑•̀ㅂ•́)و✧ https://t.co/XEboC4v97l"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-06T14:13:55.000Z",
+        "description": "OD丨自伤丨Vocaloid丨音游丨友跨顺女\n喜欢爬宠 不卖药 非必要不回私信 我很穷欢迎投喂\n不喜欢的直接b 同类查成分回fo 取关请双取",
+        "id": "1964331185590718464",
+        "location": "颅内",
+        "name": "箸",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061439509125074944/Hf-Lim6c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 850,
+          "following_count": 710,
+          "like_count": 19138,
+          "listed_count": 0,
+          "media_count": 282,
+          "tweet_count": 5075
+        },
+        "url": "",
+        "username": "breakcoreWTF",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-25T08:35:43.000Z",
+        "description": "生き物＆ゲーム垢\nプロセカ(2026,1/18～)\n無言フォロー大歓迎です🐸",
+        "id": "1728331524179984384",
+        "name": "おたまじゃくし",
+        "pinned_tweet_id": "1998681153642049807",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050057945778733056/BZ0kY8w5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 290,
+          "following_count": 279,
+          "like_count": 19674,
+          "listed_count": 2,
+          "media_count": 176,
+          "tweet_count": 2907
+        },
+        "url": "",
+        "username": "kaerunrun123456",
+        "verified": false
+      }
+    ]
+  }
+}

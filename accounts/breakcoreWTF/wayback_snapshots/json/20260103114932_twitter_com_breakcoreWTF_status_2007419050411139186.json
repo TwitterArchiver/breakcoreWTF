@@ -1,0 +1,346 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2007387175885910018"
+      ],
+      "media_source_tweet_id": [
+        "2007387228042080557"
+      ]
+    },
+    "author_id": "1964331185590718464",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "description": "This entity includes all conversations for New Years Eve for all years.",
+          "id": "1319305164751163393",
+          "name": "New Years Eve"
+        }
+      },
+      {
+        "domain": {
+          "description": "Holidays like Christmas or Halloween",
+          "id": "119",
+          "name": "Holiday"
+        },
+        "entity": {
+          "description": "This entity includes all conversations for New Years Eve for all years.",
+          "id": "1319305164751163393",
+          "name": "New Years Eve"
+        }
+      }
+    ],
+    "conversation_id": "2007419050411139186",
+    "created_at": "2026-01-03T11:49:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-03T12:49:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2007419050411139186"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2799736118",
+          "start": 3,
+          "username": "hibino_000"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/JPgZ1F8mFj",
+          "end": 57,
+          "expanded_url": "https://x.com/hibino_000/status/2007387228042080557/photo/1",
+          "media_key": "3_2007387175885910018",
+          "start": 34,
+          "url": "https://t.co/JPgZ1F8mFj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2007419050411139186",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 433
+    },
+    "referenced_tweets": [
+      {
+        "id": "2007387228042080557",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hibino_000: あけましておめでとうございます⛩️ https://t.co/JPgZ1F8mFj"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1914,
+        "media_key": "3_2007387175885910018",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9usADlasAIge-3.jpg",
+        "width": 1322
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2007387175885910018"
+          ],
+          "media_source_tweet_id": [
+            "2007387228042080557"
+          ]
+        },
+        "author_id": "1964331185590718464",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for New Years Eve for all years.",
+              "id": "1319305164751163393",
+              "name": "New Years Eve"
+            }
+          },
+          {
+            "domain": {
+              "description": "Holidays like Christmas or Halloween",
+              "id": "119",
+              "name": "Holiday"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for New Years Eve for all years.",
+              "id": "1319305164751163393",
+              "name": "New Years Eve"
+            }
+          }
+        ],
+        "conversation_id": "2007419050411139186",
+        "created_at": "2026-01-03T11:49:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-03T12:49:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2007419050411139186"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2799736118",
+              "start": 3,
+              "username": "hibino_000"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/JPgZ1F8mFj",
+              "end": 57,
+              "expanded_url": "https://x.com/hibino_000/status/2007387228042080557/photo/1",
+              "media_key": "3_2007387175885910018",
+              "start": 34,
+              "url": "https://t.co/JPgZ1F8mFj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007419050411139186",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 433
+        },
+        "referenced_tweets": [
+          {
+            "id": "2007387228042080557",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hibino_000: あけましておめでとうございます⛩️ https://t.co/JPgZ1F8mFj"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2007387175885910018"
+          ]
+        },
+        "author_id": "2799736118",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for New Years Eve for all years.",
+              "id": "1319305164751163393",
+              "name": "New Years Eve"
+            }
+          },
+          {
+            "domain": {
+              "description": "Holidays like Christmas or Halloween",
+              "id": "119",
+              "name": "Holiday"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for New Years Eve for all years.",
+              "id": "1319305164751163393",
+              "name": "New Years Eve"
+            }
+          }
+        ],
+        "conversation_id": "2007387228042080557",
+        "created_at": "2026-01-03T09:43:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-03T10:43:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2007387228042080557"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JPgZ1F8mFj",
+              "end": 41,
+              "expanded_url": "https://x.com/hibino_000/status/2007387228042080557/photo/1",
+              "media_key": "3_2007387175885910018",
+              "start": 18,
+              "url": "https://t.co/JPgZ1F8mFj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007387228042080557",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 132,
+          "impression_count": 19271,
+          "like_count": 1631,
+          "quote_count": 1,
+          "reply_count": 8,
+          "retweet_count": 433
+        },
+        "reply_settings": "everyone",
+        "text": "あけましておめでとうございます⛩️ https://t.co/JPgZ1F8mFj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-06T14:13:55.000Z",
+        "description": "中文/od/VOCALOID/音游 纯种乐子人性别不明推上啥都有 会发泄情绪无需理会 私信互关欢迎",
+        "id": "1964331185590718464",
+        "location": "幻想郷",
+        "name": "━Σ(ﾟДﾟ|||)━",
+        "pinned_tweet_id": "2003760156488986744",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001729011576426496/HumNDWc3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 49,
+          "following_count": 307,
+          "like_count": 3386,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 995
+        },
+        "username": "breakcoreWTF",
+        "verified": false
+      },
+      {
+        "created_at": "2014-09-09T11:33:46.000Z",
+        "description": "aoi…\n\nアイコンは朧気(@oboroge_faint)さん\n┊　https://t.co/bIMzjSOIdl　┊　https://t.co/SUdbT2s3kA　┊　https://t.co/DZqRMaH7ps　┊",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 14,
+                "username": "oboroge_faint"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "skeb.jp/@hibino_000",
+                "end": 57,
+                "expanded_url": "http://skeb.jp/@hibino_000",
+                "start": 34,
+                "url": "https://t.co/bIMzjSOIdl"
+              },
+              {
+                "display_url": "hibino.fanbox.cc",
+                "end": 83,
+                "expanded_url": "http://hibino.fanbox.cc",
+                "start": 60,
+                "url": "https://t.co/SUdbT2s3kA"
+              },
+              {
+                "display_url": "lit.link/hibino000",
+                "end": 109,
+                "expanded_url": "https://lit.link/hibino000",
+                "start": 86,
+                "url": "https://t.co/DZqRMaH7ps"
+              }
+            ]
+          }
+        },
+        "id": "2799736118",
+        "name": "hibino",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1644651726233014272/wqg_q057_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16988,
+          "following_count": 95,
+          "like_count": 2077,
+          "listed_count": 183,
+          "media_count": 461,
+          "tweet_count": 2007
+        },
+        "username": "hibino_000",
+        "verified": false
+      }
+    ]
+  }
+}

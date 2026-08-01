@@ -1,0 +1,947 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1964331185590718464",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "Japanese musician",
+          "id": "1070731969623781376",
+          "name": "DECO*27"
+        }
+      },
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1104125539877412864",
+          "name": "Miku Hatsune"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A musician in the world, like Adele or Bob Dylan",
+          "id": "54",
+          "name": "Musician"
+        },
+        "entity": {
+          "description": "Japanese musician",
+          "id": "1070731969623781376",
+          "name": "DECO*27"
+        }
+      },
+      {
+        "domain": {
+          "description": "A category for a musical style, like Pop, Rock, or Rap",
+          "id": "55",
+          "name": "Music Genre"
+        },
+        "entity": {
+          "description": "Anime/Game ",
+          "id": "1138508942156345344",
+          "name": "Anime & game music"
+        }
+      },
+      {
+        "domain": {
+          "description": "A person or other being in a narrative work of art, like Tom Sawyer or Jon Snow",
+          "id": "122",
+          "name": "Fictional Character"
+        },
+        "entity": {
+          "id": "1104125539877412864",
+          "name": "Miku Hatsune"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Music and radio",
+          "id": "847524658970636288",
+          "name": "Music"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Japanese musician",
+          "id": "1070731969623781376",
+          "name": "DECO*27"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1104125539877412864",
+          "name": "Miku Hatsune"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Anime/Game ",
+          "id": "1138508942156345344",
+          "name": "Anime & game music"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1247236287485997056",
+          "name": "Vocaloid"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1339381554087223297",
+          "name": "Character design"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Drawing and sketching",
+          "id": "847869251595542528",
+          "name": "Drawing & illustration"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Drawing and sketching",
+          "id": "847869251595542528",
+          "name": "Drawing & illustration"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Visual Arts",
+          "id": "1046577790353428480",
+          "name": "Visual arts"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1265660441822281728",
+          "name": "Art"
+        }
+      }
+    ],
+    "conversation_id": "2000800605154300016",
+    "created_at": "2025-12-16T05:30:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-16T06:30:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2000800605154300016"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 37,
+          "normalized_text": "デビルじゃないもん",
+          "probability": 0.6499,
+          "start": 29,
+          "type": "Other"
+        },
+        {
+          "end": 101,
+          "normalized_text": "デビルじゃないもん",
+          "probability": 0.2302,
+          "start": 93,
+          "type": "Other"
+        },
+        {
+          "end": 112,
+          "normalized_text": "初音ミク",
+          "probability": 0.7566,
+          "start": 109,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "56027161",
+          "start": 3,
+          "username": "pinocchiop"
+        }
+      ],
+      "urls": [
+        {
+          "description": "デコミク LIVE starring 初音ミク『Hello』Produced by DECO*27 / OTOIRO2026年2月14日(土)開催決定！特設サイト: https://decomiku-live.comライブ公式X: https://x.com/DecoMiku_Live「堕」Listen & Do...",
+          "display_url": "youtu.be/lMEt3RdqB9Y",
+          "end": 136,
+          "expanded_url": "https://youtu.be/lMEt3RdqB9Y",
+          "images": [
+            {
+              "height": 720,
+              "url": "https://pbs.twimg.com/news_img/1999486307769393152/Q8kvJGiW?format=jpg&name=orig",
+              "width": 1280
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/1999486307769393152/Q8kvJGiW?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 113,
+          "status": 200,
+          "title": "DECO*27 x ピノキオピー - デビルじゃないもん feat. 初音ミク",
+          "unwound_url": "https://www.youtube.com/watch?v=lMEt3RdqB9Y&feature=youtu.be",
+          "url": "https://t.co/FRUZYuepJp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2000800605154300016",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2014
+    },
+    "referenced_tweets": [
+      {
+        "id": "1614200781984382976",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @pinocchiop: こちら、先日投稿した新曲「デビルじゃないもん」の\nピノキオピーミク 白悪魔キャラクターデザインのイラストです👿\n\nDECO*27 x ピノキオピー - デビルじゃないもん feat. 初音ミク\nhttps://t.co/FRUZYuepJp ht…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_1613723621838684161",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/FmUZFY1aAAEM4zb.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1964331185590718464",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Japanese musician",
+              "id": "1070731969623781376",
+              "name": "DECO*27"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A musician in the world, like Adele or Bob Dylan",
+              "id": "54",
+              "name": "Musician"
+            },
+            "entity": {
+              "description": "Japanese musician",
+              "id": "1070731969623781376",
+              "name": "DECO*27"
+            }
+          },
+          {
+            "domain": {
+              "description": "A category for a musical style, like Pop, Rock, or Rap",
+              "id": "55",
+              "name": "Music Genre"
+            },
+            "entity": {
+              "description": "Anime/Game ",
+              "id": "1138508942156345344",
+              "name": "Anime & game music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A person or other being in a narrative work of art, like Tom Sawyer or Jon Snow",
+              "id": "122",
+              "name": "Fictional Character"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Japanese musician",
+              "id": "1070731969623781376",
+              "name": "DECO*27"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Anime/Game ",
+              "id": "1138508942156345344",
+              "name": "Anime & game music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1247236287485997056",
+              "name": "Vocaloid"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1339381554087223297",
+              "name": "Character design"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          }
+        ],
+        "conversation_id": "2000800605154300016",
+        "created_at": "2025-12-16T05:30:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-16T06:30:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2000800605154300016"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 37,
+              "normalized_text": "デビルじゃないもん",
+              "probability": 0.6499,
+              "start": 29,
+              "type": "Other"
+            },
+            {
+              "end": 101,
+              "normalized_text": "デビルじゃないもん",
+              "probability": 0.2302,
+              "start": 93,
+              "type": "Other"
+            },
+            {
+              "end": 112,
+              "normalized_text": "初音ミク",
+              "probability": 0.7566,
+              "start": 109,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "56027161",
+              "start": 3,
+              "username": "pinocchiop"
+            }
+          ],
+          "urls": [
+            {
+              "description": "デコミク LIVE starring 初音ミク『Hello』Produced by DECO*27 / OTOIRO2026年2月14日(土)開催決定！特設サイト: https://decomiku-live.comライブ公式X: https://x.com/DecoMiku_Live「堕」Listen & Do...",
+              "display_url": "youtu.be/lMEt3RdqB9Y",
+              "end": 136,
+              "expanded_url": "https://youtu.be/lMEt3RdqB9Y",
+              "images": [
+                {
+                  "height": 720,
+                  "url": "https://pbs.twimg.com/news_img/1999486307769393152/Q8kvJGiW?format=jpg&name=orig",
+                  "width": 1280
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1999486307769393152/Q8kvJGiW?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 113,
+              "status": 200,
+              "title": "DECO*27 x ピノキオピー - デビルじゃないもん feat. 初音ミク",
+              "unwound_url": "https://www.youtube.com/watch?v=lMEt3RdqB9Y&feature=youtu.be",
+              "url": "https://t.co/FRUZYuepJp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000800605154300016",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2014
+        },
+        "referenced_tweets": [
+          {
+            "id": "1614200781984382976",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @pinocchiop: こちら、先日投稿した新曲「デビルじゃないもん」の\nピノキオピーミク 白悪魔キャラクターデザインのイラストです👿\n\nDECO*27 x ピノキオピー - デビルじゃないもん feat. 初音ミク\nhttps://t.co/FRUZYuepJp ht…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1613723621838684161"
+          ]
+        },
+        "author_id": "56027161",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Japanese musician",
+              "id": "1070731969623781376",
+              "name": "DECO*27"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A musician in the world, like Adele or Bob Dylan",
+              "id": "54",
+              "name": "Musician"
+            },
+            "entity": {
+              "description": "Japanese musician",
+              "id": "1070731969623781376",
+              "name": "DECO*27"
+            }
+          },
+          {
+            "domain": {
+              "description": "A category for a musical style, like Pop, Rock, or Rap",
+              "id": "55",
+              "name": "Music Genre"
+            },
+            "entity": {
+              "description": "Anime/Game ",
+              "id": "1138508942156345344",
+              "name": "Anime & game music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A person or other being in a narrative work of art, like Tom Sawyer or Jon Snow",
+              "id": "122",
+              "name": "Fictional Character"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Japanese musician",
+              "id": "1070731969623781376",
+              "name": "DECO*27"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Anime/Game ",
+              "id": "1138508942156345344",
+              "name": "Anime & game music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1247236287485997056",
+              "name": "Vocaloid"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1339381554087223297",
+              "name": "Character design"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          }
+        ],
+        "conversation_id": "1614200781984382976",
+        "created_at": "2023-01-14T10:00:31.000Z",
+        "edit_controls": {
+          "editable_until": "2023-01-14T10:30:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1614200781984382976"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 21,
+              "normalized_text": "デビルじゃないもん",
+              "probability": 0.6888,
+              "start": 13,
+              "type": "Other"
+            },
+            {
+              "end": 85,
+              "normalized_text": "デビルじゃないもん",
+              "probability": 0.282,
+              "start": 77,
+              "type": "Other"
+            },
+            {
+              "end": 96,
+              "normalized_text": "初音ミク",
+              "probability": 0.829,
+              "start": 93,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "description": "デコミク LIVE starring 初音ミク『Hello』Produced by DECO*27 / OTOIRO2026年2月14日(土)開催決定！特設サイト: https://decomiku-live.comライブ公式X: https://x.com/DecoMiku_Live「堕」Listen & Do...",
+              "display_url": "youtu.be/lMEt3RdqB9Y",
+              "end": 120,
+              "expanded_url": "https://youtu.be/lMEt3RdqB9Y",
+              "images": [
+                {
+                  "height": 720,
+                  "url": "https://pbs.twimg.com/news_img/1999486307769393152/Q8kvJGiW?format=jpg&name=orig",
+                  "width": 1280
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1999486307769393152/Q8kvJGiW?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 97,
+              "status": 200,
+              "title": "DECO*27 x ピノキオピー - デビルじゃないもん feat. 初音ミク",
+              "unwound_url": "https://www.youtube.com/watch?v=lMEt3RdqB9Y&feature=youtu.be",
+              "url": "https://t.co/FRUZYuepJp"
+            },
+            {
+              "display_url": "pic.x.com/OxraeLcRIn",
+              "end": 144,
+              "expanded_url": "https://x.com/pinocchiop/status/1614200781984382976/photo/1",
+              "media_key": "3_1613723621838684161",
+              "start": 121,
+              "url": "https://t.co/OxraeLcRIn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1614200781984382976",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 386,
+          "impression_count": 478602,
+          "like_count": 13598,
+          "quote_count": 49,
+          "reply_count": 17,
+          "retweet_count": 2014
+        },
+        "reply_settings": "everyone",
+        "text": "こちら、先日投稿した新曲「デビルじゃないもん」の\nピノキオピーミク 白悪魔キャラクターデザインのイラストです👿\n\nDECO*27 x ピノキオピー - デビルじゃないもん feat. 初音ミク\nhttps://t.co/FRUZYuepJp https://t.co/OxraeLcRIn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-06T14:13:55.000Z",
+        "description": "中文/od/VOCALOID/音游 纯种乐子人性别不明推上啥都有 私信互关欢迎 我有对象 我很喜欢他",
+        "id": "1964331185590718464",
+        "location": "翼天国",
+        "name": "━Σ(ﾟДﾟ|||)━",
+        "pinned_tweet_id": "1966517785367871718",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000605559452770304/jICiU7V-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 48,
+          "following_count": 262,
+          "like_count": 2594,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 672
+        },
+        "username": "breakcoreWTF",
+        "verified": false
+      },
+      {
+        "created_at": "2009-07-12T05:31:08.000Z",
+        "description": "曲作るし絵を描く\n\nYouTube: https://t.co/ZSHUi3ZYTG\nShop: https://t.co/uKkLyW62x6\nOfficial Website: https://t.co/JG47KnKUV9",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "youtube.com/user/pinocchio…",
+                "end": 42,
+                "expanded_url": "https://www.youtube.com/user/pinocchiopchannel",
+                "start": 19,
+                "url": "https://t.co/ZSHUi3ZYTG"
+              },
+              {
+                "display_url": "pinocchiop.booth.pm",
+                "end": 72,
+                "expanded_url": "https://pinocchiop.booth.pm/",
+                "start": 49,
+                "url": "https://t.co/uKkLyW62x6"
+              },
+              {
+                "display_url": "pinocchiop.com",
+                "end": 114,
+                "expanded_url": "https://pinocchiop.com/",
+                "start": 91,
+                "url": "https://t.co/JG47KnKUV9"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/pinocchiop",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/pinocchiop",
+                "start": 0,
+                "url": "https://t.co/nUaGzgdstv"
+              }
+            ]
+          }
+        },
+        "id": "56027161",
+        "location": "悲しい埼玉(出身)",
+        "name": "ピノキオピー",
+        "pinned_tweet_id": "1993606616835600648",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1692066434829123584/dUAxMRna_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 568004,
+          "following_count": 1042,
+          "like_count": 17313,
+          "listed_count": 2956,
+          "media_count": 1939,
+          "tweet_count": 62370
+        },
+        "url": "https://t.co/nUaGzgdstv",
+        "username": "pinocchiop",
+        "verified": true
+      }
+    ]
+  }
+}

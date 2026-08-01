@@ -1,0 +1,301 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2064129614226616320"
+      ],
+      "media_source_tweet_id": [
+        "2064129686829986073"
+      ]
+    },
+    "author_id": "1964331185590718464",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2064336747534995786",
+    "created_at": "2026-06-09T13:20:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-09T14:20:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064336747534995786"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1447679519767339012",
+          "start": 3,
+          "username": "En_jupiter_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/mVspJcPXjE",
+          "end": 82,
+          "expanded_url": "https://x.com/En_jupiter_/status/2064129686829986073/video/1",
+          "media_key": "13_2064129614226616320",
+          "start": 59,
+          "url": "https://t.co/mVspJcPXjE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064336747534995786",
+    "lang": "es",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1722
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064129686829986073",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @En_jupiter_: \"No puedo salir tengo planes\"\n\nMis planes https://t.co/mVspJcPXjE"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 16085,
+        "height": 732,
+        "media_key": "13_2064129614226616320",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2064129614226616320/img/hbnVtlg_6kWYV9iL.jpg",
+        "public_metrics": {
+          "view_count": 153402
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2064129614226616320/vid/avc1/320x398/b4htb63cdMHNqnHA.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2064129614226616320/vid/avc1/480x598/KeIIvob__gsVKQfR.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2064129614226616320/vid/avc1/586x732/CHkT_vgDIUZl3bjY.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2064129614226616320/pl/YL0QOgK8qpcbAsKN.m3u8?v=cfc"
+          }
+        ],
+        "width": 586
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2064129614226616320"
+          ],
+          "media_source_tweet_id": [
+            "2064129686829986073"
+          ]
+        },
+        "author_id": "1964331185590718464",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2064336747534995786",
+        "created_at": "2026-06-09T13:20:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T14:20:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064336747534995786"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1447679519767339012",
+              "start": 3,
+              "username": "En_jupiter_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/mVspJcPXjE",
+              "end": 82,
+              "expanded_url": "https://x.com/En_jupiter_/status/2064129686829986073/video/1",
+              "media_key": "13_2064129614226616320",
+              "start": 59,
+              "url": "https://t.co/mVspJcPXjE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064336747534995786",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1722
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064129686829986073",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @En_jupiter_: \"No puedo salir tengo planes\"\n\nMis planes https://t.co/mVspJcPXjE"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2064129614226616320"
+          ]
+        },
+        "author_id": "1447679519767339012",
+        "conversation_id": "2064129686829986073",
+        "created_at": "2026-06-08T23:37:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T00:37:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064129686829986073"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mVspJcPXjE",
+              "end": 65,
+              "expanded_url": "https://x.com/En_jupiter_/status/2064129686829986073/video/1",
+              "media_key": "13_2064129614226616320",
+              "start": 42,
+              "url": "https://t.co/mVspJcPXjE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064129686829986073",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1753,
+          "impression_count": 417103,
+          "like_count": 12050,
+          "quote_count": 68,
+          "reply_count": 20,
+          "retweet_count": 1722
+        },
+        "reply_settings": "everyone",
+        "text": "\"No puedo salir tengo planes\"\n\nMis planes https://t.co/mVspJcPXjE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-06T14:13:55.000Z",
+        "description": "OD丨自伤丨Vocaloid丨友跨顺女\n喜欢爬宠 不卖药 非必要不回私信\n不喜欢的直接b 同类查成分回fo 取关请双取",
+        "id": "1964331185590718464",
+        "location": "颅内",
+        "name": "箸",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061439509125074944/Hf-Lim6c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 761,
+          "following_count": 661,
+          "like_count": 16153,
+          "listed_count": 0,
+          "media_count": 232,
+          "tweet_count": 4632
+        },
+        "username": "breakcoreWTF",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-11T21:44:45.000Z",
+        "description": "Pérdido, Tratando de recuperarme de todo.\n\nPUBLICIDAD DM",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "facebook.com/profile.php?id…",
+                "end": 23,
+                "expanded_url": "http://www.facebook.com/profile.php?id=61567257928979&mibextid=ZbWKwL",
+                "start": 0,
+                "url": "https://t.co/lbeOIbAMrC"
+              }
+            ]
+          }
+        },
+        "id": "1447679519767339012",
+        "location": "Mexico, ME",
+        "name": "En Júpiter",
+        "pinned_tweet_id": "2056963069566243273",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1516561356681629697/TOslZpKO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1209157,
+          "following_count": 33,
+          "like_count": 19449,
+          "listed_count": 704,
+          "media_count": 15362,
+          "tweet_count": 24365
+        },
+        "url": "https://t.co/lbeOIbAMrC",
+        "username": "En_jupiter_",
+        "verified": true
+      }
+    ]
+  }
+}

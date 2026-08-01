@@ -1,0 +1,278 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1964331185590718464",
+    "conversation_id": "2016642097345155287",
+    "created_at": "2026-01-28T22:38:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-28T23:38:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2016642097345155287"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/trg_maimai/sta…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/trg_maimai/status/2016562669445403004",
+          "start": 5,
+          "url": "https://t.co/97WUSo7Wjf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2016642097345155287",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2016562669445403004",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "好可爱哥 https://t.co/97WUSo7Wjf"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 11470,
+        "height": 1920,
+        "media_key": "13_2016562426221907976",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2016562426221907976/img/GRhm4rMvkAXzujqz.jpg",
+        "public_metrics": {
+          "view_count": 836
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2016562426221907976/vid/avc1/720x1280/y3VBHhsEk7Wm73Mw.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2016562426221907976/pl/5ChMUM_1iyMpjSsz.m3u8?v=638"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2016562426221907976/vid/avc1/480x852/CFVOLAKy2bB4DDWu.mp4"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2016562426221907976/vid/avc1/320x568/VeX82H77kRQzdmYZ.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2016562426221907976/vid/avc1/1080x1920/SY80J9zd77PgW1ya.mp4"
+          }
+        ],
+        "width": 1080
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2016562426389680132",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_xE17RbUAQl9nB.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2016562426230276096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_xE16rbAAAC4z5.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1964331185590718464",
+        "conversation_id": "2016642097345155287",
+        "created_at": "2026-01-28T22:38:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-28T23:38:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2016642097345155287"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/trg_maimai/sta…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/trg_maimai/status/2016562669445403004",
+              "start": 5,
+              "url": "https://t.co/97WUSo7Wjf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016642097345155287",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016562669445403004",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "好可爱哥 https://t.co/97WUSo7Wjf"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2016562426221907976",
+            "3_2016562426389680132",
+            "3_2016562426230276096"
+          ]
+        },
+        "author_id": "1568630739662696448",
+        "conversation_id": "2016562669445403004",
+        "created_at": "2026-01-28T17:23:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-28T18:23:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2016562669445403004"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GYWPURdurZ",
+              "end": 23,
+              "expanded_url": "https://x.com/trg_maimai/status/2016562669445403004/video/1",
+              "media_key": "13_2016562426221907976",
+              "start": 0,
+              "url": "https://t.co/GYWPURdurZ"
+            },
+            {
+              "display_url": "pic.x.com/GYWPURdurZ",
+              "end": 23,
+              "expanded_url": "https://x.com/trg_maimai/status/2016562669445403004/video/1",
+              "media_key": "3_2016562426389680132",
+              "start": 0,
+              "url": "https://t.co/GYWPURdurZ"
+            },
+            {
+              "display_url": "pic.x.com/GYWPURdurZ",
+              "end": 23,
+              "expanded_url": "https://x.com/trg_maimai/status/2016562669445403004/video/1",
+              "media_key": "3_2016562426230276096",
+              "start": 0,
+              "url": "https://t.co/GYWPURdurZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016562669445403004",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 1987,
+          "like_count": 75,
+          "quote_count": 2,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/GYWPURdurZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-06T14:13:55.000Z",
+        "description": "中文/od/自伤/友跨/VOCALOID/音游 舞萌普通w53 纯种乐子人 性别不公开 推上啥都有 无意义废话与发泄或者你讨厌的东西无需理会 关心我的任何负能量只会给我带来困扰 我不想在推特都做不到口无遮拦 互关欢迎 🚪40加微信纯绿可陪聊",
+        "id": "1964331185590718464",
+        "location": "Internet",
+        "name": "薄幸",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015679257582964737/T8W4H246_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 64,
+          "following_count": 351,
+          "like_count": 4314,
+          "listed_count": 0,
+          "media_count": 49,
+          "tweet_count": 1382
+        },
+        "username": "breakcoreWTF",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-10T16:01:37.000Z",
+        "description": "maimai player from Thailand 🇹🇭, KoP6th 1st runner up 🥈",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@trg_maimai",
+                "end": 23,
+                "expanded_url": "https://youtube.com/@trg_maimai",
+                "start": 0,
+                "url": "https://t.co/LnN1vle8Rb"
+              }
+            ]
+          }
+        },
+        "id": "1568630739662696448",
+        "name": "TRG",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1673207136757878785/Ll1Gic7t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13230,
+          "following_count": 447,
+          "like_count": 5296,
+          "listed_count": 10,
+          "media_count": 643,
+          "tweet_count": 1280
+        },
+        "url": "https://t.co/LnN1vle8Rb",
+        "username": "trg_maimai",
+        "verified": true
+      }
+    ]
+  }
+}

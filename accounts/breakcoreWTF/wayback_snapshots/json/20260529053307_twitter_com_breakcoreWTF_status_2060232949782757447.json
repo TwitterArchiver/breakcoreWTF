@@ -1,0 +1,187 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1964331185590718464",
+    "conversation_id": "2060232949782757447",
+    "created_at": "2026-05-29T05:33:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T06:33:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060232949782757447"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1553278286796451840",
+          "start": 3,
+          "username": "XuanZai12138"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060232949782757447",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 41
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059997732387856394",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @XuanZai12138: 我靠我突然发现一千个哈姆雷特有两千个睾丸"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1964331185590718464",
+        "conversation_id": "2060232949782757447",
+        "created_at": "2026-05-29T05:33:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T06:33:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060232949782757447"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1553278286796451840",
+              "start": 3,
+              "username": "XuanZai12138"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060232949782757447",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 41
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059997732387856394",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @XuanZai12138: 我靠我突然发现一千个哈姆雷特有两千个睾丸"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1553278286796451840",
+        "conversation_id": "2059997732387856394",
+        "created_at": "2026-05-28T13:58:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T14:58:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059997732387856394"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2059997732387856394",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 12,
+          "impression_count": 37860,
+          "like_count": 857,
+          "quote_count": 15,
+          "reply_count": 91,
+          "retweet_count": 41
+        },
+        "reply_settings": "everyone",
+        "text": "我靠我突然发现一千个哈姆雷特有两千个睾丸"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-06T14:13:55.000Z",
+        "description": "OD丨自伤丨Vocaloid丨音游丨友跨顺女\n不喜欢的直接b 同类回fo 取关请双取",
+        "id": "1964331185590718464",
+        "location": "颅内",
+        "name": "箸",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059045985826078721/d21n6gXC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 648,
+          "following_count": 586,
+          "like_count": 13654,
+          "listed_count": 0,
+          "media_count": 187,
+          "tweet_count": 4023
+        },
+        "username": "breakcoreWTF",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-30T07:16:29.000Z",
+        "description": "此账号皮下是一个有躯体化的活珠子丨性别男 取向男\n接占卜烧香点蜡法事 塔罗师从龙女 家是出马的\n⬆️广告营业发在：@LeviCha61174973",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 73,
+                "start": 57,
+                "username": "LeviCha61174973"
+              }
+            ]
+          }
+        },
+        "id": "1553278286796451840",
+        "location": "碎碎念的地方 别骂我",
+        "name": "十九岁帅到邻居想报警",
+        "pinned_tweet_id": "2039733988387139754",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060196549502902272/SIuhaFqP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1406,
+          "following_count": 117,
+          "like_count": 9939,
+          "listed_count": 8,
+          "media_count": 296,
+          "tweet_count": 3850
+        },
+        "username": "XuanZai12138",
+        "verified": false
+      }
+    ]
+  }
+}

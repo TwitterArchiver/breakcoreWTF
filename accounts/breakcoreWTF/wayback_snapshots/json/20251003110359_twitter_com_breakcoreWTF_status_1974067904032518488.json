@@ -1,0 +1,325 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1914331805773381632"
+      ],
+      "media_source_tweet_id": [
+        "1914331911432126950"
+      ]
+    },
+    "author_id": "1964331185590718464",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1974067904032518488",
+    "created_at": "2025-10-03T11:03:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-03T12:03:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1974067904032518488"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1182428825633738752",
+          "start": 3,
+          "username": "NY_channel_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ZgK8ZwT0wS",
+          "end": 54,
+          "expanded_url": "https://x.com/NY_channel_/status/1914331911432126950/video/1",
+          "media_key": "13_1914331805773381632",
+          "start": 31,
+          "url": "https://t.co/ZgK8ZwT0wS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1974067904032518488",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1094
+    },
+    "referenced_tweets": [
+      {
+        "id": "1914331911432126950",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @NY_channel_: 全界隈人が好きな曲作ってる https://t.co/ZgK8ZwT0wS"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 54760,
+        "height": 590,
+        "media_key": "13_1914331805773381632",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1914331805773381632/img/arCq5O4dLCRuyWDB.jpg",
+        "public_metrics": {
+          "view_count": 149470
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1914331805773381632/vid/avc1/584x270/cJdcnikjBwYKfv3e.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1914331805773381632/vid/avc1/780x360/sk_Zr4avd6XPAuQz.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1914331805773381632/vid/avc1/1280x590/hN1a3gwo8j7O_Zku.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1914331805773381632/pl/VcWOKhObKvth7MkJ.m3u8?tag=14&v=cfc"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1914331805773381632"
+          ],
+          "media_source_tweet_id": [
+            "1914331911432126950"
+          ]
+        },
+        "author_id": "1964331185590718464",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1974067904032518488",
+        "created_at": "2025-10-03T11:03:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-03T12:03:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1974067904032518488"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1182428825633738752",
+              "start": 3,
+              "username": "NY_channel_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZgK8ZwT0wS",
+              "end": 54,
+              "expanded_url": "https://x.com/NY_channel_/status/1914331911432126950/video/1",
+              "media_key": "13_1914331805773381632",
+              "start": 31,
+              "url": "https://t.co/ZgK8ZwT0wS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974067904032518488",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1094
+        },
+        "referenced_tweets": [
+          {
+            "id": "1914331911432126950",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @NY_channel_: 全界隈人が好きな曲作ってる https://t.co/ZgK8ZwT0wS"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1914331805773381632"
+          ]
+        },
+        "author_id": "1182428825633738752",
+        "conversation_id": "1914331911432126950",
+        "created_at": "2025-04-21T14:54:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-21T15:54:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1914331911432126950"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZgK8ZwT0wS",
+              "end": 37,
+              "expanded_url": "https://x.com/NY_channel_/status/1914331911432126950/video/1",
+              "media_key": "13_1914331805773381632",
+              "start": 14,
+              "url": "https://t.co/ZgK8ZwT0wS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1914331911432126950",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2052,
+          "impression_count": 384361,
+          "like_count": 9933,
+          "quote_count": 44,
+          "reply_count": 12,
+          "retweet_count": 1094
+        },
+        "reply_settings": "everyone",
+        "text": "全界隈人が好きな曲作ってる https://t.co/ZgK8ZwT0wS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-06T14:13:55.000Z",
+        "description": "中文/od/自残/精神病/网蛆/VOCALOID/音游/舞萌w43/中二14.9/世界计划 无底线无雷点无素质 含暴论/地域黑/辱男女/发情等成分 私信互关欢迎 我有对象 我很喜欢他",
+        "id": "1964331185590718464",
+        "location": "翼天国",
+        "name": "💊人工時代完全犯罪",
+        "pinned_tweet_id": "1966517785367871718",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1964333475118665733/qxlL_t3T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35,
+          "following_count": 214,
+          "like_count": 1452,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 343
+        },
+        "username": "breakcoreWTF",
+        "verified": false
+      },
+      {
+        "created_at": "2019-10-10T22:53:43.000Z",
+        "description": "作曲┊サブ@Murasaki372┊ボカロ置場@NY_Murasaki_ 作曲依頼はskebのみ→https://t.co/4agXVkVL4a",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 5,
+                "username": "Murasaki372"
+              },
+              {
+                "end": 36,
+                "start": 23,
+                "username": "NY_Murasaki_"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "skeb.jp/@NY_channel_",
+                "end": 72,
+                "expanded_url": "https://skeb.jp/@NY_channel_",
+                "start": 49,
+                "url": "https://t.co/4agXVkVL4a"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@nychannel-mur…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/@nychannel-murasaki",
+                "start": 0,
+                "url": "https://t.co/HwfSleBqi0"
+              }
+            ]
+          }
+        },
+        "id": "1182428825633738752",
+        "location": "自分の視る世界を音で表現したい",
+        "name": "NY",
+        "pinned_tweet_id": "1971470681369084099",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1743213621851914240/HWBV-anG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5763,
+          "following_count": 275,
+          "like_count": 91939,
+          "listed_count": 40,
+          "media_count": 8946,
+          "tweet_count": 110978
+        },
+        "url": "https://t.co/HwfSleBqi0",
+        "username": "NY_channel_",
+        "verified": false
+      }
+    ]
+  }
+}

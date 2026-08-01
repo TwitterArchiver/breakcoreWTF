@@ -1,0 +1,112 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2031370772678320128",
+        "3_2031370772661571584"
+      ]
+    },
+    "author_id": "1964331185590718464",
+    "conversation_id": "2031370809621754007",
+    "created_at": "2026-03-10T14:05:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-10T15:05:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2031370809621754007"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/21uyOwZSuS",
+          "end": 27,
+          "expanded_url": "https://x.com/breakcoreWTF/status/2031370809621754007/photo/1",
+          "media_key": "3_2031370772678320128",
+          "start": 4,
+          "url": "https://t.co/21uyOwZSuS"
+        },
+        {
+          "display_url": "pic.x.com/21uyOwZSuS",
+          "end": 27,
+          "expanded_url": "https://x.com/breakcoreWTF/status/2031370809621754007/photo/1",
+          "media_key": "3_2031370772661571584",
+          "start": 4,
+          "url": "https://t.co/21uyOwZSuS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2031370809621754007",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "舒服呀 https://t.co/21uyOwZSuS"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2031370809621754007].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2031370809621754007",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2031370809621754007"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2031370772678320128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDDg9ICaIAAAZ6b.jpg",
+        "width": 1538
+      },
+      {
+        "height": 1538,
+        "media_key": "3_2031370772661571584",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDDg9H-akAAGAl_.jpg",
+        "width": 2048
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-06T14:13:55.000Z",
+        "description": "OD丨自伤丨Vocaloid丨音游丨友跨顺女丨少关心我\n不喜欢的直接b 推特是垃圾桶口无遮拦 同类回fo",
+        "id": "1964331185590718464",
+        "location": "🚪50/88 同类熟推免",
+        "name": "箸",
+        "pinned_tweet_id": "2024039744276189189",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019848796881186816/pdjXkx-3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 717,
+          "following_count": 608,
+          "like_count": 13057,
+          "listed_count": 0,
+          "media_count": 179,
+          "tweet_count": 3755
+        },
+        "username": "breakcoreWTF",
+        "verified": false
+      }
+    ]
+  }
+}

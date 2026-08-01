@@ -1,0 +1,279 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2073347778290532352"
+      ],
+      "media_source_tweet_id": [
+        "2073347847836336443"
+      ]
+    },
+    "author_id": "1964331185590718464",
+    "conversation_id": "2073582274243920119",
+    "created_at": "2026-07-05T01:38:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-05T02:38:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073582274243920119"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 27,
+          "start": 19,
+          "tag": "eviljax"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1684167066742583296",
+          "start": 3,
+          "username": "gluttonyWerdo"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/RuUN4S8BZp",
+          "end": 51,
+          "expanded_url": "https://x.com/gluttonyWerdo/status/2073347847836336443/photo/1",
+          "media_key": "3_2073347778290532352",
+          "start": 28,
+          "url": "https://t.co/RuUN4S8BZp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073582274243920119",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 324
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073347847836336443",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @gluttonyWerdo: #eviljax https://t.co/RuUN4S8BZp"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1035,
+        "media_key": "3_2073347778290532352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMYC0bzaQAAMG1m.jpg",
+        "width": 666
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073347778290532352"
+          ],
+          "media_source_tweet_id": [
+            "2073347847836336443"
+          ]
+        },
+        "author_id": "1964331185590718464",
+        "conversation_id": "2073582274243920119",
+        "created_at": "2026-07-05T01:38:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T02:38:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073582274243920119"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 27,
+              "start": 19,
+              "tag": "eviljax"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1684167066742583296",
+              "start": 3,
+              "username": "gluttonyWerdo"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/RuUN4S8BZp",
+              "end": 51,
+              "expanded_url": "https://x.com/gluttonyWerdo/status/2073347847836336443/photo/1",
+              "media_key": "3_2073347778290532352",
+              "start": 28,
+              "url": "https://t.co/RuUN4S8BZp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073582274243920119",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 324
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073347847836336443",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @gluttonyWerdo: #eviljax https://t.co/RuUN4S8BZp"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073347778290532352"
+          ]
+        },
+        "author_id": "1684167066742583296",
+        "conversation_id": "2073347847836336443",
+        "created_at": "2026-07-04T10:07:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T11:07:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073347847836336443"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 8,
+              "start": 0,
+              "tag": "eviljax"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/RuUN4S8BZp",
+              "end": 32,
+              "expanded_url": "https://x.com/gluttonyWerdo/status/2073347847836336443/photo/1",
+              "media_key": "3_2073347778290532352",
+              "start": 9,
+              "url": "https://t.co/RuUN4S8BZp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073347847836336443",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 433,
+          "impression_count": 20277,
+          "like_count": 3074,
+          "quote_count": 8,
+          "reply_count": 10,
+          "retweet_count": 324
+        },
+        "reply_settings": "everyone",
+        "text": "#eviljax https://t.co/RuUN4S8BZp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-06T14:13:55.000Z",
+        "description": "OD丨自伤丨Vocaloid丨音游丨LGBTQ+friendly\n喜欢爬宠 不卖药 非必要不回私信 我很穷欢迎投喂\n不喜欢的直接b 同类查成分回fo 取关请双取",
+        "id": "1964331185590718464",
+        "location": "颅内",
+        "name": "箸",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071376088018956288/SAB5MTfr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 884,
+          "following_count": 737,
+          "like_count": 22456,
+          "listed_count": 0,
+          "media_count": 309,
+          "tweet_count": 5390
+        },
+        "url": "",
+        "username": "breakcoreWTF",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-26T11:42:04.000Z",
+        "description": "Multifandom, occasional suggestiveness, body horror & gore #evilfunnybunny",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 74,
+                "start": 59,
+                "tag": "evilfunnybunny"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "tiktok.com/@gluttoniousmo…",
+                "end": 23,
+                "expanded_url": "http://www.tiktok.com/@gluttoniousmonster",
+                "start": 0,
+                "url": "https://t.co/oMDwZYChrY"
+              }
+            ]
+          }
+        },
+        "id": "1684167066742583296",
+        "name": "Guily",
+        "pinned_tweet_id": "2062526684407210189",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038143213052346369/6vEm27rR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4889,
+          "following_count": 59,
+          "like_count": 16099,
+          "listed_count": 2,
+          "media_count": 131,
+          "tweet_count": 845
+        },
+        "url": "https://t.co/oMDwZYChrY",
+        "username": "gluttonyWerdo",
+        "verified": false
+      }
+    ]
+  }
+}

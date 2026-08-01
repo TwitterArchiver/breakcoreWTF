@@ -1,0 +1,282 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2060010993250652161"
+      ],
+      "media_source_tweet_id": [
+        "2060301372055241122"
+      ]
+    },
+    "author_id": "1964331185590718464",
+    "conversation_id": "2060634437600395447",
+    "created_at": "2026-05-30T08:08:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T09:08:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060634437600395447"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1782758250867466240",
+          "start": 3,
+          "username": "test_norma1"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/P57FQqB09x",
+          "end": 40,
+          "expanded_url": "https://x.com/test_norma1/status/2060301372055241122/video/1",
+          "media_key": "13_2060010993250652161",
+          "start": 17,
+          "url": "https://t.co/P57FQqB09x"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060634437600395447",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4020
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060301372055241122",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @test_norma1: https://t.co/P57FQqB09x"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 7174,
+        "height": 720,
+        "media_key": "13_2060010993250652161",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2060010993250652161/img/Ywde7sjOEdn12cUW.jpg",
+        "public_metrics": {
+          "view_count": 253961
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2060010993250652161/vid/avc1/336x270/xul38JQDBcRKjP2Z.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2060010993250652161/vid/avc1/450x360/irz26Z_rnwZ4Am-x.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2060010993250652161/vid/avc1/900x720/O6T2vxuTPvJbMgyu.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2060010993250652161/pl/9IzSpcH9e7_rs_nf.m3u8?tag=14"
+          }
+        ],
+        "width": 900
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2060010993250652161"
+          ],
+          "media_source_tweet_id": [
+            "2060301372055241122"
+          ]
+        },
+        "author_id": "1964331185590718464",
+        "conversation_id": "2060634437600395447",
+        "created_at": "2026-05-30T08:08:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T09:08:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060634437600395447"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1782758250867466240",
+              "start": 3,
+              "username": "test_norma1"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/P57FQqB09x",
+              "end": 40,
+              "expanded_url": "https://x.com/test_norma1/status/2060301372055241122/video/1",
+              "media_key": "13_2060010993250652161",
+              "start": 17,
+              "url": "https://t.co/P57FQqB09x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060634437600395447",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4020
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060301372055241122",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @test_norma1: https://t.co/P57FQqB09x"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2060010993250652161"
+          ]
+        },
+        "author_id": "1782758250867466240",
+        "conversation_id": "2060301372055241122",
+        "created_at": "2026-05-29T10:05:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T11:05:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060301372055241122"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/P57FQqB09x",
+              "end": 23,
+              "expanded_url": "https://x.com/test_norma1/status/2060301372055241122/video/1",
+              "media_key": "13_2060010993250652161",
+              "start": 0,
+              "url": "https://t.co/P57FQqB09x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060301372055241122",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5753,
+          "impression_count": 527624,
+          "like_count": 40114,
+          "quote_count": 109,
+          "reply_count": 59,
+          "retweet_count": 4020
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/P57FQqB09x"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-06T14:13:55.000Z",
+        "description": "OD丨自伤丨Vocaloid丨音游丨友跨顺女\n不喜欢的直接b 同类回fo 取关请双取",
+        "id": "1964331185590718464",
+        "location": "颅内",
+        "name": "箸",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059045985826078721/d21n6gXC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 648,
+          "following_count": 587,
+          "like_count": 13721,
+          "listed_count": 0,
+          "media_count": 190,
+          "tweet_count": 4050
+        },
+        "username": "breakcoreWTF",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-23T13:07:55.000Z",
+        "description": "イラスト、ゲーム制作をします　Creation of illustrations and indie games ( tumblr→ https://t.co/jyK3ure137 )",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "tumblr.com/test-norma1",
+                "end": 90,
+                "expanded_url": "https://www.tumblr.com/test-norma1",
+                "start": 67,
+                "url": "https://t.co/jyK3ure137"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "testnormal.com",
+                "end": 23,
+                "expanded_url": "http://testnormal.com",
+                "start": 0,
+                "url": "https://t.co/nqaHHyZi7f"
+              }
+            ]
+          }
+        },
+        "id": "1782758250867466240",
+        "name": "手スト",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984596309106683904/gLkvrkJE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5064,
+          "following_count": 2,
+          "like_count": 4062,
+          "listed_count": 18,
+          "media_count": 81,
+          "tweet_count": 81
+        },
+        "url": "https://t.co/nqaHHyZi7f",
+        "username": "test_norma1",
+        "verified": false
+      }
+    ]
+  }
+}

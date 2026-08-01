@@ -1,0 +1,433 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2022332553517248512"
+      ],
+      "media_source_tweet_id": [
+        "2022581584851849239"
+      ]
+    },
+    "author_id": "1964331185590718464",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Drawing and sketching",
+          "id": "847869251595542528",
+          "name": "Drawing & illustration"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Drawing and sketching",
+          "id": "847869251595542528",
+          "name": "Drawing & illustration"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Visual Arts",
+          "id": "1046577790353428480",
+          "name": "Visual arts"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1265660441822281728",
+          "name": "Art"
+        }
+      }
+    ],
+    "conversation_id": "2022767308985278838",
+    "created_at": "2026-02-14T20:18:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-14T21:18:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2022767308985278838"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 43,
+          "start": 34,
+          "tag": "ツユファンアート"
+        },
+        {
+          "end": 52,
+          "start": 44,
+          "tag": "アンダーキッズ"
+        },
+        {
+          "end": 58,
+          "start": 53,
+          "tag": "イラスト"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2018005629529640962",
+          "start": 3,
+          "username": "say04gure"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/PZ6xYYDjTk",
+          "end": 82,
+          "expanded_url": "https://x.com/say04gure/status/2022581584851849239/photo/1",
+          "media_key": "3_2022332553517248512",
+          "start": 59,
+          "url": "https://t.co/PZ6xYYDjTk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022767308985278838",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 189
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022581584851849239",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @say04gure: 誰でもいい  嘘でもいいから認めて？\n#ツユファンアート\n#アンダーキッズ\n#イラスト https://t.co/PZ6xYYDjTk"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1600,
+        "media_key": "3_2022332553517248512",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBDEvh4asAAopqn.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2022332553517248512"
+          ],
+          "media_source_tweet_id": [
+            "2022581584851849239"
+          ]
+        },
+        "author_id": "1964331185590718464",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          }
+        ],
+        "conversation_id": "2022767308985278838",
+        "created_at": "2026-02-14T20:18:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-14T21:18:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022767308985278838"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 43,
+              "start": 34,
+              "tag": "ツユファンアート"
+            },
+            {
+              "end": 52,
+              "start": 44,
+              "tag": "アンダーキッズ"
+            },
+            {
+              "end": 58,
+              "start": 53,
+              "tag": "イラスト"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2018005629529640962",
+              "start": 3,
+              "username": "say04gure"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/PZ6xYYDjTk",
+              "end": 82,
+              "expanded_url": "https://x.com/say04gure/status/2022581584851849239/photo/1",
+              "media_key": "3_2022332553517248512",
+              "start": 59,
+              "url": "https://t.co/PZ6xYYDjTk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022767308985278838",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 189
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022581584851849239",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @say04gure: 誰でもいい  嘘でもいいから認めて？\n#ツユファンアート\n#アンダーキッズ\n#イラスト https://t.co/PZ6xYYDjTk"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2022332553517248512"
+          ]
+        },
+        "author_id": "2018005629529640962",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          }
+        ],
+        "conversation_id": "2022581584851849239",
+        "created_at": "2026-02-14T08:00:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-14T09:00:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022581584851849239"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 28,
+              "start": 19,
+              "tag": "ツユファンアート"
+            },
+            {
+              "end": 37,
+              "start": 29,
+              "tag": "アンダーキッズ"
+            },
+            {
+              "end": 43,
+              "start": 38,
+              "tag": "イラスト"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/PZ6xYYDjTk",
+              "end": 67,
+              "expanded_url": "https://x.com/say04gure/status/2022581584851849239/photo/1",
+              "media_key": "3_2022332553517248512",
+              "start": 44,
+              "url": "https://t.co/PZ6xYYDjTk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022581584851849239",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 83,
+          "impression_count": 17038,
+          "like_count": 1203,
+          "quote_count": 11,
+          "reply_count": 1,
+          "retweet_count": 189
+        },
+        "reply_settings": "everyone",
+        "text": "誰でもいい  嘘でもいいから認めて？\n#ツユファンアート\n#アンダーキッズ\n#イラスト https://t.co/PZ6xYYDjTk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-06T14:13:55.000Z",
+        "description": "OD丨自伤丨Vocaloid丨音游丨友跨顺女丨少关心我\n不喜欢的直接b 推特是垃圾桶口无遮拦 同类回fo",
+        "id": "1964331185590718464",
+        "location": "🚪40走vx+10pyq 熟推免",
+        "name": "箸",
+        "pinned_tweet_id": "2021888769562226763",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019848796881186816/pdjXkx-3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 526,
+          "following_count": 569,
+          "like_count": 7998,
+          "listed_count": 0,
+          "media_count": 133,
+          "tweet_count": 2516
+        },
+        "username": "breakcoreWTF",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-01T16:56:57.000Z",
+        "description": "絵を描きます。夏が好き │ ツユ │ ヨルシカ │ HIMEHINA │ 進撃の巨人 │ その他人気アニメ │ LoL │ Valorant",
+        "id": "2018005629529640962",
+        "name": "時雨さよ☔️",
+        "pinned_tweet_id": "2021494420135162324",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021543070060400641/Lc0GF9kv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 181,
+          "following_count": 124,
+          "like_count": 57,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 15
+        },
+        "username": "say04gure",
+        "verified": false
+      }
+    ]
+  }
+}

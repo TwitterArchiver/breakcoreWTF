@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2000142605968134144"
+      ],
+      "media_source_tweet_id": [
+        "2000142610091155730"
+      ]
+    },
+    "author_id": "1964331185590718464",
+    "conversation_id": "2000798300161888467",
+    "created_at": "2025-12-16T05:21:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-16T06:21:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2000798300161888467"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1659685050353594368",
+          "start": 3,
+          "username": "Yamaokami3k"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/gRUSZVRVlS",
+          "end": 40,
+          "expanded_url": "https://x.com/Yamaokami3k/status/2000142610091155730/photo/1",
+          "media_key": "3_2000142605968134144",
+          "start": 17,
+          "url": "https://t.co/gRUSZVRVlS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2000798300161888467",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 247
+    },
+    "referenced_tweets": [
+      {
+        "id": "2000142610091155730",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Yamaokami3k: https://t.co/gRUSZVRVlS"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 259,
+        "media_key": "3_2000142605968134144",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8HvGlja0AAhGQS.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2000142605968134144"
+          ],
+          "media_source_tweet_id": [
+            "2000142610091155730"
+          ]
+        },
+        "author_id": "1964331185590718464",
+        "conversation_id": "2000798300161888467",
+        "created_at": "2025-12-16T05:21:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-16T06:21:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2000798300161888467"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1659685050353594368",
+              "start": 3,
+              "username": "Yamaokami3k"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/gRUSZVRVlS",
+              "end": 40,
+              "expanded_url": "https://x.com/Yamaokami3k/status/2000142610091155730/photo/1",
+              "media_key": "3_2000142605968134144",
+              "start": 17,
+              "url": "https://t.co/gRUSZVRVlS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000798300161888467",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 247
+        },
+        "referenced_tweets": [
+          {
+            "id": "2000142610091155730",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Yamaokami3k: https://t.co/gRUSZVRVlS"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2000142605968134144"
+          ]
+        },
+        "author_id": "1659685050353594368",
+        "conversation_id": "2000142610091155730",
+        "created_at": "2025-12-14T09:55:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-14T10:55:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2000142610091155730"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gRUSZVRVlS",
+              "end": 23,
+              "expanded_url": "https://x.com/Yamaokami3k/status/2000142610091155730/photo/1",
+              "media_key": "3_2000142605968134144",
+              "start": 0,
+              "url": "https://t.co/gRUSZVRVlS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000142610091155730",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 99,
+          "impression_count": 88581,
+          "like_count": 1864,
+          "quote_count": 26,
+          "reply_count": 14,
+          "retweet_count": 247
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/gRUSZVRVlS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-06T14:13:55.000Z",
+        "description": "中文/od/VOCALOID/音游 纯种乐子人性别不明推上啥都有 私信互关欢迎 我有对象 我很喜欢他",
+        "id": "1964331185590718464",
+        "location": "翼天国",
+        "name": "━Σ(ﾟДﾟ|||)━",
+        "pinned_tweet_id": "1966517785367871718",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000605559452770304/jICiU7V-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 48,
+          "following_count": 262,
+          "like_count": 2562,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 661
+        },
+        "username": "breakcoreWTF",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-19T22:19:42.000Z",
+        "description": "やまおかみやの山岡家の部分 初見タメ等大体なんでも👌@咲季推し",
+        "id": "1659685050353594368",
+        "location": "い な か",
+        "name": "やまおかみ",
+        "pinned_tweet_id": "1994342417793691715",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945420740548829185/V4cr-ABL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1064,
+          "following_count": 1315,
+          "like_count": 68775,
+          "listed_count": 5,
+          "media_count": 2041,
+          "tweet_count": 15916
+        },
+        "username": "Yamaokami3k",
+        "verified": false
+      }
+    ]
+  }
+}

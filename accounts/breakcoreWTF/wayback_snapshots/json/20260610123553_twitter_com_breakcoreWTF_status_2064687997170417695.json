@@ -1,0 +1,655 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1964331185590718464",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Pets such as pet food, toys, cleaning",
+          "id": "1557697078762958848",
+          "name": "Pet Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Food",
+          "id": "825047692124442624",
+          "name": "Food"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Drinks",
+          "id": "834828264786898945",
+          "name": "Drinks"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Generic Drinks",
+          "id": "834828445238431744",
+          "name": "Generic Drinks"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Water",
+          "id": "850146068683571201",
+          "name": "Water"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Conversation about eating",
+          "id": "1006277774384828416",
+          "name": "Food experience"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Drinks",
+          "id": "834828264786898945",
+          "name": "Drinks"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Water",
+          "id": "850146068683571201",
+          "name": "Water"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Pets",
+          "id": "852262932607926273",
+          "name": "Pets"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Reptiles",
+          "id": "852638925591949314",
+          "name": "Reptiles"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839543325212319744",
+          "name": "Animals"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Reptiles",
+          "id": "852638925591949314",
+          "name": "Reptiles"
+        }
+      }
+    ],
+    "conversation_id": "2064687997170417695",
+    "created_at": "2026-06-10T12:35:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T13:35:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064687997170417695"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1773614135575793664",
+          "start": 3,
+          "username": "umigame_kouen"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064687997170417695",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 218
+    },
+    "referenced_tweets": [
+      {
+        "id": "2020775949915377998",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @umigame_kouen: 舌を器用に使い牧草を食べるゾウガメ\n\n陸上でごはんを食べるのは我々からしたら当たり前の事ですが、水棲ガメの多くは舌が発達しておらず、水中でしか食べ物を飲み込むことができません。\nそのため、水棲のカメに陸上で餌を与えると、口に咥えてわざわざ水…"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 35518,
+        "height": 1080,
+        "media_key": "13_2020775836530692096",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2020775836530692096/img/KZoDHEFnv7ojAu4s.jpg",
+        "public_metrics": {
+          "view_count": 24330
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2020775836530692096/vid/avc1/480x270/GylmpYFrygUuMZgh.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2020775836530692096/vid/avc1/1920x1080/-ms9rrNHQ9ptwkDm.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2020775836530692096/vid/avc1/640x360/wj-9cdcjurY73RDh.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2020775836530692096/vid/avc1/1280x720/H5Nk5o2mmqjk170W.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2020775836530692096/pl/PHitOhFJSGt9l6H9.m3u8?v=cfc"
+          }
+        ],
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1964331185590718464",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Pets such as pet food, toys, cleaning",
+              "id": "1557697078762958848",
+              "name": "Pet Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Food",
+              "id": "825047692124442624",
+              "name": "Food"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Drinks",
+              "id": "834828264786898945",
+              "name": "Drinks"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Generic Drinks",
+              "id": "834828445238431744",
+              "name": "Generic Drinks"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Water",
+              "id": "850146068683571201",
+              "name": "Water"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Conversation about eating",
+              "id": "1006277774384828416",
+              "name": "Food experience"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drinks",
+              "id": "834828264786898945",
+              "name": "Drinks"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Water",
+              "id": "850146068683571201",
+              "name": "Water"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Pets",
+              "id": "852262932607926273",
+              "name": "Pets"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Reptiles",
+              "id": "852638925591949314",
+              "name": "Reptiles"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543325212319744",
+              "name": "Animals"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Reptiles",
+              "id": "852638925591949314",
+              "name": "Reptiles"
+            }
+          }
+        ],
+        "conversation_id": "2064687997170417695",
+        "created_at": "2026-06-10T12:35:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T13:35:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064687997170417695"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1773614135575793664",
+              "start": 3,
+              "username": "umigame_kouen"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064687997170417695",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 218
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020775949915377998",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @umigame_kouen: 舌を器用に使い牧草を食べるゾウガメ\n\n陸上でごはんを食べるのは我々からしたら当たり前の事ですが、水棲ガメの多くは舌が発達しておらず、水中でしか食べ物を飲み込むことができません。\nそのため、水棲のカメに陸上で餌を与えると、口に咥えてわざわざ水…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2020775836530692096"
+          ]
+        },
+        "author_id": "1773614135575793664",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Pets such as pet food, toys, cleaning",
+              "id": "1557697078762958848",
+              "name": "Pet Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Food",
+              "id": "825047692124442624",
+              "name": "Food"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Conversation about eating",
+              "id": "1006277774384828416",
+              "name": "Food experience"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Pets",
+              "id": "852262932607926273",
+              "name": "Pets"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Reptiles",
+              "id": "852638925591949314",
+              "name": "Reptiles"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543325212319744",
+              "name": "Animals"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Reptiles",
+              "id": "852638925591949314",
+              "name": "Reptiles"
+            }
+          }
+        ],
+        "conversation_id": "2020775949915377998",
+        "created_at": "2026-02-09T08:25:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-09T09:25:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2020775949915377998"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lm8q091YOJ",
+              "end": 160,
+              "expanded_url": "https://x.com/umigame_kouen/status/2020775949915377998/video/1",
+              "media_key": "13_2020775836530692096",
+              "start": 137,
+              "url": "https://t.co/lm8q091YOJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020775949915377998",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 46,
+          "impression_count": 57133,
+          "like_count": 2533,
+          "quote_count": 5,
+          "reply_count": 11,
+          "retweet_count": 218
+        },
+        "reply_settings": "everyone",
+        "text": "舌を器用に使い牧草を食べるゾウガメ\n\n陸上でごはんを食べるのは我々からしたら当たり前の事ですが、水棲ガメの多くは舌が発達しておらず、水中でしか食べ物を飲み込むことができません。\nそのため、水棲のカメに陸上で餌を与えると、口に咥えてわざわざ水中まで戻って食べる事もあります。 https://t.co/lm8q091YOJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-06T14:13:55.000Z",
+        "description": "OD丨自伤丨Vocaloid丨友跨顺女\n喜欢爬宠 不卖药 非必要不回私信\n不喜欢的直接b 同类查成分回fo 取关请双取",
+        "id": "1964331185590718464",
+        "location": "颅内",
+        "name": "箸",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061439509125074944/Hf-Lim6c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 774,
+          "following_count": 666,
+          "like_count": 16491,
+          "listed_count": 0,
+          "media_count": 237,
+          "tweet_count": 4708
+        },
+        "username": "breakcoreWTF",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-29T07:32:42.000Z",
+        "description": "全国で唯一ウミガメ保護施設が併設する道の駅で、野生で傷付いたウミガメの保護・野生復帰に取り組んでいます。入場無料の施設で、どなたでもウミガメを観察する事ができます。 営業時間は下記の公式HPをご確認ください。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "umigame.info",
+                "end": 23,
+                "expanded_url": "https://umigame.info/",
+                "start": 0,
+                "url": "https://t.co/KHqNlMD51y"
+              }
+            ]
+          }
+        },
+        "id": "1773614135575793664",
+        "location": "三重県南牟婁郡紀宝町井田568-7",
+        "name": "道の駅ウミガメ公園【公式】",
+        "pinned_tweet_id": "2063086310420873287",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1773922848069046272/TXRY5y9R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 67450,
+          "following_count": 20,
+          "like_count": 14441,
+          "listed_count": 464,
+          "media_count": 1176,
+          "tweet_count": 1846
+        },
+        "url": "https://t.co/KHqNlMD51y",
+        "username": "umigame_kouen",
+        "verified": true
+      }
+    ]
+  }
+}

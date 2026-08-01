@@ -1,0 +1,299 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1964331185590718464",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Society",
+          "id": "847896364256067584",
+          "name": "Society"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Marriage",
+          "id": "847896538105782272",
+          "name": "Marriage"
+        }
+      }
+    ],
+    "conversation_id": "2081393855019249966",
+    "created_at": "2026-07-26T14:59:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-26T15:59:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081393855019249966"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1718745049213849600",
+          "start": 3,
+          "username": "7eaFwi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081393855019249966",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081321342398529733",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @7eaFwi: おい　この方は私の未来の結婚相手だぞ　どけどけどけどけ"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1964331185590718464",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Society",
+              "id": "847896364256067584",
+              "name": "Society"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Marriage",
+              "id": "847896538105782272",
+              "name": "Marriage"
+            }
+          }
+        ],
+        "conversation_id": "2081393855019249966",
+        "created_at": "2026-07-26T14:59:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T15:59:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081393855019249966"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1718745049213849600",
+              "start": 3,
+              "username": "7eaFwi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081393855019249966",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081321342398529733",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @7eaFwi: おい　この方は私の未来の結婚相手だぞ　どけどけどけどけ"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1718745049213849600",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Society",
+              "id": "847896364256067584",
+              "name": "Society"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Marriage",
+              "id": "847896538105782272",
+              "name": "Marriage"
+            }
+          }
+        ],
+        "conversation_id": "2081321342398529733",
+        "created_at": "2026-07-26T10:10:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T11:10:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081321342398529733"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2081321342398529733",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 31278,
+          "like_count": 618,
+          "quote_count": 1,
+          "reply_count": 9,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "おい　この方は私の未来の結婚相手だぞ　どけどけどけどけ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-06T14:13:55.000Z",
+        "description": "叫我筷子就可以了(:3っ )っ\nOD丨🔪丨Vocaloid丨音游丨顺女 LGBTQ+friendly\n不卖药 只看互关私信 我很穷欢迎投喂\n不喜欢的直接b 查成分同类回fo 取关请双取",
+        "id": "1964331185590718464",
+        "location": "颅内",
+        "name": "箸",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074711282427842560/EOM9Puhb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1273,
+          "following_count": 812,
+          "like_count": 34851,
+          "listed_count": 0,
+          "media_count": 348,
+          "tweet_count": 6263
+        },
+        "url": "",
+        "username": "breakcoreWTF",
+        "verified": true
+      },
+      {
+        "created_at": "2023-10-29T21:42:12.000Z",
+        "description": "魔女🥀🪉, 3D写真  (NOT V/TUBER, NOT V/RChat), 雑多やBMSなど, 音楽の話題NG⚠️\nメインアカウント：@7eaF\nファンアート：#leafbms\n自撮り： #leafbga & ハイライト\nモデル：@Sourxuan939\nデザイン：@toconiwa1",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 90,
+                "start": 82,
+                "tag": "leafbms"
+              },
+              {
+                "end": 104,
+                "start": 96,
+                "tag": "leafbga"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 74,
+                "start": 69,
+                "username": "7eaF"
+              },
+              {
+                "end": 129,
+                "start": 117,
+                "username": "Sourxuan939"
+              },
+              {
+                "end": 145,
+                "start": 135,
+                "username": "toconiwa1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/channel/UCq57M…",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/channel/UCq57Mh587hgFDXaxDjTP6Cw",
+                "start": 0,
+                "url": "https://t.co/i9FB9AuoJ4"
+              }
+            ]
+          }
+        },
+        "id": "1718745049213849600",
+        "name": "LeaF2",
+        "pinned_tweet_id": "2080623593118163302",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1719313620063109120/PtWqGh_J_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31752,
+          "following_count": 579,
+          "like_count": 32010,
+          "listed_count": 32,
+          "media_count": 1452,
+          "tweet_count": 29037
+        },
+        "url": "https://t.co/i9FB9AuoJ4",
+        "username": "7eaFwi",
+        "verified": true
+      }
+    ]
+  }
+}

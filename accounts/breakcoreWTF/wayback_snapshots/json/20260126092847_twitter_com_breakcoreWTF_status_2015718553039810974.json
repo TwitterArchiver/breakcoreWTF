@@ -1,0 +1,272 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2015430355222761472"
+      ],
+      "media_source_tweet_id": [
+        "2015430429889753589"
+      ]
+    },
+    "author_id": "1964331185590718464",
+    "conversation_id": "2015718553039810974",
+    "created_at": "2026-01-26T09:28:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-26T10:28:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2015718553039810974"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1724704372276477952",
+          "start": 3,
+          "username": "Gongye_11"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/mv9BrBlK64",
+          "end": 38,
+          "expanded_url": "https://x.com/Gongye_11/status/2015430429889753589/video/1",
+          "media_key": "13_2015430355222761472",
+          "start": 15,
+          "url": "https://t.co/mv9BrBlK64"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2015718553039810974",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 86
+    },
+    "referenced_tweets": [
+      {
+        "id": "2015430429889753589",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Gongye_11: https://t.co/mv9BrBlK64"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 8125,
+        "height": 1280,
+        "media_key": "13_2015430355222761472",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2015430355222761472/img/OiYtmW3YBNE4A5YC.jpg",
+        "public_metrics": {
+          "view_count": 7128
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2015430355222761472/vid/avc1/320x568/c_jydAAUJ-dJLab5.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2015430355222761472/vid/avc1/480x852/mp7Q1ITOPN9B67bb.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2015430355222761472/vid/avc1/720x1280/td-fbHPmPV53eG0W.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2015430355222761472/pl/R-wyRpQSJ6M-DTPb.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2015430355222761472"
+          ],
+          "media_source_tweet_id": [
+            "2015430429889753589"
+          ]
+        },
+        "author_id": "1964331185590718464",
+        "conversation_id": "2015718553039810974",
+        "created_at": "2026-01-26T09:28:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-26T10:28:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015718553039810974"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1724704372276477952",
+              "start": 3,
+              "username": "Gongye_11"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/mv9BrBlK64",
+              "end": 38,
+              "expanded_url": "https://x.com/Gongye_11/status/2015430429889753589/video/1",
+              "media_key": "13_2015430355222761472",
+              "start": 15,
+              "url": "https://t.co/mv9BrBlK64"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015718553039810974",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 86
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015430429889753589",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Gongye_11: https://t.co/mv9BrBlK64"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2015430355222761472"
+          ]
+        },
+        "author_id": "1724704372276477952",
+        "conversation_id": "2015430429889753589",
+        "created_at": "2026-01-25T14:23:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-25T15:23:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2015430429889753589"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mv9BrBlK64",
+              "end": 23,
+              "expanded_url": "https://x.com/Gongye_11/status/2015430429889753589/video/1",
+              "media_key": "13_2015430355222761472",
+              "start": 0,
+              "url": "https://t.co/mv9BrBlK64"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015430429889753589",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 161,
+          "impression_count": 21093,
+          "like_count": 1168,
+          "quote_count": 7,
+          "reply_count": 9,
+          "retweet_count": 86
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/mv9BrBlK64"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-06T14:13:55.000Z",
+        "description": "中文/od/VOCALOID/音游 纯种乐子人性别不明推上啥都有 会发泄情绪无需理会 私信互关欢迎 🚪40加微信纯绿可陪聊",
+        "id": "1964331185590718464",
+        "location": "幻想郷",
+        "name": "薄幸",
+        "pinned_tweet_id": "2003760156488986744",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015679257582964737/T8W4H246_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 53,
+          "following_count": 330,
+          "like_count": 3863,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 1207
+        },
+        "username": "breakcoreWTF",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-15T08:22:58.000Z",
+        "description": "同步更新中w我是宫叶Miyaba",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@MiyaMiyaNya",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@MiyaMiyaNya",
+                "start": 0,
+                "url": "https://t.co/gZR1UP5351"
+              }
+            ]
+          }
+        },
+        "id": "1724704372276477952",
+        "name": "宫叶",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1730705146676457473/ExHXE_en_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8550,
+          "following_count": 524,
+          "like_count": 6659,
+          "listed_count": 39,
+          "media_count": 44,
+          "tweet_count": 77
+        },
+        "url": "https://t.co/gZR1UP5351",
+        "username": "Gongye_11",
+        "verified": false
+      }
+    ]
+  }
+}

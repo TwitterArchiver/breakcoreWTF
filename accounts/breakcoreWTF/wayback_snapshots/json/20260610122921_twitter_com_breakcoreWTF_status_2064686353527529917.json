@@ -1,0 +1,278 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2048676651542994944"
+      ],
+      "media_source_tweet_id": [
+        "2048676870930243702"
+      ]
+    },
+    "author_id": "1964331185590718464",
+    "conversation_id": "2064686353527529917",
+    "created_at": "2026-06-10T12:29:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T13:29:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064686353527529917"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1773614135575793664",
+          "start": 3,
+          "username": "umigame_kouen"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/awsPC488Nj",
+          "end": 52,
+          "expanded_url": "https://x.com/umigame_kouen/status/2048676870930243702/video/1",
+          "media_key": "13_2048676651542994944",
+          "start": 29,
+          "url": "https://t.co/awsPC488Nj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064686353527529917",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 393
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048676870930243702",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @umigame_kouen: ゾウガメの賢い行動 https://t.co/awsPC488Nj"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 55821,
+        "height": 1920,
+        "media_key": "13_2048676651542994944",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2048676651542994944/img/5xuShYCNTW2Tomg2.jpg",
+        "public_metrics": {
+          "view_count": 30858
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2048676651542994944/vid/avc1/720x1280/KZYM2b9VdqGHq9Dm.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2048676651542994944/vid/avc1/480x852/Iq0ZCLL5vdTc1WnG.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2048676651542994944/pl/hLfV2X45uEEGxbWi.m3u8?v=cfc"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2048676651542994944/vid/avc1/320x568/U4YfddsQwnzGSab8.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2048676651542994944/vid/avc1/1080x1920/0tnHOZTuinqGlaIJ.mp4"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2048676651542994944"
+          ],
+          "media_source_tweet_id": [
+            "2048676870930243702"
+          ]
+        },
+        "author_id": "1964331185590718464",
+        "conversation_id": "2064686353527529917",
+        "created_at": "2026-06-10T12:29:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T13:29:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064686353527529917"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1773614135575793664",
+              "start": 3,
+              "username": "umigame_kouen"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/awsPC488Nj",
+              "end": 52,
+              "expanded_url": "https://x.com/umigame_kouen/status/2048676870930243702/video/1",
+              "media_key": "13_2048676651542994944",
+              "start": 29,
+              "url": "https://t.co/awsPC488Nj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064686353527529917",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 393
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048676870930243702",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @umigame_kouen: ゾウガメの賢い行動 https://t.co/awsPC488Nj"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2048676651542994944"
+          ]
+        },
+        "author_id": "1773614135575793664",
+        "conversation_id": "2048676870930243702",
+        "created_at": "2026-04-27T08:13:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T09:13:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048676870930243702"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/awsPC488Nj",
+              "end": 33,
+              "expanded_url": "https://x.com/umigame_kouen/status/2048676870930243702/video/1",
+              "media_key": "13_2048676651542994944",
+              "start": 10,
+              "url": "https://t.co/awsPC488Nj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048676870930243702",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 156,
+          "impression_count": 100651,
+          "like_count": 4007,
+          "quote_count": 12,
+          "reply_count": 17,
+          "retweet_count": 393
+        },
+        "reply_settings": "everyone",
+        "text": "ゾウガメの賢い行動 https://t.co/awsPC488Nj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-06T14:13:55.000Z",
+        "description": "OD丨自伤丨Vocaloid丨友跨顺女\n喜欢爬宠 不卖药 非必要不回私信\n不喜欢的直接b 同类查成分回fo 取关请双取",
+        "id": "1964331185590718464",
+        "location": "颅内",
+        "name": "箸",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061439509125074944/Hf-Lim6c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 774,
+          "following_count": 666,
+          "like_count": 16477,
+          "listed_count": 0,
+          "media_count": 237,
+          "tweet_count": 4699
+        },
+        "username": "breakcoreWTF",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-29T07:32:42.000Z",
+        "description": "全国で唯一ウミガメ保護施設が併設する道の駅で、野生で傷付いたウミガメの保護・野生復帰に取り組んでいます。入場無料の施設で、どなたでもウミガメを観察する事ができます。 営業時間は下記の公式HPをご確認ください。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "umigame.info",
+                "end": 23,
+                "expanded_url": "https://umigame.info/",
+                "start": 0,
+                "url": "https://t.co/KHqNlMD51y"
+              }
+            ]
+          }
+        },
+        "id": "1773614135575793664",
+        "location": "三重県南牟婁郡紀宝町井田568-7",
+        "name": "道の駅ウミガメ公園【公式】",
+        "pinned_tweet_id": "2063086310420873287",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1773922848069046272/TXRY5y9R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 67450,
+          "following_count": 20,
+          "like_count": 14441,
+          "listed_count": 464,
+          "media_count": 1176,
+          "tweet_count": 1846
+        },
+        "url": "https://t.co/KHqNlMD51y",
+        "username": "umigame_kouen",
+        "verified": true
+      }
+    ]
+  }
+}

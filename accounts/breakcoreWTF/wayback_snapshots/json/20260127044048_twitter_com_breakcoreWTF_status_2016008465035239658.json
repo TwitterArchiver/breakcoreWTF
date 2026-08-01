@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2015809529750134784"
+      ],
+      "media_source_tweet_id": [
+        "2015809537459278111"
+      ]
+    },
+    "author_id": "1964331185590718464",
+    "conversation_id": "2016008465035239658",
+    "created_at": "2026-01-27T04:40:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-27T05:40:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2016008465035239658"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1835142066143477764",
+          "start": 3,
+          "username": "NnR7ZMn0qa49273"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/LGb1gTCfYX",
+          "end": 44,
+          "expanded_url": "https://x.com/NnR7ZMn0qa49273/status/2015809537459278111/photo/1",
+          "media_key": "3_2015809529750134784",
+          "start": 21,
+          "url": "https://t.co/LGb1gTCfYX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2016008465035239658",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 15
+    },
+    "referenced_tweets": [
+      {
+        "id": "2015809537459278111",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @NnR7ZMn0qa49273: https://t.co/LGb1gTCfYX"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1216,
+        "media_key": "3_2015809529750134784",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_mYFkuaoAARrdk.jpg",
+        "width": 1224
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2015809529750134784"
+          ],
+          "media_source_tweet_id": [
+            "2015809537459278111"
+          ]
+        },
+        "author_id": "1964331185590718464",
+        "conversation_id": "2016008465035239658",
+        "created_at": "2026-01-27T04:40:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-27T05:40:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016008465035239658"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1835142066143477764",
+              "start": 3,
+              "username": "NnR7ZMn0qa49273"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/LGb1gTCfYX",
+              "end": 44,
+              "expanded_url": "https://x.com/NnR7ZMn0qa49273/status/2015809537459278111/photo/1",
+              "media_key": "3_2015809529750134784",
+              "start": 21,
+              "url": "https://t.co/LGb1gTCfYX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016008465035239658",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 15
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015809537459278111",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @NnR7ZMn0qa49273: https://t.co/LGb1gTCfYX"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2015809529750134784"
+          ]
+        },
+        "author_id": "1835142066143477764",
+        "conversation_id": "2015809537459278111",
+        "created_at": "2026-01-26T15:30:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-26T16:30:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2015809537459278111"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/LGb1gTCfYX",
+              "end": 23,
+              "expanded_url": "https://x.com/NnR7ZMn0qa49273/status/2015809537459278111/photo/1",
+              "media_key": "3_2015809529750134784",
+              "start": 0,
+              "url": "https://t.co/LGb1gTCfYX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015809537459278111",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 20,
+          "impression_count": 873,
+          "like_count": 122,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 15
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/LGb1gTCfYX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-06T14:13:55.000Z",
+        "description": "中文/od/自伤/VOCALOID/音游 纯种乐子人性别不明推上啥都有 会发泄情绪无需理会 私信互关欢迎 🚪40加微信纯绿可陪聊",
+        "id": "1964331185590718464",
+        "location": "Internet",
+        "name": "薄幸",
+        "pinned_tweet_id": "2003760156488986744",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015679257582964737/T8W4H246_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 55,
+          "following_count": 334,
+          "like_count": 3965,
+          "listed_count": 0,
+          "media_count": 42,
+          "tweet_count": 1250
+        },
+        "username": "breakcoreWTF",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-15T02:22:35.000Z",
+        "description": "18↓/🇨🇳/🍙🥖🍑🍗/紙に絵を描くのが好きです/翻訳アプリを使っています\n\nrednote：https://t.co/AX6oAjbyW3     \n\nbilibili：https://t.co/BQ7rXKsrxh",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "xhslink.com/m/2LAsYwZ8BCs",
+                "end": 70,
+                "expanded_url": "https://xhslink.com/m/2LAsYwZ8BCs",
+                "start": 47,
+                "url": "https://t.co/AX6oAjbyW3"
+              },
+              {
+                "display_url": "b23.tv/rWqDoNB",
+                "end": 109,
+                "expanded_url": "https://b23.tv/rWqDoNB",
+                "start": 86,
+                "url": "https://t.co/BQ7rXKsrxh"
+              }
+            ]
+          }
+        },
+        "id": "1835142066143477764",
+        "name": "竹鹿若离",
+        "pinned_tweet_id": "1993362824949907667",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011476258824339467/XjhrgIN__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2107,
+          "following_count": 303,
+          "like_count": 2559,
+          "listed_count": 7,
+          "media_count": 223,
+          "tweet_count": 1035
+        },
+        "username": "NnR7ZMn0qa49273",
+        "verified": false
+      }
+    ]
+  }
+}

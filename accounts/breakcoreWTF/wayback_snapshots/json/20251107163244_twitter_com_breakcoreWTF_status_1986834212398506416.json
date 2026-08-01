@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1984738943687147525"
+      ],
+      "media_source_tweet_id": [
+        "1984738954529423383"
+      ]
+    },
+    "author_id": "1964331185590718464",
+    "conversation_id": "1986834212398506416",
+    "created_at": "2025-11-07T16:32:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-07T17:32:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1986834212398506416"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1923956137092857856",
+          "start": 3,
+          "username": "tDVQ07ToNP93436"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/E37zGRG31T",
+          "end": 55,
+          "expanded_url": "https://x.com/tDVQ07ToNP93436/status/1984738954529423383/photo/1",
+          "media_key": "3_1984738943687147525",
+          "start": 32,
+          "url": "https://t.co/E37zGRG31T"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1986834212398506416",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1119
+    },
+    "referenced_tweets": [
+      {
+        "id": "1984738954529423383",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @tDVQ07ToNP93436: マロネ・アリガトウネ https://t.co/E37zGRG31T"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1792,
+        "media_key": "3_1984738943687147525",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4s1jb5bQAUQXyL.jpg",
+        "width": 1344
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1984738943687147525"
+          ],
+          "media_source_tweet_id": [
+            "1984738954529423383"
+          ]
+        },
+        "author_id": "1964331185590718464",
+        "conversation_id": "1986834212398506416",
+        "created_at": "2025-11-07T16:32:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-07T17:32:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1986834212398506416"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1923956137092857856",
+              "start": 3,
+              "username": "tDVQ07ToNP93436"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/E37zGRG31T",
+              "end": 55,
+              "expanded_url": "https://x.com/tDVQ07ToNP93436/status/1984738954529423383/photo/1",
+              "media_key": "3_1984738943687147525",
+              "start": 32,
+              "url": "https://t.co/E37zGRG31T"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986834212398506416",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1119
+        },
+        "referenced_tweets": [
+          {
+            "id": "1984738954529423383",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @tDVQ07ToNP93436: マロネ・アリガトウネ https://t.co/E37zGRG31T"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1984738943687147525"
+          ]
+        },
+        "author_id": "1923956137092857856",
+        "conversation_id": "1984738954529423383",
+        "created_at": "2025-11-01T21:46:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-01T22:46:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1984738954529423383"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/E37zGRG31T",
+              "end": 34,
+              "expanded_url": "https://x.com/tDVQ07ToNP93436/status/1984738954529423383/photo/1",
+              "media_key": "3_1984738943687147525",
+              "start": 11,
+              "url": "https://t.co/E37zGRG31T"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984738954529423383",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2652,
+          "impression_count": 302253,
+          "like_count": 21046,
+          "quote_count": 13,
+          "reply_count": 3,
+          "retweet_count": 1119
+        },
+        "reply_settings": "everyone",
+        "text": "マロネ・アリガトウネ https://t.co/E37zGRG31T"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-06T14:13:55.000Z",
+        "description": "中文/od/VOCALOID/音游 无底线无雷点无素质 含暴论/地域黑/辱男女/发情等成分 推特是我发泄负能放开自己的地方 私信互关欢迎 我有对象 我很喜欢他",
+        "id": "1964331185590718464",
+        "location": "翼天国",
+        "name": "━Σ(ﾟДﾟ|||)━",
+        "pinned_tweet_id": "1966517785367871718",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986080929002164224/0ugqBVVT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40,
+          "following_count": 252,
+          "like_count": 2180,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 538
+        },
+        "username": "breakcoreWTF",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-18T04:17:55.000Z",
+        "description": "https://t.co/HmyG3HQWMu",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/9vpmzc45yyf57l…",
+                "end": 23,
+                "expanded_url": "https://marshmallow-qa.com/9vpmzc45yyf57ll?t=UuVl09&utm_medium=url_text&utm_source=promotion",
+                "start": 0,
+                "url": "https://t.co/HmyG3HQWMu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "skeb.jp/@tamagooishiizo",
+                "end": 23,
+                "expanded_url": "https://skeb.jp/@tamagooishiizo",
+                "start": 0,
+                "url": "https://t.co/esNi01Tq8n"
+              }
+            ]
+          }
+        },
+        "id": "1923956137092857856",
+        "name": "まあ",
+        "pinned_tweet_id": "1986458000027230424",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973300486813130756/3REDG_6n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21747,
+          "following_count": 28,
+          "like_count": 1119,
+          "listed_count": 67,
+          "media_count": 295,
+          "tweet_count": 2244
+        },
+        "url": "https://t.co/esNi01Tq8n",
+        "username": "tDVQ07ToNP93436",
+        "verified": false
+      }
+    ]
+  }
+}

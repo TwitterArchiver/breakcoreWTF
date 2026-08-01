@@ -1,0 +1,288 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2070690710429327360"
+      ],
+      "media_source_tweet_id": [
+        "2070690739554509239"
+      ]
+    },
+    "author_id": "1964331185590718464",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2071016744228131060",
+    "created_at": "2026-06-27T23:44:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-28T00:44:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071016744228131060"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1774332146330542080",
+          "start": 3,
+          "username": "frogtism_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/VlQxIcAGAC",
+          "end": 94,
+          "expanded_url": "https://x.com/frogtism_/status/2070690739554509239/video/1",
+          "media_key": "7_2070690710429327360",
+          "start": 71,
+          "url": "https://t.co/VlQxIcAGAC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071016744228131060",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 57
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070690739554509239",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @frogtism_: omw to steal your yard toads to put in my toad city btw https://t.co/VlQxIcAGAC"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 15719,
+        "height": 1280,
+        "media_key": "7_2070690710429327360",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2070690710429327360/pu/img/dRDzZ9HDgOdpViih.jpg",
+        "public_metrics": {
+          "view_count": 3034
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2070690710429327360/pu/vid/avc1/320x568/LZVIW0-VLgFPEJK4.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2070690710429327360/pu/vid/avc1/480x852/cEkjbLieQ1tV9RjR.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2070690710429327360/pu/vid/avc1/720x1280/8uetFEUv3qPy7CJo.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2070690710429327360/pu/pl/b5b9NPjIGDJPTCUu.m3u8?tag=12&v=cfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2070690710429327360"
+          ],
+          "media_source_tweet_id": [
+            "2070690739554509239"
+          ]
+        },
+        "author_id": "1964331185590718464",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2071016744228131060",
+        "created_at": "2026-06-27T23:44:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T00:44:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071016744228131060"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1774332146330542080",
+              "start": 3,
+              "username": "frogtism_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/VlQxIcAGAC",
+              "end": 94,
+              "expanded_url": "https://x.com/frogtism_/status/2070690739554509239/video/1",
+              "media_key": "7_2070690710429327360",
+              "start": 71,
+              "url": "https://t.co/VlQxIcAGAC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071016744228131060",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 57
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070690739554509239",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @frogtism_: omw to steal your yard toads to put in my toad city btw https://t.co/VlQxIcAGAC"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2070690710429327360"
+          ]
+        },
+        "author_id": "1774332146330542080",
+        "conversation_id": "2070690739554509239",
+        "created_at": "2026-06-27T02:08:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T03:08:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070690739554509239"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/VlQxIcAGAC",
+              "end": 79,
+              "expanded_url": "https://x.com/frogtism_/status/2070690739554509239/video/1",
+              "media_key": "7_2070690710429327360",
+              "start": 56,
+              "url": "https://t.co/VlQxIcAGAC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070690739554509239",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 66,
+          "impression_count": 9101,
+          "like_count": 482,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 57
+        },
+        "reply_settings": "everyone",
+        "text": "omw to steal your yard toads to put in my toad city btw https://t.co/VlQxIcAGAC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-06T14:13:55.000Z",
+        "description": "OD丨自伤丨Vocaloid丨音游丨LGBTQ+friendly\n喜欢爬宠 不卖药 非必要不回私信 我很穷欢迎投喂\n不喜欢的直接b 同类查成分回fo 取关请双取",
+        "id": "1964331185590718464",
+        "location": "颅内",
+        "name": "箸",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061439509125074944/Hf-Lim6c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 871,
+          "following_count": 727,
+          "like_count": 20446,
+          "listed_count": 0,
+          "media_count": 296,
+          "tweet_count": 5234
+        },
+        "url": "",
+        "username": "breakcoreWTF",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-31T07:05:41.000Z",
+        "description": "D҉O҉ N҉O҉T҉ T҉H҉E҉ F҉R҉O҉G҉",
+        "id": "1774332146330542080",
+        "location": "Texas, USA",
+        "name": "frogtism_",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057405814910955520/Jg48djlR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1155,
+          "following_count": 570,
+          "like_count": 60646,
+          "listed_count": 3,
+          "media_count": 1380,
+          "tweet_count": 8948
+        },
+        "url": "",
+        "username": "frogtism_",
+        "verified": false
+      }
+    ]
+  }
+}

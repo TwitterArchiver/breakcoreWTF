@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2072542645994360832"
+      ],
+      "media_source_tweet_id": [
+        "2072542648359899143"
+      ]
+    },
+    "author_id": "1964331185590718464",
+    "conversation_id": "2072699190061498726",
+    "created_at": "2026-07-02T15:09:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-02T16:09:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072699190061498726"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "2025908515362213888",
+          "start": 3,
+          "username": "LukewarmStatic"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/UZuKiw47Wb",
+          "end": 47,
+          "expanded_url": "https://x.com/LukewarmStatic/status/2072542648359899143/photo/1",
+          "media_key": "3_2072542645994360832",
+          "start": 24,
+          "url": "https://t.co/UZuKiw47Wb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072699190061498726",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 93
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072542648359899143",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @LukewarmStatic: Vox https://t.co/UZuKiw47Wb"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 828,
+        "media_key": "3_2072542645994360832",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMMmjkRXkAAabgn.jpg",
+        "width": 736
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072542645994360832"
+          ],
+          "media_source_tweet_id": [
+            "2072542648359899143"
+          ]
+        },
+        "author_id": "1964331185590718464",
+        "conversation_id": "2072699190061498726",
+        "created_at": "2026-07-02T15:09:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T16:09:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072699190061498726"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "2025908515362213888",
+              "start": 3,
+              "username": "LukewarmStatic"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/UZuKiw47Wb",
+              "end": 47,
+              "expanded_url": "https://x.com/LukewarmStatic/status/2072542648359899143/photo/1",
+              "media_key": "3_2072542645994360832",
+              "start": 24,
+              "url": "https://t.co/UZuKiw47Wb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072699190061498726",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 93
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072542648359899143",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @LukewarmStatic: Vox https://t.co/UZuKiw47Wb"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072542645994360832"
+          ]
+        },
+        "author_id": "2025908515362213888",
+        "conversation_id": "2072542648359899143",
+        "created_at": "2026-07-02T04:47:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T05:47:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072542648359899143"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/UZuKiw47Wb",
+              "end": 27,
+              "expanded_url": "https://x.com/LukewarmStatic/status/2072542648359899143/photo/1",
+              "media_key": "3_2072542645994360832",
+              "start": 4,
+              "url": "https://t.co/UZuKiw47Wb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072542648359899143",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 38,
+          "impression_count": 4972,
+          "like_count": 789,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 93
+        },
+        "reply_settings": "everyone",
+        "text": "Vox https://t.co/UZuKiw47Wb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-06T14:13:55.000Z",
+        "description": "OD丨自伤丨Vocaloid丨音游丨LGBTQ+friendly\n喜欢爬宠 不卖药 非必要不回私信 我很穷欢迎投喂\n不喜欢的直接b 同类查成分回fo 取关请双取",
+        "id": "1964331185590718464",
+        "location": "颅内",
+        "name": "箸",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071376088018956288/SAB5MTfr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 877,
+          "following_count": 734,
+          "like_count": 21478,
+          "listed_count": 0,
+          "media_count": 301,
+          "tweet_count": 5328
+        },
+        "url": "",
+        "username": "breakcoreWTF",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-23T12:20:28.000Z",
+        "description": "Multi-Shipper but Radiostatic has my mf soul📺📻\n\nI repost/post NSFW so minors don't interact| ⚰🕊 might apply\n\nhttps://t.co/RzMfrvQWSV",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "lukewarmstatic.straw.page",
+                "end": 132,
+                "expanded_url": "https://lukewarmstatic.straw.page",
+                "start": 109,
+                "url": "https://t.co/RzMfrvQWSV"
+              }
+            ]
+          }
+        },
+        "id": "2025908515362213888",
+        "location": "22/He/Him/AroAce/Pan",
+        "name": "Luke 📺🖤📻",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072302455681896448/bYm5jDVH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 412,
+          "following_count": 527,
+          "like_count": 10263,
+          "listed_count": 0,
+          "media_count": 926,
+          "tweet_count": 3589
+        },
+        "url": "",
+        "username": "LukewarmStatic",
+        "verified": false
+      }
+    ]
+  }
+}

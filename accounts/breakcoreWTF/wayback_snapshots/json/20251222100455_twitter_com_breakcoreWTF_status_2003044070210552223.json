@@ -1,0 +1,277 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "16_2002764973261697024"
+      ],
+      "media_source_tweet_id": [
+        "2002764986817683604"
+      ]
+    },
+    "author_id": "1964331185590718464",
+    "conversation_id": "2003044070210552223",
+    "created_at": "2025-12-22T10:04:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-22T11:04:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2003044070210552223"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1671097650484219904",
+          "start": 3,
+          "username": "Tnama1234"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/GmApnBPqBA",
+          "end": 38,
+          "expanded_url": "https://x.com/Tnama1234/status/2002764986817683604/photo/1",
+          "media_key": "16_2002764973261697024",
+          "start": 15,
+          "url": "https://t.co/GmApnBPqBA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2003044070210552223",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1132
+    },
+    "referenced_tweets": [
+      {
+        "id": "2002764986817683604",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Tnama1234: https://t.co/GmApnBPqBA"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 720,
+        "media_key": "16_2002764973261697024",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/G8tAIc_bsAAhhsq.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/G8tAIc_bsAAhhsq.mp4"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2002764973261697024"
+          ],
+          "media_source_tweet_id": [
+            "2002764986817683604"
+          ]
+        },
+        "author_id": "1964331185590718464",
+        "conversation_id": "2003044070210552223",
+        "created_at": "2025-12-22T10:04:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-22T11:04:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2003044070210552223"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1671097650484219904",
+              "start": 3,
+              "username": "Tnama1234"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/GmApnBPqBA",
+              "end": 38,
+              "expanded_url": "https://x.com/Tnama1234/status/2002764986817683604/photo/1",
+              "media_key": "16_2002764973261697024",
+              "start": 15,
+              "url": "https://t.co/GmApnBPqBA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003044070210552223",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1132
+        },
+        "referenced_tweets": [
+          {
+            "id": "2002764986817683604",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Tnama1234: https://t.co/GmApnBPqBA"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2002764973261697024"
+          ]
+        },
+        "author_id": "1671097650484219904",
+        "conversation_id": "2002764986817683604",
+        "created_at": "2025-12-21T15:35:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-21T16:35:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2002764986817683604"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GmApnBPqBA",
+              "end": 23,
+              "expanded_url": "https://x.com/Tnama1234/status/2002764986817683604/photo/1",
+              "media_key": "16_2002764973261697024",
+              "start": 0,
+              "url": "https://t.co/GmApnBPqBA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002764986817683604",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 598,
+          "impression_count": 137723,
+          "like_count": 7060,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 1132
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/GmApnBPqBA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-06T14:13:55.000Z",
+        "description": "中文/od/VOCALOID/音游 纯种乐子人性别不明推上啥都有 私信互关欢迎 我有对象 我很喜欢他",
+        "id": "1964331185590718464",
+        "location": "翼天国",
+        "name": "━Σ(ﾟДﾟ|||)━",
+        "pinned_tweet_id": "1966517785367871718",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001729011576426496/HumNDWc3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 48,
+          "following_count": 280,
+          "like_count": 2849,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 781
+        },
+        "username": "breakcoreWTF",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-20T10:08:28.000Z",
+        "description": "ゆかりさんと生活しています。\nゆかりさんはいます。\nよろしくおねがいします。\n\n+ fanbox - http://t.co/U8aXwqoL6j +\n+ ニコ動 - http://t.co/F2LQ4DVL63 +\n+ booth - http://t.co/QYLjCCxekp +\n+ イラスト置き場 - http://t.co/Ls3LAA1FbJ +",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "tnama.fanbox.cc",
+                "end": 73,
+                "expanded_url": "https://tnama.fanbox.cc/",
+                "start": 51,
+                "url": "http://t.co/U8aXwqoL6j"
+              },
+              {
+                "display_url": "nicovideo.jp/user/130132545…",
+                "end": 106,
+                "expanded_url": "https://www.nicovideo.jp/user/130132545/video",
+                "start": 84,
+                "url": "http://t.co/F2LQ4DVL63"
+              },
+              {
+                "display_url": "tnama.booth.pm",
+                "end": 141,
+                "expanded_url": "https://tnama.booth.pm/",
+                "start": 119,
+                "url": "http://t.co/QYLjCCxekp"
+              },
+              {
+                "display_url": "photos.google.com/share/AF1QipOf…",
+                "end": 178,
+                "expanded_url": "https://photos.google.com/share/AF1QipOfN16hqgCkKj7hEqaMd2vun1IX9UKSj0qvngzIavrL1nudEDwK8aS2Qch8GxA7Sg?key=OTdxZlRMSE1sVmF0MWg5RVpwVTAycTdNdE9Td1Z3",
+                "start": 156,
+                "url": "http://t.co/Ls3LAA1FbJ"
+              }
+            ]
+          }
+        },
+        "id": "1671097650484219904",
+        "location": "ゆかりさん供給係",
+        "name": "とりなま",
+        "pinned_tweet_id": "1693674434555736319",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789962073780400128/Yde-GY36_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12729,
+          "following_count": 1,
+          "like_count": 11664,
+          "listed_count": 86,
+          "media_count": 220,
+          "tweet_count": 5174
+        },
+        "username": "Tnama1234",
+        "verified": false
+      }
+    ]
+  }
+}

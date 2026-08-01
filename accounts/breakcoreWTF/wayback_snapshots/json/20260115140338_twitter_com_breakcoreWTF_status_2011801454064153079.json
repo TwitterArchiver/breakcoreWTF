@@ -1,0 +1,342 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2011223114005315584",
+        "3_2011223113963323392"
+      ],
+      "media_source_tweet_id": [
+        "2011223170452529553",
+        "2011223170452529553"
+      ]
+    },
+    "author_id": "1964331185590718464",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2011801454064153079",
+    "created_at": "2026-01-15T14:03:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-15T15:03:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2011801454064153079"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1938647243504132096",
+          "start": 3,
+          "username": "penpen_popnews"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/8bjOeRaZb0",
+          "end": 123,
+          "expanded_url": "https://x.com/morodelsur/status/2011223170452529553/video/1",
+          "media_key": "13_2011223114005315584",
+          "start": 100,
+          "url": "https://t.co/8bjOeRaZb0"
+        },
+        {
+          "display_url": "pic.x.com/8bjOeRaZb0",
+          "end": 123,
+          "expanded_url": "https://x.com/morodelsur/status/2011223170452529553/video/1",
+          "media_key": "3_2011223113963323392",
+          "start": 100,
+          "url": "https://t.co/8bjOeRaZb0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2011801454064153079",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 355
+    },
+    "referenced_tweets": [
+      {
+        "id": "2011407724421279933",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @penpen_popnews: ラテン語圏でバズった動画\n女の子は妊娠し、陣痛がはじまったらしい\nこの夫と思われる男が横でゲームしている\n\n他人事ながら、\nどうやって育てるつもりなのだろうか\nhttps://t.co/8bjOeRaZb0"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 12567,
+        "height": 1024,
+        "media_key": "13_2011223114005315584",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2011223114005315584/img/Ng260dZD36W0V4H1.jpg",
+        "public_metrics": {
+          "view_count": 7566498
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2011223114005315584/vid/avc1/320x568/JacbOGGx8wFJWU-7.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2011223114005315584/vid/avc1/480x852/8tGTCdS3gVmeHyhX.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2011223114005315584/vid/avc1/576x1024/U1UqjGPDD5NHCiTP.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2011223114005315584/pl/pykQeXvGLerd6XGK.m3u8"
+          }
+        ],
+        "width": 576
+      },
+      {
+        "height": 524,
+        "media_key": "3_2011223113963323392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-lMxCfWwAAvrRO.jpg",
+        "width": 677
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2011223114005315584",
+            "3_2011223113963323392"
+          ],
+          "media_source_tweet_id": [
+            "2011223170452529553",
+            "2011223170452529553"
+          ]
+        },
+        "author_id": "1964331185590718464",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2011801454064153079",
+        "created_at": "2026-01-15T14:03:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-15T15:03:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2011801454064153079"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1938647243504132096",
+              "start": 3,
+              "username": "penpen_popnews"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/8bjOeRaZb0",
+              "end": 123,
+              "expanded_url": "https://x.com/morodelsur/status/2011223170452529553/video/1",
+              "media_key": "13_2011223114005315584",
+              "start": 100,
+              "url": "https://t.co/8bjOeRaZb0"
+            },
+            {
+              "display_url": "pic.x.com/8bjOeRaZb0",
+              "end": 123,
+              "expanded_url": "https://x.com/morodelsur/status/2011223170452529553/video/1",
+              "media_key": "3_2011223113963323392",
+              "start": 100,
+              "url": "https://t.co/8bjOeRaZb0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2011801454064153079",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 355
+        },
+        "referenced_tweets": [
+          {
+            "id": "2011407724421279933",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @penpen_popnews: ラテン語圏でバズった動画\n女の子は妊娠し、陣痛がはじまったらしい\nこの夫と思われる男が横でゲームしている\n\n他人事ながら、\nどうやって育てるつもりなのだろうか\nhttps://t.co/8bjOeRaZb0"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2011223114005315584",
+            "3_2011223113963323392"
+          ],
+          "media_source_tweet_id": [
+            "2011223170452529553",
+            "2011223170452529553"
+          ]
+        },
+        "author_id": "1938647243504132096",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2011407724421279933",
+        "created_at": "2026-01-14T11:59:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-14T12:59:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2011407724421279933"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8bjOeRaZb0",
+              "end": 103,
+              "expanded_url": "https://x.com/morodelsur/status/2011223170452529553/video/1",
+              "media_key": "13_2011223114005315584",
+              "start": 80,
+              "url": "https://t.co/8bjOeRaZb0"
+            },
+            {
+              "display_url": "pic.x.com/8bjOeRaZb0",
+              "end": 103,
+              "expanded_url": "https://x.com/morodelsur/status/2011223170452529553/video/1",
+              "media_key": "3_2011223113963323392",
+              "start": 80,
+              "url": "https://t.co/8bjOeRaZb0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2011407724421279933",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1808,
+          "impression_count": 3113816,
+          "like_count": 6244,
+          "quote_count": 50,
+          "reply_count": 189,
+          "retweet_count": 355
+        },
+        "reply_settings": "everyone",
+        "text": "ラテン語圏でバズった動画\n女の子は妊娠し、陣痛がはじまったらしい\nこの夫と思われる男が横でゲームしている\n\n他人事ながら、\nどうやって育てるつもりなのだろうか\nhttps://t.co/8bjOeRaZb0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-06T14:13:55.000Z",
+        "description": "中文/od/VOCALOID/音游 纯种乐子人性别不明推上啥都有 会发泄情绪无需理会 私信互关欢迎",
+        "id": "1964331185590718464",
+        "location": "幻想郷",
+        "name": "薄幸",
+        "pinned_tweet_id": "2003760156488986744",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010659872770326528/BT09LiKm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 46,
+          "following_count": 313,
+          "like_count": 3592,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 1084
+        },
+        "username": "breakcoreWTF",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-27T17:15:08.000Z",
+        "description": "ロックを何度もされるので褒めコロしポストをする。下手に批判するとすぐロックされるので褒め倒す。誤解なきよう",
+        "id": "1938647243504132096",
+        "location": "南極か、北極のペンギン村",
+        "name": "気になるニュースch ｘ版（別称・ペンギンch）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1938647549080137728/rQCsKddC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24326,
+          "following_count": 212,
+          "like_count": 4133,
+          "listed_count": 122,
+          "media_count": 6441,
+          "tweet_count": 12422
+        },
+        "username": "penpen_popnews",
+        "verified": true
+      }
+    ]
+  }
+}

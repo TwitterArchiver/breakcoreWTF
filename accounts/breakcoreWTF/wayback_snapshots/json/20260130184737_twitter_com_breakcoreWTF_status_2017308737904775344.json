@@ -1,0 +1,425 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1964331185590718464",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "Politicians in the world, like Joe Biden",
+          "id": "35",
+          "name": "Politician"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politician",
+          "id": "1070032753834438656",
+          "name": "Political figures"
+        }
+      }
+    ],
+    "conversation_id": "2017308737904775344",
+    "created_at": "2026-01-30T18:47:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-30T19:47:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2017308737904775344"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1968187553695272960",
+          "start": 3,
+          "username": "EzraRan_"
+        },
+        {
+          "end": 28,
+          "id": "1831519924352905216",
+          "start": 14,
+          "username": "ChinaMilBugle"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2017308737904775344",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 9
+    },
+    "referenced_tweets": [
+      {
+        "id": "2017167568285614502",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @EzraRan_: @ChinaMilBugle 你看人理你吗，身为政府机构不做实事一天净给人元首P图，你看哪个政府机构给习近平P过图？跟小学生一样"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1964331185590718464",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "2017308737904775344",
+        "created_at": "2026-01-30T18:47:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-30T19:47:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017308737904775344"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1968187553695272960",
+              "start": 3,
+              "username": "EzraRan_"
+            },
+            {
+              "end": 28,
+              "id": "1831519924352905216",
+              "start": 14,
+              "username": "ChinaMilBugle"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017308737904775344",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 9
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017167568285614502",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @EzraRan_: @ChinaMilBugle 你看人理你吗，身为政府机构不做实事一天净给人元首P图，你看哪个政府机构给习近平P过图？跟小学生一样"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1968187553695272960",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "2016861107475140804",
+        "created_at": "2026-01-30T09:26:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-30T10:26:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017167568285614502"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1831519924352905216",
+              "start": 0,
+              "username": "ChinaMilBugle"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017167568285614502",
+        "in_reply_to_user_id": "1831519924352905216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 10728,
+          "like_count": 156,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 9
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016861107475140804",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ChinaMilBugle 你看人理你吗，身为政府机构不做实事一天净给人元首P图，你看哪个政府机构给习近平P过图？跟小学生一样"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-06T14:13:55.000Z",
+        "description": "中文/od/自伤/友跨顺女/VOCALOID/音游 舞萌普通w53 纯种乐子人 推上啥都有 负能量相关最好不要关心 其他交流欢迎 我不想在推特都做不到口无遮拦 互fo欢迎 🚪40加微信纯绿可配聊 熟悉的推友可以免门费",
+        "id": "1964331185590718464",
+        "location": "Internet",
+        "name": "薄幸",
+        "pinned_tweet_id": "2016685165557534981",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015679257582964737/T8W4H246_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 80,
+          "following_count": 349,
+          "like_count": 5018,
+          "listed_count": 0,
+          "media_count": 67,
+          "tweet_count": 1626
+        },
+        "username": "breakcoreWTF",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-17T05:37:44.000Z",
+        "description": "EzraRan. レン エジュラです丨\nSocial Liberalism,Multiculturalism,LIBERALISM丨Liberté, Égalité, Fraternité🇫🇷丨Egalitarianism & EQUAL opportunity🌺丨\nJP国民民主党、TW民衆党支持丨ガンディー推し",
+        "id": "1968187553695272960",
+        "location": "先有獨立人格之國民，\n才有強大安寧之國家。",
+        "name": "漣 絵樹羅",
+        "pinned_tweet_id": "1982437804266442854",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993195957132181506/QEgIPinV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 777,
+          "following_count": 1990,
+          "like_count": 26497,
+          "listed_count": 7,
+          "media_count": 1156,
+          "tweet_count": 8377
+        },
+        "username": "EzraRan_",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-05T02:37:20.000Z",
+        "description": "Official press account of China's armed forces, delivering authoritative updates on Chinese military missions and defense development.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "eng.chinamil.com.cn",
+                "end": 23,
+                "expanded_url": "http://eng.chinamil.com.cn/",
+                "start": 0,
+                "url": "https://t.co/rvsGOFLwdW"
+              }
+            ]
+          }
+        },
+        "id": "1831519924352905216",
+        "location": "Beijing，China",
+        "name": "China Military Bugle",
+        "pinned_tweet_id": "2016861107475140804",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958837000695685122/woXUiDZG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 72674,
+          "following_count": 296,
+          "like_count": 2246,
+          "listed_count": 297,
+          "media_count": 1983,
+          "tweet_count": 3235
+        },
+        "url": "https://t.co/rvsGOFLwdW",
+        "username": "ChinaMilBugle",
+        "verified": true
+      }
+    ]
+  }
+}

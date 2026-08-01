@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1964331185590718464",
+    "conversation_id": "2065871892238704840",
+    "created_at": "2026-06-15T01:39:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-15T02:39:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066334787372229016"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1325054341040967682",
+          "start": 0,
+          "username": "slienten0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066334787372229016",
+    "in_reply_to_user_id": "1325054341040967682",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066334763569528861",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@slienten0 滚"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1964331185590718464",
+        "conversation_id": "2065871892238704840",
+        "created_at": "2026-06-15T01:39:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T02:39:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066334787372229016"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1325054341040967682",
+              "start": 0,
+              "username": "slienten0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066334787372229016",
+        "in_reply_to_user_id": "1325054341040967682",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066334763569528861",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@slienten0 滚"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1325054341040967682",
+        "conversation_id": "2065871892238704840",
+        "created_at": "2026-06-15T01:39:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T02:39:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066334763569528861"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1964331185590718464",
+              "start": 0,
+              "username": "breakcoreWTF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066334763569528861",
+        "in_reply_to_user_id": "1964331185590718464",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065871892238704840",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@breakcoreWTF 祝"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-06T14:13:55.000Z",
+        "description": "OD丨自伤丨Vocaloid丨友跨顺女\n喜欢爬宠 不卖药 非必要不回私信 我很穷欢迎投喂\n不喜欢的直接b 同类查成分回fo 取关请双取",
+        "id": "1964331185590718464",
+        "location": "颅内",
+        "name": "箸",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061439509125074944/Hf-Lim6c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 813,
+          "following_count": 684,
+          "like_count": 17784,
+          "listed_count": 0,
+          "media_count": 260,
+          "tweet_count": 4867
+        },
+        "username": "breakcoreWTF",
+        "verified": false
+      },
+      {
+        "created_at": "2020-11-07T12:36:09.000Z",
+        "description": "summer",
+        "id": "1325054341040967682",
+        "name": "slienten",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1936740821434236928/gV4s_Aro_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 144,
+          "like_count": 19,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 13
+        },
+        "username": "slienten0",
+        "verified": false
+      }
+    ]
+  }
+}

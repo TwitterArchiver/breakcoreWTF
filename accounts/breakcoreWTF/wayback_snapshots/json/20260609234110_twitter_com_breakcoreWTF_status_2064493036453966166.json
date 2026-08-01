@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1964331185590718464",
+    "conversation_id": "2064493036453966166",
+    "created_at": "2026-06-09T23:41:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T00:41:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064493036453966166"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "2044068992491585536",
+          "start": 3,
+          "username": "Lingling527527"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064493036453966166",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 12
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064264629254320129",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Lingling527527: 150fo抽人送75mg普瑞 转帖 关注 随机抽"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1964331185590718464",
+        "conversation_id": "2064493036453966166",
+        "created_at": "2026-06-09T23:41:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T00:41:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064493036453966166"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "2044068992491585536",
+              "start": 3,
+              "username": "Lingling527527"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064493036453966166",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 12
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064264629254320129",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Lingling527527: 150fo抽人送75mg普瑞 转帖 关注 随机抽"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2044068992491585536",
+        "conversation_id": "2064264629254320129",
+        "created_at": "2026-06-09T08:33:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T09:33:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064264629254320129"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2064264629254320129",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 363,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 12
+        },
+        "reply_settings": "everyone",
+        "text": "150fo抽人送75mg普瑞 转帖 关注 随机抽"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-06T14:13:55.000Z",
+        "description": "OD丨自伤丨Vocaloid丨友跨顺女\n喜欢爬宠 不卖药 非必要不回私信\n不喜欢的直接b 同类查成分回fo 取关请双取",
+        "id": "1964331185590718464",
+        "location": "颅内",
+        "name": "箸",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061439509125074944/Hf-Lim6c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 763,
+          "following_count": 665,
+          "like_count": 16372,
+          "listed_count": 0,
+          "media_count": 234,
+          "tweet_count": 4667
+        },
+        "username": "breakcoreWTF",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-14T15:03:53.000Z",
+        "description": "11/od/自残/cos/双相/重抑/重焦\n什么都发 ip武汉可以来找我玩\n^-^ 一个很温柔的od妹^-^",
+        "id": "2044068992491585536",
+        "location": "青少年灾难",
+        "name": "Lingling",
+        "pinned_tweet_id": "2058242546682544548",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057483065837207552/9bYYyodb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 75,
+          "following_count": 80,
+          "like_count": 934,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 164
+        },
+        "username": "Lingling527527",
+        "verified": false
+      }
+    ]
+  }
+}

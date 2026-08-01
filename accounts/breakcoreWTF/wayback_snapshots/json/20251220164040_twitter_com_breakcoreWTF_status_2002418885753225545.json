@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2002294381332869121"
+      ],
+      "media_source_tweet_id": [
+        "2002294385573310920"
+      ]
+    },
+    "author_id": "1964331185590718464",
+    "conversation_id": "2002418885753225545",
+    "created_at": "2025-12-20T16:40:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-20T17:40:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2002418885753225545"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1638698248641847297",
+          "start": 3,
+          "username": "_yanagi_h"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/5bTZlUHovW",
+          "end": 38,
+          "expanded_url": "https://x.com/_yanagi_h/status/2002294385573310920/photo/1",
+          "media_key": "3_2002294381332869121",
+          "start": 15,
+          "url": "https://t.co/5bTZlUHovW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2002418885753225545",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 965
+    },
+    "referenced_tweets": [
+      {
+        "id": "2002294385573310920",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @_yanagi_h: https://t.co/5bTZlUHovW"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1205,
+        "media_key": "3_2002294381332869121",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8mUIZcbMAEEmMG.jpg",
+        "width": 1162
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2002294381332869121"
+          ],
+          "media_source_tweet_id": [
+            "2002294385573310920"
+          ]
+        },
+        "author_id": "1964331185590718464",
+        "conversation_id": "2002418885753225545",
+        "created_at": "2025-12-20T16:40:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-20T17:40:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2002418885753225545"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1638698248641847297",
+              "start": 3,
+              "username": "_yanagi_h"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/5bTZlUHovW",
+              "end": 38,
+              "expanded_url": "https://x.com/_yanagi_h/status/2002294385573310920/photo/1",
+              "media_key": "3_2002294381332869121",
+              "start": 15,
+              "url": "https://t.co/5bTZlUHovW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002418885753225545",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 965
+        },
+        "referenced_tweets": [
+          {
+            "id": "2002294385573310920",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @_yanagi_h: https://t.co/5bTZlUHovW"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2002294381332869121"
+          ]
+        },
+        "author_id": "1638698248641847297",
+        "conversation_id": "2002294385573310920",
+        "created_at": "2025-12-20T08:25:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-20T09:25:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2002294385573310920"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5bTZlUHovW",
+              "end": 23,
+              "expanded_url": "https://x.com/_yanagi_h/status/2002294385573310920/photo/1",
+              "media_key": "3_2002294381332869121",
+              "start": 0,
+              "url": "https://t.co/5bTZlUHovW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002294385573310920",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1882,
+          "impression_count": 80640,
+          "like_count": 13794,
+          "quote_count": 26,
+          "reply_count": 11,
+          "retweet_count": 965
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/5bTZlUHovW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-06T14:13:55.000Z",
+        "description": "中文/od/VOCALOID/音游 纯种乐子人性别不明推上啥都有 私信互关欢迎 我有对象 我很喜欢他",
+        "id": "1964331185590718464",
+        "location": "翼天国",
+        "name": "━Σ(ﾟДﾟ|||)━",
+        "pinned_tweet_id": "1966517785367871718",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001729011576426496/HumNDWc3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 48,
+          "following_count": 276,
+          "like_count": 2780,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 759
+        },
+        "username": "breakcoreWTF",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-23T00:25:05.000Z",
+        "description": "好きなものを好きなように ▸ Do not repost without permission. ▸ お題箱【https://t.co/8pI4sOwd1D】 ▸ 最近できた禁足地【@_salice_c 】",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 101,
+                "start": 91,
+                "username": "_salice_c"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "odaibako.net/u/_yanagi_h",
+                "end": 78,
+                "expanded_url": "https://odaibako.net/u/_yanagi_h",
+                "start": 55,
+                "url": "https://t.co/8pI4sOwd1D"
+              }
+            ]
+          }
+        },
+        "id": "1638698248641847297",
+        "location": "読み百合ランド",
+        "name": "やなぎ鮠",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968944152563122176/AyDH6rYv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16258,
+          "following_count": 44,
+          "like_count": 8150,
+          "listed_count": 51,
+          "media_count": 96,
+          "tweet_count": 789
+        },
+        "username": "_yanagi_h",
+        "verified": false
+      }
+    ]
+  }
+}

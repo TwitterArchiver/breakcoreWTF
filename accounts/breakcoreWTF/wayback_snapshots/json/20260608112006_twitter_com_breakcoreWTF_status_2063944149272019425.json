@@ -1,0 +1,303 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1964331185590718464",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "1280550787207147521",
+          "name": "Arts & culture"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Cosplay",
+          "id": "1047106191829028865",
+          "name": "Cosplay"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Cosplay",
+          "id": "1047106191829028865",
+          "name": "Cosplay"
+        }
+      }
+    ],
+    "conversation_id": "2063944149272019425",
+    "created_at": "2026-06-08T11:20:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-08T12:20:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063944149272019425"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1862861397304225792",
+          "start": 3,
+          "username": "Z3r0_404Error"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063944149272019425",
+    "lang": "art",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063924690423623756",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Z3r0_404Error: 🗑️"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1964331185590718464",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          }
+        ],
+        "conversation_id": "2063944149272019425",
+        "created_at": "2026-06-08T11:20:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T12:20:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063944149272019425"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1862861397304225792",
+              "start": 3,
+              "username": "Z3r0_404Error"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063944149272019425",
+        "lang": "art",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063924690423623756",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Z3r0_404Error: 🗑️"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1862861397304225792",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          }
+        ],
+        "conversation_id": "2063924690423623756",
+        "created_at": "2026-06-08T10:02:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T11:02:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063924690423623756"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/breakcorewtf/s…",
+              "end": 26,
+              "expanded_url": "https://twitter.com/breakcorewtf/status/2063770208536547330",
+              "start": 3,
+              "url": "https://t.co/qcOUFnyrDN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063924690423623756",
+        "lang": "art",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063770208536547330",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "🗑️ https://t.co/qcOUFnyrDN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-06T14:13:55.000Z",
+        "description": "OD丨自伤丨Vocaloid丨音游丨友跨顺女\n不喜欢的直接b 同类回fo 取关请双取",
+        "id": "1964331185590718464",
+        "location": "颅内",
+        "name": "箸",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061439509125074944/Hf-Lim6c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 746,
+          "following_count": 646,
+          "like_count": 15722,
+          "listed_count": 0,
+          "media_count": 228,
+          "tweet_count": 4558
+        },
+        "username": "breakcoreWTF",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-30T14:14:09.000Z",
+        "description": "精神病人，迴避型人格障礙\nLGBTQ -Friendly 🏳️‍🌈 🏳️‍⚧️，最近得了一種看到老保會開槍的病（？）\n喜歡按讚repost一些愛看的東西，或者甩點日常或者遊戲寫真或者意味不明的發言，留言請互相尊重和保持同理心謝謝。會給喜歡的老師按讚repost\n以上",
+        "id": "1862861397304225792",
+        "location": "City of glitch",
+        "name": "Z3r0",
+        "pinned_tweet_id": "2047955008814293224",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045962857557401600/Yq6rUZJw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 105,
+          "following_count": 165,
+          "like_count": 16112,
+          "listed_count": 2,
+          "media_count": 469,
+          "tweet_count": 4836
+        },
+        "username": "Z3r0_404Error",
+        "verified": false
+      }
+    ]
+  }
+}

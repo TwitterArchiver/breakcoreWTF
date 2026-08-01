@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2030489471062593537"
+      ],
+      "media_source_tweet_id": [
+        "2030489473713361132"
+      ]
+    },
+    "author_id": "1964331185590718464",
+    "conversation_id": "2030512987812098102",
+    "created_at": "2026-03-08T05:16:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-08T06:16:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2030512987812098102"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1493535317743538178",
+          "start": 3,
+          "username": "ckchiki3"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Nhq5BGmgSd",
+          "end": 40,
+          "expanded_url": "https://x.com/ckchiki3/status/2030489473713361132/photo/1",
+          "media_key": "3_2030489471062593537",
+          "start": 17,
+          "url": "https://t.co/Nhq5BGmgSd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2030512987812098102",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 41
+    },
+    "referenced_tweets": [
+      {
+        "id": "2030489473713361132",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ckchiki3: 再掲 https://t.co/Nhq5BGmgSd"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_2030489471062593537",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HC2_anrbUAEzNkV.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2030489471062593537"
+          ],
+          "media_source_tweet_id": [
+            "2030489473713361132"
+          ]
+        },
+        "author_id": "1964331185590718464",
+        "conversation_id": "2030512987812098102",
+        "created_at": "2026-03-08T05:16:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-08T06:16:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030512987812098102"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1493535317743538178",
+              "start": 3,
+              "username": "ckchiki3"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Nhq5BGmgSd",
+              "end": 40,
+              "expanded_url": "https://x.com/ckchiki3/status/2030489473713361132/photo/1",
+              "media_key": "3_2030489471062593537",
+              "start": 17,
+              "url": "https://t.co/Nhq5BGmgSd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030512987812098102",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 41
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030489473713361132",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ckchiki3: 再掲 https://t.co/Nhq5BGmgSd"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2030489471062593537"
+          ]
+        },
+        "author_id": "1493535317743538178",
+        "conversation_id": "2030489473713361132",
+        "created_at": "2026-03-08T03:43:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-08T04:43:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2030489473713361132"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Nhq5BGmgSd",
+              "end": 26,
+              "expanded_url": "https://x.com/ckchiki3/status/2030489473713361132/photo/1",
+              "media_key": "3_2030489471062593537",
+              "start": 3,
+              "url": "https://t.co/Nhq5BGmgSd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030489473713361132",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 12,
+          "impression_count": 2622,
+          "like_count": 318,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 41
+        },
+        "reply_settings": "everyone",
+        "text": "再掲 https://t.co/Nhq5BGmgSd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-06T14:13:55.000Z",
+        "description": "OD丨自伤丨Vocaloid丨音游丨友跨顺女丨少关心我\n不喜欢的直接b 推特是垃圾桶口无遮拦 同类回fo",
+        "id": "1964331185590718464",
+        "location": "🚪50/88 同类熟推免",
+        "name": "箸",
+        "pinned_tweet_id": "2024039744276189189",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019848796881186816/pdjXkx-3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 677,
+          "following_count": 591,
+          "like_count": 12520,
+          "listed_count": 0,
+          "media_count": 172,
+          "tweet_count": 3596
+        },
+        "username": "breakcoreWTF",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-15T10:39:16.000Z",
+        "description": "これはどう考えてもおおだろ！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！\nお絵描き / 音ゲー(ｹﾞｷﾁｭｳﾏｲ等) / SHIORIS(しおりす)\nOC #しおりすたーず",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 99,
+                "start": 91,
+                "tag": "しおりすたーず"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/ckchiki3",
+                "end": 23,
+                "expanded_url": "https://lit.link/ckchiki3",
+                "start": 0,
+                "url": "https://t.co/oh6EyUYosv"
+              }
+            ]
+          }
+        },
+        "id": "1493535317743538178",
+        "name": "ちき",
+        "pinned_tweet_id": "2006383692831490352",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026259630603776000/DIEpxoi4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1819,
+          "following_count": 999,
+          "like_count": 52399,
+          "listed_count": 9,
+          "media_count": 2311,
+          "tweet_count": 16158
+        },
+        "url": "https://t.co/oh6EyUYosv",
+        "username": "ckchiki3",
+        "verified": true
+      }
+    ]
+  }
+}

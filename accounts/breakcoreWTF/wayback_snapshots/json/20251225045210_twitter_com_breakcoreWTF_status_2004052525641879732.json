@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2004030137650823168"
+      ],
+      "media_source_tweet_id": [
+        "2004030146525945896"
+      ]
+    },
+    "author_id": "1964331185590718464",
+    "conversation_id": "2004052525641879732",
+    "created_at": "2025-12-25T04:52:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-25T05:52:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2004052525641879732"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1159237294294880256",
+          "start": 3,
+          "username": "Gekikawa_Dbts"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Q1A3ADX7N4",
+          "end": 59,
+          "expanded_url": "https://x.com/Gekikawa_Dbts/status/2004030146525945896/photo/1",
+          "media_key": "3_2004030137650823168",
+          "start": 36,
+          "url": "https://t.co/Q1A3ADX7N4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2004052525641879732",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 40
+    },
+    "referenced_tweets": [
+      {
+        "id": "2004030146525945896",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Gekikawa_Dbts: 路上で生活していた野良猫の1年後 https://t.co/Q1A3ADX7N4"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1224,
+        "media_key": "3_2004030137650823168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8--ytnawAAZQ24.jpg",
+        "width": 1230
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2004030137650823168"
+          ],
+          "media_source_tweet_id": [
+            "2004030146525945896"
+          ]
+        },
+        "author_id": "1964331185590718464",
+        "conversation_id": "2004052525641879732",
+        "created_at": "2025-12-25T04:52:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-25T05:52:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2004052525641879732"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1159237294294880256",
+              "start": 3,
+              "username": "Gekikawa_Dbts"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Q1A3ADX7N4",
+              "end": 59,
+              "expanded_url": "https://x.com/Gekikawa_Dbts/status/2004030146525945896/photo/1",
+              "media_key": "3_2004030137650823168",
+              "start": 36,
+              "url": "https://t.co/Q1A3ADX7N4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004052525641879732",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 40
+        },
+        "referenced_tweets": [
+          {
+            "id": "2004030146525945896",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Gekikawa_Dbts: 路上で生活していた野良猫の1年後 https://t.co/Q1A3ADX7N4"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2004030137650823168"
+          ]
+        },
+        "author_id": "1159237294294880256",
+        "conversation_id": "2004030146525945896",
+        "created_at": "2025-12-25T03:23:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-25T04:23:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2004030146525945896"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Q1A3ADX7N4",
+              "end": 40,
+              "expanded_url": "https://x.com/Gekikawa_Dbts/status/2004030146525945896/photo/1",
+              "media_key": "3_2004030137650823168",
+              "start": 17,
+              "url": "https://t.co/Q1A3ADX7N4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004030146525945896",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 19,
+          "impression_count": 19300,
+          "like_count": 1062,
+          "quote_count": 3,
+          "reply_count": 9,
+          "retweet_count": 40
+        },
+        "reply_settings": "everyone",
+        "text": "路上で生活していた野良猫の1年後 https://t.co/Q1A3ADX7N4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-06T14:13:55.000Z",
+        "description": "中文/od/VOCALOID/音游 纯种乐子人性别不明推上啥都有 私信互关欢迎",
+        "id": "1964331185590718464",
+        "location": "幻想郷",
+        "name": "━Σ(ﾟДﾟ|||)━",
+        "pinned_tweet_id": "2003760156488986744",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001729011576426496/HumNDWc3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 49,
+          "following_count": 288,
+          "like_count": 3087,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 886
+        },
+        "username": "breakcoreWTF",
+        "verified": false
+      },
+      {
+        "created_at": "2019-08-07T22:58:03.000Z",
+        "description": "かわいい動物たちをツイートしていきます。 Cute Animals",
+        "id": "1159237294294880256",
+        "name": "激かわ動物",
+        "pinned_tweet_id": "1692137323595792449",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1159237407616581632/NT-xjzPN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 589977,
+          "following_count": 4225,
+          "like_count": 89640,
+          "listed_count": 1606,
+          "media_count": 15866,
+          "tweet_count": 16014
+        },
+        "username": "Gekikawa_Dbts",
+        "verified": true
+      }
+    ]
+  }
+}

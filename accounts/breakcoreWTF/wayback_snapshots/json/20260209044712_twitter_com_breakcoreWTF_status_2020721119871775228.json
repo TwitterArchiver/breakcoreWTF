@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2020461266402455552"
+      ],
+      "media_source_tweet_id": [
+        "2020461268662923455"
+      ]
+    },
+    "author_id": "1964331185590718464",
+    "conversation_id": "2020721119871775228",
+    "created_at": "2026-02-09T04:47:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-09T05:47:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2020721119871775228"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1636654302365360129",
+          "start": 3,
+          "username": "myarwfrs"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/APIi1NGnyN",
+          "end": 37,
+          "expanded_url": "https://x.com/myarwfrs/status/2020461268662923455/photo/1",
+          "media_key": "3_2020461266402455552",
+          "start": 14,
+          "url": "https://t.co/APIi1NGnyN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2020721119871775228",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "2020461268662923455",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @myarwfrs: https://t.co/APIi1NGnyN"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2020461266402455552",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAoe0SJasAAENnr.jpg",
+        "width": 864
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2020461266402455552"
+          ],
+          "media_source_tweet_id": [
+            "2020461268662923455"
+          ]
+        },
+        "author_id": "1964331185590718464",
+        "conversation_id": "2020721119871775228",
+        "created_at": "2026-02-09T04:47:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-09T05:47:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2020721119871775228"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1636654302365360129",
+              "start": 3,
+              "username": "myarwfrs"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/APIi1NGnyN",
+              "end": 37,
+              "expanded_url": "https://x.com/myarwfrs/status/2020461268662923455/photo/1",
+              "media_key": "3_2020461266402455552",
+              "start": 14,
+              "url": "https://t.co/APIi1NGnyN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020721119871775228",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020461268662923455",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @myarwfrs: https://t.co/APIi1NGnyN"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2020461266402455552"
+          ]
+        },
+        "author_id": "1636654302365360129",
+        "conversation_id": "2020461268662923455",
+        "created_at": "2026-02-08T11:34:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-08T12:34:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2020461268662923455"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/APIi1NGnyN",
+              "end": 23,
+              "expanded_url": "https://x.com/myarwfrs/status/2020461268662923455/photo/1",
+              "media_key": "3_2020461266402455552",
+              "start": 0,
+              "url": "https://t.co/APIi1NGnyN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020461268662923455",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 27,
+          "impression_count": 43903,
+          "like_count": 244,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/APIi1NGnyN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-06T14:13:55.000Z",
+        "description": "中文/od/自伤/友跨女/VOCALOID/音游 舞萌普通w53 纯种乐子人 遇到不喜欢的直接b 推上啥都有 看到你不喜欢的东西请无视 对我的负能量关心不要太频繁 其他交流欢迎 我不想在推特都做不到口无遮拦 同类回fo 🚪40加微信纯绿可配聊 熟悉的推友可以免门费",
+        "id": "1964331185590718464",
+        "location": "Internet",
+        "name": "箸",
+        "pinned_tweet_id": "2016685165557534981",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019848796881186816/pdjXkx-3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 465,
+          "following_count": 528,
+          "like_count": 7038,
+          "listed_count": 0,
+          "media_count": 116,
+          "tweet_count": 2180
+        },
+        "username": "breakcoreWTF",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-17T09:02:57.000Z",
+        "description": "",
+        "id": "1636654302365360129",
+        "name": "小狐软糖",
+        "pinned_tweet_id": "1840970753493385704",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909751454509989888/Tet3M3u5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5678,
+          "following_count": 146,
+          "like_count": 105,
+          "listed_count": 22,
+          "media_count": 45,
+          "tweet_count": 52
+        },
+        "username": "myarwfrs",
+        "verified": false
+      }
+    ]
+  }
+}

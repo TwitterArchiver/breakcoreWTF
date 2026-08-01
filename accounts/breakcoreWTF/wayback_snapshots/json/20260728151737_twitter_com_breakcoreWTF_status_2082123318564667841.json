@@ -1,0 +1,166 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1964331185590718464",
+    "conversation_id": "2082121648057270589",
+    "created_at": "2026-07-28T15:17:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-28T16:17:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082123318564667841"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2082123318564667841",
+    "in_reply_to_user_id": "1964331185590718464",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082121648057270589",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我一直在嗜睡"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2082121641463869440",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOUumfKbcAAmd9A.jpg",
+        "width": 1538
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1964331185590718464",
+        "conversation_id": "2082121648057270589",
+        "created_at": "2026-07-28T15:17:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T16:17:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082123318564667841"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2082123318564667841",
+        "in_reply_to_user_id": "1964331185590718464",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082121648057270589",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我一直在嗜睡"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082121641463869440"
+          ]
+        },
+        "author_id": "1964331185590718464",
+        "conversation_id": "2082121648057270589",
+        "created_at": "2026-07-28T15:10:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T16:10:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082121648057270589"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KLSIN7h4Jg",
+              "end": 25,
+              "expanded_url": "https://x.com/breakcoreWTF/status/2082121648057270589/photo/1",
+              "media_key": "3_2082121641463869440",
+              "start": 2,
+              "url": "https://t.co/KLSIN7h4Jg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082121648057270589",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 23,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "？ https://t.co/KLSIN7h4Jg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-06T14:13:55.000Z",
+        "description": "叫我筷子就可以了(:3っ )っ\nOD丨🔪丨Vocaloid丨音游丨顺女 LGBTQ+friendly\n不卖药 只看互关私信 我很穷欢迎投喂\n不喜欢的直接b 查成分同类回fo 取关请双取",
+        "id": "1964331185590718464",
+        "location": "颅内",
+        "name": "箸",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074711282427842560/EOM9Puhb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1392,
+          "following_count": 833,
+          "like_count": 36172,
+          "listed_count": 0,
+          "media_count": 357,
+          "tweet_count": 6421
+        },
+        "url": "",
+        "username": "breakcoreWTF",
+        "verified": false
+      }
+    ]
+  }
+}

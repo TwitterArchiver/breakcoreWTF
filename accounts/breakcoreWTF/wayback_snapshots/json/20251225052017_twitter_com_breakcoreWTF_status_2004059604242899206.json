@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "16_1954108602014380032"
+      ],
+      "media_source_tweet_id": [
+        "1954110074978521309"
+      ]
+    },
+    "author_id": "1964331185590718464",
+    "conversation_id": "2004059604242899206",
+    "created_at": "2025-12-25T05:20:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-25T06:20:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2004059604242899206"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1362125746991362050",
+          "start": 3,
+          "username": "fukayama__"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/E7NNbOYjER",
+          "end": 42,
+          "expanded_url": "https://x.com/fukayama__/status/1954110074978521309/photo/1",
+          "media_key": "16_1954108602014380032",
+          "start": 19,
+          "url": "https://t.co/E7NNbOYjER"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2004059604242899206",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 597
+    },
+    "referenced_tweets": [
+      {
+        "id": "1954110074978521309",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @fukayama__: あっ https://t.co/E7NNbOYjER"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1984,
+        "media_key": "16_1954108602014380032",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/Gx5ja5OaMAAxoWy.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/Gx5ja5OaMAAxoWy.mp4"
+          }
+        ],
+        "width": 1496
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_1954108602014380032"
+          ],
+          "media_source_tweet_id": [
+            "1954110074978521309"
+          ]
+        },
+        "author_id": "1964331185590718464",
+        "conversation_id": "2004059604242899206",
+        "created_at": "2025-12-25T05:20:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-25T06:20:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2004059604242899206"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1362125746991362050",
+              "start": 3,
+              "username": "fukayama__"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/E7NNbOYjER",
+              "end": 42,
+              "expanded_url": "https://x.com/fukayama__/status/1954110074978521309/photo/1",
+              "media_key": "16_1954108602014380032",
+              "start": 19,
+              "url": "https://t.co/E7NNbOYjER"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004059604242899206",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 597
+        },
+        "referenced_tweets": [
+          {
+            "id": "1954110074978521309",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @fukayama__: あっ https://t.co/E7NNbOYjER"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_1954108602014380032"
+          ]
+        },
+        "author_id": "1362125746991362050",
+        "conversation_id": "1954110074978521309",
+        "created_at": "2025-08-09T09:18:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-09T10:18:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1954110074978521309"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/E7NNbOYjER",
+              "end": 26,
+              "expanded_url": "https://x.com/fukayama__/status/1954110074978521309/photo/1",
+              "media_key": "16_1954108602014380032",
+              "start": 3,
+              "url": "https://t.co/E7NNbOYjER"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1954110074978521309",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 379,
+          "impression_count": 69312,
+          "like_count": 4521,
+          "quote_count": 24,
+          "reply_count": 9,
+          "retweet_count": 597
+        },
+        "reply_settings": "everyone",
+        "text": "あっ https://t.co/E7NNbOYjER"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-06T14:13:55.000Z",
+        "description": "中文/od/VOCALOID/音游 纯种乐子人性别不明推上啥都有 会发泄情绪无需理会 私信互关欢迎",
+        "id": "1964331185590718464",
+        "location": "幻想郷",
+        "name": "━Σ(ﾟДﾟ|||)━",
+        "pinned_tweet_id": "2003760156488986744",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001729011576426496/HumNDWc3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 49,
+          "following_count": 292,
+          "like_count": 3161,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 909
+        },
+        "username": "breakcoreWTF",
+        "verified": false
+      },
+      {
+        "created_at": "2021-02-17T19:44:28.000Z",
+        "description": "好きに描きます🍨🍌",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "skeb.jp/@fukayama__",
+                "end": 23,
+                "expanded_url": "https://skeb.jp/@fukayama__",
+                "start": 0,
+                "url": "https://t.co/Mkt8lLpkwi"
+              }
+            ]
+          }
+        },
+        "id": "1362125746991362050",
+        "name": "ふかやま",
+        "pinned_tweet_id": "1891459120063971391",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882010169871421440/v9ezqdiW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19791,
+          "following_count": 46,
+          "like_count": 7781,
+          "listed_count": 58,
+          "media_count": 106,
+          "tweet_count": 961
+        },
+        "url": "https://t.co/Mkt8lLpkwi",
+        "username": "fukayama__",
+        "verified": false
+      }
+    ]
+  }
+}

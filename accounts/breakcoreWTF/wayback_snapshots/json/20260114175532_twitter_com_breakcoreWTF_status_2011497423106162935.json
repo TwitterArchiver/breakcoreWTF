@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2011128668266061824"
+      ],
+      "media_source_tweet_id": [
+        "2011128672997294315"
+      ]
+    },
+    "author_id": "1964331185590718464",
+    "conversation_id": "2011497423106162935",
+    "created_at": "2026-01-14T17:55:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-14T18:55:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2011497423106162935"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1879201897657360384",
+          "start": 3,
+          "username": "_m_1a_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/iNb26gPIQF",
+          "end": 40,
+          "expanded_url": "https://x.com/_m_1a_/status/2011128672997294315/photo/1",
+          "media_key": "3_2011128668266061824",
+          "start": 17,
+          "url": "https://t.co/iNb26gPIQF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2011497423106162935",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 72
+    },
+    "referenced_tweets": [
+      {
+        "id": "2011128672997294315",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @_m_1a_: エジラン https://t.co/iNb26gPIQF"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1775,
+        "media_key": "3_2011128668266061824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-j23k2aYAAuW24.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2011128668266061824"
+          ],
+          "media_source_tweet_id": [
+            "2011128672997294315"
+          ]
+        },
+        "author_id": "1964331185590718464",
+        "conversation_id": "2011497423106162935",
+        "created_at": "2026-01-14T17:55:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-14T18:55:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2011497423106162935"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1879201897657360384",
+              "start": 3,
+              "username": "_m_1a_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/iNb26gPIQF",
+              "end": 40,
+              "expanded_url": "https://x.com/_m_1a_/status/2011128672997294315/photo/1",
+              "media_key": "3_2011128668266061824",
+              "start": 17,
+              "url": "https://t.co/iNb26gPIQF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2011497423106162935",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 72
+        },
+        "referenced_tweets": [
+          {
+            "id": "2011128672997294315",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @_m_1a_: エジラン https://t.co/iNb26gPIQF"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2011128668266061824"
+          ]
+        },
+        "author_id": "1879201897657360384",
+        "conversation_id": "2011128672997294315",
+        "created_at": "2026-01-13T17:30:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-13T18:30:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2011128672997294315"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/iNb26gPIQF",
+              "end": 28,
+              "expanded_url": "https://x.com/_m_1a_/status/2011128672997294315/photo/1",
+              "media_key": "3_2011128668266061824",
+              "start": 5,
+              "url": "https://t.co/iNb26gPIQF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2011128672997294315",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 41,
+          "impression_count": 7116,
+          "like_count": 666,
+          "quote_count": 2,
+          "reply_count": 0,
+          "retweet_count": 72
+        },
+        "reply_settings": "everyone",
+        "text": "エジラン https://t.co/iNb26gPIQF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-06T14:13:55.000Z",
+        "description": "中文/od/VOCALOID/音游 纯种乐子人性别不明推上啥都有 会发泄情绪无需理会 私信互关欢迎",
+        "id": "1964331185590718464",
+        "location": "幻想郷",
+        "name": "薄幸",
+        "pinned_tweet_id": "2003760156488986744",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010659872770326528/BT09LiKm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 46,
+          "following_count": 313,
+          "like_count": 3569,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 1073
+        },
+        "username": "breakcoreWTF",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-14T16:20:43.000Z",
+        "description": "リンx レン 、レンx レン 好きです sub @_1_ma_o",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 24,
+                "username": "_1_ma_o"
+              }
+            ]
+          }
+        },
+        "id": "1879201897657360384",
+        "location": "AI🚫",
+        "name": "/ᐠ - ̫ -マ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011470617254690816/ufN8pCKW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2294,
+          "following_count": 64,
+          "like_count": 6844,
+          "listed_count": 6,
+          "media_count": 34,
+          "tweet_count": 775
+        },
+        "username": "_m_1a_",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2015779691291119616"
+      ],
+      "media_source_tweet_id": [
+        "2015779699717464182"
+      ]
+    },
+    "author_id": "1964331185590718464",
+    "conversation_id": "2016022394272719294",
+    "created_at": "2026-01-27T05:36:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-27T06:36:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2016022394272719294"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1339201169059532800",
+          "start": 3,
+          "username": "awaawa_suisoh"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/OH8YPOdMCs",
+          "end": 57,
+          "expanded_url": "https://x.com/awaawa_suisoh/status/2015779699717464182/photo/1",
+          "media_key": "3_2015779691291119616",
+          "start": 34,
+          "url": "https://t.co/OH8YPOdMCs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2016022394272719294",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 98
+    },
+    "referenced_tweets": [
+      {
+        "id": "2015779699717464182",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @awaawa_suisoh: Still Dreaming https://t.co/OH8YPOdMCs"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2015779691291119616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_l88vzakAAWm6Y.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2015779691291119616"
+          ],
+          "media_source_tweet_id": [
+            "2015779699717464182"
+          ]
+        },
+        "author_id": "1964331185590718464",
+        "conversation_id": "2016022394272719294",
+        "created_at": "2026-01-27T05:36:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-27T06:36:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016022394272719294"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1339201169059532800",
+              "start": 3,
+              "username": "awaawa_suisoh"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/OH8YPOdMCs",
+              "end": 57,
+              "expanded_url": "https://x.com/awaawa_suisoh/status/2015779699717464182/photo/1",
+              "media_key": "3_2015779691291119616",
+              "start": 34,
+              "url": "https://t.co/OH8YPOdMCs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016022394272719294",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 98
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015779699717464182",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @awaawa_suisoh: Still Dreaming https://t.co/OH8YPOdMCs"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2015779691291119616"
+          ]
+        },
+        "author_id": "1339201169059532800",
+        "conversation_id": "2015779699717464182",
+        "created_at": "2026-01-26T13:31:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-26T14:31:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2015779699717464182"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/OH8YPOdMCs",
+              "end": 38,
+              "expanded_url": "https://x.com/awaawa_suisoh/status/2015779699717464182/photo/1",
+              "media_key": "3_2015779691291119616",
+              "start": 15,
+              "url": "https://t.co/OH8YPOdMCs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015779699717464182",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 44,
+          "impression_count": 8824,
+          "like_count": 1018,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 98
+        },
+        "reply_settings": "everyone",
+        "text": "Still Dreaming https://t.co/OH8YPOdMCs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-06T14:13:55.000Z",
+        "description": "中文/od/自伤/VOCALOID/音游 纯种乐子人性别不明推上啥都有 会发泄情绪无需理会 私信互关欢迎 🚪40加微信纯绿可陪聊",
+        "id": "1964331185590718464",
+        "location": "Internet",
+        "name": "薄幸",
+        "pinned_tweet_id": "2003760156488986744",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015679257582964737/T8W4H246_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 55,
+          "following_count": 334,
+          "like_count": 3972,
+          "listed_count": 0,
+          "media_count": 42,
+          "tweet_count": 1255
+        },
+        "username": "breakcoreWTF",
+        "verified": false
+      },
+      {
+        "created_at": "2020-12-16T13:30:48.000Z",
+        "description": "ネコを描きます。絵の勉強中📖",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "skeb.jp/@awaawa_suisoh",
+                "end": 23,
+                "expanded_url": "https://skeb.jp/@awaawa_suisoh",
+                "start": 0,
+                "url": "https://t.co/ETkwqwwiBU"
+              }
+            ]
+          }
+        },
+        "id": "1339201169059532800",
+        "name": "ぁゎぃ。",
+        "pinned_tweet_id": "2005232724622328108",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1665367545791262723/FnXnS0Rc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17292,
+          "following_count": 484,
+          "like_count": 27161,
+          "listed_count": 126,
+          "media_count": 765,
+          "tweet_count": 4212
+        },
+        "url": "https://t.co/ETkwqwwiBU",
+        "username": "awaawa_suisoh",
+        "verified": true
+      }
+    ]
+  }
+}

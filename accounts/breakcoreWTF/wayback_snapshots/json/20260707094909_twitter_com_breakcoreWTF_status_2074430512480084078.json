@@ -1,0 +1,289 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2074166636798676992"
+      ],
+      "media_source_tweet_id": [
+        "2074166716318548161"
+      ]
+    },
+    "author_id": "1964331185590718464",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2074430512480084078",
+    "created_at": "2026-07-07T09:49:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-07T10:49:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074430512480084078"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2026603816842571782",
+          "start": 3,
+          "username": "Z4k__7nrO2"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ePshTucaFW",
+          "end": 64,
+          "expanded_url": "https://x.com/Z4k__7nrO2/status/2074166716318548161/video/1",
+          "media_key": "7_2074166636798676992",
+          "start": 41,
+          "url": "https://t.co/ePshTucaFW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074430512480084078",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1805
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074166716318548161",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Z4k__7nrO2: ヤニねこOPの元ネタを調べた海外勢すげえな・・・ https://t.co/ePshTucaFW"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 89327,
+        "height": 712,
+        "media_key": "7_2074166636798676992",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2074166636798676992/pu/img/hISHrswqHPchwRQJ.jpg",
+        "public_metrics": {
+          "view_count": 304543
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2074166636798676992/pu/vid/avc1/484x270/SqfwkK4V8DzMNYzo.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2074166636798676992/pu/vid/avc1/646x360/Q94IL1YCljmLm6Dr.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2074166636798676992/pu/vid/avc1/1280x712/Z9zPug9zk2tTTvLj.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2074166636798676992/pu/pl/u1yMckL2W0A3FzJC.m3u8?v=247"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2074166636798676992"
+          ],
+          "media_source_tweet_id": [
+            "2074166716318548161"
+          ]
+        },
+        "author_id": "1964331185590718464",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2074430512480084078",
+        "created_at": "2026-07-07T09:49:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T10:49:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074430512480084078"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2026603816842571782",
+              "start": 3,
+              "username": "Z4k__7nrO2"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ePshTucaFW",
+              "end": 64,
+              "expanded_url": "https://x.com/Z4k__7nrO2/status/2074166716318548161/video/1",
+              "media_key": "7_2074166636798676992",
+              "start": 41,
+              "url": "https://t.co/ePshTucaFW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074430512480084078",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1805
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074166716318548161",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Z4k__7nrO2: ヤニねこOPの元ネタを調べた海外勢すげえな・・・ https://t.co/ePshTucaFW"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2074166636798676992"
+          ]
+        },
+        "author_id": "2026603816842571782",
+        "conversation_id": "2074166716318548161",
+        "created_at": "2026-07-06T16:20:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T17:20:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074166716318548161"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ePshTucaFW",
+              "end": 48,
+              "expanded_url": "https://x.com/Z4k__7nrO2/status/2074166716318548161/video/1",
+              "media_key": "7_2074166636798676992",
+              "start": 25,
+              "url": "https://t.co/ePshTucaFW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074166716318548161",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3294,
+          "impression_count": 693157,
+          "like_count": 8848,
+          "quote_count": 127,
+          "reply_count": 28,
+          "retweet_count": 1805
+        },
+        "reply_settings": "everyone",
+        "text": "ヤニねこOPの元ネタを調べた海外勢すげえな・・・ https://t.co/ePshTucaFW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-06T14:13:55.000Z",
+        "description": "OD丨自伤丨Vocaloid丨音游丨顺女 LGBTQ+friendly\n喜欢爬宠 不卖药 非必要不回私信 我很穷欢迎投喂\n不喜欢的直接b 同类查成分回fo 取关请双取",
+        "id": "1964331185590718464",
+        "location": "颅内",
+        "name": "箸",
+        "pinned_tweet_id": "2072469945422934327",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071376088018956288/SAB5MTfr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 904,
+          "following_count": 707,
+          "like_count": 24147,
+          "listed_count": 0,
+          "media_count": 312,
+          "tweet_count": 5508
+        },
+        "url": "",
+        "username": "breakcoreWTF",
+        "verified": true
+      },
+      {
+        "created_at": "2026-02-25T10:23:09.000Z",
+        "description": "適当な",
+        "id": "2026603816842571782",
+        "name": "伸羅猫 _z",
+        "pinned_tweet_id": "2048573329234346353",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063054417667235840/aBaVxLhA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12372,
+          "following_count": 264,
+          "like_count": 1253,
+          "listed_count": 1,
+          "media_count": 1951,
+          "tweet_count": 2796
+        },
+        "url": "",
+        "username": "Z4k__7nrO2",
+        "verified": true
+      }
+    ]
+  }
+}

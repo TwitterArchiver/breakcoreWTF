@@ -1,0 +1,291 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2022278017289187329"
+      ],
+      "media_source_tweet_id": [
+        "2022278022649544959"
+      ]
+    },
+    "author_id": "1964331185590718464",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Appliances",
+          "id": "864912523077615616",
+          "name": "Appliances"
+        }
+      }
+    ],
+    "conversation_id": "2022313709176295501",
+    "created_at": "2026-02-13T14:15:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-13T15:15:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2022313709176295501"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1391278425260781572",
+          "start": 3,
+          "username": "takeru0321neko"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/iknq0NvaDk",
+          "end": 58,
+          "expanded_url": "https://x.com/takeru0321neko/status/2022278022649544959/photo/1",
+          "media_key": "3_2022278017289187329",
+          "start": 35,
+          "url": "https://t.co/iknq0NvaDk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022313709176295501",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 173
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022278022649544959",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @takeru0321neko: 今日もたくさん働いた白物家電 https://t.co/iknq0NvaDk"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2022278017289187329",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBCTJGmacAE2l4k.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2022278017289187329"
+          ],
+          "media_source_tweet_id": [
+            "2022278022649544959"
+          ]
+        },
+        "author_id": "1964331185590718464",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Appliances",
+              "id": "864912523077615616",
+              "name": "Appliances"
+            }
+          }
+        ],
+        "conversation_id": "2022313709176295501",
+        "created_at": "2026-02-13T14:15:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-13T15:15:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022313709176295501"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1391278425260781572",
+              "start": 3,
+              "username": "takeru0321neko"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/iknq0NvaDk",
+              "end": 58,
+              "expanded_url": "https://x.com/takeru0321neko/status/2022278022649544959/photo/1",
+              "media_key": "3_2022278017289187329",
+              "start": 35,
+              "url": "https://t.co/iknq0NvaDk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022313709176295501",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 173
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022278022649544959",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @takeru0321neko: 今日もたくさん働いた白物家電 https://t.co/iknq0NvaDk"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2022278017289187329"
+          ]
+        },
+        "author_id": "1391278425260781572",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Appliances",
+              "id": "864912523077615616",
+              "name": "Appliances"
+            }
+          }
+        ],
+        "conversation_id": "2022278022649544959",
+        "created_at": "2026-02-13T11:53:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-13T12:53:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022278022649544959"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/iknq0NvaDk",
+              "end": 38,
+              "expanded_url": "https://x.com/takeru0321neko/status/2022278022649544959/photo/1",
+              "media_key": "3_2022278017289187329",
+              "start": 15,
+              "url": "https://t.co/iknq0NvaDk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022278022649544959",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 33,
+          "impression_count": 26662,
+          "like_count": 3660,
+          "quote_count": 5,
+          "reply_count": 8,
+          "retweet_count": 173
+        },
+        "reply_settings": "everyone",
+        "text": "今日もたくさん働いた白物家電 https://t.co/iknq0NvaDk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-06T14:13:55.000Z",
+        "description": "OD丨自伤丨Vocaloid丨音游丨友跨顺女丨少关心我\n不喜欢的直接b 推特是垃圾桶口无遮拦 同类回fo",
+        "id": "1964331185590718464",
+        "location": "🚪40走vx 熟推免",
+        "name": "箸",
+        "pinned_tweet_id": "2016685165557534981",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019848796881186816/pdjXkx-3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 517,
+          "following_count": 562,
+          "like_count": 7869,
+          "listed_count": 0,
+          "media_count": 128,
+          "tweet_count": 2451
+        },
+        "username": "breakcoreWTF",
+        "verified": false
+      },
+      {
+        "created_at": "2021-05-09T06:26:58.000Z",
+        "description": "歌う猫ミームの正体。マンチカンの男の子。2021年03月21日生まれ。チャームポイントはまんまるおめめ。お父さん・お母さん・3歳と2歳の男の子と暮らしているよ。★YouTubeも見てくれたらうれしいです。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@takeru0321neko",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@takeru0321neko",
+                "start": 0,
+                "url": "https://t.co/1Gcw9iabBJ"
+              }
+            ]
+          }
+        },
+        "id": "1391278425260781572",
+        "name": "まつもとたける",
+        "pinned_tweet_id": "1930176457067901210",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1752636134528790528/3BCvYCyJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 79973,
+          "following_count": 744,
+          "like_count": 15507,
+          "listed_count": 405,
+          "media_count": 1403,
+          "tweet_count": 1831
+        },
+        "url": "https://t.co/1Gcw9iabBJ",
+        "username": "takeru0321neko",
+        "verified": true
+      }
+    ]
+  }
+}

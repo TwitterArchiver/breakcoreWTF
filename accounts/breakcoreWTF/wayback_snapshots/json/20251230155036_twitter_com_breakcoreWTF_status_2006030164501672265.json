@@ -1,0 +1,306 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2006015179360985090"
+      ],
+      "media_source_tweet_id": [
+        "2006015185815736653"
+      ]
+    },
+    "author_id": "1964331185590718464",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Television shows from around the world",
+          "id": "3",
+          "name": "TV Shows"
+        },
+        "entity": {
+          "id": "10051379260",
+          "name": "Love, Chunibyo and Other Delusions"
+        }
+      }
+    ],
+    "conversation_id": "2006030164501672265",
+    "created_at": "2025-12-30T15:50:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-30T16:50:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2006030164501672265"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 25,
+          "start": 14,
+          "tag": "中二病でも恋がしたい"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1875913888505774080",
+          "start": 3,
+          "username": "uuuuua07"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Yg8TH6O4i8",
+          "end": 49,
+          "expanded_url": "https://x.com/uuuuua07/status/2006015185815736653/photo/1",
+          "media_key": "3_2006015179360985090",
+          "start": 26,
+          "url": "https://t.co/Yg8TH6O4i8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2006030164501672265",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 69
+    },
+    "referenced_tweets": [
+      {
+        "id": "2006015185815736653",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @uuuuua07: #中二病でも恋がしたい https://t.co/Yg8TH6O4i8"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2006015179360985090",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9bMLWPaYAIrTn0.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2006015179360985090"
+          ],
+          "media_source_tweet_id": [
+            "2006015185815736653"
+          ]
+        },
+        "author_id": "1964331185590718464",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10051379260",
+              "name": "Love, Chunibyo and Other Delusions"
+            }
+          }
+        ],
+        "conversation_id": "2006030164501672265",
+        "created_at": "2025-12-30T15:50:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-30T16:50:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2006030164501672265"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 25,
+              "start": 14,
+              "tag": "中二病でも恋がしたい"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1875913888505774080",
+              "start": 3,
+              "username": "uuuuua07"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Yg8TH6O4i8",
+              "end": 49,
+              "expanded_url": "https://x.com/uuuuua07/status/2006015185815736653/photo/1",
+              "media_key": "3_2006015179360985090",
+              "start": 26,
+              "url": "https://t.co/Yg8TH6O4i8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006030164501672265",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 69
+        },
+        "referenced_tweets": [
+          {
+            "id": "2006015185815736653",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @uuuuua07: #中二病でも恋がしたい https://t.co/Yg8TH6O4i8"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2006015179360985090"
+          ]
+        },
+        "author_id": "1875913888505774080",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10051379260",
+              "name": "Love, Chunibyo and Other Delusions"
+            }
+          }
+        ],
+        "conversation_id": "2006015185815736653",
+        "created_at": "2025-12-30T14:51:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-30T15:51:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2006015185815736653"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 11,
+              "start": 0,
+              "tag": "中二病でも恋がしたい"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Yg8TH6O4i8",
+              "end": 35,
+              "expanded_url": "https://x.com/uuuuua07/status/2006015185815736653/photo/1",
+              "media_key": "3_2006015179360985090",
+              "start": 12,
+              "url": "https://t.co/Yg8TH6O4i8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006015185815736653",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 39,
+          "impression_count": 4500,
+          "like_count": 438,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 69
+        },
+        "reply_settings": "everyone",
+        "text": "#中二病でも恋がしたい https://t.co/Yg8TH6O4i8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-06T14:13:55.000Z",
+        "description": "中文/od/VOCALOID/音游 纯种乐子人性别不明推上啥都有 会发泄情绪无需理会 私信互关欢迎",
+        "id": "1964331185590718464",
+        "location": "幻想郷",
+        "name": "━Σ(ﾟДﾟ|||)━",
+        "pinned_tweet_id": "2003760156488986744",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001729011576426496/HumNDWc3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 48,
+          "following_count": 303,
+          "like_count": 3328,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 983
+        },
+        "username": "breakcoreWTF",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-05T14:35:13.000Z",
+        "description": "依頼はdmまで @uqxlxx",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 8,
+                "username": "uqxlxx"
+              }
+            ]
+          }
+        },
+        "id": "1875913888505774080",
+        "name": "ua",
+        "pinned_tweet_id": "1994233790512660723",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1934112910739169281/_loZWRPY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2419,
+          "following_count": 9,
+          "like_count": 584,
+          "listed_count": 10,
+          "media_count": 42,
+          "tweet_count": 59
+        },
+        "username": "uuuuua07",
+        "verified": false
+      }
+    ]
+  }
+}

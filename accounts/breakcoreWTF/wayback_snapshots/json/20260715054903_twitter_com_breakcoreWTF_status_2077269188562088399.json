@@ -1,0 +1,282 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2077073128501686273"
+      ],
+      "media_source_tweet_id": [
+        "2077073137964073104"
+      ]
+    },
+    "author_id": "1964331185590718464",
+    "conversation_id": "2077269188562088399",
+    "created_at": "2026-07-15T05:49:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-15T06:49:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077269188562088399"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1954043712142790656",
+          "start": 3,
+          "username": "k1MM166"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/otp3pfF8OR",
+          "end": 76,
+          "expanded_url": "https://x.com/k1MM166/status/2077073137964073104/video/1",
+          "media_key": "13_2077073128501686273",
+          "start": 53,
+          "url": "https://t.co/otp3pfF8OR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077269188562088399",
+    "lang": "ko",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 21
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077073137964073104",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @k1MM166: 50대 아저씨가 어케 미소년 목소리를 낼 수 있는건지 들을때마다 놀랍다 https://t.co/otp3pfF8OR"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 2358,
+        "height": 592,
+        "media_key": "13_2077073128501686273",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2077073128501686273/img/qujHa9-yXWOD48Rf.jpg",
+        "public_metrics": {
+          "view_count": 767
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2077073128501686273/vid/avc1/582x270/pOFbXYZkbvVy1RuI.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2077073128501686273/vid/avc1/778x360/9WuiNN3uSnuApYsp.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2077073128501686273/vid/avc1/1280x592/0C5WAp-q-jPHg0BN.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2077073128501686273/pl/EMsfBA3iurD0H_K3.m3u8"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2077073128501686273"
+          ],
+          "media_source_tweet_id": [
+            "2077073137964073104"
+          ]
+        },
+        "author_id": "1964331185590718464",
+        "conversation_id": "2077269188562088399",
+        "created_at": "2026-07-15T05:49:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T06:49:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077269188562088399"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1954043712142790656",
+              "start": 3,
+              "username": "k1MM166"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/otp3pfF8OR",
+              "end": 76,
+              "expanded_url": "https://x.com/k1MM166/status/2077073137964073104/video/1",
+              "media_key": "13_2077073128501686273",
+              "start": 53,
+              "url": "https://t.co/otp3pfF8OR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077269188562088399",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 21
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077073137964073104",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @k1MM166: 50대 아저씨가 어케 미소년 목소리를 낼 수 있는건지 들을때마다 놀랍다 https://t.co/otp3pfF8OR"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2077073128501686273"
+          ]
+        },
+        "author_id": "1954043712142790656",
+        "conversation_id": "2077073137964073104",
+        "created_at": "2026-07-14T16:50:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T17:50:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077073137964073104"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/otp3pfF8OR",
+              "end": 63,
+              "expanded_url": "https://x.com/k1MM166/status/2077073137964073104/video/1",
+              "media_key": "13_2077073128501686273",
+              "start": 40,
+              "url": "https://t.co/otp3pfF8OR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077073137964073104",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 32,
+          "impression_count": 1480,
+          "like_count": 107,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 21
+        },
+        "reply_settings": "everyone",
+        "text": "50대 아저씨가 어케 미소년 목소리를 낼 수 있는건지 들을때마다 놀랍다 https://t.co/otp3pfF8OR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-06T14:13:55.000Z",
+        "description": "叫我筷子就可以了(:3っ )っ\nOD丨Vocaloid丨音游丨顺女 LGBTQ+friendly\n不卖药 只看互关私信 我很穷欢迎投喂\n不喜欢的直接b 查成分同类回fo 取关请双取",
+        "id": "1964331185590718464",
+        "location": "颅内",
+        "name": "箸",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074711282427842560/EOM9Puhb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 991,
+          "following_count": 739,
+          "like_count": 28272,
+          "listed_count": 0,
+          "media_count": 320,
+          "tweet_count": 5785
+        },
+        "url": "",
+        "username": "breakcoreWTF",
+        "verified": true
+      },
+      {
+        "created_at": "2025-08-09T04:56:13.000Z",
+        "description": "🇰🇷20⬆️/그림러(장르계X) 비계🔞:@K1MM1O\n햊빈,헌호 등 미애니 위주",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 21,
+                "username": "K1MM1O"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "spin-spin.com/K1MM1",
+                "end": 23,
+                "expanded_url": "https://spin-spin.com/K1MM1",
+                "start": 0,
+                "url": "https://t.co/ZBHFlguhqA"
+              }
+            ]
+          }
+        },
+        "id": "1954043712142790656",
+        "name": "킴미",
+        "pinned_tweet_id": "2066489085691334983",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021981088101675012/7o5aJH_d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1043,
+          "following_count": 111,
+          "like_count": 4891,
+          "listed_count": 0,
+          "media_count": 421,
+          "tweet_count": 1944
+        },
+        "url": "https://t.co/ZBHFlguhqA",
+        "username": "k1MM166",
+        "verified": false
+      }
+    ]
+  }
+}

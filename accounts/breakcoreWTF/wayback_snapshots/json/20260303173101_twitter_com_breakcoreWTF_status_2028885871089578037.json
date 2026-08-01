@@ -1,0 +1,488 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1964331185590718464",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Video Game Hardware",
+          "id": "79",
+          "name": "Video Game Hardware"
+        },
+        "entity": {
+          "id": "1201641937502998528",
+          "name": "Arcade gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1201641937502998528",
+          "name": "Arcade gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491833436499107849",
+          "name": "Gaming hardware & accessories"
+        }
+      }
+    ],
+    "conversation_id": "2028885871089578037",
+    "created_at": "2026-03-03T17:31:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-03T18:31:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2028885871089578037"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "182324361",
+          "start": 3,
+          "username": "BANPRE_PZ"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "t.co",
+          "end": 139,
+          "start": 126,
+          "url": "https://t.co/"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028885871089578037",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1640
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028674239214362980",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @BANPRE_PZ: ＼ゲームも音楽もどんちゃん＆かっちゃんと楽しもう🎶／\n\n左右にどんちゃん＆かっちゃんがプリントされたヘッドホンが登場🎧\n\nイヤーパッドもふたりのカラーになっています🌟\n\n3月5日(木)よりクレーンゲーム景品で順次登場🥁\n\nhttps://t.co/…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_2028658318760407040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCc9_hxa8AABRnr.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1964331185590718464",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Video Game Hardware",
+              "id": "79",
+              "name": "Video Game Hardware"
+            },
+            "entity": {
+              "id": "1201641937502998528",
+              "name": "Arcade gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1201641937502998528",
+              "name": "Arcade gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491833436499107849",
+              "name": "Gaming hardware & accessories"
+            }
+          }
+        ],
+        "conversation_id": "2028885871089578037",
+        "created_at": "2026-03-03T17:31:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-03T18:31:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028885871089578037"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "182324361",
+              "start": 3,
+              "username": "BANPRE_PZ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "t.co",
+              "end": 139,
+              "start": 126,
+              "url": "https://t.co/"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028885871089578037",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1640
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028674239214362980",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @BANPRE_PZ: ＼ゲームも音楽もどんちゃん＆かっちゃんと楽しもう🎶／\n\n左右にどんちゃん＆かっちゃんがプリントされたヘッドホンが登場🎧\n\nイヤーパッドもふたりのカラーになっています🌟\n\n3月5日(木)よりクレーンゲーム景品で順次登場🥁\n\nhttps://t.co/…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2028658318760407040"
+          ]
+        },
+        "author_id": "182324361",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1128367253861175296",
+              "name": "Taiko no Tatsujin"
+            }
+          },
+          {
+            "domain": {
+              "description": "Video Game Hardware",
+              "id": "79",
+              "name": "Video Game Hardware"
+            },
+            "entity": {
+              "id": "1201641937502998528",
+              "name": "Arcade gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1128367253861175296",
+              "name": "Taiko no Tatsujin"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1201641937502998528",
+              "name": "Arcade gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1359647921210159105",
+              "name": "Rhythm games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491833436499107849",
+              "name": "Gaming hardware & accessories"
+            }
+          }
+        ],
+        "conversation_id": "2028674239214362980",
+        "created_at": "2026-03-03T03:30:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-03T04:30:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2028674239214362980"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 142,
+              "start": 136,
+              "tag": "太鼓の達人"
+            },
+            {
+              "end": 153,
+              "start": 143,
+              "tag": "BANPRESTO"
+            }
+          ],
+          "urls": [
+            {
+              "description": "左右にどんちゃん・かっちゃんのプリント、 イヤーパッドもふたりのカラーになっている、超限定感のあるヘッドホンが登場！ サイズ調整が可能なので、大人も子供も楽しめます。 ゲームも音楽も、どんちゃん・かっちゃんと楽しもう♪♬ ※写真と商品とは異なる場合がございます。 ※店舗により登場時期が前後する場合がございます。 ※掲載内容は予告なく変更する場合がございます。 ※取扱店舗は随時更新となります。",
+              "display_url": "bsp-prize.jp/item/2833717/",
+              "end": 134,
+              "expanded_url": "https://bsp-prize.jp/item/2833717/",
+              "images": [
+                {
+                  "height": 500,
+                  "url": "https://pbs.twimg.com/news_img/2027765571413282817/rSSQ89VY?format=jpg&name=orig",
+                  "width": 500
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2027765571413282817/rSSQ89VY?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 111,
+              "status": 200,
+              "title": "太鼓の達人 和田どん＆和田かつヘッドホン｜商品情報｜バンプレストナビサイト シェアしよう",
+              "unwound_url": "https://bsp-prize.jp/item/2833717/",
+              "url": "https://t.co/0Zox5JX3S7"
+            },
+            {
+              "display_url": "pic.x.com/UqGQEJ0nCM",
+              "end": 177,
+              "expanded_url": "https://x.com/BANPRE_PZ/status/2028674239214362980/photo/1",
+              "media_key": "3_2028658318760407040",
+              "start": 154,
+              "url": "https://t.co/UqGQEJ0nCM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028674239214362980",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 744,
+          "impression_count": 311374,
+          "like_count": 5886,
+          "quote_count": 703,
+          "reply_count": 4,
+          "retweet_count": 1640
+        },
+        "reply_settings": "everyone",
+        "text": "＼ゲームも音楽もどんちゃん＆かっちゃんと楽しもう🎶／\n\n左右にどんちゃん＆かっちゃんがプリントされたヘッドホンが登場🎧\n\nイヤーパッドもふたりのカラーになっています🌟\n\n3月5日(木)よりクレーンゲーム景品で順次登場🥁\n\nhttps://t.co/0Zox5JX3S7\n\n#太鼓の達人 #BANPRESTO https://t.co/UqGQEJ0nCM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-06T14:13:55.000Z",
+        "description": "OD丨自伤丨Vocaloid丨音游丨友跨顺女丨少关心我\n不喜欢的直接b 推特是垃圾桶口无遮拦 同类回fo",
+        "id": "1964331185590718464",
+        "location": "🚪50/88 同类熟推免",
+        "name": "箸",
+        "pinned_tweet_id": "2024039744276189189",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019848796881186816/pdjXkx-3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 661,
+          "following_count": 599,
+          "like_count": 11506,
+          "listed_count": 0,
+          "media_count": 170,
+          "tweet_count": 3420
+        },
+        "username": "breakcoreWTF",
+        "verified": false
+      },
+      {
+        "created_at": "2010-08-24T10:14:17.000Z",
+        "description": "クレーンゲーム景品を企画開発する（株）BANDAI SPIRITSの『バンプレストブランド』公式アカウントです。\n新商品＆キャンペーン情報をお届けします！商品に関するアンケート実施中！詳細はパッケージをご確認ください。\n※個別のお問合せには対応しておりません。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "bsp-prize.jp",
+                "end": 23,
+                "expanded_url": "https://bsp-prize.jp/",
+                "start": 0,
+                "url": "https://t.co/Qv756g3jUX"
+              }
+            ]
+          }
+        },
+        "id": "182324361",
+        "location": "東京都 港区",
+        "name": "バンプレストブランド(BANDAI SPIRITS)",
+        "pinned_tweet_id": "2028108019876413596",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1732683578679676928/H7ywZGug_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 732848,
+          "following_count": 146,
+          "like_count": 53,
+          "listed_count": 1782,
+          "media_count": 549970,
+          "tweet_count": 554722
+        },
+        "url": "https://t.co/Qv756g3jUX",
+        "username": "BANPRE_PZ",
+        "verified": true
+      }
+    ]
+  }
+}

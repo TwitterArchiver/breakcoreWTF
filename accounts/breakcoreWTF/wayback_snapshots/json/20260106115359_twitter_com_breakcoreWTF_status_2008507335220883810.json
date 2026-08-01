@@ -1,0 +1,312 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2008119530162356224"
+      ],
+      "media_source_tweet_id": [
+        "2008122745947914670"
+      ]
+    },
+    "author_id": "1964331185590718464",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2008507335220883810",
+    "created_at": "2026-01-06T11:53:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-06T12:53:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2008507335220883810"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1960389326258495492",
+          "start": 3,
+          "username": "looolzaozimin"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/GrwVu2SoAD",
+          "end": 42,
+          "expanded_url": "https://x.com/looolzaozimin/status/2008122745947914670/video/1",
+          "media_key": "13_2008119530162356224",
+          "start": 19,
+          "url": "https://t.co/GrwVu2SoAD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2008507335220883810",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 352
+    },
+    "referenced_tweets": [
+      {
+        "id": "2008122745947914670",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @looolzaozimin: https://t.co/GrwVu2SoAD"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 62633,
+        "height": 960,
+        "media_key": "13_2008119530162356224",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2008119530162356224/img/AjO1fSGVEyqf7CWy.jpg",
+        "public_metrics": {
+          "view_count": 158434
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2008119530162356224/vid/avc1/320x426/mykmjBUNjWmhvSS3.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2008119530162356224/vid/avc1/480x640/FmoKCMZ_bFmJFGSK.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2008119530162356224/vid/avc1/720x960/QSdWXeLEzIa-pG4q.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2008119530162356224/pl/uYGvPVskQ55C_1Zx.m3u8?v=cfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2008119530162356224"
+          ],
+          "media_source_tweet_id": [
+            "2008122745947914670"
+          ]
+        },
+        "author_id": "1964331185590718464",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2008507335220883810",
+        "created_at": "2026-01-06T11:53:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-06T12:53:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2008507335220883810"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1960389326258495492",
+              "start": 3,
+              "username": "looolzaozimin"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/GrwVu2SoAD",
+              "end": 42,
+              "expanded_url": "https://x.com/looolzaozimin/status/2008122745947914670/video/1",
+              "media_key": "13_2008119530162356224",
+              "start": 19,
+              "url": "https://t.co/GrwVu2SoAD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008507335220883810",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 352
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008122745947914670",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @looolzaozimin: https://t.co/GrwVu2SoAD"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2008119530162356224"
+          ]
+        },
+        "author_id": "1960389326258495492",
+        "conversation_id": "2008122745947914670",
+        "created_at": "2026-01-05T10:25:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-05T11:25:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2008122745947914670"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GrwVu2SoAD",
+              "end": 23,
+              "expanded_url": "https://x.com/looolzaozimin/status/2008122745947914670/video/1",
+              "media_key": "13_2008119530162356224",
+              "start": 0,
+              "url": "https://t.co/GrwVu2SoAD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008122745947914670",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1292,
+          "impression_count": 185839,
+          "like_count": 5279,
+          "quote_count": 10,
+          "reply_count": 13,
+          "retweet_count": 352
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/GrwVu2SoAD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-06T14:13:55.000Z",
+        "description": "中文/od/VOCALOID/音游 纯种乐子人性别不明推上啥都有 会发泄情绪无需理会 私信互关欢迎",
+        "id": "1964331185590718464",
+        "location": "幻想郷",
+        "name": "━Σ(ﾟДﾟ|||)━",
+        "pinned_tweet_id": "2003760156488986744",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001729011576426496/HumNDWc3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 49,
+          "following_count": 309,
+          "like_count": 3430,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 1010
+        },
+        "username": "breakcoreWTF",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-26T17:10:37.000Z",
+        "description": "",
+        "id": "1960389326258495492",
+        "location": "門188 1888",
+        "name": "小藻",
+        "pinned_tweet_id": "1969267181771804999",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006630961887535104/Xwoq_Ilo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22027,
+          "following_count": 31,
+          "like_count": 86,
+          "listed_count": 27,
+          "media_count": 50,
+          "tweet_count": 75
+        },
+        "username": "looolzaozimin",
+        "verified": false
+      }
+    ]
+  }
+}

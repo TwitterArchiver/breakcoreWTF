@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2065255873195438080"
+      ],
+      "media_source_tweet_id": [
+        "2065255933174067265"
+      ]
+    },
+    "author_id": "1964331185590718464",
+    "conversation_id": "2065682667610484842",
+    "created_at": "2026-06-13T06:28:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-13T07:28:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065682667610484842"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1578054550950248449",
+          "start": 3,
+          "username": "watakanichan"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/GygEt1pq2h",
+          "end": 58,
+          "expanded_url": "https://x.com/watakanichan/status/2065255933174067265/video/1",
+          "media_key": "13_2065255873195438080",
+          "start": 35,
+          "url": "https://t.co/GygEt1pq2h"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065682667610484842",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 13
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065255933174067265",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @watakanichan: いもむしおちてた！キューキュー！ https://t.co/GygEt1pq2h"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 2801,
+        "height": 1280,
+        "media_key": "13_2065255873195438080",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2065255873195438080/img/EfMsjRiu-qGsKhoc.jpg",
+        "public_metrics": {
+          "view_count": 573
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2065255873195438080/vid/avc1/320x568/OQhn3_m5c4YIM0bT.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2065255873195438080/vid/avc1/480x852/GJw0SJXqQIn6iuJO.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2065255873195438080/vid/avc1/720x1280/lvTyBWmEjhdTCQU7.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2065255873195438080/pl/oeEU0t6UG0VW7sEP.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2065255873195438080"
+          ],
+          "media_source_tweet_id": [
+            "2065255933174067265"
+          ]
+        },
+        "author_id": "1964331185590718464",
+        "conversation_id": "2065682667610484842",
+        "created_at": "2026-06-13T06:28:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T07:28:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065682667610484842"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1578054550950248449",
+              "start": 3,
+              "username": "watakanichan"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/GygEt1pq2h",
+              "end": 58,
+              "expanded_url": "https://x.com/watakanichan/status/2065255933174067265/video/1",
+              "media_key": "13_2065255873195438080",
+              "start": 35,
+              "url": "https://t.co/GygEt1pq2h"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065682667610484842",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 13
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065255933174067265",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @watakanichan: いもむしおちてた！キューキュー！ https://t.co/GygEt1pq2h"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2065255873195438080"
+          ]
+        },
+        "author_id": "1578054550950248449",
+        "conversation_id": "2065255933174067265",
+        "created_at": "2026-06-12T02:12:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T03:12:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065255933174067265"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GygEt1pq2h",
+              "end": 40,
+              "expanded_url": "https://x.com/watakanichan/status/2065255933174067265/video/1",
+              "media_key": "13_2065255873195438080",
+              "start": 17,
+              "url": "https://t.co/GygEt1pq2h"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065255933174067265",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 1831,
+          "like_count": 74,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 13
+        },
+        "reply_settings": "everyone",
+        "text": "いもむしおちてた！キューキュー！ https://t.co/GygEt1pq2h"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-06T14:13:55.000Z",
+        "description": "OD丨自伤丨Vocaloid丨友跨顺女\n喜欢爬宠 不卖药 非必要不回私信 我很穷欢迎投喂\n不喜欢的直接b 同类查成分回fo 取关请双取",
+        "id": "1964331185590718464",
+        "location": "颅内",
+        "name": "箸",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061439509125074944/Hf-Lim6c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 810,
+          "following_count": 682,
+          "like_count": 17506,
+          "listed_count": 0,
+          "media_count": 252,
+          "tweet_count": 4831
+        },
+        "username": "breakcoreWTF",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-06T16:08:32.000Z",
+        "description": "スズメバチ仮面ヒロポンさんのことが大好き！！！めっちゃ大好き！！！！ぬいぐるみが大好き！！！ゴキブリ、ヤスデ、ハムスター、ヒョウモントカゲモドキ、ファンシーラットと暮らしています🐘",
+        "id": "1578054550950248449",
+        "location": "大阪",
+        "name": "わたわた",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1938747191562244096/Sl0eg-fg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 170,
+          "following_count": 571,
+          "like_count": 19069,
+          "listed_count": 1,
+          "media_count": 1316,
+          "tweet_count": 5433
+        },
+        "username": "watakanichan",
+        "verified": false
+      }
+    ]
+  }
+}

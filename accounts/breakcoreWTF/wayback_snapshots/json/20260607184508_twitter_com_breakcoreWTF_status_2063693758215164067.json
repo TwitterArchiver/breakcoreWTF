@@ -1,0 +1,310 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2063516335112376320"
+      ],
+      "media_source_tweet_id": [
+        "2063516364132798617"
+      ]
+    },
+    "author_id": "1964331185590718464",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2063693758215164067",
+    "created_at": "2026-06-07T18:45:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T19:45:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063693758215164067"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "2922320919",
+          "start": 3,
+          "username": "equine__dentist"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/hXzzaYxLtA",
+          "end": 94,
+          "expanded_url": "https://x.com/equine__dentist/status/2063516364132798617/video/1",
+          "media_key": "7_2063516335112376320",
+          "start": 71,
+          "url": "https://t.co/hXzzaYxLtA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063693758215164067",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 282
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063516364132798617",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @equine__dentist: toads are awesome they just kinda let that happen https://t.co/hXzzaYxLtA"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 19166,
+        "height": 1280,
+        "media_key": "7_2063516335112376320",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2063516335112376320/pu/img/1C_H5RSgCTq3o4K_.jpg",
+        "public_metrics": {
+          "view_count": 136291
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2063516335112376320/pu/vid/avc1/320x568/2XWopuF7Uqzb0IT-.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2063516335112376320/pu/vid/avc1/480x852/8WhI76aBs2H6UVAR.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2063516335112376320/pu/vid/avc1/720x1280/Hxtm6IySreQLRvtF.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2063516335112376320/pu/pl/BDjC_GajfAFYW-Dz.m3u8?tag=12&v=53f"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2063516335112376320"
+          ],
+          "media_source_tweet_id": [
+            "2063516364132798617"
+          ]
+        },
+        "author_id": "1964331185590718464",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2063693758215164067",
+        "created_at": "2026-06-07T18:45:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T19:45:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063693758215164067"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "2922320919",
+              "start": 3,
+              "username": "equine__dentist"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/hXzzaYxLtA",
+              "end": 94,
+              "expanded_url": "https://x.com/equine__dentist/status/2063516364132798617/video/1",
+              "media_key": "7_2063516335112376320",
+              "start": 71,
+              "url": "https://t.co/hXzzaYxLtA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063693758215164067",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 282
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063516364132798617",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @equine__dentist: toads are awesome they just kinda let that happen https://t.co/hXzzaYxLtA"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2063516335112376320"
+          ]
+        },
+        "author_id": "2922320919",
+        "conversation_id": "2063516364132798617",
+        "created_at": "2026-06-07T07:00:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T08:00:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063516364132798617"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hXzzaYxLtA",
+              "end": 73,
+              "expanded_url": "https://x.com/equine__dentist/status/2063516364132798617/video/1",
+              "media_key": "7_2063516335112376320",
+              "start": 50,
+              "url": "https://t.co/hXzzaYxLtA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063516364132798617",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 522,
+          "impression_count": 268309,
+          "like_count": 5597,
+          "quote_count": 18,
+          "reply_count": 28,
+          "retweet_count": 282
+        },
+        "reply_settings": "everyone",
+        "text": "toads are awesome they just kinda let that happen https://t.co/hXzzaYxLtA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-06T14:13:55.000Z",
+        "description": "OD丨自伤丨Vocaloid丨音游丨友跨顺女\n不喜欢的直接b 同类回fo 取关请双取",
+        "id": "1964331185590718464",
+        "location": "颅内",
+        "name": "箸",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061439509125074944/Hf-Lim6c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 725,
+          "following_count": 641,
+          "like_count": 15477,
+          "listed_count": 0,
+          "media_count": 224,
+          "tweet_count": 4517
+        },
+        "username": "breakcoreWTF",
+        "verified": false
+      },
+      {
+        "created_at": "2014-12-15T03:00:26.000Z",
+        "description": "horse god formerly known as balthazar the exalted",
+        "id": "2922320919",
+        "name": "horse dentist",
+        "pinned_tweet_id": "2063516364132798617",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1594080000805945345/zwKVAWO4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 70025,
+          "following_count": 776,
+          "like_count": 57317,
+          "listed_count": 172,
+          "media_count": 13134,
+          "tweet_count": 26488
+        },
+        "username": "equine__dentist",
+        "verified": true
+      }
+    ]
+  }
+}

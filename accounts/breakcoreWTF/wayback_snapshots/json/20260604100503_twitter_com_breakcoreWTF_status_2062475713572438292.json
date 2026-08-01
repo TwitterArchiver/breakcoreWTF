@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2062406105674997760"
+      ],
+      "media_source_tweet_id": [
+        "2062406108816560192"
+      ]
+    },
+    "author_id": "1964331185590718464",
+    "conversation_id": "2062475713572438292",
+    "created_at": "2026-06-04T10:05:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-04T11:05:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062475713572438292"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1207783200128479233",
+          "start": 3,
+          "username": "WindowTappcou0"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/oTZxpS3LFg",
+          "end": 53,
+          "expanded_url": "https://x.com/WindowTappcou0/status/2062406108816560192/photo/1",
+          "media_key": "3_2062406105674997760",
+          "start": 30,
+          "url": "https://t.co/oTZxpS3LFg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062475713572438292",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 283
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062406108816560192",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @WindowTappcou0: 嘘だと言ってくれ… https://t.co/oTZxpS3LFg"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1113,
+        "media_key": "3_2062406105674997760",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ8jbQ9a4AA1BSh.jpg",
+        "width": 1115
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062406105674997760"
+          ],
+          "media_source_tweet_id": [
+            "2062406108816560192"
+          ]
+        },
+        "author_id": "1964331185590718464",
+        "conversation_id": "2062475713572438292",
+        "created_at": "2026-06-04T10:05:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T11:05:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062475713572438292"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1207783200128479233",
+              "start": 3,
+              "username": "WindowTappcou0"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/oTZxpS3LFg",
+              "end": 53,
+              "expanded_url": "https://x.com/WindowTappcou0/status/2062406108816560192/photo/1",
+              "media_key": "3_2062406105674997760",
+              "start": 30,
+              "url": "https://t.co/oTZxpS3LFg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062475713572438292",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 283
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062406108816560192",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @WindowTappcou0: 嘘だと言ってくれ… https://t.co/oTZxpS3LFg"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062406105674997760"
+          ]
+        },
+        "author_id": "1207783200128479233",
+        "conversation_id": "2062406108816560192",
+        "created_at": "2026-06-04T05:28:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T06:28:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062406108816560192"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/oTZxpS3LFg",
+              "end": 33,
+              "expanded_url": "https://x.com/WindowTappcou0/status/2062406108816560192/photo/1",
+              "media_key": "3_2062406105674997760",
+              "start": 10,
+              "url": "https://t.co/oTZxpS3LFg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062406108816560192",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 198,
+          "impression_count": 88986,
+          "like_count": 5609,
+          "quote_count": 15,
+          "reply_count": 40,
+          "retweet_count": 283
+        },
+        "reply_settings": "everyone",
+        "text": "嘘だと言ってくれ… https://t.co/oTZxpS3LFg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-06T14:13:55.000Z",
+        "description": "OD丨自伤丨Vocaloid丨音游丨友跨顺女\n不喜欢的直接b 同类回fo 取关请双取",
+        "id": "1964331185590718464",
+        "location": "颅内",
+        "name": "箸",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061439509125074944/Hf-Lim6c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 668,
+          "following_count": 606,
+          "like_count": 14373,
+          "listed_count": 0,
+          "media_count": 212,
+          "tweet_count": 4253
+        },
+        "username": "breakcoreWTF",
+        "verified": false
+      },
+      {
+        "created_at": "2019-12-19T22:02:26.000Z",
+        "description": "バズりたーーーい！！！",
+        "id": "1207783200128479233",
+        "name": "バズり隊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034704646074507265/4kogqXqz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24751,
+          "following_count": 7262,
+          "like_count": 16624,
+          "listed_count": 41,
+          "media_count": 1744,
+          "tweet_count": 13486
+        },
+        "username": "WindowTappcou0",
+        "verified": true
+      }
+    ]
+  }
+}

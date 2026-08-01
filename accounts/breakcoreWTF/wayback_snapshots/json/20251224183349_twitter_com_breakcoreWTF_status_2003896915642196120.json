@@ -1,0 +1,619 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2003748614427086848"
+      ],
+      "media_source_tweet_id": [
+        "2003749411160281366"
+      ]
+    },
+    "author_id": "1964331185590718464",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "description": "This entity includes all conversations for Christmas for all years.",
+          "id": "1250078501849280512",
+          "name": "Christmas"
+        }
+      },
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "id": "1853510897634873344",
+          "name": "Christmas 2024"
+        }
+      },
+      {
+        "domain": {
+          "description": "Holidays like Christmas or Halloween",
+          "id": "119",
+          "name": "Holiday"
+        },
+        "entity": {
+          "description": "This entity includes all conversations for Christmas for all years.",
+          "id": "1250078501849280512",
+          "name": "Christmas"
+        }
+      },
+      {
+        "domain": {
+          "description": "Holidays like Christmas or Halloween",
+          "id": "119",
+          "name": "Holiday"
+        },
+        "entity": {
+          "id": "1853510897634873344",
+          "name": "Christmas 2024"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Holidays",
+          "id": "847548225712119808",
+          "name": "Holidays"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "This entity includes all conversations for Christmas for all years.",
+          "id": "1250078501849280512",
+          "name": "Christmas"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1291095284756357120",
+          "name": "Cultural events"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1436053202835689485",
+          "name": "Events"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1853510897634873344",
+          "name": "Christmas 2024"
+        }
+      }
+    ],
+    "conversation_id": "2003896915642196120",
+    "created_at": "2025-12-24T18:33:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-24T19:33:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2003896915642196120"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1526222170363289601",
+          "start": 3,
+          "username": "joe__fight"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/2Gqze3lD6H",
+          "end": 71,
+          "expanded_url": "https://x.com/joe__fight/status/2003749411160281366/video/1",
+          "media_key": "13_2003748614427086848",
+          "start": 48,
+          "url": "https://t.co/2Gqze3lD6H"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2003896915642196120",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 170
+    },
+    "referenced_tweets": [
+      {
+        "id": "2003749411160281366",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @joe__fight: メリークリスマス🎅🎄🌚\n良い子のおうちに行くからね\n※音量注意 https://t.co/2Gqze3lD6H"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 9200,
+        "height": 1080,
+        "media_key": "13_2003748614427086848",
+        "preview_image_url": "https://pbs.twimg.com/media/G87AAsWaEAAvPbx.jpg",
+        "public_metrics": {
+          "view_count": 5720
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2003748614427086848/vid/avc1/640x360/d8fWvJroN7PowZYn.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2003748614427086848/pl/4uOy66GXMKYL67Pz.m3u8"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2003748614427086848/vid/avc1/1920x1080/jCuG_4XmYzGJCd_Y.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2003748614427086848/vid/avc1/1280x720/hLApduUYqcgocBL_.mp4"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2003748614427086848/vid/avc1/480x270/LlCBq1qda9eaJV6H.mp4"
+          }
+        ],
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2003748614427086848"
+          ],
+          "media_source_tweet_id": [
+            "2003749411160281366"
+          ]
+        },
+        "author_id": "1964331185590718464",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for Christmas for all years.",
+              "id": "1250078501849280512",
+              "name": "Christmas"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "1853510897634873344",
+              "name": "Christmas 2024"
+            }
+          },
+          {
+            "domain": {
+              "description": "Holidays like Christmas or Halloween",
+              "id": "119",
+              "name": "Holiday"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for Christmas for all years.",
+              "id": "1250078501849280512",
+              "name": "Christmas"
+            }
+          },
+          {
+            "domain": {
+              "description": "Holidays like Christmas or Halloween",
+              "id": "119",
+              "name": "Holiday"
+            },
+            "entity": {
+              "id": "1853510897634873344",
+              "name": "Christmas 2024"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Holidays",
+              "id": "847548225712119808",
+              "name": "Holidays"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for Christmas for all years.",
+              "id": "1250078501849280512",
+              "name": "Christmas"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291095284756357120",
+              "name": "Cultural events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1853510897634873344",
+              "name": "Christmas 2024"
+            }
+          }
+        ],
+        "conversation_id": "2003896915642196120",
+        "created_at": "2025-12-24T18:33:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-24T19:33:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2003896915642196120"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1526222170363289601",
+              "start": 3,
+              "username": "joe__fight"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/2Gqze3lD6H",
+              "end": 71,
+              "expanded_url": "https://x.com/joe__fight/status/2003749411160281366/video/1",
+              "media_key": "13_2003748614427086848",
+              "start": 48,
+              "url": "https://t.co/2Gqze3lD6H"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003896915642196120",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 170
+        },
+        "referenced_tweets": [
+          {
+            "id": "2003749411160281366",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @joe__fight: メリークリスマス🎅🎄🌚\n良い子のおうちに行くからね\n※音量注意 https://t.co/2Gqze3lD6H"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2003748614427086848"
+          ]
+        },
+        "author_id": "1526222170363289601",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for Christmas for all years.",
+              "id": "1250078501849280512",
+              "name": "Christmas"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "1853510897634873344",
+              "name": "Christmas 2024"
+            }
+          },
+          {
+            "domain": {
+              "description": "Holidays like Christmas or Halloween",
+              "id": "119",
+              "name": "Holiday"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for Christmas for all years.",
+              "id": "1250078501849280512",
+              "name": "Christmas"
+            }
+          },
+          {
+            "domain": {
+              "description": "Holidays like Christmas or Halloween",
+              "id": "119",
+              "name": "Holiday"
+            },
+            "entity": {
+              "id": "1853510897634873344",
+              "name": "Christmas 2024"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Holidays",
+              "id": "847548225712119808",
+              "name": "Holidays"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for Christmas for all years.",
+              "id": "1250078501849280512",
+              "name": "Christmas"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291095284756357120",
+              "name": "Cultural events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1853510897634873344",
+              "name": "Christmas 2024"
+            }
+          }
+        ],
+        "conversation_id": "2003749411160281366",
+        "created_at": "2025-12-24T08:47:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-24T09:47:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2003749411160281366"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2Gqze3lD6H",
+              "end": 55,
+              "expanded_url": "https://x.com/joe__fight/status/2003749411160281366/video/1",
+              "media_key": "13_2003748614427086848",
+              "start": 32,
+              "url": "https://t.co/2Gqze3lD6H"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003749411160281366",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 53,
+          "impression_count": 19258,
+          "like_count": 625,
+          "quote_count": 5,
+          "reply_count": 3,
+          "retweet_count": 170
+        },
+        "reply_settings": "everyone",
+        "text": "メリークリスマス🎅🎄🌚\n良い子のおうちに行くからね\n※音量注意 https://t.co/2Gqze3lD6H"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-06T14:13:55.000Z",
+        "description": "中文/od/VOCALOID/音游 纯种乐子人性别不明推上啥都有 私信互关欢迎",
+        "id": "1964331185590718464",
+        "location": "第五高原",
+        "name": "━Σ(ﾟДﾟ|||)━",
+        "pinned_tweet_id": "2003760156488986744",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001729011576426496/HumNDWc3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 48,
+          "following_count": 286,
+          "like_count": 3038,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 875
+        },
+        "username": "breakcoreWTF",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-16T15:25:06.000Z",
+        "description": "音デカVTuberジョーファイトです🌚\n検索してはいけない言葉入り\nチュウニズムに曲とアバター収録\n\n┊YouTube (1万人)：https://t.co/yWE86NmuvT\n┊TikTok (26万人)：https://t.co/jl8CsFsB1g\n┊親：@myosuke",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 140,
+                "start": 132,
+                "username": "myosuke"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "youtube.com/JoeFight",
+                "end": 89,
+                "expanded_url": "https://www.youtube.com/JoeFight",
+                "start": 66,
+                "url": "https://t.co/yWE86NmuvT"
+              },
+              {
+                "display_url": "tiktok.com/@joe_fight",
+                "end": 128,
+                "expanded_url": "https://www.tiktok.com/@joe_fight",
+                "start": 105,
+                "url": "https://t.co/jl8CsFsB1g"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "myosuke.com/discog.html",
+                "end": 23,
+                "expanded_url": "https://myosuke.com/discog.html",
+                "start": 0,
+                "url": "https://t.co/UptCsq2aMo"
+              }
+            ]
+          }
+        },
+        "id": "1526222170363289601",
+        "location": "ご連絡はDJ Myosukeまで",
+        "name": "Joe Fight",
+        "pinned_tweet_id": "1985633116317499432",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1941443547212734464/SaUVu-Nn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7606,
+          "following_count": 57,
+          "like_count": 1228,
+          "listed_count": 10,
+          "media_count": 289,
+          "tweet_count": 721
+        },
+        "url": "https://t.co/UptCsq2aMo",
+        "username": "joe__fight",
+        "verified": true
+      }
+    ]
+  }
+}

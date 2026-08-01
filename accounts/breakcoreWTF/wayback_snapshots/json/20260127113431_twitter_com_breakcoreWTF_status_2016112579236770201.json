@@ -1,0 +1,158 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2016112526597951488"
+      ]
+    },
+    "author_id": "1964331185590718464",
+    "conversation_id": "2016112579236770201",
+    "created_at": "2026-01-27T11:34:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-27T12:34:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2016112579236770201"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/pbawvCkUA6",
+          "end": 23,
+          "expanded_url": "https://x.com/breakcoreWTF/status/2016112579236770201/video/1",
+          "media_key": "7_2016112526597951488",
+          "start": 0,
+          "url": "https://t.co/pbawvCkUA6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2016112579236770201",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/pbawvCkUA6"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 7340,
+        "height": 1280,
+        "media_key": "7_2016112526597951488",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2016112526597951488/pu/img/NStXwvbReqHeOAFX.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2016112526597951488/pu/vid/avc1/320x568/ZuX5J_6P5C_iZrLf.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2016112526597951488/pu/vid/avc1/480x852/gMpkie6tfWuP0WIW.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2016112526597951488/pu/vid/avc1/720x1280/9wicLB6jQyo82z_o.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2016112526597951488/pu/pl/hPRNBlT72TCzLaY4.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2016112526597951488"
+          ]
+        },
+        "author_id": "1964331185590718464",
+        "conversation_id": "2016112579236770201",
+        "created_at": "2026-01-27T11:34:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-27T12:34:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2016112579236770201"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pbawvCkUA6",
+              "end": 23,
+              "expanded_url": "https://x.com/breakcoreWTF/status/2016112579236770201/video/1",
+              "media_key": "7_2016112526597951488",
+              "start": 0,
+              "url": "https://t.co/pbawvCkUA6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016112579236770201",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/pbawvCkUA6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-06T14:13:55.000Z",
+        "description": "中文/od/自伤/VOCALOID/音游 舞萌普通w53 纯种乐子人性别不明推上啥都有 会发泄情绪无需理会 私信互关欢迎 🚪40加微信纯绿可陪聊",
+        "id": "1964331185590718464",
+        "location": "Internet",
+        "name": "薄幸",
+        "pinned_tweet_id": "2003760156488986744",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015679257582964737/T8W4H246_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 56,
+          "following_count": 336,
+          "like_count": 3987,
+          "listed_count": 0,
+          "media_count": 45,
+          "tweet_count": 1265
+        },
+        "username": "breakcoreWTF",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,274 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2081491706696880128"
+      ],
+      "media_source_tweet_id": [
+        "2081491730504024327"
+      ]
+    },
+    "author_id": "1964331185590718464",
+    "conversation_id": "2081947580091818322",
+    "created_at": "2026-07-28T03:39:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-28T04:39:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081947580091818322"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "3559051335",
+          "start": 3,
+          "username": "Themalickwrld"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/gDBhIPpuyt",
+          "end": 71,
+          "expanded_url": "https://x.com/Themalickwrld/status/2081491730504024327/video/1",
+          "media_key": "13_2081491706696880128",
+          "start": 48,
+          "url": "https://t.co/gDBhIPpuyt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081947580091818322",
+    "lang": "fr",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1782
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081491730504024327",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Themalickwrld: Tu parles de celle là chef ? https://t.co/gDBhIPpuyt"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 6400,
+        "height": 720,
+        "media_key": "13_2081491706696880128",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2081491706696880128/img/py76tmzPcLriu9hp.jpg",
+        "public_metrics": {
+          "view_count": 302083
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2081491706696880128/vid/avc1/478x270/uM8IABM-rWiCs5dH.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2081491706696880128/vid/avc1/638x360/e8P60UCaulGay0eq.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2081491706696880128/vid/avc1/1276x720/qBeHDi7aTyfChplF.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2081491706696880128/pl/XvfjgeVwuM-L_gel.m3u8"
+          }
+        ],
+        "width": 1276
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2081491706696880128"
+          ]
+        },
+        "author_id": "3559051335",
+        "conversation_id": "2081491730504024327",
+        "created_at": "2026-07-26T21:27:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T22:27:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081491730504024327"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gDBhIPpuyt",
+              "end": 52,
+              "expanded_url": "https://x.com/Themalickwrld/status/2081491730504024327/video/1",
+              "media_key": "13_2081491706696880128",
+              "start": 29,
+              "url": "https://t.co/gDBhIPpuyt"
+            },
+            {
+              "display_url": "x.com/layeee09/statu…",
+              "end": 76,
+              "expanded_url": "https://twitter.com/layeee09/status/2081486900376768777",
+              "start": 53,
+              "url": "https://t.co/eeIgsikU0X"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081491730504024327",
+        "lang": "fr",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2007,
+          "impression_count": 774243,
+          "like_count": 22121,
+          "quote_count": 37,
+          "reply_count": 31,
+          "retweet_count": 1782
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081486900376768777",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Tu parles de celle là chef ? https://t.co/gDBhIPpuyt https://t.co/eeIgsikU0X"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2081491706696880128"
+          ],
+          "media_source_tweet_id": [
+            "2081491730504024327"
+          ]
+        },
+        "author_id": "1964331185590718464",
+        "conversation_id": "2081947580091818322",
+        "created_at": "2026-07-28T03:39:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T04:39:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081947580091818322"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "3559051335",
+              "start": 3,
+              "username": "Themalickwrld"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/gDBhIPpuyt",
+              "end": 71,
+              "expanded_url": "https://x.com/Themalickwrld/status/2081491730504024327/video/1",
+              "media_key": "13_2081491706696880128",
+              "start": 48,
+              "url": "https://t.co/gDBhIPpuyt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081947580091818322",
+        "lang": "fr",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1782
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081491730504024327",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Themalickwrld: Tu parles de celle là chef ? https://t.co/gDBhIPpuyt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-06T14:13:55.000Z",
+        "description": "叫我筷子就可以了(:3っ )っ\nOD丨🔪丨Vocaloid丨音游丨顺女 LGBTQ+friendly\n不卖药 只看互关私信 我很穷欢迎投喂\n不喜欢的直接b 查成分同类回fo 取关请双取",
+        "id": "1964331185590718464",
+        "location": "颅内",
+        "name": "箸",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074711282427842560/EOM9Puhb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1378,
+          "following_count": 834,
+          "like_count": 36122,
+          "listed_count": 0,
+          "media_count": 356,
+          "tweet_count": 6416
+        },
+        "url": "",
+        "username": "breakcoreWTF",
+        "verified": false
+      },
+      {
+        "created_at": "2015-09-05T20:47:48.000Z",
+        "description": "Truly Humble Under God.   \n                                          \njeffery Lamar Williams & Nayvadius DeMun Cash.",
+        "id": "3559051335",
+        "location": "511 Kinderheim, Ruhenheim",
+        "name": "𓃵",
+        "pinned_tweet_id": "2081789695814410536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044849590336139264/wC59IBSh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4577,
+          "following_count": 4259,
+          "like_count": 19544,
+          "listed_count": 7,
+          "media_count": 9045,
+          "tweet_count": 56411
+        },
+        "url": "",
+        "username": "Themalickwrld",
+        "verified": true
+      }
+    ]
+  }
+}

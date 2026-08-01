@@ -1,0 +1,174 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1964331185590718464",
+    "conversation_id": "1966366242476011548",
+    "created_at": "2025-09-12T05:00:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-12T06:00:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1966366242476011548"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1823729658833055745",
+          "start": 3,
+          "username": "pijiuyayaya"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1966366242476011548",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "1966139076236742797",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @pijiuyayaya: 穷人会不会撸的更爽一点因为手头紧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1964331185590718464",
+        "conversation_id": "1966366242476011548",
+        "created_at": "2025-09-12T05:00:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-12T06:00:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1966366242476011548"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1823729658833055745",
+              "start": 3,
+              "username": "pijiuyayaya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1966366242476011548",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "1966139076236742797",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @pijiuyayaya: 穷人会不会撸的更爽一点因为手头紧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1823729658833055745",
+        "conversation_id": "1966139076236742797",
+        "created_at": "2025-09-11T13:57:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-11T14:57:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1966139076236742797"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1966139076236742797",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2849,
+          "like_count": 52,
+          "quote_count": 1,
+          "reply_count": 18,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "穷人会不会撸的更爽一点因为手头紧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-06T14:13:55.000Z",
+        "description": "161/39/中文/od/自残/精神病/网蛆/VOCALOID/音游/舞萌w43/中二14.9/世界计划 无底线无雷点无素质 含暴论/地域黑/辱男女/发情等成分 我有对象 我很喜欢他",
+        "id": "1964331185590718464",
+        "name": "💊人工時代完全犯罪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1964333475118665733/qxlL_t3T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22,
+          "following_count": 158,
+          "like_count": 435,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 114
+        },
+        "username": "breakcoreWTF",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-14T14:33:41.000Z",
+        "description": "鹈鹕不知道写什么所以决定睡觉觉觉觉觉觉觉觉觉觉觉觉去了",
+        "id": "1823729658833055745",
+        "name": "鹈鹕吃烤肠也吃鹌鹑",
+        "pinned_tweet_id": "1919712704605888589",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957098030773219328/2u_dVYvu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 734,
+          "following_count": 217,
+          "like_count": 9706,
+          "listed_count": 9,
+          "media_count": 1450,
+          "tweet_count": 10381
+        },
+        "username": "pijiuyayaya",
+        "verified": false
+      }
+    ]
+  }
+}

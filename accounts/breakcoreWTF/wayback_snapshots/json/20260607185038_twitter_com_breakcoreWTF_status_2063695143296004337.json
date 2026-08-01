@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2063585957576896512"
+      ],
+      "media_source_tweet_id": [
+        "2063585960592576700"
+      ]
+    },
+    "author_id": "1964331185590718464",
+    "conversation_id": "2063695143296004337",
+    "created_at": "2026-06-07T18:50:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T19:50:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063695143296004337"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "897749985361444866",
+          "start": 3,
+          "username": "woaishuji"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/7iMCtuW8YR",
+          "end": 99,
+          "expanded_url": "https://x.com/woaishuji/status/2063585960592576700/photo/1",
+          "media_key": "3_2063585957576896512",
+          "start": 76,
+          "url": "https://t.co/7iMCtuW8YR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063695143296004337",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063585960592576700",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @woaishuji: 这日子没有个头了\n在想死死不了\n活着又折磨\n来回的摇摆\n学习堪比啥也没用\n但也玩不下去了\n［图偷的捏 忘记来源了 侵删］ https://t.co/7iMCtuW8YR"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_2063585957576896512",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKNUfrza8AAk7Xz.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063585957576896512"
+          ],
+          "media_source_tweet_id": [
+            "2063585960592576700"
+          ]
+        },
+        "author_id": "1964331185590718464",
+        "conversation_id": "2063695143296004337",
+        "created_at": "2026-06-07T18:50:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T19:50:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063695143296004337"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "897749985361444866",
+              "start": 3,
+              "username": "woaishuji"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/7iMCtuW8YR",
+              "end": 99,
+              "expanded_url": "https://x.com/woaishuji/status/2063585960592576700/photo/1",
+              "media_key": "3_2063585957576896512",
+              "start": 76,
+              "url": "https://t.co/7iMCtuW8YR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063695143296004337",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063585960592576700",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @woaishuji: 这日子没有个头了\n在想死死不了\n活着又折磨\n来回的摇摆\n学习堪比啥也没用\n但也玩不下去了\n［图偷的捏 忘记来源了 侵删］ https://t.co/7iMCtuW8YR"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063585957576896512"
+          ]
+        },
+        "author_id": "897749985361444866",
+        "conversation_id": "2063585960592576700",
+        "created_at": "2026-06-07T11:36:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T12:36:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063585960592576700"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7iMCtuW8YR",
+              "end": 84,
+              "expanded_url": "https://x.com/woaishuji/status/2063585960592576700/photo/1",
+              "media_key": "3_2063585957576896512",
+              "start": 61,
+              "url": "https://t.co/7iMCtuW8YR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063585960592576700",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 554,
+          "like_count": 20,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "这日子没有个头了\n在想死死不了\n活着又折磨\n来回的摇摆\n学习堪比啥也没用\n但也玩不下去了\n［图偷的捏 忘记来源了 侵删］ https://t.co/7iMCtuW8YR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-06T14:13:55.000Z",
+        "description": "OD丨自伤丨Vocaloid丨音游丨友跨顺女\n不喜欢的直接b 同类回fo 取关请双取",
+        "id": "1964331185590718464",
+        "location": "颅内",
+        "name": "箸",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061439509125074944/Hf-Lim6c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 725,
+          "following_count": 641,
+          "like_count": 15490,
+          "listed_count": 0,
+          "media_count": 225,
+          "tweet_count": 4524
+        },
+        "username": "breakcoreWTF",
+        "verified": false
+      },
+      {
+        "created_at": "2017-08-16T09:20:50.000Z",
+        "description": "",
+        "id": "897749985361444866",
+        "name": "文学少女安德烈",
+        "pinned_tweet_id": "1862810120075583938",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004417757199130624/fcknZsxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1648,
+          "following_count": 1893,
+          "like_count": 486704,
+          "listed_count": 10,
+          "media_count": 2963,
+          "tweet_count": 17122
+        },
+        "username": "woaishuji",
+        "verified": false
+      }
+    ]
+  }
+}

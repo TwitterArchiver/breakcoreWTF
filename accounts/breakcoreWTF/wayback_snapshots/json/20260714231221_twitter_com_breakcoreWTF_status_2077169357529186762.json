@@ -1,0 +1,282 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2076883854292389888"
+      ],
+      "media_source_tweet_id": [
+        "2076886372929962473"
+      ]
+    },
+    "author_id": "1964331185590718464",
+    "conversation_id": "2077169357529186762",
+    "created_at": "2026-07-14T23:12:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-15T00:12:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077169357529186762"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 49,
+          "start": 37,
+          "tag": "Murdermedia"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1208940788849283072",
+          "start": 3,
+          "username": "CaphoneGot"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/pYW062BSsJ",
+          "end": 73,
+          "expanded_url": "https://x.com/CaphoneGot/status/2076886372929962473/video/1",
+          "media_key": "13_2076883854292389888",
+          "start": 50,
+          "url": "https://t.co/pYW062BSsJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077169357529186762",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1365
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076886372929962473",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @CaphoneGot: friend? PARTNERS?!? \n#Murdermedia https://t.co/pYW062BSsJ"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 32766,
+        "height": 1080,
+        "media_key": "13_2076883854292389888",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2076883854292389888/img/STMtFL8HWX3TbyaR.jpg",
+        "public_metrics": {
+          "view_count": 220973
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2076883854292389888/vid/avc1/480x270/iW99cI6e7IDu1uz9.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2076883854292389888/vid/avc1/640x360/-6jlt10es0y6UCfi.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2076883854292389888/vid/avc1/1280x720/sn3yhKm_ncMGr-mp.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2076883854292389888/pl/EuMn3gHB9hY_OCJZ.m3u8?tag=14&v=d10"
+          }
+        ],
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2076883854292389888"
+          ],
+          "media_source_tweet_id": [
+            "2076886372929962473"
+          ]
+        },
+        "author_id": "1964331185590718464",
+        "conversation_id": "2077169357529186762",
+        "created_at": "2026-07-14T23:12:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T00:12:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077169357529186762"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 49,
+              "start": 37,
+              "tag": "Murdermedia"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1208940788849283072",
+              "start": 3,
+              "username": "CaphoneGot"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/pYW062BSsJ",
+              "end": 73,
+              "expanded_url": "https://x.com/CaphoneGot/status/2076886372929962473/video/1",
+              "media_key": "13_2076883854292389888",
+              "start": 50,
+              "url": "https://t.co/pYW062BSsJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077169357529186762",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1365
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076886372929962473",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @CaphoneGot: friend? PARTNERS?!? \n#Murdermedia https://t.co/pYW062BSsJ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2076883854292389888"
+          ]
+        },
+        "author_id": "1208940788849283072",
+        "conversation_id": "2076886372929962473",
+        "created_at": "2026-07-14T04:27:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T05:27:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076886372929962473"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 33,
+              "start": 21,
+              "tag": "Murdermedia"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/pYW062BSsJ",
+              "end": 57,
+              "expanded_url": "https://x.com/CaphoneGot/status/2076886372929962473/video/1",
+              "media_key": "13_2076883854292389888",
+              "start": 34,
+              "url": "https://t.co/pYW062BSsJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076886372929962473",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2903,
+          "impression_count": 288100,
+          "like_count": 12987,
+          "quote_count": 25,
+          "reply_count": 48,
+          "retweet_count": 1365
+        },
+        "reply_settings": "everyone",
+        "text": "friend? PARTNERS?!? \n#Murdermedia https://t.co/pYW062BSsJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-06T14:13:55.000Z",
+        "description": "OD丨自伤丨Vocaloid丨音游丨顺女 LGBTQ+friendly\n喜欢爬宠 不卖药 非必要不回私信 我很穷欢迎投喂\n不喜欢的直接b 同类查成分回fo 取关请双取",
+        "id": "1964331185590718464",
+        "location": "颅内",
+        "name": "箸",
+        "pinned_tweet_id": "2072469945422934327",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074711282427842560/EOM9Puhb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 976,
+          "following_count": 731,
+          "like_count": 27756,
+          "listed_count": 0,
+          "media_count": 316,
+          "tweet_count": 5733
+        },
+        "url": "",
+        "username": "breakcoreWTF",
+        "verified": true
+      },
+      {
+        "created_at": "2019-12-23T02:42:44.000Z",
+        "description": "19 | Hiatus. College has me dead.\n+ESP/-ENG\nI'm not very good at socializing.",
+        "id": "1208940788849283072",
+        "name": "🐙",
+        "pinned_tweet_id": "2041143757626544409",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1565537610629521408/ZObK72b__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 525,
+          "following_count": 210,
+          "like_count": 13140,
+          "listed_count": 1,
+          "media_count": 21,
+          "tweet_count": 92
+        },
+        "url": "",
+        "username": "CaphoneGot",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2078160312168222720"
+      ],
+      "media_source_tweet_id": [
+        "2078313814273962113"
+      ]
+    },
+    "author_id": "1964331185590718464",
+    "conversation_id": "2078335403745280230",
+    "created_at": "2026-07-18T04:25:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-18T05:25:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078335403745280230"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1864871366241193984",
+          "start": 3,
+          "username": "takopi_pr"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/cKH1QQA3zB",
+          "end": 57,
+          "expanded_url": "https://x.com/takopi_pr/status/2078313814273962113/photo/1",
+          "media_key": "3_2078160312168222720",
+          "start": 34,
+          "url": "https://t.co/cKH1QQA3zB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078335403745280230",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2255
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078313814273962113",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @takopi_pr: 「何言ってんの　今日から夏休みだよ」 https://t.co/cKH1QQA3zB"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_2078160312168222720",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNcbyxkaEAAJOtQ.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078160312168222720"
+          ]
+        },
+        "author_id": "1864871366241193984",
+        "conversation_id": "2078313814273962113",
+        "created_at": "2026-07-18T03:00:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T04:00:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078313814273962113"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cKH1QQA3zB",
+              "end": 42,
+              "expanded_url": "https://x.com/takopi_pr/status/2078313814273962113/photo/1",
+              "media_key": "3_2078160312168222720",
+              "start": 19,
+              "url": "https://t.co/cKH1QQA3zB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078313814273962113",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 678,
+          "impression_count": 365901,
+          "like_count": 23028,
+          "quote_count": 330,
+          "reply_count": 85,
+          "retweet_count": 2261
+        },
+        "reply_settings": "everyone",
+        "text": "「何言ってんの　今日から夏休みだよ」 https://t.co/cKH1QQA3zB"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078160312168222720"
+          ],
+          "media_source_tweet_id": [
+            "2078313814273962113"
+          ]
+        },
+        "author_id": "1964331185590718464",
+        "conversation_id": "2078335403745280230",
+        "created_at": "2026-07-18T04:25:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T05:25:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078335403745280230"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1864871366241193984",
+              "start": 3,
+              "username": "takopi_pr"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/cKH1QQA3zB",
+              "end": 57,
+              "expanded_url": "https://x.com/takopi_pr/status/2078313814273962113/photo/1",
+              "media_key": "3_2078160312168222720",
+              "start": 34,
+              "url": "https://t.co/cKH1QQA3zB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078335403745280230",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2255
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078313814273962113",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @takopi_pr: 「何言ってんの　今日から夏休みだよ」 https://t.co/cKH1QQA3zB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-06T14:13:55.000Z",
+        "description": "叫我筷子就可以了(:3っ )っ\nOD丨Vocaloid丨音游丨顺女 LGBTQ+friendly\n不卖药 只看互关私信 我很穷欢迎投喂\n不喜欢的直接b 查成分同类回fo 取关请双取",
+        "id": "1964331185590718464",
+        "location": "颅内",
+        "name": "箸",
+        "pinned_tweet_id": "2077686522225270845",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074711282427842560/EOM9Puhb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1061,
+          "following_count": 776,
+          "like_count": 30600,
+          "listed_count": 0,
+          "media_count": 329,
+          "tweet_count": 5914
+        },
+        "url": "",
+        "username": "breakcoreWTF",
+        "verified": true
+      },
+      {
+        "created_at": "2024-12-06T03:16:38.000Z",
+        "description": "アニメ『タコピーの原罪』公式アカウント🐙\n映画『タコピーの原罪 -ありがとう、また明日-』公開決定！\n全6話を再編集＆新たなシーンを追加🎀\n監督：飯野慎也｜キャラクターデザイン：長原圭太｜アニメーション制作：ENISHIYA　タコピー：間宮くるみ｜しずか：上田麗奈\n推奨ハッシュタグ：#タコピーの原罪　#タコピー",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 150,
+                "start": 142,
+                "tag": "タコピーの原罪"
+              },
+              {
+                "end": 156,
+                "start": 151,
+                "tag": "タコピー"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "tbs.co.jp/anime/takopi_p…",
+                "end": 23,
+                "expanded_url": "https://www.tbs.co.jp/anime/takopi_project/",
+                "start": 0,
+                "url": "https://t.co/LJ4IFGDMR2"
+              }
+            ]
+          }
+        },
+        "id": "1864871366241193984",
+        "location": "ハッピー星",
+        "name": "『タコピーの原罪』アニメ公式｜劇場公開決定！",
+        "pinned_tweet_id": "2058156597827047683",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058165594151923712/_yI1roRT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 130289,
+          "following_count": 8,
+          "like_count": 151,
+          "listed_count": 324,
+          "media_count": 790,
+          "tweet_count": 1418
+        },
+        "url": "https://t.co/LJ4IFGDMR2",
+        "username": "takopi_pr",
+        "verified": true
+      }
+    ]
+  }
+}

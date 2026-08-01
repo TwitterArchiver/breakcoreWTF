@@ -1,0 +1,393 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1964331185590718464",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to  marketing and advertiser agencies, publishers of magazines, newspapers, blogs, books",
+          "id": "1557697121477832705",
+          "name": "Publisher & News Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A book, like \"To Kill a Mockingbird\"",
+          "id": "84",
+          "name": "Book"
+        },
+        "entity": {
+          "id": "1232769058862325760",
+          "name": "Keigo Higashino"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Books and literature",
+          "id": "847519659179954178",
+          "name": "Books"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1166408461485101056",
+          "name": "Authors"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1232769058862325760",
+          "name": "Keigo Higashino"
+        }
+      }
+    ],
+    "conversation_id": "2081652430417338688",
+    "created_at": "2026-07-27T08:06:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-27T09:06:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081652430417338688"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1239467164618219520",
+          "start": 3,
+          "username": "higashinokeigo_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081652430417338688",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 48993
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081638350864429474",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @higashinokeigo_: 皆様へ\n\n作家・東野圭吾さんが、7月23日未明、逝去されました。\nここに、謹んで哀悼の意を表し、お知らせ申し上げます。\n \n東野圭吾さんのご著書は1985年9月刊行のデビュー作『放課後』から、\n2026年8月5日刊行予定の最新刊『永遠の…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1269,
+        "media_key": "3_2081637360463405056",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HON2Jn2aYAA2WDs.jpg",
+        "width": 2610
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1964331185590718464",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to  marketing and advertiser agencies, publishers of magazines, newspapers, blogs, books",
+              "id": "1557697121477832705",
+              "name": "Publisher & News Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A book, like \"To Kill a Mockingbird\"",
+              "id": "84",
+              "name": "Book"
+            },
+            "entity": {
+              "id": "1232769058862325760",
+              "name": "Keigo Higashino"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Books and literature",
+              "id": "847519659179954178",
+              "name": "Books"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1166408461485101056",
+              "name": "Authors"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1232769058862325760",
+              "name": "Keigo Higashino"
+            }
+          }
+        ],
+        "conversation_id": "2081652430417338688",
+        "created_at": "2026-07-27T08:06:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T09:06:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081652430417338688"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1239467164618219520",
+              "start": 3,
+              "username": "higashinokeigo_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081652430417338688",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 48993
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081638350864429474",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @higashinokeigo_: 皆様へ\n\n作家・東野圭吾さんが、7月23日未明、逝去されました。\nここに、謹んで哀悼の意を表し、お知らせ申し上げます。\n \n東野圭吾さんのご著書は1985年9月刊行のデビュー作『放課後』から、\n2026年8月5日刊行予定の最新刊『永遠の…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081637360463405056"
+          ]
+        },
+        "author_id": "1239467164618219520",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to  marketing and advertiser agencies, publishers of magazines, newspapers, blogs, books",
+              "id": "1557697121477832705",
+              "name": "Publisher & News Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A book, like \"To Kill a Mockingbird\"",
+              "id": "84",
+              "name": "Book"
+            },
+            "entity": {
+              "id": "1232769058862325760",
+              "name": "Keigo Higashino"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Books and literature",
+              "id": "847519659179954178",
+              "name": "Books"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1166408461485101056",
+              "name": "Authors"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1232769058862325760",
+              "name": "Keigo Higashino"
+            }
+          }
+        ],
+        "conversation_id": "2081638350864429474",
+        "created_at": "2026-07-27T07:10:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T08:10:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081638350864429474"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zJlcpoz3kY",
+              "end": 168,
+              "expanded_url": "https://x.com/higashinokeigo_/status/2081638350864429474/photo/1",
+              "media_key": "3_2081637360463405056",
+              "start": 145,
+              "url": "https://t.co/zJlcpoz3kY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081638350864429474",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {},
+          "text": "皆様へ\n\n作家・東野圭吾さんが、7月23日未明、逝去されました。\nここに、謹んで哀悼の意を表し、お知らせ申し上げます。\n \n東野圭吾さんのご著書は1985年9月刊行のデビュー作『放課後』から、\n2026年8月5日刊行予定の最新刊『永遠の記憶』を含めて\n106冊（共著をのぞく）を数えます。\n\n生み出された物語はたくさんの読者を魅了し続けることと思います。\nこれからも、東野さんの小説をお楽しみください。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5182,
+          "impression_count": 3742646,
+          "like_count": 82283,
+          "quote_count": 12175,
+          "reply_count": 1384,
+          "retweet_count": 48741
+        },
+        "reply_settings": "everyone",
+        "text": "皆様へ\n\n作家・東野圭吾さんが、7月23日未明、逝去されました。\nここに、謹んで哀悼の意を表し、お知らせ申し上げます。\n \n東野圭吾さんのご著書は1985年9月刊行のデビュー作『放課後』から、\n2026年8月5日刊行予定の最新刊『永遠の記憶』を含めて\n106冊（共著をのぞく）を数えます。 https://t.co/zJlcpoz3kY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-06T14:13:55.000Z",
+        "description": "叫我筷子就可以了(:3っ )っ\nOD丨🔪丨Vocaloid丨音游丨顺女 LGBTQ+friendly\n不卖药 只看互关私信 我很穷欢迎投喂\n不喜欢的直接b 查成分同类回fo 取关请双取",
+        "id": "1964331185590718464",
+        "location": "颅内",
+        "name": "箸",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074711282427842560/EOM9Puhb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1339,
+          "following_count": 830,
+          "like_count": 35836,
+          "listed_count": 0,
+          "media_count": 355,
+          "tweet_count": 6372
+        },
+        "url": "",
+        "username": "breakcoreWTF",
+        "verified": false
+      },
+      {
+        "created_at": "2020-03-16T08:30:42.000Z",
+        "description": "作家・東野圭吾さんの情報発信アカウントです。出版社７社の担当が運営いたします。なお、東野圭吾さんは投稿しません。ツイートやDMへの返信などはいたしかねますので、ご了承ください。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/higashinokeigo…",
+                "end": 23,
+                "expanded_url": "https://instagram.com/higashinokeigo_official?igshid=YmMyMTA2M2Y=",
+                "start": 0,
+                "url": "https://t.co/jcDwK0Vuwa"
+              }
+            ]
+          }
+        },
+        "id": "1239467164618219520",
+        "location": "日本",
+        "name": "東野圭吾【公式】",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1642707754002583555/JU8XHqpi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40101,
+          "following_count": 0,
+          "like_count": 8,
+          "listed_count": 163,
+          "media_count": 362,
+          "tweet_count": 521
+        },
+        "url": "https://t.co/jcDwK0Vuwa",
+        "username": "higashinokeigo_",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,158 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2067212232631713792"
+      ]
+    },
+    "author_id": "1964331185590718464",
+    "conversation_id": "2067212354698559685",
+    "created_at": "2026-06-17T11:46:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T12:46:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2067212354698559685"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/WAAJPRRBx1",
+          "end": 36,
+          "expanded_url": "https://x.com/breakcoreWTF/status/2067212354698559685/video/1",
+          "media_key": "13_2067212232631713792",
+          "start": 13,
+          "url": "https://t.co/WAAJPRRBx1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067212354698559685",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "所有人开始今天的抽烟任务 https://t.co/WAAJPRRBx1"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 5457,
+        "height": 1920,
+        "media_key": "13_2067212232631713792",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2067212232631713792/img/sPsBJg508MKrTiFd.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2067212232631713792/vid/avc1/320x568/4ZafSDVXr4M6gn-C.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2067212232631713792/vid/avc1/480x852/QoKH5CmxetmE7RaM.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2067212232631713792/vid/avc1/720x1280/GN0N4nU0yrYEJeoq.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2067212232631713792/pl/cS7uGbo4viN6fGwP.m3u8?tag=14"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2067212232631713792"
+          ]
+        },
+        "author_id": "1964331185590718464",
+        "conversation_id": "2067212354698559685",
+        "created_at": "2026-06-17T11:46:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T12:46:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067212354698559685"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/WAAJPRRBx1",
+              "end": 36,
+              "expanded_url": "https://x.com/breakcoreWTF/status/2067212354698559685/video/1",
+              "media_key": "13_2067212232631713792",
+              "start": 13,
+              "url": "https://t.co/WAAJPRRBx1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067212354698559685",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "所有人开始今天的抽烟任务 https://t.co/WAAJPRRBx1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-06T14:13:55.000Z",
+        "description": "OD丨自伤丨Vocaloid丨音游丨友跨顺女\n喜欢爬宠 不卖药 非必要不回私信 我很穷欢迎投喂\n不喜欢的直接b 同类查成分回fo 取关请双取",
+        "id": "1964331185590718464",
+        "location": "颅内",
+        "name": "箸",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061439509125074944/Hf-Lim6c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 836,
+          "following_count": 698,
+          "like_count": 18673,
+          "listed_count": 0,
+          "media_count": 276,
+          "tweet_count": 4992
+        },
+        "url": "",
+        "username": "breakcoreWTF",
+        "verified": false
+      }
+    ]
+  }
+}

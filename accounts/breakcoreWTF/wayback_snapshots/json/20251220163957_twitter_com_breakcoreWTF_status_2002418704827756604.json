@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2002318578020986881"
+      ],
+      "media_source_tweet_id": [
+        "2002318580587843912"
+      ]
+    },
+    "author_id": "1964331185590718464",
+    "conversation_id": "2002418704827756604",
+    "created_at": "2025-12-20T16:39:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-20T17:39:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2002418704827756604"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1910313828463902720",
+          "start": 3,
+          "username": "waimoniku3"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/GGVJLtzD7s",
+          "end": 43,
+          "expanded_url": "https://x.com/waimoniku3/status/2002318580587843912/photo/1",
+          "media_key": "3_2002318578020986881",
+          "start": 20,
+          "url": "https://t.co/GGVJLtzD7s"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2002418704827756604",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 83
+    },
+    "referenced_tweets": [
+      {
+        "id": "2002318580587843912",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @waimoniku3: いい顔 https://t.co/GGVJLtzD7s"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1678,
+        "media_key": "3_2002318578020986881",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8mqI1IbMAE3FD_.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2002318578020986881"
+          ],
+          "media_source_tweet_id": [
+            "2002318580587843912"
+          ]
+        },
+        "author_id": "1964331185590718464",
+        "conversation_id": "2002418704827756604",
+        "created_at": "2025-12-20T16:39:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-20T17:39:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2002418704827756604"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1910313828463902720",
+              "start": 3,
+              "username": "waimoniku3"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/GGVJLtzD7s",
+              "end": 43,
+              "expanded_url": "https://x.com/waimoniku3/status/2002318580587843912/photo/1",
+              "media_key": "3_2002318578020986881",
+              "start": 20,
+              "url": "https://t.co/GGVJLtzD7s"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002418704827756604",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 83
+        },
+        "referenced_tweets": [
+          {
+            "id": "2002318580587843912",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @waimoniku3: いい顔 https://t.co/GGVJLtzD7s"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2002318578020986881"
+          ]
+        },
+        "author_id": "1910313828463902720",
+        "conversation_id": "2002318580587843912",
+        "created_at": "2025-12-20T10:02:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-20T11:02:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2002318580587843912"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GGVJLtzD7s",
+              "end": 27,
+              "expanded_url": "https://x.com/waimoniku3/status/2002318580587843912/photo/1",
+              "media_key": "3_2002318578020986881",
+              "start": 4,
+              "url": "https://t.co/GGVJLtzD7s"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002318580587843912",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 94,
+          "impression_count": 11053,
+          "like_count": 1590,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 83
+        },
+        "reply_settings": "everyone",
+        "text": "いい顔 https://t.co/GGVJLtzD7s"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-06T14:13:55.000Z",
+        "description": "中文/od/VOCALOID/音游 纯种乐子人性别不明推上啥都有 私信互关欢迎 我有对象 我很喜欢他",
+        "id": "1964331185590718464",
+        "location": "翼天国",
+        "name": "━Σ(ﾟДﾟ|||)━",
+        "pinned_tweet_id": "1966517785367871718",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001729011576426496/HumNDWc3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 48,
+          "following_count": 275,
+          "like_count": 2776,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 758
+        },
+        "username": "breakcoreWTF",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-10T12:48:11.000Z",
+        "description": "@waimoniku\nツイート内容全部虚構",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 10,
+                "start": 0,
+                "username": "waimoniku"
+              }
+            ]
+          }
+        },
+        "id": "1910313828463902720",
+        "location": "犬に感情",
+        "name": "わいもさん",
+        "pinned_tweet_id": "1996913859219935381",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971545215896088576/llH2MJtG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3252,
+          "following_count": 2,
+          "like_count": 609,
+          "listed_count": 6,
+          "media_count": 212,
+          "tweet_count": 1532
+        },
+        "username": "waimoniku3",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2061834461428482048"
+      ],
+      "media_source_tweet_id": [
+        "2061834468705677444"
+      ]
+    },
+    "author_id": "1964331185590718464",
+    "conversation_id": "2062088634128588893",
+    "created_at": "2026-06-03T08:26:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-03T09:26:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062088634128588893"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1613079089879076864",
+          "start": 3,
+          "username": "YunJiu"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/aKmuQ1IIMj",
+          "end": 43,
+          "expanded_url": "https://x.com/YunJiu/status/2061834468705677444/photo/1",
+          "media_key": "3_2061834461428482048",
+          "start": 20,
+          "url": "https://t.co/aKmuQ1IIMj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062088634128588893",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 12
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061834468705677444",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @YunJiu: 出题人你妈炸了 https://t.co/aKmuQ1IIMj"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 661,
+        "media_key": "3_2061834461428482048",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ0bhMMagAAQO9R.jpg",
+        "width": 665
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061834461428482048"
+          ],
+          "media_source_tweet_id": [
+            "2061834468705677444"
+          ]
+        },
+        "author_id": "1964331185590718464",
+        "conversation_id": "2062088634128588893",
+        "created_at": "2026-06-03T08:26:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T09:26:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062088634128588893"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1613079089879076864",
+              "start": 3,
+              "username": "YunJiu"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/aKmuQ1IIMj",
+              "end": 43,
+              "expanded_url": "https://x.com/YunJiu/status/2061834468705677444/photo/1",
+              "media_key": "3_2061834461428482048",
+              "start": 20,
+              "url": "https://t.co/aKmuQ1IIMj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062088634128588893",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 12
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061834468705677444",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @YunJiu: 出题人你妈炸了 https://t.co/aKmuQ1IIMj"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061834461428482048"
+          ]
+        },
+        "author_id": "1613079089879076864",
+        "conversation_id": "2061834468705677444",
+        "created_at": "2026-06-02T15:36:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T16:36:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061834468705677444"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/aKmuQ1IIMj",
+              "end": 31,
+              "expanded_url": "https://x.com/YunJiu/status/2061834468705677444/photo/1",
+              "media_key": "3_2061834461428482048",
+              "start": 8,
+              "url": "https://t.co/aKmuQ1IIMj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061834468705677444",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 18,
+          "impression_count": 26720,
+          "like_count": 540,
+          "quote_count": 0,
+          "reply_count": 180,
+          "retweet_count": 12
+        },
+        "reply_settings": "everyone",
+        "text": "出题人你妈炸了 https://t.co/aKmuQ1IIMj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-06T14:13:55.000Z",
+        "description": "OD丨自伤丨Vocaloid丨音游丨友跨顺女\n不喜欢的直接b 同类回fo 取关请双取",
+        "id": "1964331185590718464",
+        "location": "颅内",
+        "name": "箸",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061439509125074944/Hf-Lim6c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 662,
+          "following_count": 602,
+          "like_count": 14124,
+          "listed_count": 0,
+          "media_count": 203,
+          "tweet_count": 4192
+        },
+        "username": "breakcoreWTF",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-11T07:43:29.000Z",
+        "description": "yún jiū｜ウンキュウ\n子账号@CldGeo\n音游人｜欢迎私信投稿",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 17,
+                "username": "CldGeo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/CLDGEO",
+                "end": 23,
+                "expanded_url": "https://t.me/CLDGEO",
+                "start": 0,
+                "url": "https://t.co/zrh7yw0I08"
+              }
+            ]
+          }
+        },
+        "id": "1613079089879076864",
+        "name": "雲鳩",
+        "pinned_tweet_id": "2049199149959221320",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004270116045979648/BQ0NrqSv_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 105182,
+          "following_count": 797,
+          "like_count": 37106,
+          "listed_count": 296,
+          "media_count": 19084,
+          "tweet_count": 27361
+        },
+        "url": "https://t.co/zrh7yw0I08",
+        "username": "YunJiu",
+        "verified": true
+      }
+    ]
+  }
+}

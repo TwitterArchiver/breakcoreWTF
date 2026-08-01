@@ -1,0 +1,554 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1964331185590718464",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "description": "Nico Nico Douga",
+          "id": "1034894313908396037",
+          "name": "Nico Nico Douga"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Nico Nico Douga",
+          "id": "1034894313908396037",
+          "name": "Nico Nico Douga"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1293615037932646400",
+          "name": "YouTubers"
+        }
+      }
+    ],
+    "conversation_id": "2002798604386476337",
+    "created_at": "2025-12-21T17:49:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-21T18:49:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2002798604386476337"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 22,
+          "normalized_text": "結月ゆかり",
+          "probability": 0.4279,
+          "start": 18,
+          "type": "Person"
+        },
+        {
+          "end": 43,
+          "normalized_text": "ゆかりさん",
+          "probability": 0.7813,
+          "start": 39,
+          "type": "Person"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 67,
+          "start": 54,
+          "tag": "結月ゆかり誕生祭2025"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1754318841604452352",
+          "start": 3,
+          "username": "yanderemon12"
+        }
+      ],
+      "urls": [
+        {
+          "description": "ゆかりさんのヤンデレ動画となります。ゆかりさん誕生日おめでとう！■合成音声voiceroid2：結月ゆかりVO...",
+          "display_url": "nicovideo.jp/watch/sm457306…",
+          "end": 97,
+          "expanded_url": "https://www.nicovideo.jp/watch/sm45730661",
+          "images": [
+            {
+              "height": 720,
+              "url": "https://pbs.twimg.com/news_img/2000511916968755200/quIznn0x?format=png&name=orig",
+              "width": 1280
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2000511916968755200/quIznn0x?format=png&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 74,
+          "status": 200,
+          "title": "【ヤンデレ】愛で人間を超えたゆかりさん！【結月ゆかり誕生祭2025】",
+          "unwound_url": "https://www.nicovideo.jp/watch/sm45730661",
+          "url": "https://t.co/no8SnZ43Gg"
+        },
+        {
+          "description": "ゆかりさんのヤンデレ動画となります。ゆかりさん誕生日おめでとう！■合成音声voiceroid2：結月ゆかりVOICEVOX：春日部つむぎVOICEPEAK ：東北ずん子 ■立ち絵結月ゆかり：ほかん様■画像ニコ二・コモンズ様■音楽・音声効果音ラボ様OtoLogic様ポケットサウンド様#voiceroid劇場 #結...",
+          "display_url": "youtu.be/XRC2l1yK0Lc",
+          "end": 129,
+          "expanded_url": "https://youtu.be/XRC2l1yK0Lc",
+          "images": [
+            {
+              "height": 720,
+              "url": "https://pbs.twimg.com/news_img/2000511916817678336/xazSgX2v?format=jpg&name=orig",
+              "width": 1280
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2000511916817678336/xazSgX2v?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 106,
+          "status": 200,
+          "title": "【ヤンデレ】愛で人間を超えたゆかりさん！【結月ゆかり誕生祭2025】",
+          "unwound_url": "https://www.youtube.com/watch?v=XRC2l1yK0Lc&feature=youtu.be",
+          "url": "https://t.co/XrocRxIssJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2002798604386476337",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "2000511874224496675",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yanderemon12: 結月ゆかりのヤンデレ動画を投稿しました。\nゆかりさん誕生日おめでとう！\n#結月ゆかり誕生祭2025\n\nニコニコ\nhttps://t.co/no8SnZ43Gg\nYouTube\nhttps://t.co/XrocRxIssJ"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1964331185590718464",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "Nico Nico Douga",
+              "id": "1034894313908396037",
+              "name": "Nico Nico Douga"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Nico Nico Douga",
+              "id": "1034894313908396037",
+              "name": "Nico Nico Douga"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1293615037932646400",
+              "name": "YouTubers"
+            }
+          }
+        ],
+        "conversation_id": "2002798604386476337",
+        "created_at": "2025-12-21T17:49:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-21T18:49:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2002798604386476337"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 22,
+              "normalized_text": "結月ゆかり",
+              "probability": 0.4279,
+              "start": 18,
+              "type": "Person"
+            },
+            {
+              "end": 43,
+              "normalized_text": "ゆかりさん",
+              "probability": 0.7813,
+              "start": 39,
+              "type": "Person"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 67,
+              "start": 54,
+              "tag": "結月ゆかり誕生祭2025"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1754318841604452352",
+              "start": 3,
+              "username": "yanderemon12"
+            }
+          ],
+          "urls": [
+            {
+              "description": "ゆかりさんのヤンデレ動画となります。ゆかりさん誕生日おめでとう！■合成音声voiceroid2：結月ゆかりVO...",
+              "display_url": "nicovideo.jp/watch/sm457306…",
+              "end": 97,
+              "expanded_url": "https://www.nicovideo.jp/watch/sm45730661",
+              "images": [
+                {
+                  "height": 720,
+                  "url": "https://pbs.twimg.com/news_img/2000511916968755200/quIznn0x?format=png&name=orig",
+                  "width": 1280
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2000511916968755200/quIznn0x?format=png&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 74,
+              "status": 200,
+              "title": "【ヤンデレ】愛で人間を超えたゆかりさん！【結月ゆかり誕生祭2025】",
+              "unwound_url": "https://www.nicovideo.jp/watch/sm45730661",
+              "url": "https://t.co/no8SnZ43Gg"
+            },
+            {
+              "description": "ゆかりさんのヤンデレ動画となります。ゆかりさん誕生日おめでとう！■合成音声voiceroid2：結月ゆかりVOICEVOX：春日部つむぎVOICEPEAK ：東北ずん子 ■立ち絵結月ゆかり：ほかん様■画像ニコ二・コモンズ様■音楽・音声効果音ラボ様OtoLogic様ポケットサウンド様#voiceroid劇場 #結...",
+              "display_url": "youtu.be/XRC2l1yK0Lc",
+              "end": 129,
+              "expanded_url": "https://youtu.be/XRC2l1yK0Lc",
+              "images": [
+                {
+                  "height": 720,
+                  "url": "https://pbs.twimg.com/news_img/2000511916817678336/xazSgX2v?format=jpg&name=orig",
+                  "width": 1280
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2000511916817678336/xazSgX2v?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 106,
+              "status": 200,
+              "title": "【ヤンデレ】愛で人間を超えたゆかりさん！【結月ゆかり誕生祭2025】",
+              "unwound_url": "https://www.youtube.com/watch?v=XRC2l1yK0Lc&feature=youtu.be",
+              "url": "https://t.co/XrocRxIssJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002798604386476337",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2000511874224496675",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yanderemon12: 結月ゆかりのヤンデレ動画を投稿しました。\nゆかりさん誕生日おめでとう！\n#結月ゆかり誕生祭2025\n\nニコニコ\nhttps://t.co/no8SnZ43Gg\nYouTube\nhttps://t.co/XrocRxIssJ"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1754318841604452352",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "Nico Nico Douga",
+              "id": "1034894313908396037",
+              "name": "Nico Nico Douga"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Nico Nico Douga",
+              "id": "1034894313908396037",
+              "name": "Nico Nico Douga"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1293615037932646400",
+              "name": "YouTubers"
+            }
+          }
+        ],
+        "conversation_id": "2000511874224496675",
+        "created_at": "2025-12-15T10:22:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-15T11:22:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2000511874224496675"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 4,
+              "normalized_text": "結月ゆかり",
+              "probability": 0.4507,
+              "start": 0,
+              "type": "Person"
+            },
+            {
+              "end": 25,
+              "normalized_text": "ゆかりさん",
+              "probability": 0.7864,
+              "start": 21,
+              "type": "Person"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 49,
+              "start": 36,
+              "tag": "結月ゆかり誕生祭2025"
+            }
+          ],
+          "urls": [
+            {
+              "description": "ゆかりさんのヤンデレ動画となります。ゆかりさん誕生日おめでとう！■合成音声voiceroid2：結月ゆかりVO...",
+              "display_url": "nicovideo.jp/watch/sm457306…",
+              "end": 79,
+              "expanded_url": "https://www.nicovideo.jp/watch/sm45730661",
+              "images": [
+                {
+                  "height": 720,
+                  "url": "https://pbs.twimg.com/news_img/2000511916968755200/quIznn0x?format=png&name=orig",
+                  "width": 1280
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2000511916968755200/quIznn0x?format=png&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 56,
+              "status": 200,
+              "title": "【ヤンデレ】愛で人間を超えたゆかりさん！【結月ゆかり誕生祭2025】",
+              "unwound_url": "https://www.nicovideo.jp/watch/sm45730661",
+              "url": "https://t.co/no8SnZ43Gg"
+            },
+            {
+              "description": "ゆかりさんのヤンデレ動画となります。ゆかりさん誕生日おめでとう！■合成音声voiceroid2：結月ゆかりVOICEVOX：春日部つむぎVOICEPEAK ：東北ずん子 ■立ち絵結月ゆかり：ほかん様■画像ニコ二・コモンズ様■音楽・音声効果音ラボ様OtoLogic様ポケットサウンド様#voiceroid劇場 #結...",
+              "display_url": "youtu.be/XRC2l1yK0Lc",
+              "end": 111,
+              "expanded_url": "https://youtu.be/XRC2l1yK0Lc",
+              "images": [
+                {
+                  "height": 720,
+                  "url": "https://pbs.twimg.com/news_img/2000511916817678336/xazSgX2v?format=jpg&name=orig",
+                  "width": 1280
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2000511916817678336/xazSgX2v?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 88,
+              "status": 200,
+              "title": "【ヤンデレ】愛で人間を超えたゆかりさん！【結月ゆかり誕生祭2025】",
+              "unwound_url": "https://www.youtube.com/watch?v=XRC2l1yK0Lc&feature=youtu.be",
+              "url": "https://t.co/XrocRxIssJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000511874224496675",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 883,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "結月ゆかりのヤンデレ動画を投稿しました。\nゆかりさん誕生日おめでとう！\n#結月ゆかり誕生祭2025\n\nニコニコ\nhttps://t.co/no8SnZ43Gg\nYouTube\nhttps://t.co/XrocRxIssJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-06T14:13:55.000Z",
+        "description": "中文/od/VOCALOID/音游 纯种乐子人性别不明推上啥都有 私信互关欢迎 我有对象 我很喜欢他",
+        "id": "1964331185590718464",
+        "location": "翼天国",
+        "name": "━Σ(ﾟДﾟ|||)━",
+        "pinned_tweet_id": "1966517785367871718",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001729011576426496/HumNDWc3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 48,
+          "following_count": 279,
+          "like_count": 2837,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 774
+        },
+        "username": "breakcoreWTF",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-05T01:40:38.000Z",
+        "description": "voicevox、voiceroid ヤンデレ物を中心に動画投稿したいと思います。アイコンとヘッダーの桔梗はいらすとや様の物です。YouTube: https://t.co/KyloZheMEI ニコニコ：https://t.co/zretHfNJuO",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@yanderemonmiti",
+                "end": 97,
+                "expanded_url": "https://www.youtube.com/@yanderemonmiti",
+                "start": 74,
+                "url": "https://t.co/KyloZheMEI"
+              },
+              {
+                "display_url": "nicovideo.jp/user/132192888",
+                "end": 126,
+                "expanded_url": "http://nicovideo.jp/user/132192888",
+                "start": 103,
+                "url": "https://t.co/zretHfNJuO"
+              }
+            ]
+          }
+        },
+        "id": "1754318841604452352",
+        "name": "ヤンデレもん（道）",
+        "pinned_tweet_id": "1977277209531630070",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863900047227957248/pinVJ3_t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 156,
+          "following_count": 163,
+          "like_count": 3948,
+          "listed_count": 0,
+          "media_count": 563,
+          "tweet_count": 4052
+        },
+        "username": "yanderemon12",
+        "verified": false
+      }
+    ]
+  }
+}

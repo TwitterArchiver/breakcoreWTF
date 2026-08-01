@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2001263278283251712"
+      ],
+      "media_source_tweet_id": [
+        "2001263285346451532"
+      ]
+    },
+    "author_id": "1964331185590718464",
+    "conversation_id": "2001879191558750368",
+    "created_at": "2025-12-19T04:56:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-19T05:56:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2001879191558750368"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "776096283802996737",
+          "start": 3,
+          "username": "yottan20001202"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ntF0XGpyYO",
+          "end": 43,
+          "expanded_url": "https://x.com/yottan20001202/status/2001263285346451532/photo/1",
+          "media_key": "3_2001263278283251712",
+          "start": 20,
+          "url": "https://t.co/ntF0XGpyYO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2001879191558750368",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 300
+    },
+    "referenced_tweets": [
+      {
+        "id": "2001263285346451532",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yottan20001202: https://t.co/ntF0XGpyYO"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 821,
+        "media_key": "3_2001263278283251712",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8XqWTQbYAA_adS.jpg",
+        "width": 1186
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2001263278283251712"
+          ],
+          "media_source_tweet_id": [
+            "2001263285346451532"
+          ]
+        },
+        "author_id": "1964331185590718464",
+        "conversation_id": "2001879191558750368",
+        "created_at": "2025-12-19T04:56:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-19T05:56:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2001879191558750368"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "776096283802996737",
+              "start": 3,
+              "username": "yottan20001202"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ntF0XGpyYO",
+              "end": 43,
+              "expanded_url": "https://x.com/yottan20001202/status/2001263285346451532/photo/1",
+              "media_key": "3_2001263278283251712",
+              "start": 20,
+              "url": "https://t.co/ntF0XGpyYO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001879191558750368",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 300
+        },
+        "referenced_tweets": [
+          {
+            "id": "2001263285346451532",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yottan20001202: https://t.co/ntF0XGpyYO"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2001263278283251712"
+          ]
+        },
+        "author_id": "776096283802996737",
+        "conversation_id": "2001263285346451532",
+        "created_at": "2025-12-17T12:08:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-17T13:08:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2001263285346451532"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ntF0XGpyYO",
+              "end": 23,
+              "expanded_url": "https://x.com/yottan20001202/status/2001263285346451532/photo/1",
+              "media_key": "3_2001263278283251712",
+              "start": 0,
+              "url": "https://t.co/ntF0XGpyYO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001263285346451532",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 116,
+          "impression_count": 71941,
+          "like_count": 3516,
+          "quote_count": 10,
+          "reply_count": 23,
+          "retweet_count": 300
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/ntF0XGpyYO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-06T14:13:55.000Z",
+        "description": "中文/od/VOCALOID/音游 纯种乐子人性别不明推上啥都有 私信互关欢迎 我有对象 我很喜欢他",
+        "id": "1964331185590718464",
+        "location": "翼天国",
+        "name": "━Σ(ﾟДﾟ|||)━",
+        "pinned_tweet_id": "1966517785367871718",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001729011576426496/HumNDWc3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 48,
+          "following_count": 274,
+          "like_count": 2717,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 734
+        },
+        "username": "breakcoreWTF",
+        "verified": false
+      },
+      {
+        "created_at": "2016-09-14T16:32:28.000Z",
+        "description": "maimai／🏆全国大会7回優勝(5連覇中！)🏆／KoP4th.5thスコアアタック1位(4th単独303%)／フジテレビ2時間生放送出演+大会優勝／地上波テレビ出演／公式生放送出演／ST紫全曲理論値／PANDORA白世界初完走/理論値/☆5／太鼓、ウニ、プロセカ／サブ垢→@ysk__sub_／KoP皆勤賞(単独)",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 147,
+                "start": 137,
+                "username": "ysk__sub_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/channel/UC3HT8…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/channel/UC3HT8BsvQAa4WNZgOjCkIfQ",
+                "start": 0,
+                "url": "https://t.co/4IMXwPomYi"
+              }
+            ]
+          }
+        },
+        "id": "776096283802996737",
+        "location": "↓   チャンネル登録してね♪   ↓",
+        "name": "よしき",
+        "pinned_tweet_id": "1893891419569357280",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893924468168290304/wLCBA0FG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 50706,
+          "following_count": 799,
+          "like_count": 24753,
+          "listed_count": 93,
+          "media_count": 13511,
+          "tweet_count": 64754
+        },
+        "url": "https://t.co/4IMXwPomYi",
+        "username": "yottan20001202",
+        "verified": true
+      }
+    ]
+  }
+}

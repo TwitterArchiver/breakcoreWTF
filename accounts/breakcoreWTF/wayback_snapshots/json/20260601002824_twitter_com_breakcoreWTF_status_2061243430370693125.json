@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1964331185590718464",
+    "conversation_id": "2060605556390244414",
+    "created_at": "2026-06-01T00:28:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-01T01:28:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061243430370693125"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1424812473530687490",
+          "start": 0,
+          "username": "espantapiroca"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061243430370693125",
+    "in_reply_to_user_id": "1424812473530687490",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060605556390244414",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@espantapiroca 笑死我了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1964331185590718464",
+        "conversation_id": "2060605556390244414",
+        "created_at": "2026-06-01T00:28:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T01:28:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061243430370693125"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1424812473530687490",
+              "start": 0,
+              "username": "espantapiroca"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061243430370693125",
+        "in_reply_to_user_id": "1424812473530687490",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060605556390244414",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@espantapiroca 笑死我了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1424812473530687490",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "2060605556390244414",
+        "created_at": "2026-05-30T06:13:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T07:13:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060605556390244414"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2060605556390244414",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 132,
+          "impression_count": 915164,
+          "like_count": 3748,
+          "quote_count": 22,
+          "reply_count": 1915,
+          "retweet_count": 39
+        },
+        "reply_settings": "everyone",
+        "text": "pq só tem chinês respondendo meus tweets"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-06T14:13:55.000Z",
+        "description": "OD丨自伤丨Vocaloid丨音游丨友跨顺女\n不喜欢的直接b 同类回fo 取关请双取",
+        "id": "1964331185590718464",
+        "location": "颅内",
+        "name": "箸",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059045985826078721/d21n6gXC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 649,
+          "following_count": 589,
+          "like_count": 13784,
+          "listed_count": 0,
+          "media_count": 192,
+          "tweet_count": 4083
+        },
+        "username": "breakcoreWTF",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-09T19:19:13.000Z",
+        "description": "死",
+        "id": "1424812473530687490",
+        "location": "inferno",
+        "name": "╋━",
+        "pinned_tweet_id": "2033731557106569274",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056210547473797120/MkYrhKRQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1509,
+          "following_count": 313,
+          "like_count": 4182,
+          "listed_count": 1,
+          "media_count": 106,
+          "tweet_count": 5302
+        },
+        "username": "espantapiroca",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,282 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2027235362515607552"
+      ],
+      "media_source_tweet_id": [
+        "2027235413447070158"
+      ]
+    },
+    "author_id": "1964331185590718464",
+    "conversation_id": "2027479727603417223",
+    "created_at": "2026-02-27T20:23:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-27T21:23:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027479727603417223"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "2016728942204637189",
+          "start": 3,
+          "username": "PaulDavis224261"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/TgUxxf0ECu",
+          "end": 54,
+          "expanded_url": "https://x.com/PaulDavis224261/status/2027235413447070158/video/1",
+          "media_key": "13_2027235362515607552",
+          "start": 31,
+          "url": "https://t.co/TgUxxf0ECu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027479727603417223",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 57
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027235413447070158",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @PaulDavis224261: 我两个室友打起来了 https://t.co/TgUxxf0ECu"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 16416,
+        "height": 1280,
+        "media_key": "13_2027235362515607552",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2027235362515607552/img/IcnMjbr61j37KBet.jpg",
+        "public_metrics": {
+          "view_count": 115262
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2027235362515607552/vid/avc1/320x568/_4y5Bl_d5A3OSbhg.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2027235362515607552/vid/avc1/480x852/m-uMpkJNtTTh5jkb.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2027235362515607552/vid/avc1/720x1280/sT7NAGeL9OOdQlA5.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2027235362515607552/pl/wy4uEEyXsY0bKU4Z.m3u8?tag=14"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2027235362515607552"
+          ],
+          "media_source_tweet_id": [
+            "2027235413447070158"
+          ]
+        },
+        "author_id": "1964331185590718464",
+        "conversation_id": "2027479727603417223",
+        "created_at": "2026-02-27T20:23:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T21:23:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027479727603417223"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "2016728942204637189",
+              "start": 3,
+              "username": "PaulDavis224261"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/TgUxxf0ECu",
+              "end": 54,
+              "expanded_url": "https://x.com/PaulDavis224261/status/2027235413447070158/video/1",
+              "media_key": "13_2027235362515607552",
+              "start": 31,
+              "url": "https://t.co/TgUxxf0ECu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027479727603417223",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 57
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027235413447070158",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @PaulDavis224261: 我两个室友打起来了 https://t.co/TgUxxf0ECu"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2027235362515607552"
+          ]
+        },
+        "author_id": "2016728942204637189",
+        "conversation_id": "2027235413447070158",
+        "created_at": "2026-02-27T04:12:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T05:12:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027235413447070158"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TgUxxf0ECu",
+              "end": 33,
+              "expanded_url": "https://x.com/PaulDavis224261/status/2027235413447070158/video/1",
+              "media_key": "13_2027235362515607552",
+              "start": 10,
+              "url": "https://t.co/TgUxxf0ECu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027235413447070158",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 198,
+          "impression_count": 213689,
+          "like_count": 1095,
+          "quote_count": 1,
+          "reply_count": 45,
+          "retweet_count": 57
+        },
+        "reply_settings": "everyone",
+        "text": "我两个室友打起来了 https://t.co/TgUxxf0ECu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-06T14:13:55.000Z",
+        "description": "OD丨自伤丨Vocaloid丨音游丨友跨顺女丨少关心我\n不喜欢的直接b 推特是垃圾桶口无遮拦 同类回fo",
+        "id": "1964331185590718464",
+        "location": "🚪50/88 同类熟推免",
+        "name": "箸",
+        "pinned_tweet_id": "2024039744276189189",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019848796881186816/pdjXkx-3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 651,
+          "following_count": 596,
+          "like_count": 10825,
+          "listed_count": 0,
+          "media_count": 168,
+          "tweet_count": 3302
+        },
+        "username": "breakcoreWTF",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-29T04:23:53.000Z",
+        "description": "`_____我主号 @dxpyj41361642",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 10,
+                "username": "dxpyj41361642"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "tr.xiwarezz.mom",
+                "end": 23,
+                "expanded_url": "http://tr.xiwarezz.mom",
+                "start": 0,
+                "url": "https://t.co/RSgZ77pAs8"
+              }
+            ]
+          }
+        },
+        "id": "2016728942204637189",
+        "location": "抖音网红约炮性爱圈→",
+        "name": "高中生晓晓",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027123353220464641/3ZsUJS1g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 190,
+          "following_count": 1,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 1
+        },
+        "url": "https://t.co/RSgZ77pAs8",
+        "username": "PaulDavis224261",
+        "verified": false
+      }
+    ]
+  }
+}

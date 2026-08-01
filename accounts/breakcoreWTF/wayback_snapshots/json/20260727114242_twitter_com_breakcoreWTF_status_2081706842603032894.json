@@ -1,0 +1,294 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2081706593494958080",
+        "3_2081706603615752192"
+      ],
+      "media_source_tweet_id": [
+        "2081706618249781698",
+        "2081706618249781698"
+      ]
+    },
+    "author_id": "1964331185590718464",
+    "conversation_id": "2081706842603032894",
+    "created_at": "2026-07-27T11:42:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-27T12:42:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081706842603032894"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 23,
+          "start": 17,
+          "tag": "shtwt"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2080639094477242368",
+          "start": 3,
+          "username": "Sachiko_TvT"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/G6z5rmivAd",
+          "end": 61,
+          "expanded_url": "https://x.com/Sachiko_TvT/status/2081706618249781698/photo/1",
+          "media_key": "3_2081706593494958080",
+          "start": 38,
+          "url": "https://t.co/G6z5rmivAd"
+        },
+        {
+          "display_url": "pic.x.com/G6z5rmivAd",
+          "end": 61,
+          "expanded_url": "https://x.com/Sachiko_TvT/status/2081706618249781698/photo/1",
+          "media_key": "3_2081706603615752192",
+          "start": 38,
+          "url": "https://t.co/G6z5rmivAd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081706842603032894",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081706618249781698",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Sachiko_TvT: #shtwt all fake ai生成 https://t.co/G6z5rmivAd"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2081706593494958080",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOO1Hg_bAAACWyI.jpg",
+        "width": 3072
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2081706603615752192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOO1IGsaEAAVMwJ.jpg",
+        "width": 3072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081706593494958080",
+            "3_2081706603615752192"
+          ]
+        },
+        "author_id": "2080639094477242368",
+        "conversation_id": "2081706618249781698",
+        "created_at": "2026-07-27T11:41:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T12:41:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081706618249781698"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 6,
+              "start": 0,
+              "tag": "shtwt"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/G6z5rmivAd",
+              "end": 44,
+              "expanded_url": "https://x.com/Sachiko_TvT/status/2081706618249781698/photo/1",
+              "media_key": "3_2081706593494958080",
+              "start": 21,
+              "url": "https://t.co/G6z5rmivAd"
+            },
+            {
+              "display_url": "pic.x.com/G6z5rmivAd",
+              "end": 44,
+              "expanded_url": "https://x.com/Sachiko_TvT/status/2081706618249781698/photo/1",
+              "media_key": "3_2081706603615752192",
+              "start": 21,
+              "url": "https://t.co/G6z5rmivAd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081706618249781698",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "#shtwt all fake ai生成 https://t.co/G6z5rmivAd"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081706593494958080",
+            "3_2081706603615752192"
+          ],
+          "media_source_tweet_id": [
+            "2081706618249781698",
+            "2081706618249781698"
+          ]
+        },
+        "author_id": "1964331185590718464",
+        "conversation_id": "2081706842603032894",
+        "created_at": "2026-07-27T11:42:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T12:42:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081706842603032894"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 23,
+              "start": 17,
+              "tag": "shtwt"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2080639094477242368",
+              "start": 3,
+              "username": "Sachiko_TvT"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/G6z5rmivAd",
+              "end": 61,
+              "expanded_url": "https://x.com/Sachiko_TvT/status/2081706618249781698/photo/1",
+              "media_key": "3_2081706593494958080",
+              "start": 38,
+              "url": "https://t.co/G6z5rmivAd"
+            },
+            {
+              "display_url": "pic.x.com/G6z5rmivAd",
+              "end": 61,
+              "expanded_url": "https://x.com/Sachiko_TvT/status/2081706618249781698/photo/1",
+              "media_key": "3_2081706603615752192",
+              "start": 38,
+              "url": "https://t.co/G6z5rmivAd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081706842603032894",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081706618249781698",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Sachiko_TvT: #shtwt all fake ai生成 https://t.co/G6z5rmivAd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-06T14:13:55.000Z",
+        "description": "叫我筷子就可以了(:3っ )っ\nOD丨🔪丨Vocaloid丨音游丨顺女 LGBTQ+friendly\n不卖药 只看互关私信 我很穷欢迎投喂\n不喜欢的直接b 查成分同类回fo 取关请双取",
+        "id": "1964331185590718464",
+        "location": "颅内",
+        "name": "箸",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074711282427842560/EOM9Puhb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1349,
+          "following_count": 831,
+          "like_count": 35907,
+          "listed_count": 0,
+          "media_count": 355,
+          "tweet_count": 6390
+        },
+        "url": "",
+        "username": "breakcoreWTF",
+        "verified": false
+      },
+      {
+        "created_at": "2026-07-24T13:01:07.000Z",
+        "description": "Sachiko/滤林\n也许是我的阴暗面ovo",
+        "id": "2080639094477242368",
+        "name": "Sachiko",
+        "pinned_tweet_id": "2081692301420789952",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080681915221454848/1IMFa4jt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 14,
+          "like_count": 73,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 15
+        },
+        "url": "",
+        "username": "Sachiko_TvT",
+        "verified": false
+      }
+    ]
+  }
+}

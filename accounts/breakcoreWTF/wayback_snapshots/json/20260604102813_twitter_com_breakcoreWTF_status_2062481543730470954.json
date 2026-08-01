@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2062232909713440768"
+      ],
+      "media_source_tweet_id": [
+        "2062232928663240717"
+      ]
+    },
+    "author_id": "1964331185590718464",
+    "conversation_id": "2062481543730470954",
+    "created_at": "2026-06-04T10:28:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-04T11:28:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062481543730470954"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "2922320919",
+          "start": 3,
+          "username": "equine__dentist"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/g0suwJXaxv",
+          "end": 100,
+          "expanded_url": "https://x.com/equine__dentist/status/2062232928663240717/video/1",
+          "media_key": "7_2062232909713440768",
+          "start": 77,
+          "url": "https://t.co/g0suwJXaxv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062481543730470954",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1257
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062232928663240717",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @equine__dentist: don’t invite me to the function unless this is the vibe https://t.co/g0suwJXaxv"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 11966,
+        "height": 720,
+        "media_key": "7_2062232909713440768",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2062232909713440768/pu/img/cFWMjDS3JBUqBukw.jpg",
+        "public_metrics": {
+          "view_count": 145147
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 432000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2062232909713440768/pu/vid/avc1/320x320/cKwq-tWltvu-Cd3L.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2062232909713440768/pu/vid/avc1/540x540/I6I6mQc2DLzQ2CdE.mp4?tag=12"
+          },
+          {
+            "bit_rate": 1280000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2062232909713440768/pu/vid/avc1/720x720/MgvRD91feiwXZXSV.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2062232909713440768/pu/pl/MQulZrZ1bMtrouoz.m3u8?tag=12&v=cfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2062232909713440768"
+          ],
+          "media_source_tweet_id": [
+            "2062232928663240717"
+          ]
+        },
+        "author_id": "1964331185590718464",
+        "conversation_id": "2062481543730470954",
+        "created_at": "2026-06-04T10:28:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T11:28:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062481543730470954"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "2922320919",
+              "start": 3,
+              "username": "equine__dentist"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/g0suwJXaxv",
+              "end": 100,
+              "expanded_url": "https://x.com/equine__dentist/status/2062232928663240717/video/1",
+              "media_key": "7_2062232909713440768",
+              "start": 77,
+              "url": "https://t.co/g0suwJXaxv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062481543730470954",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1257
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062232928663240717",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @equine__dentist: don’t invite me to the function unless this is the vibe https://t.co/g0suwJXaxv"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2062232909713440768"
+          ]
+        },
+        "author_id": "2922320919",
+        "conversation_id": "2062232928663240717",
+        "created_at": "2026-06-03T18:00:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T19:00:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062232928663240717"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/g0suwJXaxv",
+              "end": 79,
+              "expanded_url": "https://x.com/equine__dentist/status/2062232928663240717/video/1",
+              "media_key": "7_2062232909713440768",
+              "start": 56,
+              "url": "https://t.co/g0suwJXaxv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062232928663240717",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1119,
+          "impression_count": 359870,
+          "like_count": 10663,
+          "quote_count": 66,
+          "reply_count": 43,
+          "retweet_count": 1257
+        },
+        "reply_settings": "everyone",
+        "text": "don’t invite me to the function unless this is the vibe https://t.co/g0suwJXaxv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-06T14:13:55.000Z",
+        "description": "OD丨自伤丨Vocaloid丨音游丨友跨顺女\n不喜欢的直接b 同类回fo 取关请双取",
+        "id": "1964331185590718464",
+        "location": "颅内",
+        "name": "箸",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061439509125074944/Hf-Lim6c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 668,
+          "following_count": 606,
+          "like_count": 14377,
+          "listed_count": 0,
+          "media_count": 213,
+          "tweet_count": 4255
+        },
+        "username": "breakcoreWTF",
+        "verified": false
+      },
+      {
+        "created_at": "2014-12-15T03:00:26.000Z",
+        "description": "horse god formerly known as balthazar the exalted",
+        "id": "2922320919",
+        "name": "horse dentist",
+        "pinned_tweet_id": "2062217928607470020",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1594080000805945345/zwKVAWO4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 69528,
+          "following_count": 774,
+          "like_count": 57189,
+          "listed_count": 171,
+          "media_count": 13057,
+          "tweet_count": 26400
+        },
+        "username": "equine__dentist",
+        "verified": true
+      }
+    ]
+  }
+}

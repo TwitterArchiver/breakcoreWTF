@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2063463424709779456"
+      ],
+      "media_source_tweet_id": [
+        "2063463510525268374"
+      ]
+    },
+    "author_id": "1964331185590718464",
+    "conversation_id": "2063694721101562331",
+    "created_at": "2026-06-07T18:48:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T19:48:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063694721101562331"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1600075964653912064",
+          "start": 3,
+          "username": "cosyposter"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/l8AAMxH2ng",
+          "end": 52,
+          "expanded_url": "https://x.com/cosyposter/status/2063463510525268374/video/1",
+          "media_key": "13_2063463424709779456",
+          "start": 29,
+          "url": "https://t.co/l8AAMxH2ng"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063694721101562331",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 537
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063463510525268374",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @cosyposter: how dare you https://t.co/l8AAMxH2ng"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 28400,
+        "height": 1024,
+        "media_key": "13_2063463424709779456",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2063463424709779456/img/k9PQxAWKdXfEW0YV.jpg",
+        "public_metrics": {
+          "view_count": 281737
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2063463424709779456/vid/avc1/320x568/o-fyf-O1R2H7ZE10.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2063463424709779456/vid/avc1/480x852/_1Fr2uQLV01s1p1p.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2063463424709779456/vid/avc1/576x1024/VdzY-ThcngYsgblj.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2063463424709779456/pl/IaQ_W6cTOWQBxU9F.m3u8?v=902"
+          }
+        ],
+        "width": 576
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2063463424709779456"
+          ],
+          "media_source_tweet_id": [
+            "2063463510525268374"
+          ]
+        },
+        "author_id": "1964331185590718464",
+        "conversation_id": "2063694721101562331",
+        "created_at": "2026-06-07T18:48:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T19:48:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063694721101562331"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1600075964653912064",
+              "start": 3,
+              "username": "cosyposter"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/l8AAMxH2ng",
+              "end": 52,
+              "expanded_url": "https://x.com/cosyposter/status/2063463510525268374/video/1",
+              "media_key": "13_2063463424709779456",
+              "start": 29,
+              "url": "https://t.co/l8AAMxH2ng"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063694721101562331",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 537
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063463510525268374",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @cosyposter: how dare you https://t.co/l8AAMxH2ng"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2063463424709779456"
+          ]
+        },
+        "author_id": "1600075964653912064",
+        "conversation_id": "2063463510525268374",
+        "created_at": "2026-06-07T03:30:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T04:30:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063463510525268374"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/l8AAMxH2ng",
+              "end": 36,
+              "expanded_url": "https://x.com/cosyposter/status/2063463510525268374/video/1",
+              "media_key": "13_2063463424709779456",
+              "start": 13,
+              "url": "https://t.co/l8AAMxH2ng"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063463510525268374",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1078,
+          "impression_count": 496724,
+          "like_count": 8866,
+          "quote_count": 19,
+          "reply_count": 37,
+          "retweet_count": 537
+        },
+        "reply_settings": "everyone",
+        "text": "how dare you https://t.co/l8AAMxH2ng"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-06T14:13:55.000Z",
+        "description": "OD丨自伤丨Vocaloid丨音游丨友跨顺女\n不喜欢的直接b 同类回fo 取关请双取",
+        "id": "1964331185590718464",
+        "location": "颅内",
+        "name": "箸",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061439509125074944/Hf-Lim6c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 725,
+          "following_count": 641,
+          "like_count": 15489,
+          "listed_count": 0,
+          "media_count": 224,
+          "tweet_count": 4522
+        },
+        "username": "breakcoreWTF",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-06T10:34:50.000Z",
+        "description": "Cozy Poster. \n- No DMs",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "store.steampowered.com/app/4553530/Da…",
+                "end": 23,
+                "expanded_url": "https://store.steampowered.com/app/4553530/DarkRealms/?beta=1",
+                "start": 0,
+                "url": "https://t.co/l6jOeD9WiM"
+              }
+            ]
+          }
+        },
+        "id": "1600075964653912064",
+        "name": "Cozy",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049878534030528512/JgG8uQ9E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 56160,
+          "following_count": 11073,
+          "like_count": 127100,
+          "listed_count": 135,
+          "media_count": 7669,
+          "tweet_count": 10728
+        },
+        "url": "https://t.co/l6jOeD9WiM",
+        "username": "cosyposter",
+        "verified": true
+      }
+    ]
+  }
+}

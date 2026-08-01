@@ -1,0 +1,341 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2081403319038410752",
+        "16_2081403319076147201"
+      ],
+      "media_source_tweet_id": [
+        "2081403330618962123",
+        "2081403330618962123"
+      ]
+    },
+    "author_id": "1964331185590718464",
+    "conversation_id": "2081404797580980264",
+    "created_at": "2026-07-26T15:42:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-26T16:42:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081404797580980264"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 31,
+          "start": 19,
+          "tag": "murdermedia"
+        },
+        {
+          "end": 38,
+          "start": 32,
+          "tag": "voxal"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1458767805147672577",
+          "start": 3,
+          "username": "mosi_drw"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/mer60DlFRM",
+          "end": 62,
+          "expanded_url": "https://x.com/mosi_drw/status/2081403330618962123/photo/1",
+          "media_key": "3_2081403319038410752",
+          "start": 39,
+          "url": "https://t.co/mer60DlFRM"
+        },
+        {
+          "display_url": "pic.x.com/mer60DlFRM",
+          "end": 62,
+          "expanded_url": "https://x.com/mosi_drw/status/2081403330618962123/photo/1",
+          "media_key": "16_2081403319076147201",
+          "start": 39,
+          "url": "https://t.co/mer60DlFRM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081404797580980264",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081403330618962123",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @mosi_drw: 🤏\n📺📻 #murdermedia #voxal https://t.co/mer60DlFRM"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1886,
+        "media_key": "3_2081403319038410752",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOKhSnmagAAPHWe.jpg",
+        "width": 1794
+      },
+      {
+        "height": 560,
+        "media_key": "16_2081403319076147201",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HOKhSnvaUAEECAa.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HOKhSnvaUAEECAa.mp4"
+          }
+        ],
+        "width": 560
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081403319038410752",
+            "16_2081403319076147201"
+          ]
+        },
+        "author_id": "1458767805147672577",
+        "conversation_id": "2081403330618962123",
+        "created_at": "2026-07-26T15:36:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T16:36:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081403330618962123"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 17,
+              "start": 5,
+              "tag": "murdermedia"
+            },
+            {
+              "end": 24,
+              "start": 18,
+              "tag": "voxal"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/mer60DlFRM",
+              "end": 48,
+              "expanded_url": "https://x.com/mosi_drw/status/2081403330618962123/photo/1",
+              "media_key": "3_2081403319038410752",
+              "start": 25,
+              "url": "https://t.co/mer60DlFRM"
+            },
+            {
+              "display_url": "pic.x.com/mer60DlFRM",
+              "end": 48,
+              "expanded_url": "https://x.com/mosi_drw/status/2081403330618962123/photo/1",
+              "media_key": "16_2081403319076147201",
+              "start": 25,
+              "url": "https://t.co/mer60DlFRM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081403330618962123",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 55,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "🤏\n📺📻 #murdermedia #voxal https://t.co/mer60DlFRM"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081403319038410752",
+            "16_2081403319076147201"
+          ],
+          "media_source_tweet_id": [
+            "2081403330618962123",
+            "2081403330618962123"
+          ]
+        },
+        "author_id": "1964331185590718464",
+        "conversation_id": "2081404797580980264",
+        "created_at": "2026-07-26T15:42:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T16:42:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081404797580980264"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 31,
+              "start": 19,
+              "tag": "murdermedia"
+            },
+            {
+              "end": 38,
+              "start": 32,
+              "tag": "voxal"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1458767805147672577",
+              "start": 3,
+              "username": "mosi_drw"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/mer60DlFRM",
+              "end": 62,
+              "expanded_url": "https://x.com/mosi_drw/status/2081403330618962123/photo/1",
+              "media_key": "3_2081403319038410752",
+              "start": 39,
+              "url": "https://t.co/mer60DlFRM"
+            },
+            {
+              "display_url": "pic.x.com/mer60DlFRM",
+              "end": 62,
+              "expanded_url": "https://x.com/mosi_drw/status/2081403330618962123/photo/1",
+              "media_key": "16_2081403319076147201",
+              "start": 39,
+              "url": "https://t.co/mer60DlFRM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081404797580980264",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081403330618962123",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @mosi_drw: 🤏\n📺📻 #murdermedia #voxal https://t.co/mer60DlFRM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-06T14:13:55.000Z",
+        "description": "叫我筷子就可以了(:3っ )っ\nOD丨🔪丨Vocaloid丨音游丨顺女 LGBTQ+friendly\n不卖药 只看互关私信 我很穷欢迎投喂\n不喜欢的直接b 查成分同类回fo 取关请双取",
+        "id": "1964331185590718464",
+        "location": "颅内",
+        "name": "箸",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074711282427842560/EOM9Puhb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1276,
+          "following_count": 813,
+          "like_count": 34901,
+          "listed_count": 0,
+          "media_count": 348,
+          "tweet_count": 6269
+        },
+        "url": "",
+        "username": "breakcoreWTF",
+        "verified": true
+      },
+      {
+        "created_at": "2021-11-11T12:05:45.000Z",
+        "description": "🇯🇵20↑/ 二次創作/雑多ｱｶ/ 言切,龍楽,猗窩煉,voxal etc./ 洋画も好き / ▶︎現在のメインは📺📻/ ⚠AI学習禁止･転載禁止 / Wavevox💌▶︎ https://t.co/mJHMTMTEx5",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "wavebox.me/wave/9zf0wyuuq…",
+                "end": 110,
+                "expanded_url": "https://wavebox.me/wave/9zf0wyuuqwywgxl0",
+                "start": 87,
+                "url": "https://t.co/mJHMTMTEx5"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/kooriame",
+                "end": 23,
+                "expanded_url": "https://lit.link/kooriame",
+                "start": 0,
+                "url": "https://t.co/jq4zM4LenN"
+              }
+            ]
+          }
+        },
+        "id": "1458767805147672577",
+        "location": "pixiv等リンクまとめ▶︎▷",
+        "name": "氷飴󠄀",
+        "pinned_tweet_id": "2081032472884924821",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1618598416501833729/YjNZQu3g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4172,
+          "following_count": 124,
+          "like_count": 11420,
+          "listed_count": 17,
+          "media_count": 963,
+          "tweet_count": 7251
+        },
+        "url": "https://t.co/jq4zM4LenN",
+        "username": "mosi_drw",
+        "verified": false
+      }
+    ]
+  }
+}

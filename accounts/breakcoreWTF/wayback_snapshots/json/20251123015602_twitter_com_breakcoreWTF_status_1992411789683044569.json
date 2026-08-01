@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1964331185590718464",
+    "conversation_id": "1992411789683044569",
+    "created_at": "2025-11-23T01:56:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-23T02:56:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1992411789683044569"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1716270669850411009",
+          "start": 3,
+          "username": "xxx_xxxxxxX111"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992411789683044569",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 133
+    },
+    "referenced_tweets": [
+      {
+        "id": "1991814899811733521",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xxx_xxxxxxX111: 一千个哈姆雷特有两千个睾丸"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1964331185590718464",
+        "conversation_id": "1992411789683044569",
+        "created_at": "2025-11-23T01:56:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-23T02:56:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992411789683044569"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1716270669850411009",
+              "start": 3,
+              "username": "xxx_xxxxxxX111"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992411789683044569",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 133
+        },
+        "referenced_tweets": [
+          {
+            "id": "1991814899811733521",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @xxx_xxxxxxX111: 一千个哈姆雷特有两千个睾丸"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1716270669850411009",
+        "conversation_id": "1991814899811733521",
+        "created_at": "2025-11-21T10:24:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-21T11:24:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1991814899811733521"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1991814899811733521",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 44,
+          "impression_count": 169146,
+          "like_count": 1778,
+          "quote_count": 20,
+          "reply_count": 120,
+          "retweet_count": 133
+        },
+        "reply_settings": "everyone",
+        "text": "一千个哈姆雷特有两千个睾丸"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-06T14:13:55.000Z",
+        "description": "中文/od/VOCALOID/音游 纯种乐子人性别不明推上啥都有 私信互关欢迎 我有对象 我很喜欢他",
+        "id": "1964331185590718464",
+        "location": "翼天国",
+        "name": "━Σ(ﾟДﾟ|||)━",
+        "pinned_tweet_id": "1966517785367871718",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986080929002164224/0ugqBVVT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40,
+          "following_count": 256,
+          "like_count": 2327,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 562
+        },
+        "username": "breakcoreWTF",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-23T01:49:58.000Z",
+        "description": "不行不好不可以",
+        "id": "1716270669850411009",
+        "location": "-7.77km ",
+        "name": "？",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1915786362885951489/pyh_sDbl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4408,
+          "following_count": 13,
+          "like_count": 2036,
+          "listed_count": 9,
+          "media_count": 160,
+          "tweet_count": 820
+        },
+        "username": "xxx_xxxxxxX111",
+        "verified": false
+      }
+    ]
+  }
+}

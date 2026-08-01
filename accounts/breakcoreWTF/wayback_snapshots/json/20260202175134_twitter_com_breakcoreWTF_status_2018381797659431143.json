@@ -1,0 +1,287 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2018157125537546240"
+      ],
+      "media_source_tweet_id": [
+        "2018157180713652665"
+      ]
+    },
+    "author_id": "1964331185590718464",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2018381797659431143",
+    "created_at": "2026-02-02T17:51:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-02T18:51:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2018381797659431143"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "19254614",
+          "start": 3,
+          "username": "OOCgifs_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/6zQBqOHgXs",
+          "end": 37,
+          "expanded_url": "https://x.com/OOCgifs_/status/2018157180713652665/video/1",
+          "media_key": "13_2018157125537546240",
+          "start": 14,
+          "url": "https://t.co/6zQBqOHgXs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2018381797659431143",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 262
+    },
+    "referenced_tweets": [
+      {
+        "id": "2018157180713652665",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @OOCgifs_: https://t.co/6zQBqOHgXs"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 76966,
+        "height": 720,
+        "media_key": "13_2018157125537546240",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2018157125537546240/img/r152uaEHv2Cq1N5m.jpg",
+        "public_metrics": {
+          "view_count": 824786
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2018157125537546240/vid/avc1/480x270/gVgwOdCE0Wa2Uvks.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2018157125537546240/vid/avc1/640x360/HqGe837k1OxWBF_s.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2018157125537546240/vid/avc1/1280x720/PINj3vNPYQq2MA0E.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2018157125537546240/pl/IiFkbIr1I0P2IJQs.m3u8?v=cfc"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2018157125537546240"
+          ],
+          "media_source_tweet_id": [
+            "2018157180713652665"
+          ]
+        },
+        "author_id": "1964331185590718464",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2018381797659431143",
+        "created_at": "2026-02-02T17:51:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-02T18:51:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018381797659431143"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "19254614",
+              "start": 3,
+              "username": "OOCgifs_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/6zQBqOHgXs",
+              "end": 37,
+              "expanded_url": "https://x.com/OOCgifs_/status/2018157180713652665/video/1",
+              "media_key": "13_2018157125537546240",
+              "start": 14,
+              "url": "https://t.co/6zQBqOHgXs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018381797659431143",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 262
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018157180713652665",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @OOCgifs_: https://t.co/6zQBqOHgXs"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2018157125537546240"
+          ]
+        },
+        "author_id": "19254614",
+        "conversation_id": "2018157180713652665",
+        "created_at": "2026-02-02T02:59:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-02T03:59:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2018157180713652665"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6zQBqOHgXs",
+              "end": 23,
+              "expanded_url": "https://x.com/OOCgifs_/status/2018157180713652665/video/1",
+              "media_key": "13_2018157125537546240",
+              "start": 0,
+              "url": "https://t.co/6zQBqOHgXs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018157180713652665",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2091,
+          "impression_count": 1561352,
+          "like_count": 6063,
+          "quote_count": 16,
+          "reply_count": 29,
+          "retweet_count": 262
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/6zQBqOHgXs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-06T14:13:55.000Z",
+        "description": "中文/od/自伤/友跨顺女/VOCALOID/音游 舞萌普通w53 纯种乐子人 推上啥都有 对我的负能量关心不要太频繁 其他交流欢迎 我不想在推特都做不到口无遮拦 同类回佛 🚪40加微信纯绿可配聊 熟悉的推友可以免门费",
+        "id": "1964331185590718464",
+        "location": "Internet",
+        "name": "薄幸",
+        "pinned_tweet_id": "2016685165557534981",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015679257582964737/T8W4H246_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 93,
+          "following_count": 355,
+          "like_count": 5894,
+          "listed_count": 0,
+          "media_count": 85,
+          "tweet_count": 1813
+        },
+        "username": "breakcoreWTF",
+        "verified": false
+      },
+      {
+        "created_at": "2009-01-20T20:08:37.000Z",
+        "description": "gifs/anime out of context",
+        "id": "19254614",
+        "name": "out of context gifs",
+        "pinned_tweet_id": "2018371279082967546",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970644474511396864/vumSBZBe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 138226,
+          "following_count": 5115,
+          "like_count": 56970,
+          "listed_count": 466,
+          "media_count": 1494,
+          "tweet_count": 1991
+        },
+        "username": "OOCgifs_",
+        "verified": true
+      }
+    ]
+  }
+}

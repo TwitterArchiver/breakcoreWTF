@@ -1,0 +1,270 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2011801967488876547"
+      ],
+      "media_source_tweet_id": [
+        "2011801974572978646"
+      ]
+    },
+    "author_id": "1964331185590718464",
+    "conversation_id": "2011843536531157285",
+    "created_at": "2026-01-15T16:50:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-15T17:50:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2011843536531157285"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 25,
+          "start": 15,
+          "tag": "君と彼女と彼女の恋"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1677653687735574534",
+          "start": 3,
+          "username": "liliwryyy"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/KpN2dmp02g",
+          "end": 49,
+          "expanded_url": "https://x.com/liliwryyy/status/2011801974572978646/photo/1",
+          "media_key": "3_2011801967488876547",
+          "start": 26,
+          "url": "https://t.co/KpN2dmp02g"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2011843536531157285",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 349
+    },
+    "referenced_tweets": [
+      {
+        "id": "2011801974572978646",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @liliwryyy: #君と彼女と彼女の恋 https://t.co/KpN2dmp02g"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2011801967488876547",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-tbOv6bQAM4RT0.jpg",
+        "width": 710
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2011801967488876547"
+          ],
+          "media_source_tweet_id": [
+            "2011801974572978646"
+          ]
+        },
+        "author_id": "1964331185590718464",
+        "conversation_id": "2011843536531157285",
+        "created_at": "2026-01-15T16:50:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-15T17:50:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2011843536531157285"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 25,
+              "start": 15,
+              "tag": "君と彼女と彼女の恋"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1677653687735574534",
+              "start": 3,
+              "username": "liliwryyy"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/KpN2dmp02g",
+              "end": 49,
+              "expanded_url": "https://x.com/liliwryyy/status/2011801974572978646/photo/1",
+              "media_key": "3_2011801967488876547",
+              "start": 26,
+              "url": "https://t.co/KpN2dmp02g"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2011843536531157285",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 349
+        },
+        "referenced_tweets": [
+          {
+            "id": "2011801974572978646",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @liliwryyy: #君と彼女と彼女の恋 https://t.co/KpN2dmp02g"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2011801967488876547"
+          ]
+        },
+        "author_id": "1677653687735574534",
+        "conversation_id": "2011801974572978646",
+        "created_at": "2026-01-15T14:05:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-15T15:05:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2011801974572978646"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 10,
+              "start": 0,
+              "tag": "君と彼女と彼女の恋"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/KpN2dmp02g",
+              "end": 34,
+              "expanded_url": "https://x.com/liliwryyy/status/2011801974572978646/photo/1",
+              "media_key": "3_2011801967488876547",
+              "start": 11,
+              "url": "https://t.co/KpN2dmp02g"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2011801974572978646",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 125,
+          "impression_count": 16585,
+          "like_count": 1550,
+          "quote_count": 8,
+          "reply_count": 3,
+          "retweet_count": 349
+        },
+        "reply_settings": "everyone",
+        "text": "#君と彼女と彼女の恋 https://t.co/KpN2dmp02g"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-06T14:13:55.000Z",
+        "description": "中文/od/VOCALOID/音游 纯种乐子人性别不明推上啥都有 会发泄情绪无需理会 私信互关欢迎",
+        "id": "1964331185590718464",
+        "location": "幻想郷",
+        "name": "薄幸",
+        "pinned_tweet_id": "2003760156488986744",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010659872770326528/BT09LiKm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 46,
+          "following_count": 314,
+          "like_count": 3628,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 1094
+        },
+        "username": "breakcoreWTF",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-08T12:19:53.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "vgen.co/lilioll",
+                "end": 23,
+                "expanded_url": "https://vgen.co/lilioll",
+                "start": 0,
+                "url": "https://t.co/OkvrCNRgT2"
+              }
+            ]
+          }
+        },
+        "id": "1677653687735574534",
+        "name": "Lilio",
+        "pinned_tweet_id": "1745773619140325521",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1685309182004928512/daddQInI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5636,
+          "following_count": 0,
+          "like_count": 295,
+          "listed_count": 17,
+          "media_count": 60,
+          "tweet_count": 118
+        },
+        "url": "https://t.co/OkvrCNRgT2",
+        "username": "liliwryyy",
+        "verified": false
+      }
+    ]
+  }
+}

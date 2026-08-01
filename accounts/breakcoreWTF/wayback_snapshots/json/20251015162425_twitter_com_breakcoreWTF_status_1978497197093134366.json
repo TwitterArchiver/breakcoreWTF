@@ -1,0 +1,504 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1964331185590718464",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to apparel and accessories ",
+          "id": "1557697378571808768",
+          "name": "Textile, Apparel & Luxury Good Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "1256236649253449729",
+          "name": "Fashion & beauty"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "General Fashion",
+          "id": "844604232737087488",
+          "name": "General Fashion"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "id": "839543390668673024",
+          "name": "Fashion"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Jewelry",
+          "id": "845293633259552768",
+          "name": "Jewelry"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Accessories",
+          "id": "846447164880433152",
+          "name": "Fashion accessories"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Jewelry",
+          "id": "845293633259552768",
+          "name": "Jewelry"
+        }
+      },
+      {
+        "domain": {
+          "description": "A product taxonomy for labeling categories of products. ",
+          "id": "173",
+          "name": "Product Taxonomy"
+        },
+        "entity": {
+          "description": "Jewelry",
+          "id": "845293633259552768",
+          "name": "Jewelry"
+        }
+      }
+    ],
+    "conversation_id": "1978497197093134366",
+    "created_at": "2025-10-15T16:24:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-15T17:24:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1978497197093134366"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "191830183",
+          "start": 3,
+          "username": "neru_sleep"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1978497197093134366",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 147
+    },
+    "referenced_tweets": [
+      {
+        "id": "1978419880111091913",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @neru_sleep: ごきげんよう、プリンセスたちよ\n今日も美しくいてくれて心からありがとう\n君の瞳を見る度に宝石商が見せびらかす10カラットのダイヤモンドさえ滑稽な贋作だと気付かされてしまうよ\n今日が何の日かわかるかい\nそう、お姫様が世界で一番美しかった日さ\nなら毎…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1964331185590718464",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to apparel and accessories ",
+              "id": "1557697378571808768",
+              "name": "Textile, Apparel & Luxury Good Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1256236649253449729",
+              "name": "Fashion & beauty"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "General Fashion",
+              "id": "844604232737087488",
+              "name": "General Fashion"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "id": "839543390668673024",
+              "name": "Fashion"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Jewelry",
+              "id": "845293633259552768",
+              "name": "Jewelry"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Accessories",
+              "id": "846447164880433152",
+              "name": "Fashion accessories"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Jewelry",
+              "id": "845293633259552768",
+              "name": "Jewelry"
+            }
+          },
+          {
+            "domain": {
+              "description": "A product taxonomy for labeling categories of products. ",
+              "id": "173",
+              "name": "Product Taxonomy"
+            },
+            "entity": {
+              "description": "Jewelry",
+              "id": "845293633259552768",
+              "name": "Jewelry"
+            }
+          }
+        ],
+        "conversation_id": "1978497197093134366",
+        "created_at": "2025-10-15T16:24:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-15T17:24:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1978497197093134366"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "191830183",
+              "start": 3,
+              "username": "neru_sleep"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978497197093134366",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 147
+        },
+        "referenced_tweets": [
+          {
+            "id": "1978419880111091913",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @neru_sleep: ごきげんよう、プリンセスたちよ\n今日も美しくいてくれて心からありがとう\n君の瞳を見る度に宝石商が見せびらかす10カラットのダイヤモンドさえ滑稽な贋作だと気付かされてしまうよ\n今日が何の日かわかるかい\nそう、お姫様が世界で一番美しかった日さ\nなら毎…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "191830183",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to apparel and accessories ",
+              "id": "1557697378571808768",
+              "name": "Textile, Apparel & Luxury Good Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1256236649253449729",
+              "name": "Fashion & beauty"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "General Fashion",
+              "id": "844604232737087488",
+              "name": "General Fashion"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "id": "839543390668673024",
+              "name": "Fashion"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Jewelry",
+              "id": "845293633259552768",
+              "name": "Jewelry"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Accessories",
+              "id": "846447164880433152",
+              "name": "Fashion accessories"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Jewelry",
+              "id": "845293633259552768",
+              "name": "Jewelry"
+            }
+          },
+          {
+            "domain": {
+              "description": "A product taxonomy for labeling categories of products. ",
+              "id": "173",
+              "name": "Product Taxonomy"
+            },
+            "entity": {
+              "description": "Jewelry",
+              "id": "845293633259552768",
+              "name": "Jewelry"
+            }
+          }
+        ],
+        "conversation_id": "1978419880111091913",
+        "created_at": "2025-10-15T11:17:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-15T12:17:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1978419880111091913"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1978419880111091913",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 56,
+          "impression_count": 59262,
+          "like_count": 2160,
+          "quote_count": 10,
+          "reply_count": 26,
+          "retweet_count": 147
+        },
+        "reply_settings": "everyone",
+        "text": "ごきげんよう、プリンセスたちよ\n今日も美しくいてくれて心からありがとう\n君の瞳を見る度に宝石商が見せびらかす10カラットのダイヤモンドさえ滑稽な贋作だと気付かされてしまうよ\n今日が何の日かわかるかい\nそう、お姫様が世界で一番美しかった日さ\nなら毎日が特別な日になってしまうね\nフフフ、丘の"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-06T14:13:55.000Z",
+        "description": "中文/od/VOCALOID/音游/舞萌w45/中二14.9/世界计划 无底线无雷点无素质 含暴论/地域黑/辱男女/发情等成分 私信互关欢迎 我有对象 我很喜欢他",
+        "id": "1964331185590718464",
+        "location": "翼天国",
+        "name": "━Σ(ﾟДﾟ|||)━",
+        "pinned_tweet_id": "1966517785367871718",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976879373207977984/JH6MsfDA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35,
+          "following_count": 228,
+          "like_count": 1711,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 457
+        },
+        "username": "breakcoreWTF",
+        "verified": false
+      },
+      {
+        "created_at": "2010-09-17T13:31:40.000Z",
+        "description": "japanese songwriting ninja\nYouTube / https://t.co/rmHHRsP9zr\nNicoNico  / https://t.co/8Jd82jJpNY\nInstagram / https://t.co/MtOYuWaN99\nBusiness / info@neru-official.com",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "goo.gl/bXQVc0",
+                "end": 60,
+                "expanded_url": "http://goo.gl/bXQVc0",
+                "start": 37,
+                "url": "https://t.co/rmHHRsP9zr"
+              },
+              {
+                "display_url": "goo.gl/VFQYtP",
+                "end": 96,
+                "expanded_url": "http://goo.gl/VFQYtP",
+                "start": 73,
+                "url": "https://t.co/8Jd82jJpNY"
+              },
+              {
+                "display_url": "goo.gl/nM8Ldf",
+                "end": 132,
+                "expanded_url": "http://goo.gl/nM8Ldf",
+                "start": 109,
+                "url": "https://t.co/MtOYuWaN99"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "neruworks.blog.fc2.com",
+                "end": 23,
+                "expanded_url": "http://neruworks.blog.fc2.com/",
+                "start": 0,
+                "url": "https://t.co/Kg1gIzH8TU"
+              }
+            ]
+          }
+        },
+        "id": "191830183",
+        "location": "楽曲利用のガイドラインは下記URLをご参照下さい。",
+        "name": "Neru",
+        "pinned_tweet_id": "1424295941893279745",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/829627160801341440/II2gtFdo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 589593,
+          "following_count": 267,
+          "like_count": 1075,
+          "listed_count": 3115,
+          "media_count": 141,
+          "tweet_count": 989
+        },
+        "url": "https://t.co/Kg1gIzH8TU",
+        "username": "neru_sleep",
+        "verified": true
+      }
+    ]
+  }
+}

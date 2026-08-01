@@ -1,0 +1,366 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1964331185590718464",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "1280550787207147521",
+          "name": "Arts & culture"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Cosplay",
+          "id": "1047106191829028865",
+          "name": "Cosplay"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Cosplay",
+          "id": "1047106191829028865",
+          "name": "Cosplay"
+        }
+      }
+    ],
+    "conversation_id": "2081695465020801392",
+    "created_at": "2026-07-27T10:57:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-27T11:57:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2081695465020801392"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Sachiko_TvT/st…",
+          "end": 38,
+          "expanded_url": "https://twitter.com/Sachiko_TvT/status/2081692301420789952",
+          "start": 15,
+          "url": "https://t.co/2VYlEQBXdi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081695465020801392",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081692301420789952",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "你们可以和她互关吗她非常可爱 https://t.co/2VYlEQBXdi"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3840,
+        "media_key": "3_2081692145224970240",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOOn-g_a8AAs48f.jpg",
+        "width": 2160
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2081692203462852608",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOOoB58agAAZlOj.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1664,
+        "media_key": "3_2081692229429768192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOOoDaraMAAnbB0.jpg",
+        "width": 1248
+      },
+      {
+        "height": 2252,
+        "media_key": "3_2081692266947842048",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOOoFmcakAA71or.jpg",
+        "width": 1688
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1964331185590718464",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          }
+        ],
+        "conversation_id": "2081695465020801392",
+        "created_at": "2026-07-27T10:57:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T11:57:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081695465020801392"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Sachiko_TvT/st…",
+              "end": 38,
+              "expanded_url": "https://twitter.com/Sachiko_TvT/status/2081692301420789952",
+              "start": 15,
+              "url": "https://t.co/2VYlEQBXdi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081695465020801392",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081692301420789952",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你们可以和她互关吗她非常可爱 https://t.co/2VYlEQBXdi"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081692145224970240",
+            "3_2081692203462852608",
+            "3_2081692229429768192",
+            "3_2081692266947842048"
+          ]
+        },
+        "author_id": "2080639094477242368",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          }
+        ],
+        "conversation_id": "2081692301420789952",
+        "created_at": "2026-07-27T10:44:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T11:44:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081692301420789952"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/iYXqnTBMmC",
+              "end": 148,
+              "expanded_url": "https://x.com/Sachiko_TvT/status/2081692301420789952/photo/1",
+              "media_key": "3_2081692145224970240",
+              "start": 125,
+              "url": "https://t.co/iYXqnTBMmC"
+            },
+            {
+              "display_url": "pic.x.com/iYXqnTBMmC",
+              "end": 148,
+              "expanded_url": "https://x.com/Sachiko_TvT/status/2081692301420789952/photo/1",
+              "media_key": "3_2081692203462852608",
+              "start": 125,
+              "url": "https://t.co/iYXqnTBMmC"
+            },
+            {
+              "display_url": "pic.x.com/iYXqnTBMmC",
+              "end": 148,
+              "expanded_url": "https://x.com/Sachiko_TvT/status/2081692301420789952/photo/1",
+              "media_key": "3_2081692229429768192",
+              "start": 125,
+              "url": "https://t.co/iYXqnTBMmC"
+            },
+            {
+              "display_url": "pic.x.com/iYXqnTBMmC",
+              "end": 148,
+              "expanded_url": "https://x.com/Sachiko_TvT/status/2081692301420789952/photo/1",
+              "media_key": "3_2081692266947842048",
+              "start": 125,
+              "url": "https://t.co/iYXqnTBMmC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081692301420789952",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "=Sachiko/滤林\n乐队主唱丨吉他丨舞萌dx丨cosplay丨bangdream梦限大/Roselia丨峰月律激推し🩵\n双相情感障碍丨绝赞精神病长期服药休学中丨我爱割手手\n请可爱的小女孩和我互fo🥺🥺🤲我爱你们🥰💞\n我有对象 恶俗男请不要骚扰我 https://t.co/iYXqnTBMmC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-06T14:13:55.000Z",
+        "description": "叫我筷子就可以了(:3っ )っ\nOD丨🔪丨Vocaloid丨音游丨顺女 LGBTQ+friendly\n不卖药 只看互关私信 我很穷欢迎投喂\n不喜欢的直接b 查成分同类回fo 取关请双取",
+        "id": "1964331185590718464",
+        "location": "颅内",
+        "name": "箸",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074711282427842560/EOM9Puhb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1347,
+          "following_count": 831,
+          "like_count": 35905,
+          "listed_count": 0,
+          "media_count": 355,
+          "tweet_count": 6389
+        },
+        "url": "",
+        "username": "breakcoreWTF",
+        "verified": false
+      },
+      {
+        "created_at": "2026-07-24T13:01:07.000Z",
+        "description": "Sachiko/滤林\n也许是我的阴暗面ovo",
+        "id": "2080639094477242368",
+        "name": "Sachiko",
+        "pinned_tweet_id": "2081692301420789952",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080681915221454848/1IMFa4jt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 12,
+          "like_count": 63,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 13
+        },
+        "url": "",
+        "username": "Sachiko_TvT",
+        "verified": false
+      }
+    ]
+  }
+}

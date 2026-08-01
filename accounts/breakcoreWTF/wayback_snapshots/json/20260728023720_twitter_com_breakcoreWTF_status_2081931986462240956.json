@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1964331185590718464",
+    "conversation_id": "2081814539427782695",
+    "created_at": "2026-07-28T02:37:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-28T03:37:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081931986462240956"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2074934018760392704",
+          "start": 0,
+          "username": "LolshedwLol"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081931986462240956",
+    "in_reply_to_user_id": "2074934018760392704",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081814539427782695",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LolshedwLol wtf"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 6840,
+        "height": 720,
+        "media_key": "13_2081814518900862976",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2081814518900862976/img/NCbRDQ-nSYLY8mxP.jpg",
+        "public_metrics": {
+          "view_count": 81894
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2081814518900862976/vid/avc1/428x270/iWWk5OqCxJJe1R0B.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2081814518900862976/vid/avc1/572x360/wgUwHUvv2lM9u9Ai.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2081814518900862976/vid/avc1/1146x720/gU5I85p-bdlTsjWp.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2081814518900862976/pl/rg6dBL7BnYnBU0MR.m3u8"
+          }
+        ],
+        "width": 1146
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1964331185590718464",
+        "conversation_id": "2081814539427782695",
+        "created_at": "2026-07-28T02:37:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T03:37:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081931986462240956"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2074934018760392704",
+              "start": 0,
+              "username": "LolshedwLol"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081931986462240956",
+        "in_reply_to_user_id": "2074934018760392704",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081814539427782695",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LolshedwLol wtf"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2081814518900862976"
+          ]
+        },
+        "author_id": "2074934018760392704",
+        "conversation_id": "2081814539427782695",
+        "created_at": "2026-07-27T18:50:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T19:50:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081814539427782695"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 52,
+              "start": 48,
+              "tag": "sfx"
+            },
+            {
+              "end": 56,
+              "start": 53,
+              "tag": "sh"
+            },
+            {
+              "end": 60,
+              "start": 57,
+              "tag": "ed"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/vjUjPw3hwc",
+              "end": 84,
+              "expanded_url": "https://x.com/LolshedwLol/status/2081814539427782695/video/1",
+              "media_key": "13_2081814518900862976",
+              "start": 61,
+              "url": "https://t.co/vjUjPw3hwc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081814539427782695",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2411,
+          "impression_count": 121937,
+          "like_count": 8268,
+          "quote_count": 83,
+          "reply_count": 194,
+          "retweet_count": 1100
+        },
+        "reply_settings": "everyone",
+        "text": "What \n!ALL FAKE, SFX, FAKE BLOOD AND MAKE UP⚠️!\n#sfx #sh #ed https://t.co/vjUjPw3hwc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-06T14:13:55.000Z",
+        "description": "叫我筷子就可以了(:3っ )っ\nOD丨🔪丨Vocaloid丨音游丨顺女 LGBTQ+friendly\n不卖药 只看互关私信 我很穷欢迎投喂\n不喜欢的直接b 查成分同类回fo 取关请双取",
+        "id": "1964331185590718464",
+        "location": "颅内",
+        "name": "箸",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074711282427842560/EOM9Puhb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1377,
+          "following_count": 833,
+          "like_count": 36030,
+          "listed_count": 0,
+          "media_count": 356,
+          "tweet_count": 6413
+        },
+        "url": "",
+        "username": "breakcoreWTF",
+        "verified": false
+      },
+      {
+        "created_at": "2026-07-08T19:10:35.000Z",
+        "description": "lol.\nSecundary account",
+        "id": "2074934018760392704",
+        "name": "lol",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081769571652907008/hxY9rv7C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 895,
+          "following_count": 6,
+          "like_count": 106,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 73
+        },
+        "url": "",
+        "username": "LolshedwLol",
+        "verified": false
+      }
+    ]
+  }
+}

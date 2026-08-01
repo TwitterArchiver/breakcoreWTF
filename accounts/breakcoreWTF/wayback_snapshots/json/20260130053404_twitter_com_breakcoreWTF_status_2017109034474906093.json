@@ -1,0 +1,435 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2017081224398065665",
+        "3_2017081224385458176",
+        "3_2017081224393904128",
+        "3_2017081224393871364"
+      ],
+      "media_source_tweet_id": [
+        "2017081233600381424",
+        "2017081233600381424",
+        "2017081233600381424",
+        "2017081233600381424"
+      ]
+    },
+    "author_id": "1964331185590718464",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2017109034474906093",
+    "created_at": "2026-01-30T05:34:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-30T06:34:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2017109034474906093"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 17,
+          "normalized_text": "ルカさん",
+          "probability": 0.8106,
+          "start": 14,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1340263519350996992",
+          "start": 3,
+          "username": "myon___x"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/DwNdis43TP",
+          "end": 44,
+          "expanded_url": "https://x.com/myon___x/status/2017081233600381424/photo/1",
+          "media_key": "3_2017081224398065665",
+          "start": 21,
+          "url": "https://t.co/DwNdis43TP"
+        },
+        {
+          "display_url": "pic.x.com/DwNdis43TP",
+          "end": 44,
+          "expanded_url": "https://x.com/myon___x/status/2017081233600381424/photo/1",
+          "media_key": "3_2017081224385458176",
+          "start": 21,
+          "url": "https://t.co/DwNdis43TP"
+        },
+        {
+          "display_url": "pic.x.com/DwNdis43TP",
+          "end": 44,
+          "expanded_url": "https://x.com/myon___x/status/2017081233600381424/photo/1",
+          "media_key": "3_2017081224393904128",
+          "start": 21,
+          "url": "https://t.co/DwNdis43TP"
+        },
+        {
+          "display_url": "pic.x.com/DwNdis43TP",
+          "end": 44,
+          "expanded_url": "https://x.com/myon___x/status/2017081233600381424/photo/1",
+          "media_key": "3_2017081224393871364",
+          "start": 21,
+          "url": "https://t.co/DwNdis43TP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2017109034474906093",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 9
+    },
+    "referenced_tweets": [
+      {
+        "id": "2017081233600381424",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @myon___x: ルカさん再掲 https://t.co/DwNdis43TP"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2017081224398065665",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_4cr8dbUAEWaNs.jpg",
+        "width": 768
+      },
+      {
+        "height": 1280,
+        "media_key": "3_2017081224385458176",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_4cr8aa8AAj07W.jpg",
+        "width": 1280
+      },
+      {
+        "height": 1280,
+        "media_key": "3_2017081224393904128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_4cr8cb0AAnVzF.jpg",
+        "width": 1280
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2017081224393871364",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_4cr8cbUAQGIFu.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2017081224398065665",
+            "3_2017081224385458176",
+            "3_2017081224393904128",
+            "3_2017081224393871364"
+          ],
+          "media_source_tweet_id": [
+            "2017081233600381424",
+            "2017081233600381424",
+            "2017081233600381424",
+            "2017081233600381424"
+          ]
+        },
+        "author_id": "1964331185590718464",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2017109034474906093",
+        "created_at": "2026-01-30T05:34:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-30T06:34:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017109034474906093"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 17,
+              "normalized_text": "ルカさん",
+              "probability": 0.8106,
+              "start": 14,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1340263519350996992",
+              "start": 3,
+              "username": "myon___x"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/DwNdis43TP",
+              "end": 44,
+              "expanded_url": "https://x.com/myon___x/status/2017081233600381424/photo/1",
+              "media_key": "3_2017081224398065665",
+              "start": 21,
+              "url": "https://t.co/DwNdis43TP"
+            },
+            {
+              "display_url": "pic.x.com/DwNdis43TP",
+              "end": 44,
+              "expanded_url": "https://x.com/myon___x/status/2017081233600381424/photo/1",
+              "media_key": "3_2017081224385458176",
+              "start": 21,
+              "url": "https://t.co/DwNdis43TP"
+            },
+            {
+              "display_url": "pic.x.com/DwNdis43TP",
+              "end": 44,
+              "expanded_url": "https://x.com/myon___x/status/2017081233600381424/photo/1",
+              "media_key": "3_2017081224393904128",
+              "start": 21,
+              "url": "https://t.co/DwNdis43TP"
+            },
+            {
+              "display_url": "pic.x.com/DwNdis43TP",
+              "end": 44,
+              "expanded_url": "https://x.com/myon___x/status/2017081233600381424/photo/1",
+              "media_key": "3_2017081224393871364",
+              "start": 21,
+              "url": "https://t.co/DwNdis43TP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017109034474906093",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 9
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017081233600381424",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @myon___x: ルカさん再掲 https://t.co/DwNdis43TP"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2017081224398065665",
+            "3_2017081224385458176",
+            "3_2017081224393904128",
+            "3_2017081224393871364"
+          ]
+        },
+        "author_id": "1340263519350996992",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2017081233600381424",
+        "created_at": "2026-01-30T03:43:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-30T04:43:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2017081233600381424"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 3,
+              "normalized_text": "ルカさん",
+              "probability": 0.8299,
+              "start": 0,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/DwNdis43TP",
+              "end": 30,
+              "expanded_url": "https://x.com/myon___x/status/2017081233600381424/photo/1",
+              "media_key": "3_2017081224398065665",
+              "start": 7,
+              "url": "https://t.co/DwNdis43TP"
+            },
+            {
+              "display_url": "pic.x.com/DwNdis43TP",
+              "end": 30,
+              "expanded_url": "https://x.com/myon___x/status/2017081233600381424/photo/1",
+              "media_key": "3_2017081224385458176",
+              "start": 7,
+              "url": "https://t.co/DwNdis43TP"
+            },
+            {
+              "display_url": "pic.x.com/DwNdis43TP",
+              "end": 30,
+              "expanded_url": "https://x.com/myon___x/status/2017081233600381424/photo/1",
+              "media_key": "3_2017081224393904128",
+              "start": 7,
+              "url": "https://t.co/DwNdis43TP"
+            },
+            {
+              "display_url": "pic.x.com/DwNdis43TP",
+              "end": 30,
+              "expanded_url": "https://x.com/myon___x/status/2017081233600381424/photo/1",
+              "media_key": "3_2017081224393871364",
+              "start": 7,
+              "url": "https://t.co/DwNdis43TP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017081233600381424",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 487,
+          "like_count": 40,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "ルカさん再掲 https://t.co/DwNdis43TP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-06T14:13:55.000Z",
+        "description": "中文/od/自伤/友跨顺女/VOCALOID/音游 舞萌普通w53 纯种乐子人 推上啥都有 关心我的任何负能量相关只会给我带来困扰 其他交流欢迎 我不想在推特都做不到口无遮拦 互关欢迎 🚪40加微信纯绿可配聊 熟悉的推友可以免门费",
+        "id": "1964331185590718464",
+        "location": "Internet",
+        "name": "薄幸",
+        "pinned_tweet_id": "2016685165557534981",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015679257582964737/T8W4H246_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 70,
+          "following_count": 353,
+          "like_count": 4620,
+          "listed_count": 0,
+          "media_count": 59,
+          "tweet_count": 1530
+        },
+        "username": "breakcoreWTF",
+        "verified": false
+      },
+      {
+        "created_at": "2020-12-19T11:51:47.000Z",
+        "description": "お絵描きします サブ🐧→(@marumi_obi)リンクまとめ🔗→( https://t.co/vmqUYohAKC )",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 13,
+                "username": "marumi_obi"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "lit.link/myonlinktachi",
+                "end": 58,
+                "expanded_url": "https://lit.link/myonlinktachi",
+                "start": 35,
+                "url": "https://t.co/vmqUYohAKC"
+              }
+            ]
+          }
+        },
+        "id": "1340263519350996992",
+        "location": " ",
+        "name": "みょん",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006769892100550660/htCZEVIU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15188,
+          "following_count": 497,
+          "like_count": 87113,
+          "listed_count": 78,
+          "media_count": 1415,
+          "tweet_count": 7675
+        },
+        "username": "myon___x",
+        "verified": false
+      }
+    ]
+  }
+}

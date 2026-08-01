@@ -1,0 +1,516 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2017917780990029824"
+      ],
+      "media_source_tweet_id": [
+        "2017917786438443377"
+      ]
+    },
+    "author_id": "1964331185590718464",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Drawing and sketching",
+          "id": "847869251595542528",
+          "name": "Drawing & illustration"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Drawing and sketching",
+          "id": "847869251595542528",
+          "name": "Drawing & illustration"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Visual Arts",
+          "id": "1046577790353428480",
+          "name": "Visual arts"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1265660441822281728",
+          "name": "Art"
+        }
+      }
+    ],
+    "conversation_id": "2018276895025168603",
+    "created_at": "2026-02-02T10:54:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-02T11:54:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2018276895025168603"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 21,
+          "normalized_text": "観測記録",
+          "probability": 0.5558,
+          "start": 18,
+          "type": "Other"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 85,
+          "start": 77,
+          "tag": "小説_観測記録"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "980148853306417152",
+          "start": 3,
+          "username": "arukuremu"
+        },
+        {
+          "end": 65,
+          "id": "1368791369859227653",
+          "start": 54,
+          "username": "roundbee08"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/AmLA3jJYE4",
+          "end": 109,
+          "expanded_url": "https://x.com/arukuremu/status/2017917786438443377/photo/1",
+          "media_key": "3_2017917780990029824",
+          "start": 86,
+          "url": "https://t.co/AmLA3jJYE4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2018276895025168603",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 455
+    },
+    "referenced_tweets": [
+      {
+        "id": "2017917786438443377",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "RT @arukuremu: 小説『観測記録』\n\n発売まであと1️⃣日\nカウントダウンイラスト : ミツ蜂\n@roundbee08 \n\n【09 匙ノ咒】　#小説_観測記録 https://t.co/AmLA3jJYE4"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2017917780990029824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAEVh8na8AA7CH4.jpg",
+        "width": 1651
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2017917780990029824"
+          ],
+          "media_source_tweet_id": [
+            "2017917786438443377"
+          ]
+        },
+        "author_id": "1964331185590718464",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          }
+        ],
+        "conversation_id": "2018276895025168603",
+        "created_at": "2026-02-02T10:54:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-02T11:54:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018276895025168603"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 21,
+              "normalized_text": "観測記録",
+              "probability": 0.5558,
+              "start": 18,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 85,
+              "start": 77,
+              "tag": "小説_観測記録"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "980148853306417152",
+              "start": 3,
+              "username": "arukuremu"
+            },
+            {
+              "end": 65,
+              "id": "1368791369859227653",
+              "start": 54,
+              "username": "roundbee08"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/AmLA3jJYE4",
+              "end": 109,
+              "expanded_url": "https://x.com/arukuremu/status/2017917786438443377/photo/1",
+              "media_key": "3_2017917780990029824",
+              "start": 86,
+              "url": "https://t.co/AmLA3jJYE4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018276895025168603",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 455
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017917786438443377",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "RT @arukuremu: 小説『観測記録』\n\n発売まであと1️⃣日\nカウントダウンイラスト : ミツ蜂\n@roundbee08 \n\n【09 匙ノ咒】　#小説_観測記録 https://t.co/AmLA3jJYE4"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2017917780990029824"
+          ]
+        },
+        "author_id": "980148853306417152",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          }
+        ],
+        "conversation_id": "2017917786438443377",
+        "created_at": "2026-02-01T11:07:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-01T12:07:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2017917786438443377"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 6,
+              "normalized_text": "観測記録",
+              "probability": 0.7547,
+              "start": 3,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 70,
+              "start": 62,
+              "tag": "小説_観測記録"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 50,
+              "id": "1368791369859227653",
+              "start": 39,
+              "username": "roundbee08"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/AmLA3jJYE4",
+              "end": 94,
+              "expanded_url": "https://x.com/arukuremu/status/2017917786438443377/photo/1",
+              "media_key": "3_2017917780990029824",
+              "start": 71,
+              "url": "https://t.co/AmLA3jJYE4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017917786438443377",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 159,
+          "impression_count": 63567,
+          "like_count": 2536,
+          "quote_count": 32,
+          "reply_count": 0,
+          "retweet_count": 455
+        },
+        "reply_settings": "following",
+        "text": "小説『観測記録』\n\n発売まであと1️⃣日\nカウントダウンイラスト : ミツ蜂\n@roundbee08 \n\n【09 匙ノ咒】　#小説_観測記録 https://t.co/AmLA3jJYE4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-06T14:13:55.000Z",
+        "description": "中文/od/自伤/友跨顺女/VOCALOID/音游 舞萌普通w53 纯种乐子人 推上啥都有 负能量相关最好不要关心 其他交流欢迎 我不想在推特都做不到口无遮拦 互fo欢迎 🚪40加微信纯绿可配聊 熟悉的推友可以免门费",
+        "id": "1964331185590718464",
+        "location": "Internet",
+        "name": "薄幸",
+        "pinned_tweet_id": "2016685165557534981",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015679257582964737/T8W4H246_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 89,
+          "following_count": 351,
+          "like_count": 5625,
+          "listed_count": 0,
+          "media_count": 78,
+          "tweet_count": 1742
+        },
+        "username": "breakcoreWTF",
+        "verified": false
+      },
+      {
+        "created_at": "2018-03-31T18:24:31.000Z",
+        "description": "YouTube - https://t.co/wpFwfqivZY kyumaru906(at)gmail. com | #art_906",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 69,
+                "start": 61,
+                "tag": "art_906"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "youtube.com/channel/UCtwSC…",
+                "end": 33,
+                "expanded_url": "http://youtube.com/channel/UCtwSCTpftyPm4-TBf9S6kfQ",
+                "start": 10,
+                "url": "https://t.co/wpFwfqivZY"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "nicovideo.jp/mylist/62414278",
+                "end": 23,
+                "expanded_url": "http://nicovideo.jp/mylist/62414278",
+                "start": 0,
+                "url": "https://t.co/cUqNRds8Uz"
+              }
+            ]
+          }
+        },
+        "id": "980148853306417152",
+        "name": "r-906",
+        "pinned_tweet_id": "2006385631707230668",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981589439945060352/2Vj7iP2Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 92407,
+          "following_count": 987,
+          "like_count": 8926,
+          "listed_count": 481,
+          "media_count": 417,
+          "tweet_count": 3353
+        },
+        "url": "https://t.co/cUqNRds8Uz",
+        "username": "arukuremu",
+        "verified": true
+      },
+      {
+        "created_at": "2021-03-08T05:11:23.000Z",
+        "description": "illustrator ｜ILLUSTRATION 2024｜MV・ジャケ・装画等 プロセカ／神椿／にじさんじ／guiano／tayori／r-906／月詠み／めいちゃん／ロクデナシ ご依頼▼contact:roundbee08@seeinc.jp  ご依頼3月〜",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "xfolio.jp/portfolio/roun…",
+                "end": 23,
+                "expanded_url": "https://xfolio.jp/portfolio/roundbee",
+                "start": 0,
+                "url": "https://t.co/MCty1mmp1M"
+              }
+            ]
+          }
+        },
+        "id": "1368791369859227653",
+        "location": "ご依頼はメールまで　",
+        "name": "ミツ蜂",
+        "pinned_tweet_id": "1785998287880990798",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1612867898376335363/c-caMYxO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 114942,
+          "following_count": 882,
+          "like_count": 38865,
+          "listed_count": 797,
+          "media_count": 479,
+          "tweet_count": 11851
+        },
+        "url": "https://t.co/MCty1mmp1M",
+        "username": "roundbee08",
+        "verified": true
+      }
+    ]
+  }
+}

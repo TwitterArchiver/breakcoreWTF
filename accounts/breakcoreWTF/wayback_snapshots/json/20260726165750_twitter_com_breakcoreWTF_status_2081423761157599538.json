@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1964331185590718464",
+    "conversation_id": "2079120070878564503",
+    "created_at": "2026-07-26T16:57:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-26T17:57:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081423761157599538"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1945464784763457536",
+          "start": 0,
+          "username": "KuriYasuma"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081423761157599538",
+    "in_reply_to_user_id": "1945464784763457536",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079120070878564503",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KuriYasuma 可以互關嗎"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2079119913218920448",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNqEi6Da0AA_pNv.jpg",
+        "width": 3072
+      },
+      {
+        "height": 1152,
+        "media_key": "3_2079120018063925248",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNqEpAoaoAAXfHo.jpg",
+        "width": 864
+      },
+      {
+        "height": 2208,
+        "media_key": "3_2079120042239909888",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNqEqasa4AAuyiB.jpg",
+        "width": 1656
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1964331185590718464",
+        "conversation_id": "2079120070878564503",
+        "created_at": "2026-07-26T16:57:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T17:57:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081423761157599538"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1945464784763457536",
+              "start": 0,
+              "username": "KuriYasuma"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081423761157599538",
+        "in_reply_to_user_id": "1945464784763457536",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079120070878564503",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KuriYasuma 可以互關嗎"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079119913218920448",
+            "3_2079120018063925248",
+            "3_2079120042239909888"
+          ]
+        },
+        "author_id": "1945464784763457536",
+        "conversation_id": "2079120070878564503",
+        "created_at": "2026-07-20T08:23:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T09:23:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079120070878564503"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DDYbRBDx5Y",
+              "end": 108,
+              "expanded_url": "https://x.com/KuriYasuma/status/2079120070878564503/photo/1",
+              "media_key": "3_2079119913218920448",
+              "start": 85,
+              "url": "https://t.co/DDYbRBDx5Y"
+            },
+            {
+              "display_url": "pic.x.com/DDYbRBDx5Y",
+              "end": 108,
+              "expanded_url": "https://x.com/KuriYasuma/status/2079120070878564503/photo/1",
+              "media_key": "3_2079120018063925248",
+              "start": 85,
+              "url": "https://t.co/DDYbRBDx5Y"
+            },
+            {
+              "display_url": "pic.x.com/DDYbRBDx5Y",
+              "end": 108,
+              "expanded_url": "https://x.com/KuriYasuma/status/2079120070878564503/photo/1",
+              "media_key": "3_2079120042239909888",
+              "start": 85,
+              "url": "https://t.co/DDYbRBDx5Y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079120070878564503",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 3190,
+          "like_count": 64,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 15
+        },
+        "reply_settings": "everyone",
+        "text": "来写一个置顶✍（伤口为特效ai生成图片）\n我是小碍/羊尾  08 身心女\n最大属性jirakei/管人\n会在这里发🔪💊🚬负能等乱七八糟内容  欢迎同类女孩子互fo互转！ https://t.co/DDYbRBDx5Y"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-06T14:13:55.000Z",
+        "description": "叫我筷子就可以了(:3っ )っ\nOD丨🔪丨Vocaloid丨音游丨顺女 LGBTQ+friendly\n不卖药 只看互关私信 我很穷欢迎投喂\n不喜欢的直接b 查成分同类回fo 取关请双取",
+        "id": "1964331185590718464",
+        "location": "颅内",
+        "name": "箸",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074711282427842560/EOM9Puhb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1280,
+          "following_count": 818,
+          "like_count": 35004,
+          "listed_count": 0,
+          "media_count": 349,
+          "tweet_count": 6290
+        },
+        "url": "",
+        "username": "breakcoreWTF",
+        "verified": true
+      },
+      {
+        "created_at": "2025-07-16T12:45:38.000Z",
+        "description": "· .  。· * ◟∗ ˙ . ℜ𝔢𝔱𝔯𝔬 𝔓𝔦𝔠𝔱𝔬𝔯𝔦𝔞𝔩 . ˙ ∗◞🗞* · 。. ·\n小碍/羊尾  我很喜欢jirakei风格\ncptsd+双向|🔪|💊|负能|碎碎念|🚬……\n女孩子互粉互fo大歡迎  看到就会回\n玩推只為發洩情绪 一个纯绿p",
+        "id": "1945464784763457536",
+        "location": "ai的失乐园",
+        "name": "momo碍",
+        "pinned_tweet_id": "2079120070878564503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080553001673224192/54sDXcDQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 138,
+          "following_count": 146,
+          "like_count": 476,
+          "listed_count": 0,
+          "media_count": 53,
+          "tweet_count": 138
+        },
+        "url": "",
+        "username": "KuriYasuma",
+        "verified": false
+      }
+    ]
+  }
+}

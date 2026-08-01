@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1981401889234178048"
+      ],
+      "media_source_tweet_id": [
+        "1981401892015263777"
+      ]
+    },
+    "author_id": "1964331185590718464",
+    "conversation_id": "2000799481693139000",
+    "created_at": "2025-12-16T05:25:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-16T06:25:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2000799481693139000"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1520820423578898432",
+          "start": 3,
+          "username": "kagirare_e"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/egR56GmZFB",
+          "end": 44,
+          "expanded_url": "https://x.com/kagirare_e/status/1981401892015263777/photo/1",
+          "media_key": "3_1981401889234178048",
+          "start": 21,
+          "url": "https://t.co/egR56GmZFB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2000799481693139000",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 345
+    },
+    "referenced_tweets": [
+      {
+        "id": "1981401892015263777",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kagirare_e: らくがき https://t.co/egR56GmZFB"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_1981401889234178048",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G39ahTUXUAAA5xw.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1981401889234178048"
+          ],
+          "media_source_tweet_id": [
+            "1981401892015263777"
+          ]
+        },
+        "author_id": "1964331185590718464",
+        "conversation_id": "2000799481693139000",
+        "created_at": "2025-12-16T05:25:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-16T06:25:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2000799481693139000"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1520820423578898432",
+              "start": 3,
+              "username": "kagirare_e"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/egR56GmZFB",
+              "end": 44,
+              "expanded_url": "https://x.com/kagirare_e/status/1981401892015263777/photo/1",
+              "media_key": "3_1981401889234178048",
+              "start": 21,
+              "url": "https://t.co/egR56GmZFB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000799481693139000",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 345
+        },
+        "referenced_tweets": [
+          {
+            "id": "1981401892015263777",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kagirare_e: らくがき https://t.co/egR56GmZFB"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1981401889234178048"
+          ]
+        },
+        "author_id": "1520820423578898432",
+        "conversation_id": "1981401892015263777",
+        "created_at": "2025-10-23T16:46:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-23T17:46:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1981401892015263777"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/egR56GmZFB",
+              "end": 28,
+              "expanded_url": "https://x.com/kagirare_e/status/1981401892015263777/photo/1",
+              "media_key": "3_1981401889234178048",
+              "start": 5,
+              "url": "https://t.co/egR56GmZFB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981401892015263777",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 249,
+          "impression_count": 31262,
+          "like_count": 2335,
+          "quote_count": 2,
+          "reply_count": 4,
+          "retweet_count": 345
+        },
+        "reply_settings": "everyone",
+        "text": "らくがき https://t.co/egR56GmZFB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-06T14:13:55.000Z",
+        "description": "中文/od/VOCALOID/音游 纯种乐子人性别不明推上啥都有 私信互关欢迎 我有对象 我很喜欢他",
+        "id": "1964331185590718464",
+        "location": "翼天国",
+        "name": "━Σ(ﾟДﾟ|||)━",
+        "pinned_tweet_id": "1966517785367871718",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000605559452770304/jICiU7V-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 48,
+          "following_count": 262,
+          "like_count": 2581,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 667
+        },
+        "username": "breakcoreWTF",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-01T17:41:54.000Z",
+        "description": "20↑浮上率不安定。実在人物、音ゲーキャラ、ブルアカキャラなど、好きに絵を描いたりRTしたり適当に独り言を話す垢です。(別垢に籠りがちなのでTL追えてないことが多いです🙏)",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "odaibako.net/u/kagirare_e",
+                "end": 23,
+                "expanded_url": "https://odaibako.net/u/kagirare_e",
+                "start": 0,
+                "url": "https://t.co/h0fIPeTDoD"
+              }
+            ]
+          }
+        },
+        "id": "1520820423578898432",
+        "name": "かぎられ",
+        "pinned_tweet_id": "1938209930429010142",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1839338432826613760/qHajC291_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 763,
+          "following_count": 709,
+          "like_count": 15806,
+          "listed_count": 9,
+          "media_count": 537,
+          "tweet_count": 12956
+        },
+        "url": "https://t.co/h0fIPeTDoD",
+        "username": "kagirare_e",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1964331185590718464",
+    "conversation_id": "2066815170698256490",
+    "created_at": "2026-06-16T09:42:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-16T10:42:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066818689383710907"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1858102501381414912",
+          "start": 0,
+          "username": "zaofushijian"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066818689383710907",
+    "in_reply_to_user_id": "1858102501381414912",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066815566162383321",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zaofushijian 对"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1964331185590718464",
+        "conversation_id": "2066815170698256490",
+        "created_at": "2026-06-16T09:42:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T10:42:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066818689383710907"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1858102501381414912",
+              "start": 0,
+              "username": "zaofushijian"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066818689383710907",
+        "in_reply_to_user_id": "1858102501381414912",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066815566162383321",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zaofushijian 对"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1858102501381414912",
+        "conversation_id": "2066815170698256490",
+        "created_at": "2026-06-16T09:30:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T10:30:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066815566162383321"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1964331185590718464",
+              "start": 0,
+              "username": "breakcoreWTF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066815566162383321",
+        "in_reply_to_user_id": "1964331185590718464",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066815170698256490",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@breakcoreWTF 马岛蟑螂吗这是"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-06T14:13:55.000Z",
+        "description": "OD丨自伤丨Vocaloid丨音游丨友跨顺女\n喜欢爬宠 不卖药 非必要不回私信 我很穷欢迎投喂\n不喜欢的直接b 同类查成分回fo 取关请双取",
+        "id": "1964331185590718464",
+        "location": "颅内",
+        "name": "箸",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061439509125074944/Hf-Lim6c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 822,
+          "following_count": 692,
+          "like_count": 18260,
+          "listed_count": 0,
+          "media_count": 271,
+          "tweet_count": 4948
+        },
+        "username": "breakcoreWTF",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-17T10:59:04.000Z",
+        "description": "是个男的",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zaofushijian",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zaofushijian",
+                "start": 0,
+                "url": "https://t.co/ebFKJdXhsi"
+              }
+            ]
+          }
+        },
+        "id": "1858102501381414912",
+        "name": "天地一家大爱盟盟主🍥",
+        "pinned_tweet_id": "2061884741323018749",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032824581589970948/U7rV0Nbt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 415,
+          "following_count": 200,
+          "like_count": 456,
+          "listed_count": 2,
+          "media_count": 1227,
+          "tweet_count": 8434
+        },
+        "url": "https://t.co/ebFKJdXhsi",
+        "username": "zaofushijian",
+        "verified": false
+      }
+    ]
+  }
+}

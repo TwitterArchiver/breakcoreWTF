@@ -1,0 +1,439 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1983854263894994945"
+      ],
+      "media_source_tweet_id": [
+        "1983854274447831113"
+      ]
+    },
+    "author_id": "1964331185590718464",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Drawing and sketching",
+          "id": "847869251595542528",
+          "name": "Drawing & illustration"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Drawing and sketching",
+          "id": "847869251595542528",
+          "name": "Drawing & illustration"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Visual Arts",
+          "id": "1046577790353428480",
+          "name": "Visual arts"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1265660441822281728",
+          "name": "Art"
+        }
+      }
+    ],
+    "conversation_id": "1985724743862141305",
+    "created_at": "2025-11-04T15:04:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-04T16:04:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1985724743862141305"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1593879539259957254",
+          "start": 3,
+          "username": "Jishou_210"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/1oqwR2UpgV",
+          "end": 79,
+          "expanded_url": "https://x.com/Jishou_210/status/1983854274447831113/photo/1",
+          "media_key": "3_1983854263894994945",
+          "start": 56,
+          "url": "https://t.co/1oqwR2UpgV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1985724743862141305",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 232
+    },
+    "referenced_tweets": [
+      {
+        "id": "1983854274447831113",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Jishou_210: 消しちゃったから現実逃避に耽る病み増し増しイラストもう一度投稿します… ※捏造 https://t.co/1oqwR2UpgV"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1983854263894994945",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4gQ8S2a8AEcEno.jpg",
+        "width": 1482
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1983854263894994945"
+          ],
+          "media_source_tweet_id": [
+            "1983854274447831113"
+          ]
+        },
+        "author_id": "1964331185590718464",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          }
+        ],
+        "conversation_id": "1985724743862141305",
+        "created_at": "2025-11-04T15:04:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-04T16:04:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1985724743862141305"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1593879539259957254",
+              "start": 3,
+              "username": "Jishou_210"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/1oqwR2UpgV",
+              "end": 79,
+              "expanded_url": "https://x.com/Jishou_210/status/1983854274447831113/photo/1",
+              "media_key": "3_1983854263894994945",
+              "start": 56,
+              "url": "https://t.co/1oqwR2UpgV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985724743862141305",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 232
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983854274447831113",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Jishou_210: 消しちゃったから現実逃避に耽る病み増し増しイラストもう一度投稿します… ※捏造 https://t.co/1oqwR2UpgV"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1983854263894994945"
+          ]
+        },
+        "author_id": "1593879539259957254",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          }
+        ],
+        "conversation_id": "1983854274447831113",
+        "created_at": "2025-10-30T11:11:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-30T12:11:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1983854274447831113"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1oqwR2UpgV",
+              "end": 63,
+              "expanded_url": "https://x.com/Jishou_210/status/1983854274447831113/photo/1",
+              "media_key": "3_1983854263894994945",
+              "start": 40,
+              "url": "https://t.co/1oqwR2UpgV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983854274447831113",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 295,
+          "impression_count": 31686,
+          "like_count": 2620,
+          "quote_count": 5,
+          "reply_count": 2,
+          "retweet_count": 232
+        },
+        "reply_settings": "everyone",
+        "text": "消しちゃったから現実逃避に耽る病み増し増しイラストもう一度投稿します… ※捏造 https://t.co/1oqwR2UpgV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-06T14:13:55.000Z",
+        "description": "中文/od/VOCALOID/音游/舞萌w47/世界计划 无底线无雷点无素质 含暴论/地域黑/辱男女/发情等成分 推特是我发泄负能放开自己的地方 私信互关欢迎 我有对象 我很喜欢他",
+        "id": "1964331185590718464",
+        "location": "翼天国",
+        "name": "━Σ(ﾟДﾟ|||)━",
+        "pinned_tweet_id": "1966517785367871718",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976879373207977984/JH6MsfDA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38,
+          "following_count": 244,
+          "like_count": 2068,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 516
+        },
+        "username": "breakcoreWTF",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-19T08:11:33.000Z",
+        "description": "朝比奈母娘❄️とその他イラスト ご依頼 DM又は skeb→ https://t.co/28LY5KF5Ag pixiv https://t.co/uYSIgciqN4 ※流血.不穏系の描写多め",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "skeb.jp/@Jishou_210",
+                "end": 54,
+                "expanded_url": "https://skeb.jp/@Jishou_210",
+                "start": 31,
+                "url": "https://t.co/28LY5KF5Ag"
+              },
+              {
+                "display_url": "pixiv.net/users/95885970",
+                "end": 84,
+                "expanded_url": "http://pixiv.net/users/95885970",
+                "start": 61,
+                "url": "https://t.co/uYSIgciqN4"
+              }
+            ]
+          }
+        },
+        "id": "1593879539259957254",
+        "location": "⚠️無断転載禁止. Don't re-upload.  ⚠️",
+        "name": "寝暗",
+        "pinned_tweet_id": "1935647339215204860",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902395671401185280/1MWEOl-r_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 49162,
+          "following_count": 18,
+          "like_count": 2302,
+          "listed_count": 90,
+          "media_count": 364,
+          "tweet_count": 1320
+        },
+        "username": "Jishou_210",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1964331185590718464",
+    "conversation_id": "2015719752422027530",
+    "created_at": "2026-01-26T09:33:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-26T10:33:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2015719752422027530"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1525487854763364354",
+          "start": 3,
+          "username": "0122ovoLu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2015719752422027530",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2015695160559194153",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @0122ovoLu: 看到这种人我真力竭了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1964331185590718464",
+        "conversation_id": "2015719752422027530",
+        "created_at": "2026-01-26T09:33:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-26T10:33:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015719752422027530"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1525487854763364354",
+              "start": 3,
+              "username": "0122ovoLu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015719752422027530",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015695160559194153",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @0122ovoLu: 看到这种人我真力竭了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1525487854763364354",
+        "conversation_id": "2015695160559194153",
+        "created_at": "2026-01-26T07:55:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-26T08:55:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2015695160559194153"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ysbmailu/statu…",
+              "end": 34,
+              "expanded_url": "https://twitter.com/ysbmailu/status/2015693882168578519",
+              "start": 11,
+              "url": "https://t.co/gENX6fckio"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015695160559194153",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5261,
+          "like_count": 47,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015693882168578519",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "看到这种人我真力竭了 https://t.co/gENX6fckio"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-06T14:13:55.000Z",
+        "description": "中文/od/VOCALOID/音游 纯种乐子人性别不明推上啥都有 会发泄情绪无需理会 私信互关欢迎 🚪40加微信纯绿可陪聊",
+        "id": "1964331185590718464",
+        "location": "幻想郷",
+        "name": "薄幸",
+        "pinned_tweet_id": "2003760156488986744",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015679257582964737/T8W4H246_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 54,
+          "following_count": 330,
+          "like_count": 3885,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 1210
+        },
+        "username": "breakcoreWTF",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-14T14:50:17.000Z",
+        "description": "想发什么发什么 | 置顶推广自辨 | 照片和日常都在@012277ovo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 26,
+                "username": "012277ovo"
+              }
+            ]
+          }
+        },
+        "id": "1525487854763364354",
+        "location": "骂我的都死了",
+        "name": "sisi77",
+        "pinned_tweet_id": "2007450813162238442",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015590337994223616/YFQYS-Dg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2472,
+          "following_count": 99,
+          "like_count": 4934,
+          "listed_count": 7,
+          "media_count": 162,
+          "tweet_count": 3350
+        },
+        "username": "0122ovoLu",
+        "verified": false
+      }
+    ]
+  }
+}

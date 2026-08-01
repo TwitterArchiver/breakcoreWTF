@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1964331185590718464",
+    "conversation_id": "2076701444112351533",
+    "created_at": "2026-07-13T16:13:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-13T17:13:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076701444112351533"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2018784273994817536",
+          "start": 3,
+          "username": "Aeternutk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076701444112351533",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076700966112608516",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Aeternutk: 马忠，你千万不可以谈蓝朋友啊！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1964331185590718464",
+        "conversation_id": "2076701444112351533",
+        "created_at": "2026-07-13T16:13:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T17:13:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076701444112351533"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2018784273994817536",
+              "start": 3,
+              "username": "Aeternutk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076701444112351533",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076700966112608516",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Aeternutk: 马忠，你千万不可以谈蓝朋友啊！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018784273994817536",
+        "conversation_id": "2076700966112608516",
+        "created_at": "2026-07-13T16:11:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T17:11:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076700966112608516"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/breakcorewtf/s…",
+              "end": 39,
+              "expanded_url": "https://twitter.com/breakcorewtf/status/2076698243812254021",
+              "start": 16,
+              "url": "https://t.co/jNWdFwYXZu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076700966112608516",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076698243812254021",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "马忠，你千万不可以谈蓝朋友啊！ https://t.co/jNWdFwYXZu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-06T14:13:55.000Z",
+        "description": "OD丨自伤丨Vocaloid丨音游丨顺女 LGBTQ+friendly\n喜欢爬宠 不卖药 非必要不回私信 我很穷欢迎投喂\n不喜欢的直接b 同类查成分回fo 取关请双取",
+        "id": "1964331185590718464",
+        "location": "颅内",
+        "name": "箸",
+        "pinned_tweet_id": "2072469945422934327",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074711282427842560/EOM9Puhb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 957,
+          "following_count": 721,
+          "like_count": 27011,
+          "listed_count": 0,
+          "media_count": 314,
+          "tweet_count": 5672
+        },
+        "url": "",
+        "username": "breakcoreWTF",
+        "verified": true
+      },
+      {
+        "created_at": "2026-02-03T20:31:44.000Z",
+        "description": "=泡沫纸 \n最爱的女孩宵崎奏 \n| od | 自残 | 废话 | 音企\n同类请找我互fo喵ο(=•ω＜=)ρ⌒☆",
+        "id": "2018784273994817536",
+        "name": "Aeternutk",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018784558838398976/I83F9gwR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 31,
+          "like_count": 323,
+          "listed_count": 0,
+          "media_count": 50,
+          "tweet_count": 253
+        },
+        "url": "",
+        "username": "Aeternutk",
+        "verified": false
+      }
+    ]
+  }
+}

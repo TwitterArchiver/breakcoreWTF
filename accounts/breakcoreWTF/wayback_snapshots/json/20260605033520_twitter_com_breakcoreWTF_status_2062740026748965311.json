@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1964331185590718464",
+    "conversation_id": "2062740026748965311",
+    "created_at": "2026-06-05T03:35:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-05T04:35:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062740026748965311"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1826931252232146944",
+          "start": 3,
+          "username": "butterfly5World"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "t.co/yk2OM",
+          "end": 139,
+          "start": 121,
+          "url": "https://t.co/yk2OM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062740026748965311",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 69
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062579966131458338",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @butterfly5World: \"If a bunny and a butterfly had a baby... 🐰🦋 Witnessing the magic of a giant silk moth up close!\"❤️ https://t.co/yk2OM…"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 17648,
+        "height": 640,
+        "media_key": "7_2062579946082697216",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2062579946082697216/pu/img/_i794eXeXx2kEk8m.jpg",
+        "public_metrics": {
+          "view_count": 2111
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2062579946082697216/pu/vid/avc1/320x568/LIFpiHgcic5K002k.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2062579946082697216/pu/vid/avc1/360x640/7m4dHRVy9t_xlvko.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2062579946082697216/pu/pl/iIRaEPTg0hLhDEG3.m3u8"
+          }
+        ],
+        "width": 360
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1964331185590718464",
+        "conversation_id": "2062740026748965311",
+        "created_at": "2026-06-05T03:35:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T04:35:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062740026748965311"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1826931252232146944",
+              "start": 3,
+              "username": "butterfly5World"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "t.co/yk2OM",
+              "end": 139,
+              "start": 121,
+              "url": "https://t.co/yk2OM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062740026748965311",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 69
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062579966131458338",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @butterfly5World: \"If a bunny and a butterfly had a baby... 🐰🦋 Witnessing the magic of a giant silk moth up close!\"❤️ https://t.co/yk2OM…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2062579946082697216"
+          ]
+        },
+        "author_id": "1826931252232146944",
+        "conversation_id": "2062579966131458338",
+        "created_at": "2026-06-04T16:59:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T17:59:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062579966131458338"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yk2OMrQ0Ds",
+              "end": 123,
+              "expanded_url": "https://x.com/butterfly5World/status/2062579966131458338/video/1",
+              "media_key": "7_2062579946082697216",
+              "start": 100,
+              "url": "https://t.co/yk2OMrQ0Ds"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062579966131458338",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 62,
+          "impression_count": 6378,
+          "like_count": 514,
+          "quote_count": 3,
+          "reply_count": 2,
+          "retweet_count": 69
+        },
+        "reply_settings": "everyone",
+        "text": "\"If a bunny and a butterfly had a baby... 🐰🦋 Witnessing the magic of a giant silk moth up close!\"❤️ https://t.co/yk2OMrQ0Ds"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-06T14:13:55.000Z",
+        "description": "OD丨自伤丨Vocaloid丨音游丨友跨顺女\n不喜欢的直接b 同类回fo 取关请双取",
+        "id": "1964331185590718464",
+        "location": "颅内",
+        "name": "箸",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061439509125074944/Hf-Lim6c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 683,
+          "following_count": 614,
+          "like_count": 14795,
+          "listed_count": 0,
+          "media_count": 218,
+          "tweet_count": 4378
+        },
+        "username": "breakcoreWTF",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-23T10:42:15.000Z",
+        "description": "Smile take flight on butterfly's wing 🪽🪽",
+        "id": "1826931252232146944",
+        "name": "butterfly world 🦋",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827265093756760064/QXYsVTPK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2732,
+          "following_count": 808,
+          "like_count": 63641,
+          "listed_count": 16,
+          "media_count": 2108,
+          "tweet_count": 2496
+        },
+        "username": "butterfly5World",
+        "verified": true
+      }
+    ]
+  }
+}

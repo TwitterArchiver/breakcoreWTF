@@ -1,0 +1,301 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2000419808261935104"
+      ],
+      "media_source_tweet_id": [
+        "2000419922107928605"
+      ]
+    },
+    "author_id": "1964331185590718464",
+    "conversation_id": "2000799969167774118",
+    "created_at": "2025-12-16T05:27:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-16T06:27:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2000799969167774118"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 34,
+          "normalized_text": "ライアー",
+          "probability": 0.3939,
+          "start": 31,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 11,
+          "id": "72510674",
+          "start": 3,
+          "username": "sigekun"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/3IbDoUmH0F",
+          "end": 61,
+          "expanded_url": "https://x.com/sigekun/status/2000419922107928605/video/1",
+          "media_key": "7_2000419808261935104",
+          "start": 38,
+          "url": "https://t.co/3IbDoUmH0F"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2000799969167774118",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1208
+    },
+    "referenced_tweets": [
+      {
+        "id": "2000419922107928605",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @sigekun: ありそうでなかったマッシュアップ\n\nライアー宣言 https://t.co/3IbDoUmH0F"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 30000,
+        "height": 720,
+        "media_key": "7_2000419808261935104",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2000419808261935104/pu/img/AspVx2JLZVNOkrDy.jpg",
+        "public_metrics": {
+          "view_count": 71465
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2000419808261935104/pu/vid/avc1/480x270/3nyDKE4lFnRJBFwo.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2000419808261935104/pu/vid/avc1/640x360/ve25_TI59hrsqVHR.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2000419808261935104/pu/vid/avc1/1280x720/f9yTTxu7NWyYkGII.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2000419808261935104/pu/pl/9otF3lMqsWJwTQjk.m3u8?tag=12"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2000419808261935104"
+          ],
+          "media_source_tweet_id": [
+            "2000419922107928605"
+          ]
+        },
+        "author_id": "1964331185590718464",
+        "conversation_id": "2000799969167774118",
+        "created_at": "2025-12-16T05:27:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-16T06:27:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2000799969167774118"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 34,
+              "normalized_text": "ライアー",
+              "probability": 0.3939,
+              "start": 31,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 11,
+              "id": "72510674",
+              "start": 3,
+              "username": "sigekun"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/3IbDoUmH0F",
+              "end": 61,
+              "expanded_url": "https://x.com/sigekun/status/2000419922107928605/video/1",
+              "media_key": "7_2000419808261935104",
+              "start": 38,
+              "url": "https://t.co/3IbDoUmH0F"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000799969167774118",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1208
+        },
+        "referenced_tweets": [
+          {
+            "id": "2000419922107928605",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @sigekun: ありそうでなかったマッシュアップ\n\nライアー宣言 https://t.co/3IbDoUmH0F"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2000419808261935104"
+          ]
+        },
+        "author_id": "72510674",
+        "conversation_id": "2000419922107928605",
+        "created_at": "2025-12-15T04:17:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-15T05:17:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2000419922107928605"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3IbDoUmH0F",
+              "end": 48,
+              "expanded_url": "https://x.com/sigekun/status/2000419922107928605/video/1",
+              "media_key": "7_2000419808261935104",
+              "start": 25,
+              "url": "https://t.co/3IbDoUmH0F"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000419922107928605",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1561,
+          "impression_count": 149386,
+          "like_count": 7391,
+          "quote_count": 30,
+          "reply_count": 8,
+          "retweet_count": 1208
+        },
+        "reply_settings": "everyone",
+        "text": "ありそうでなかったマッシュアップ\n\nライアー宣言 https://t.co/3IbDoUmH0F"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-06T14:13:55.000Z",
+        "description": "中文/od/VOCALOID/音游 纯种乐子人性别不明推上啥都有 私信互关欢迎 我有对象 我很喜欢他",
+        "id": "1964331185590718464",
+        "location": "翼天国",
+        "name": "━Σ(ﾟДﾟ|||)━",
+        "pinned_tweet_id": "1966517785367871718",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000605559452770304/jICiU7V-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 48,
+          "following_count": 262,
+          "like_count": 2591,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 669
+        },
+        "username": "breakcoreWTF",
+        "verified": false
+      },
+      {
+        "created_at": "2009-09-08T09:06:40.000Z",
+        "description": "栗田 穣崇 Shigetaka Kurita ぼかれびゅ部長/ニコニコ代表/合成音声栗田まろんの中の人 /声優/ドワンゴ取締役/カスタムキャスト取締役/個人垢のためニコニコへのご意見ご要望は運営窓口担当@nico_nico_talk まで🙇‍♂️ 開発に携わった絵文字がMoMAとM＋に収蔵✨ イラスト：アルセチカ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 116,
+                "start": 101,
+                "username": "nico_nico_talk"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "nicovideo.jp/user/9003560",
+                "end": 23,
+                "expanded_url": "https://www.nicovideo.jp/user/9003560",
+                "start": 0,
+                "url": "https://t.co/UysgaChbx1"
+              }
+            ]
+          }
+        },
+        "id": "72510674",
+        "location": "横須賀鎮守府",
+        "name": "くりたしげたか（to i）🌰ニコニコ代表の人",
+        "pinned_tweet_id": "1995055547989827659",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1936960671196884993/nfq62rR9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 111720,
+          "following_count": 1360,
+          "like_count": 309302,
+          "listed_count": 850,
+          "media_count": 11777,
+          "tweet_count": 196866
+        },
+        "url": "https://t.co/UysgaChbx1",
+        "username": "sigekun",
+        "verified": true
+      }
+    ]
+  }
+}

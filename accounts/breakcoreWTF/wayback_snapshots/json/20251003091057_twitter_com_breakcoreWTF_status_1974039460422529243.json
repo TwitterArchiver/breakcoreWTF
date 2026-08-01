@@ -1,0 +1,505 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1972989848039636992"
+      ],
+      "media_source_tweet_id": [
+        "1972989853387375053"
+      ]
+    },
+    "author_id": "1964331185590718464",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974596161376261",
+          "name": "Dining"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974597017083904",
+          "name": "QSR - Dining"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026414829",
+          "name": "KFC"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Food",
+          "id": "825047692124442624",
+          "name": "Food"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10026414829",
+          "name": "KFC"
+        }
+      },
+      {
+        "domain": {
+          "description": "Topics about food, like Donuts or Brunch",
+          "id": "152",
+          "name": "Food"
+        },
+        "entity": {
+          "description": "Fast food",
+          "id": "847865239886417922",
+          "name": "Fast food Restaurants"
+        }
+      }
+    ],
+    "conversation_id": "1974039460422529243",
+    "created_at": "2025-10-03T09:10:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-03T10:10:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1974039460422529243"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "776096283802996737",
+          "start": 3,
+          "username": "yottan20001202"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/hcn3bPsov3",
+          "end": 75,
+          "expanded_url": "https://x.com/yottan20001202/status/1972989853387375053/photo/1",
+          "media_key": "3_1972989848039636992",
+          "start": 52,
+          "url": "https://t.co/hcn3bPsov3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1974039460422529243",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 98
+    },
+    "referenced_tweets": [
+      {
+        "id": "1972989853387375053",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yottan20001202: raputaの構文でも流れてきたんかと思ったらKFC公式だった https://t.co/hcn3bPsov3"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1565,
+        "media_key": "3_1972989848039636992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2F30D3awAAiW2P.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1972989848039636992"
+          ],
+          "media_source_tweet_id": [
+            "1972989853387375053"
+          ]
+        },
+        "author_id": "1964331185590718464",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596161376261",
+              "name": "Dining"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597017083904",
+              "name": "QSR - Dining"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026414829",
+              "name": "KFC"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Food",
+              "id": "825047692124442624",
+              "name": "Food"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026414829",
+              "name": "KFC"
+            }
+          },
+          {
+            "domain": {
+              "description": "Topics about food, like Donuts or Brunch",
+              "id": "152",
+              "name": "Food"
+            },
+            "entity": {
+              "description": "Fast food",
+              "id": "847865239886417922",
+              "name": "Fast food Restaurants"
+            }
+          }
+        ],
+        "conversation_id": "1974039460422529243",
+        "created_at": "2025-10-03T09:10:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-03T10:10:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1974039460422529243"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "776096283802996737",
+              "start": 3,
+              "username": "yottan20001202"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/hcn3bPsov3",
+              "end": 75,
+              "expanded_url": "https://x.com/yottan20001202/status/1972989853387375053/photo/1",
+              "media_key": "3_1972989848039636992",
+              "start": 52,
+              "url": "https://t.co/hcn3bPsov3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974039460422529243",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 98
+        },
+        "referenced_tweets": [
+          {
+            "id": "1972989853387375053",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yottan20001202: raputaの構文でも流れてきたんかと思ったらKFC公式だった https://t.co/hcn3bPsov3"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1972989848039636992"
+          ]
+        },
+        "author_id": "776096283802996737",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596161376261",
+              "name": "Dining"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597017083904",
+              "name": "QSR - Dining"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026414829",
+              "name": "KFC"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Food",
+              "id": "825047692124442624",
+              "name": "Food"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026414829",
+              "name": "KFC"
+            }
+          },
+          {
+            "domain": {
+              "description": "Topics about food, like Donuts or Brunch",
+              "id": "152",
+              "name": "Food"
+            },
+            "entity": {
+              "description": "Fast food",
+              "id": "847865239886417922",
+              "name": "Fast food Restaurants"
+            }
+          }
+        ],
+        "conversation_id": "1972989853387375053",
+        "created_at": "2025-09-30T11:40:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-30T12:40:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1972989853387375053"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hcn3bPsov3",
+              "end": 55,
+              "expanded_url": "https://x.com/yottan20001202/status/1972989853387375053/photo/1",
+              "media_key": "3_1972989848039636992",
+              "start": 32,
+              "url": "https://t.co/hcn3bPsov3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1972989853387375053",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 47,
+          "impression_count": 60413,
+          "like_count": 1335,
+          "quote_count": 5,
+          "reply_count": 15,
+          "retweet_count": 98
+        },
+        "reply_settings": "everyone",
+        "text": "raputaの構文でも流れてきたんかと思ったらKFC公式だった https://t.co/hcn3bPsov3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-06T14:13:55.000Z",
+        "description": "中文/od/自残/精神病/网蛆/VOCALOID/音游/舞萌w43/中二14.9/世界计划 无底线无雷点无素质 含暴论/地域黑/辱男女/发情等成分 私信互关欢迎 我有对象 我很喜欢他",
+        "id": "1964331185590718464",
+        "location": "翼天国",
+        "name": "💊人工時代完全犯罪",
+        "pinned_tweet_id": "1966517785367871718",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1964333475118665733/qxlL_t3T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36,
+          "following_count": 209,
+          "like_count": 1335,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 316
+        },
+        "username": "breakcoreWTF",
+        "verified": false
+      },
+      {
+        "created_at": "2016-09-14T16:32:28.000Z",
+        "description": "maimai／🏆全国大会7回優勝(5連覇中！)🏆／フジテレビ2時間生放送出演+大会優勝／地上波テレビ出演／公式生放送出演／ST紫全曲理論値／PANDORA白世界初完走＆理論値＆☆5／太鼓.全良71(25)／ウニ、プロセカ／サブ@ysk__sub_／インスタ→yottan20001202／KoP皆勤賞(単独)",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 123,
+                "start": 113,
+                "username": "ysk__sub_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/channel/UC3HT8…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/channel/UC3HT8BsvQAa4WNZgOjCkIfQ",
+                "start": 0,
+                "url": "https://t.co/4IMXwPomYi"
+              }
+            ]
+          }
+        },
+        "id": "776096283802996737",
+        "location": "↓   チャンネル登録してね♪   ↓",
+        "name": "よしき",
+        "pinned_tweet_id": "1973005886915584430",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893924468168290304/wLCBA0FG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 48432,
+          "following_count": 787,
+          "like_count": 24735,
+          "listed_count": 95,
+          "media_count": 13303,
+          "tweet_count": 64332
+        },
+        "url": "https://t.co/4IMXwPomYi",
+        "username": "yottan20001202",
+        "verified": true
+      }
+    ]
+  }
+}

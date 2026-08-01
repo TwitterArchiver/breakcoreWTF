@@ -1,0 +1,286 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2062882268012494848"
+      ],
+      "media_source_tweet_id": [
+        "2062882278670225483"
+      ]
+    },
+    "author_id": "1964331185590718464",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2062933883671495052",
+    "created_at": "2026-06-05T16:25:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-05T17:25:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062933883671495052"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "2922320919",
+          "start": 3,
+          "username": "equine__dentist"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/prejaEtlgG",
+          "end": 77,
+          "expanded_url": "https://x.com/equine__dentist/status/2062882278670225483/video/1",
+          "media_key": "7_2062882268012494848",
+          "start": 54,
+          "url": "https://t.co/prejaEtlgG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062933883671495052",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 117
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062882278670225483",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @equine__dentist: alone in my room just doing this https://t.co/prejaEtlgG"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 4333,
+        "height": 616,
+        "media_key": "7_2062882268012494848",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2062882268012494848/pu/img/ZcpFryQSH-zfCw0o.jpg",
+        "public_metrics": {
+          "view_count": 3483
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2062882268012494848/pu/vid/avc1/314x270/mdny1n0d5IQFGem3.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2062882268012494848/pu/vid/avc1/420x360/5pyJsGRvbm4B9YJV.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2062882268012494848/pu/vid/avc1/720x616/VZuMaf0kIm-NCjM_.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2062882268012494848/pu/pl/IItsAjxs_wfs-zuU.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2062882268012494848"
+          ],
+          "media_source_tweet_id": [
+            "2062882278670225483"
+          ]
+        },
+        "author_id": "1964331185590718464",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2062933883671495052",
+        "created_at": "2026-06-05T16:25:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T17:25:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062933883671495052"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "2922320919",
+              "start": 3,
+              "username": "equine__dentist"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/prejaEtlgG",
+              "end": 77,
+              "expanded_url": "https://x.com/equine__dentist/status/2062882278670225483/video/1",
+              "media_key": "7_2062882268012494848",
+              "start": 54,
+              "url": "https://t.co/prejaEtlgG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062933883671495052",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 117
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062882278670225483",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @equine__dentist: alone in my room just doing this https://t.co/prejaEtlgG"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2062882268012494848"
+          ]
+        },
+        "author_id": "2922320919",
+        "conversation_id": "2062882278670225483",
+        "created_at": "2026-06-05T13:00:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T14:00:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062882278670225483"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/prejaEtlgG",
+              "end": 56,
+              "expanded_url": "https://x.com/equine__dentist/status/2062882278670225483/video/1",
+              "media_key": "7_2062882268012494848",
+              "start": 33,
+              "url": "https://t.co/prejaEtlgG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062882278670225483",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 70,
+          "impression_count": 11312,
+          "like_count": 709,
+          "quote_count": 3,
+          "reply_count": 0,
+          "retweet_count": 117
+        },
+        "reply_settings": "everyone",
+        "text": "alone in my room just doing this https://t.co/prejaEtlgG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-06T14:13:55.000Z",
+        "description": "OD丨自伤丨Vocaloid丨音游丨友跨顺女\n不喜欢的直接b 同类回fo 取关请双取",
+        "id": "1964331185590718464",
+        "location": "颅内",
+        "name": "箸",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061439509125074944/Hf-Lim6c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 710,
+          "following_count": 630,
+          "like_count": 15029,
+          "listed_count": 0,
+          "media_count": 219,
+          "tweet_count": 4419
+        },
+        "username": "breakcoreWTF",
+        "verified": false
+      },
+      {
+        "created_at": "2014-12-15T03:00:26.000Z",
+        "description": "horse god formerly known as balthazar the exalted",
+        "id": "2922320919",
+        "name": "horse dentist",
+        "pinned_tweet_id": "2062474563510743374",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1594080000805945345/zwKVAWO4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 69638,
+          "following_count": 773,
+          "like_count": 57221,
+          "listed_count": 170,
+          "media_count": 13085,
+          "tweet_count": 26431
+        },
+        "username": "equine__dentist",
+        "verified": true
+      }
+    ]
+  }
+}

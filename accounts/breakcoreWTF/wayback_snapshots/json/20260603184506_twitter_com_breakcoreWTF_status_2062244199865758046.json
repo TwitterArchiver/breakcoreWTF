@@ -1,0 +1,334 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1964331185590718464",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1683514315146420225",
+          "name": "X - the everything app"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10045225402",
+          "name": "X"
+        }
+      }
+    ],
+    "conversation_id": "2062244199865758046",
+    "created_at": "2026-06-03T18:45:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-03T19:45:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062244199865758046"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1580767946179194882",
+          "start": 3,
+          "username": "kfk_ai"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062244199865758046",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 71
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062115201118621734",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kfk_ai: 我喜欢 Twitter/X 其中的一个原因\n\n就是点进来不会跳转淘宝"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1964331185590718464",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1683514315146420225",
+              "name": "X - the everything app"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "2062244199865758046",
+        "created_at": "2026-06-03T18:45:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T19:45:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062244199865758046"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1580767946179194882",
+              "start": 3,
+              "username": "kfk_ai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062244199865758046",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 71
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062115201118621734",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kfk_ai: 我喜欢 Twitter/X 其中的一个原因\n\n就是点进来不会跳转淘宝"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1580767946179194882",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1683514315146420225",
+              "name": "X - the everything app"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "2062115201118621734",
+        "created_at": "2026-06-03T10:12:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T11:12:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062115201118621734"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2062115201118621734",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 16,
+          "impression_count": 74509,
+          "like_count": 2238,
+          "quote_count": 9,
+          "reply_count": 235,
+          "retweet_count": 71
+        },
+        "reply_settings": "everyone",
+        "text": "我喜欢 Twitter/X 其中的一个原因\n\n就是点进来不会跳转淘宝"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-06T14:13:55.000Z",
+        "description": "OD丨自伤丨Vocaloid丨音游丨友跨顺女\n不喜欢的直接b 同类回fo 取关请双取",
+        "id": "1964331185590718464",
+        "location": "颅内",
+        "name": "箸",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061439509125074944/Hf-Lim6c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 664,
+          "following_count": 605,
+          "like_count": 14324,
+          "listed_count": 0,
+          "media_count": 211,
+          "tweet_count": 4239
+        },
+        "username": "breakcoreWTF",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-14T03:50:34.000Z",
+        "description": "🇺🇸 美国八年｜💻 CS 科班 \n🤖 AI Builder｜Build in Public\n🌱 记录从 0 开始做自媒体\n🌊 深度大于速度 \n🍺 精酿爱好者\n👇 咨询合作注明来意",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "discord.gg/yGdKyTsZp",
+                "end": 23,
+                "expanded_url": "https://discord.gg/yGdKyTsZp",
+                "start": 0,
+                "url": "https://t.co/OEFumiBsHU"
+              }
+            ]
+          }
+        },
+        "id": "1580767946179194882",
+        "location": "wechat: int_65535",
+        "name": "Kafka",
+        "pinned_tweet_id": "2054840791584133551",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047190090401939456/aEcmSiyB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6618,
+          "following_count": 250,
+          "like_count": 8394,
+          "listed_count": 34,
+          "media_count": 248,
+          "tweet_count": 3512
+        },
+        "url": "https://t.co/OEFumiBsHU",
+        "username": "kfk_ai",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,323 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2062547706971869184"
+      ],
+      "media_source_tweet_id": [
+        "2062547710092431472"
+      ]
+    },
+    "author_id": "1964331185590718464",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1196446161223028736",
+          "name": "Social media"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "id": "1196446161223028736",
+          "name": "Social media"
+        }
+      }
+    ],
+    "conversation_id": "2062871809796760052",
+    "created_at": "2026-06-05T12:19:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-05T13:19:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062871809796760052"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1689095384956633088",
+          "start": 3,
+          "username": "KfirC10SRC"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/GKMRChzP2A",
+          "end": 52,
+          "expanded_url": "https://x.com/KfirC10SRC/status/2062547710092431472/photo/1",
+          "media_key": "3_2062547706971869184",
+          "start": 29,
+          "url": "https://t.co/GKMRChzP2A"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062871809796760052",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 9
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062547710092431472",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @KfirC10SRC: 抖音某些南梁belike https://t.co/GKMRChzP2A"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 900,
+        "media_key": "3_2062547706971869184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ-kNi5a0AAuReU.jpg",
+        "width": 700
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062547706971869184"
+          ],
+          "media_source_tweet_id": [
+            "2062547710092431472"
+          ]
+        },
+        "author_id": "1964331185590718464",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          }
+        ],
+        "conversation_id": "2062871809796760052",
+        "created_at": "2026-06-05T12:19:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T13:19:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062871809796760052"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1689095384956633088",
+              "start": 3,
+              "username": "KfirC10SRC"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/GKMRChzP2A",
+              "end": 52,
+              "expanded_url": "https://x.com/KfirC10SRC/status/2062547710092431472/photo/1",
+              "media_key": "3_2062547706971869184",
+              "start": 29,
+              "url": "https://t.co/GKMRChzP2A"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062871809796760052",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 9
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062547710092431472",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @KfirC10SRC: 抖音某些南梁belike https://t.co/GKMRChzP2A"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062547706971869184"
+          ]
+        },
+        "author_id": "1689095384956633088",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          }
+        ],
+        "conversation_id": "2062547710092431472",
+        "created_at": "2026-06-04T14:51:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T15:51:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062547710092431472"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GKMRChzP2A",
+              "end": 36,
+              "expanded_url": "https://x.com/KfirC10SRC/status/2062547710092431472/photo/1",
+              "media_key": "3_2062547706971869184",
+              "start": 13,
+              "url": "https://t.co/GKMRChzP2A"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062547710092431472",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 20,
+          "impression_count": 11791,
+          "like_count": 442,
+          "quote_count": 3,
+          "reply_count": 16,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "抖音某些南梁belike https://t.co/GKMRChzP2A"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-06T14:13:55.000Z",
+        "description": "OD丨自伤丨Vocaloid丨音游丨友跨顺女\n不喜欢的直接b 同类回fo 取关请双取",
+        "id": "1964331185590718464",
+        "location": "颅内",
+        "name": "箸",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061439509125074944/Hf-Lim6c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 706,
+          "following_count": 628,
+          "like_count": 14963,
+          "listed_count": 0,
+          "media_count": 218,
+          "tweet_count": 4399
+        },
+        "username": "breakcoreWTF",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-09T02:05:07.000Z",
+        "description": "2010年的小南梁，双相/ADHD，  战雷空战大手子   🍥时间：2026.3.15  对象：@keplerD080311 备用号：@kfirc10block60",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 62,
+                "start": 48,
+                "username": "keplerD080311"
+              },
+              {
+                "end": 82,
+                "start": 67,
+                "username": "kfirc10block60"
+              }
+            ]
+          }
+        },
+        "id": "1689095384956633088",
+        "location": "Hong Kong",
+        "name": "KfirC10🚀",
+        "pinned_tweet_id": "2054139256382394384",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055336215151587328/NakmBMx3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1134,
+          "following_count": 274,
+          "like_count": 455,
+          "listed_count": 3,
+          "media_count": 225,
+          "tweet_count": 607
+        },
+        "username": "KfirC10SRC",
+        "verified": false
+      }
+    ]
+  }
+}

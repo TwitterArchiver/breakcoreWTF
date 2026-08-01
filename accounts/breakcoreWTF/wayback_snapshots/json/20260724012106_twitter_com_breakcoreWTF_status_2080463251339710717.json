@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1964331185590718464",
+    "conversation_id": "2080379391582876145",
+    "created_at": "2026-07-24T01:21:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-24T02:21:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080463251339710717"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1561588899499196417",
+          "start": 0,
+          "username": "Tiandaidaidai"
+        },
+        {
+          "end": 23,
+          "id": "1610510405981597696",
+          "start": 15,
+          "username": "GHYYAYA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080463251339710717",
+    "in_reply_to_user_id": "1561588899499196417",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080379391582876145",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Tiandaidaidai @GHYYAYA 恭喜"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2080379391582876145].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2080379391582876145",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2080379391582876145"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1964331185590718464",
+        "conversation_id": "2080379391582876145",
+        "created_at": "2026-07-24T01:21:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T02:21:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080463251339710717"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1561588899499196417",
+              "start": 0,
+              "username": "Tiandaidaidai"
+            },
+            {
+              "end": 23,
+              "id": "1610510405981597696",
+              "start": 15,
+              "username": "GHYYAYA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080463251339710717",
+        "in_reply_to_user_id": "1561588899499196417",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080379391582876145",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Tiandaidaidai @GHYYAYA 恭喜"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-06T14:13:55.000Z",
+        "description": "叫我筷子就可以了(:3っ )っ\nOD丨🔪丨Vocaloid丨音游丨顺女 LGBTQ+friendly\n不卖药 只看互关私信 我很穷欢迎投喂\n不喜欢的直接b 查成分同类回fo 取关请双取",
+        "id": "1964331185590718464",
+        "location": "颅内",
+        "name": "箸",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074711282427842560/EOM9Puhb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1124,
+          "following_count": 808,
+          "like_count": 33645,
+          "listed_count": 0,
+          "media_count": 344,
+          "tweet_count": 6158
+        },
+        "url": "",
+        "username": "breakcoreWTF",
+        "verified": true
+      },
+      {
+        "created_at": "2022-08-22T05:39:42.000Z",
+        "description": "🔪丨💊丨🏳️‍🌈丨❤️@GHYYAYA",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 11,
+                "username": "GHYYAYA"
+              }
+            ]
+          }
+        },
+        "id": "1561588899499196417",
+        "location": "スカイストリート",
+        "name": "⊹天填甜田添恬黛⊹",
+        "pinned_tweet_id": "2078010948070347221",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078920097163546624/krCr2iFN_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 1945,
+          "following_count": 2211,
+          "like_count": 89949,
+          "listed_count": 10,
+          "media_count": 817,
+          "tweet_count": 12862
+        },
+        "url": "",
+        "username": "Tiandaidaidai",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-04T05:36:42.000Z",
+        "description": "大概就是一个屁话很多的人 我会转发好多好多的答辩侵入你的首页｜SDVX绝赞游玩中。麻麻@Tiandaidaidai",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 57,
+                "start": 43,
+                "username": "Tiandaidaidai"
+              }
+            ]
+          }
+        },
+        "id": "1610510405981597696",
+        "location": "maimai",
+        "name": "今天也在被思诺思噎死",
+        "pinned_tweet_id": "2055480310540927429",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009649028217401344/TjwwRwYP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 143,
+          "following_count": 355,
+          "like_count": 1640,
+          "listed_count": 0,
+          "media_count": 209,
+          "tweet_count": 3294
+        },
+        "url": "",
+        "username": "GHYYAYA",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1964331185590718464",
+    "conversation_id": "2067091605417578653",
+    "created_at": "2026-06-17T04:19:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T05:19:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067099730409406752"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1684269091849404416",
+          "start": 0,
+          "username": "1212s1212bs1242"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067099730409406752",
+    "in_reply_to_user_id": "1684269091849404416",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067091605417578653",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@1212s1212bs1242 我家乌龟都不吃菜"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 11625,
+        "height": 1280,
+        "media_key": "7_2067091509414129664",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2067091509414129664/pu/img/HdgokKObG3AYHxL5.jpg",
+        "public_metrics": {
+          "view_count": 7
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2067091509414129664/pu/vid/avc1/320x568/cXNiMnb1gBWAiCrL.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2067091509414129664/pu/vid/avc1/480x852/yTB0I29wt4qK86Ap.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2067091509414129664/pu/vid/avc1/720x1280/YdEPxEhSUCpyZN5c.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2067091509414129664/pu/pl/wZYZb2-8ui5yeLJw.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1964331185590718464",
+        "conversation_id": "2067091605417578653",
+        "created_at": "2026-06-17T04:19:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T05:19:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067099730409406752"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1684269091849404416",
+              "start": 0,
+              "username": "1212s1212bs1242"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067099730409406752",
+        "in_reply_to_user_id": "1684269091849404416",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067091605417578653",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@1212s1212bs1242 我家乌龟都不吃菜"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2067091509414129664"
+          ]
+        },
+        "author_id": "1684269091849404416",
+        "conversation_id": "2067091605417578653",
+        "created_at": "2026-06-17T03:46:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T04:46:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067091605417578653"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MsR8U7djyN",
+              "end": 27,
+              "expanded_url": "https://x.com/1212s1212bs1242/status/2067091605417578653/video/1",
+              "media_key": "7_2067091509414129664",
+              "start": 4,
+              "url": "https://t.co/MsR8U7djyN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067091605417578653",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 27,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "晒背中 https://t.co/MsR8U7djyN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-06T14:13:55.000Z",
+        "description": "OD丨自伤丨Vocaloid丨音游丨友跨顺女\n喜欢爬宠 不卖药 非必要不回私信 我很穷欢迎投喂\n不喜欢的直接b 同类查成分回fo 取关请双取",
+        "id": "1964331185590718464",
+        "location": "颅内",
+        "name": "箸",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061439509125074944/Hf-Lim6c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 832,
+          "following_count": 697,
+          "like_count": 18576,
+          "listed_count": 0,
+          "media_count": 273,
+          "tweet_count": 4982
+        },
+        "url": "",
+        "username": "breakcoreWTF",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-26T18:27:14.000Z",
+        "description": "烟代/我要养只小乌龟/12",
+        "id": "1684269091849404416",
+        "location": "我爱你",
+        "name": "12和他的小乌龟13",
+        "pinned_tweet_id": "2065300515202957774",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066730626359975937/f_62LuDe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 947,
+          "following_count": 934,
+          "like_count": 17226,
+          "listed_count": 1,
+          "media_count": 900,
+          "tweet_count": 10085
+        },
+        "url": "",
+        "username": "1212s1212bs1242",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,186 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1964331185590718464",
+    "conversation_id": "2061218358591381600",
+    "created_at": "2026-05-31T22:48:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-31T23:48:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061218358591381600"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1664601148098224128",
+          "start": 3,
+          "username": "kami__519"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061218358591381600",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 56
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061102294335406552",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kami__519: 【悲報】\n六月病、発症"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1964331185590718464",
+        "conversation_id": "2061218358591381600",
+        "created_at": "2026-05-31T22:48:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T23:48:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061218358591381600"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1664601148098224128",
+              "start": 3,
+              "username": "kami__519"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061218358591381600",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 56
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061102294335406552",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kami__519: 【悲報】\n六月病、発症"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1664601148098224128",
+        "conversation_id": "2061102294335406552",
+        "created_at": "2026-05-31T15:07:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T16:07:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061102294335406552"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2061102294335406552",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 10356,
+          "like_count": 680,
+          "quote_count": 4,
+          "reply_count": 14,
+          "retweet_count": 56
+        },
+        "reply_settings": "everyone",
+        "text": "【悲報】\n六月病、発症"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-06T14:13:55.000Z",
+        "description": "OD丨自伤丨Vocaloid丨音游丨友跨顺女\n不喜欢的直接b 同类回fo 取关请双取",
+        "id": "1964331185590718464",
+        "location": "颅内",
+        "name": "箸",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059045985826078721/d21n6gXC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 649,
+          "following_count": 588,
+          "like_count": 13768,
+          "listed_count": 0,
+          "media_count": 192,
+          "tweet_count": 4074
+        },
+        "username": "breakcoreWTF",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-02T11:53:57.000Z",
+        "description": "16歳｜雑多｜サブ@0vgql7",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 9,
+                "username": "0vgql7"
+              }
+            ]
+          }
+        },
+        "id": "1664601148098224128",
+        "name": "紙",
+        "pinned_tweet_id": "2061102294335406552",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058826146360524801/igjpFg6i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18375,
+          "following_count": 364,
+          "like_count": 134248,
+          "listed_count": 40,
+          "media_count": 956,
+          "tweet_count": 32601
+        },
+        "username": "kami__519",
+        "verified": false
+      }
+    ]
+  }
+}

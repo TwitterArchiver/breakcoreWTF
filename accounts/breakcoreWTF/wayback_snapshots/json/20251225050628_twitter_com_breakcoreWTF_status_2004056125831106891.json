@@ -1,0 +1,287 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2003843125459259393"
+      ],
+      "media_source_tweet_id": [
+        "2003843200172327166"
+      ]
+    },
+    "author_id": "1964331185590718464",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2004056125831106891",
+    "created_at": "2025-12-25T05:06:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-25T06:06:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2004056125831106891"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1495040117907820548",
+          "start": 3,
+          "username": "MiKUMru"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/yTqrUZd9LD",
+          "end": 36,
+          "expanded_url": "https://x.com/MiKUMru/status/2003843200172327166/video/1",
+          "media_key": "13_2003843125459259393",
+          "start": 13,
+          "url": "https://t.co/yTqrUZd9LD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2004056125831106891",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1970
+    },
+    "referenced_tweets": [
+      {
+        "id": "2003843200172327166",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @MiKUMru: https://t.co/yTqrUZd9LD"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 21866,
+        "height": 720,
+        "media_key": "13_2003843125459259393",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2003843125459259393/img/Err8Q9HJtuqFVNl5.jpg",
+        "public_metrics": {
+          "view_count": 20231
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2003843125459259393/vid/avc1/360x270/T60k_gtfSmAGRZpD.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2003843125459259393/vid/avc1/480x360/9d813C3LvEDjbwfO.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2003843125459259393/vid/avc1/962x720/NRtJdlXH0f3KHjhe.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2003843125459259393/pl/ewoIkGOdipIR1wwA.m3u8?v=cfc"
+          }
+        ],
+        "width": 962
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2003843125459259393"
+          ],
+          "media_source_tweet_id": [
+            "2003843200172327166"
+          ]
+        },
+        "author_id": "1964331185590718464",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2004056125831106891",
+        "created_at": "2025-12-25T05:06:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-25T06:06:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2004056125831106891"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1495040117907820548",
+              "start": 3,
+              "username": "MiKUMru"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/yTqrUZd9LD",
+              "end": 36,
+              "expanded_url": "https://x.com/MiKUMru/status/2003843200172327166/video/1",
+              "media_key": "13_2003843125459259393",
+              "start": 13,
+              "url": "https://t.co/yTqrUZd9LD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004056125831106891",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1970
+        },
+        "referenced_tweets": [
+          {
+            "id": "2003843200172327166",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @MiKUMru: https://t.co/yTqrUZd9LD"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2003843125459259393"
+          ]
+        },
+        "author_id": "1495040117907820548",
+        "conversation_id": "2003843200172327166",
+        "created_at": "2025-12-24T15:00:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-24T16:00:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2003843200172327166"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yTqrUZd9LD",
+              "end": 23,
+              "expanded_url": "https://x.com/MiKUMru/status/2003843200172327166/video/1",
+              "media_key": "13_2003843125459259393",
+              "start": 0,
+              "url": "https://t.co/yTqrUZd9LD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003843200172327166",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 802,
+          "impression_count": 62084,
+          "like_count": 6942,
+          "quote_count": 9,
+          "reply_count": 6,
+          "retweet_count": 1970
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/yTqrUZd9LD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-06T14:13:55.000Z",
+        "description": "中文/od/VOCALOID/音游 纯种乐子人性别不明推上啥都有 私信互关欢迎",
+        "id": "1964331185590718464",
+        "location": "幻想郷",
+        "name": "━Σ(ﾟДﾟ|||)━",
+        "pinned_tweet_id": "2003760156488986744",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001729011576426496/HumNDWc3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 49,
+          "following_count": 288,
+          "like_count": 3118,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 896
+        },
+        "username": "breakcoreWTF",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-19T14:19:55.000Z",
+        "description": "my collection and old vocaloid archive",
+        "id": "1495040117907820548",
+        "location": "DM for credit & removal",
+        "name": "໊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998438514426523653/8_2BH_Yw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19890,
+          "following_count": 61,
+          "like_count": 24789,
+          "listed_count": 26,
+          "media_count": 163,
+          "tweet_count": 656
+        },
+        "username": "MiKUMru",
+        "verified": false
+      }
+    ]
+  }
+}

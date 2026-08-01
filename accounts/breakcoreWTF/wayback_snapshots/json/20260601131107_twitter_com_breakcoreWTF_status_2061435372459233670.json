@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1964331185590718464",
+    "conversation_id": "2061275447497724048",
+    "created_at": "2026-06-01T13:11:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-01T14:11:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061435372459233670"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "305332545",
+          "start": 0,
+          "username": "Thelenhadoor"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061435372459233670",
+    "in_reply_to_user_id": "305332545",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061275447497724048",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Thelenhadoor 你好"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1964331185590718464",
+        "conversation_id": "2061275447497724048",
+        "created_at": "2026-06-01T13:11:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T14:11:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061435372459233670"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "305332545",
+              "start": 0,
+              "username": "Thelenhadoor"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061435372459233670",
+        "in_reply_to_user_id": "305332545",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061275447497724048",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Thelenhadoor 你好"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "305332545",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "2061275447497724048",
+        "created_at": "2026-06-01T02:35:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T03:35:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061275447497724048"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2061275447497724048",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 131,
+          "impression_count": 208098,
+          "like_count": 9352,
+          "quote_count": 39,
+          "reply_count": 2931,
+          "retweet_count": 407
+        },
+        "reply_settings": "everyone",
+        "text": "Responder esse tweet cancela qualquer azar que estava reservado pra você esse ano."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-06T14:13:55.000Z",
+        "description": "OD丨自伤丨Vocaloid丨音游丨友跨顺女\n不喜欢的直接b 同类回fo 取关请双取",
+        "id": "1964331185590718464",
+        "location": "颅内",
+        "name": "箸",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061434709981425664/mXt9TgYc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 651,
+          "following_count": 590,
+          "like_count": 13825,
+          "listed_count": 0,
+          "media_count": 198,
+          "tweet_count": 4106
+        },
+        "username": "breakcoreWTF",
+        "verified": false
+      },
+      {
+        "created_at": "2011-05-26T01:23:40.000Z",
+        "description": "ANGEL BY THE WINGS ⚡️ P ❤️💍",
+        "id": "305332545",
+        "location": "Los Angeles, CA",
+        "name": "Easy 🅰️",
+        "pinned_tweet_id": "2025248689363497205",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046411547636072448/33Qr6eZr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44455,
+          "following_count": 22090,
+          "like_count": 26106,
+          "listed_count": 17,
+          "media_count": 681,
+          "tweet_count": 67582
+        },
+        "username": "Thelenhadoor",
+        "verified": true
+      }
+    ]
+  }
+}

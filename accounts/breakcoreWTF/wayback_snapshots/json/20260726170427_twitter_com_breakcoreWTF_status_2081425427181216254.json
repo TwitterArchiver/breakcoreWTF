@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2055295144782643200"
+      ],
+      "media_source_tweet_id": [
+        "2055295168971215108"
+      ]
+    },
+    "author_id": "1964331185590718464",
+    "conversation_id": "2081425427181216254",
+    "created_at": "2026-07-26T17:04:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-26T18:04:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081425427181216254"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1993567254076878848",
+          "start": 3,
+          "username": "ocy65482963224"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/YnjC6MdvEq",
+          "end": 43,
+          "expanded_url": "https://x.com/ocy65482963224/status/2055295168971215108/photo/1",
+          "media_key": "3_2055295144782643200",
+          "start": 20,
+          "url": "https://t.co/YnjC6MdvEq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081425427181216254",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 703
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055295168971215108",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ocy65482963224: https://t.co/YnjC6MdvEq"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1924,
+        "media_key": "3_2055295144782643200",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIXgC3VawAAUScB.jpg",
+        "width": 2132
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055295144782643200"
+          ]
+        },
+        "author_id": "1993567254076878848",
+        "conversation_id": "2055295168971215108",
+        "created_at": "2026-05-15T14:32:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T15:32:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055295168971215108"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YnjC6MdvEq",
+              "end": 23,
+              "expanded_url": "https://x.com/ocy65482963224/status/2055295168971215108/photo/1",
+              "media_key": "3_2055295144782643200",
+              "start": 0,
+              "url": "https://t.co/YnjC6MdvEq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055295168971215108",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 555,
+          "impression_count": 42017,
+          "like_count": 4274,
+          "quote_count": 16,
+          "reply_count": 2,
+          "retweet_count": 703
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/YnjC6MdvEq"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055295144782643200"
+          ],
+          "media_source_tweet_id": [
+            "2055295168971215108"
+          ]
+        },
+        "author_id": "1964331185590718464",
+        "conversation_id": "2081425427181216254",
+        "created_at": "2026-07-26T17:04:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T18:04:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081425427181216254"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1993567254076878848",
+              "start": 3,
+              "username": "ocy65482963224"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/YnjC6MdvEq",
+              "end": 43,
+              "expanded_url": "https://x.com/ocy65482963224/status/2055295168971215108/photo/1",
+              "media_key": "3_2055295144782643200",
+              "start": 20,
+              "url": "https://t.co/YnjC6MdvEq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081425427181216254",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 703
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055295168971215108",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ocy65482963224: https://t.co/YnjC6MdvEq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-06T14:13:55.000Z",
+        "description": "叫我筷子就可以了(:3っ )っ\nOD丨🔪丨Vocaloid丨音游丨顺女 LGBTQ+friendly\n不卖药 只看互关私信 我很穷欢迎投喂\n不喜欢的直接b 查成分同类回fo 取关请双取",
+        "id": "1964331185590718464",
+        "location": "颅内",
+        "name": "箸",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074711282427842560/EOM9Puhb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1280,
+          "following_count": 818,
+          "like_count": 35020,
+          "listed_count": 0,
+          "media_count": 349,
+          "tweet_count": 6292
+        },
+        "url": "",
+        "username": "breakcoreWTF",
+        "verified": true
+      },
+      {
+        "created_at": "2025-11-26T06:27:35.000Z",
+        "description": "성인 | 해즈빈 낙서계 | 📺bottom 🔄🆗️",
+        "id": "1993567254076878848",
+        "location": "I:루밍님🫶 H:모님🫶",
+        "name": "반죽",
+        "pinned_tweet_id": "2030628792864268513",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045571822062878720/DlJFoOEW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1917,
+          "following_count": 52,
+          "like_count": 1676,
+          "listed_count": 5,
+          "media_count": 27,
+          "tweet_count": 1145
+        },
+        "url": "",
+        "username": "ocy65482963224",
+        "verified": false
+      }
+    ]
+  }
+}

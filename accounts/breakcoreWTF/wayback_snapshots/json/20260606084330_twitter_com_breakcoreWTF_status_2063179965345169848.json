@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2062843557174489088"
+      ],
+      "media_source_tweet_id": [
+        "2062843561243037761"
+      ]
+    },
+    "author_id": "1964331185590718464",
+    "conversation_id": "2063179965345169848",
+    "created_at": "2026-06-06T08:43:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-06T09:43:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063179965345169848"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 72,
+          "start": 64,
+          "tag": "birdcpp"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "764891641270460416",
+          "start": 3,
+          "username": "dana_mnyc"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/RtunbhD52j",
+          "end": 96,
+          "expanded_url": "https://x.com/dana_mnyc/status/2062843561243037761/photo/1",
+          "media_key": "3_2062843557174489088",
+          "start": 73,
+          "url": "https://t.co/RtunbhD52j"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063179965345169848",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 424
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062843561243037761",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @dana_mnyc: Gray Catbird with blueberry in Carl Schurz Park. #birdcpp https://t.co/RtunbhD52j"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1432,
+        "media_key": "3_2062843557174489088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKCxSSyWsAAWb4U.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062843557174489088"
+          ],
+          "media_source_tweet_id": [
+            "2062843561243037761"
+          ]
+        },
+        "author_id": "1964331185590718464",
+        "conversation_id": "2063179965345169848",
+        "created_at": "2026-06-06T08:43:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T09:43:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063179965345169848"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 72,
+              "start": 64,
+              "tag": "birdcpp"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "764891641270460416",
+              "start": 3,
+              "username": "dana_mnyc"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/RtunbhD52j",
+              "end": 96,
+              "expanded_url": "https://x.com/dana_mnyc/status/2062843561243037761/photo/1",
+              "media_key": "3_2062843557174489088",
+              "start": 73,
+              "url": "https://t.co/RtunbhD52j"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063179965345169848",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 424
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062843561243037761",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @dana_mnyc: Gray Catbird with blueberry in Carl Schurz Park. #birdcpp https://t.co/RtunbhD52j"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062843557174489088"
+          ]
+        },
+        "author_id": "764891641270460416",
+        "conversation_id": "2062843561243037761",
+        "created_at": "2026-06-05T10:26:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T11:26:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062843561243037761"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 57,
+              "start": 49,
+              "tag": "birdcpp"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/RtunbhD52j",
+              "end": 81,
+              "expanded_url": "https://x.com/dana_mnyc/status/2062843561243037761/photo/1",
+              "media_key": "3_2062843557174489088",
+              "start": 58,
+              "url": "https://t.co/RtunbhD52j"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062843561243037761",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 129,
+          "impression_count": 317642,
+          "like_count": 2201,
+          "quote_count": 35,
+          "reply_count": 5,
+          "retweet_count": 424
+        },
+        "reply_settings": "everyone",
+        "text": "Gray Catbird with blueberry in Carl Schurz Park. #birdcpp https://t.co/RtunbhD52j"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-06T14:13:55.000Z",
+        "description": "OD丨自伤丨Vocaloid丨音游丨友跨顺女\n不喜欢的直接b 同类回fo 取关请双取",
+        "id": "1964331185590718464",
+        "location": "颅内",
+        "name": "箸",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061439509125074944/Hf-Lim6c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 715,
+          "following_count": 632,
+          "like_count": 15150,
+          "listed_count": 0,
+          "media_count": 221,
+          "tweet_count": 4454
+        },
+        "username": "breakcoreWTF",
+        "verified": false
+      },
+      {
+        "created_at": "2016-08-14T18:29:13.000Z",
+        "description": "Bird and nature enthusiast.",
+        "id": "764891641270460416",
+        "location": "New York, NY",
+        "name": "DanaMNYC",
+        "pinned_tweet_id": "2040013051072520218",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1500209853213650946/YF37vNJY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2782,
+          "following_count": 4125,
+          "like_count": 53022,
+          "listed_count": 30,
+          "media_count": 1408,
+          "tweet_count": 3358
+        },
+        "username": "dana_mnyc",
+        "verified": false
+      }
+    ]
+  }
+}

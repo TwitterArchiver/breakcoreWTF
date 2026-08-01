@@ -1,0 +1,349 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1964331185590718464",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1370105546607534081",
+          "name": "Project Sekai"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1370105546607534081",
+          "name": "Project Sekai"
+        }
+      }
+    ],
+    "conversation_id": "1968164236707893403",
+    "created_at": "2025-09-17T04:04:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-17T05:04:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1968164236707893403"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 3,
+          "normalized_text": "卧槽世征",
+          "probability": 0.31,
+          "start": 0,
+          "type": "Person"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/pj_sekai/statu…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/pj_sekai/status/1968149073539764600",
+          "start": 5,
+          "url": "https://t.co/5LALMSEoW2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1968164236707893403",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1968149073539764600",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "卧槽世征 https://t.co/5LALMSEoW2"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_1968148483116060672",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1BEniFbUAAaP7Y.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1964331185590718464",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1370105546607534081",
+              "name": "Project Sekai"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1370105546607534081",
+              "name": "Project Sekai"
+            }
+          }
+        ],
+        "conversation_id": "1968164236707893403",
+        "created_at": "2025-09-17T04:04:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-17T05:04:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1968164236707893403"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 3,
+              "normalized_text": "卧槽世征",
+              "probability": 0.31,
+              "start": 0,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/pj_sekai/statu…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/pj_sekai/status/1968149073539764600",
+              "start": 5,
+              "url": "https://t.co/5LALMSEoW2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968164236707893403",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1968149073539764600",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "卧槽世征 https://t.co/5LALMSEoW2"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1968148483116060672"
+          ]
+        },
+        "author_id": "1158668053183266816",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1370105546607534081",
+              "name": "Project Sekai"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1370105546607534081",
+              "name": "Project Sekai"
+            }
+          }
+        ],
+        "conversation_id": "1968149073539764600",
+        "created_at": "2025-09-17T03:04:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-17T04:04:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1968149073539764600"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 83,
+              "start": 72,
+              "tag": "プロセカ収録楽曲予想"
+            },
+            {
+              "end": 110,
+              "start": 105,
+              "tag": "プロセカ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/JKUuc9FXl9",
+              "end": 134,
+              "expanded_url": "https://x.com/pj_sekai/status/1968149073539764600/photo/1",
+              "media_key": "3_1968148483116060672",
+              "start": 111,
+              "url": "https://t.co/JKUuc9FXl9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968149073539764600",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1161,
+          "impression_count": 791541,
+          "like_count": 14397,
+          "quote_count": 2316,
+          "reply_count": 346,
+          "retweet_count": 4766
+        },
+        "reply_settings": "everyone",
+        "text": "🎶5周年記念 楽曲追加キャンペーン開催決定🎊\n\n5周年を記念して様々な楽曲を追加していきます🎶\n収録楽曲は9月24日（水）の生放送で発表📢\n\n【#プロセカ収録楽曲予想】をつけて、ぜひ予想してみてくださいね🌈\n\n#プロセカ https://t.co/JKUuc9FXl9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-06T14:13:55.000Z",
+        "description": "中文/od/自残/精神病/网蛆/VOCALOID/音游/舞萌w43/中二14.9/世界计划 无底线无雷点无素质 含暴论/地域黑/辱男女/发情等成分 我有对象 我很喜欢他",
+        "id": "1964331185590718464",
+        "location": "翼天国",
+        "name": "💊人工時代完全犯罪",
+        "pinned_tweet_id": "1966517785367871718",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1964333475118665733/qxlL_t3T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34,
+          "following_count": 192,
+          "like_count": 939,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 242
+        },
+        "username": "breakcoreWTF",
+        "verified": false
+      },
+      {
+        "created_at": "2019-08-06T09:16:05.000Z",
+        "description": "SEGA×Colorful Paletteが贈る、スマートフォンリズムゲーム #プロセカ 公式アカウント\nクリスタルをお得に買える公式ストアはこちら：https://t.co/zacMyTdlWW",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 44,
+                "start": 39,
+                "tag": "プロセカ"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "pjsekai.sega.jp/webstore",
+                "end": 98,
+                "expanded_url": "https://pjsekai.sega.jp/webstore",
+                "start": 75,
+                "url": "https://t.co/zacMyTdlWW"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "app.adjust.com/iaq3ido",
+                "end": 23,
+                "expanded_url": "https://app.adjust.com/iaq3ido",
+                "start": 0,
+                "url": "https://t.co/joevC53VDM"
+              }
+            ]
+          }
+        },
+        "id": "1158668053183266816",
+        "name": "プロジェクトセカイ カラフルステージ！ feat. 初音ミク【プロセカ】",
+        "pinned_tweet_id": "1839874318832152732",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854064399478398976/W-uuO8DW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2267786,
+          "following_count": 558,
+          "like_count": 27,
+          "listed_count": 9123,
+          "media_count": 12300,
+          "tweet_count": 17029
+        },
+        "url": "https://t.co/joevC53VDM",
+        "username": "pj_sekai",
+        "verified": true
+      }
+    ]
+  }
+}

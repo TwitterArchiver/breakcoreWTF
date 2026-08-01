@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2008105085025607680"
+      ],
+      "media_source_tweet_id": [
+        "2008105134174449675"
+      ]
+    },
+    "author_id": "1964331185590718464",
+    "conversation_id": "2008507539789697312",
+    "created_at": "2026-01-06T11:54:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-06T12:54:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2008507539789697312"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1764683277150060544",
+          "start": 3,
+          "username": "_Mononobe_Futo"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/MNRXKa02Mf",
+          "end": 43,
+          "expanded_url": "https://x.com/_Mononobe_Futo/status/2008105134174449675/video/1",
+          "media_key": "7_2008105085025607680",
+          "start": 20,
+          "url": "https://t.co/MNRXKa02Mf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2008507539789697312",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3577
+    },
+    "referenced_tweets": [
+      {
+        "id": "2008105134174449675",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @_Mononobe_Futo: https://t.co/MNRXKa02Mf"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 20131,
+        "height": 540,
+        "media_key": "7_2008105085025607680",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2008105085025607680/pu/img/ObfoOb4pNkaAt_yH.jpg",
+        "public_metrics": {
+          "view_count": 97990
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 432000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2008105085025607680/pu/vid/avc1/320x320/6oXt4xfSj1LgfBFx.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2008105085025607680/pu/vid/avc1/540x540/hJYMpTRWNBuNjUsK.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2008105085025607680/pu/pl/DuDndlRWwr661COC.m3u8?tag=12&v=cfc"
+          }
+        ],
+        "width": 540
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2008105085025607680"
+          ],
+          "media_source_tweet_id": [
+            "2008105134174449675"
+          ]
+        },
+        "author_id": "1964331185590718464",
+        "conversation_id": "2008507539789697312",
+        "created_at": "2026-01-06T11:54:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-06T12:54:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2008507539789697312"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1764683277150060544",
+              "start": 3,
+              "username": "_Mononobe_Futo"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/MNRXKa02Mf",
+              "end": 43,
+              "expanded_url": "https://x.com/_Mononobe_Futo/status/2008105134174449675/video/1",
+              "media_key": "7_2008105085025607680",
+              "start": 20,
+              "url": "https://t.co/MNRXKa02Mf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008507539789697312",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3577
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008105134174449675",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @_Mononobe_Futo: https://t.co/MNRXKa02Mf"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2008105085025607680"
+          ]
+        },
+        "author_id": "1764683277150060544",
+        "conversation_id": "2008105134174449675",
+        "created_at": "2026-01-05T09:15:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-05T10:15:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2008105134174449675"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MNRXKa02Mf",
+              "end": 23,
+              "expanded_url": "https://x.com/_Mononobe_Futo/status/2008105134174449675/video/1",
+              "media_key": "7_2008105085025607680",
+              "start": 0,
+              "url": "https://t.co/MNRXKa02Mf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008105134174449675",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4637,
+          "impression_count": 211597,
+          "like_count": 21312,
+          "quote_count": 57,
+          "reply_count": 28,
+          "retweet_count": 3577
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/MNRXKa02Mf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-06T14:13:55.000Z",
+        "description": "中文/od/VOCALOID/音游 纯种乐子人性别不明推上啥都有 会发泄情绪无需理会 私信互关欢迎",
+        "id": "1964331185590718464",
+        "location": "幻想郷",
+        "name": "━Σ(ﾟДﾟ|||)━",
+        "pinned_tweet_id": "2003760156488986744",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001729011576426496/HumNDWc3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 49,
+          "following_count": 309,
+          "like_count": 3430,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 1010
+        },
+        "username": "breakcoreWTF",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-04T16:04:37.000Z",
+        "description": "I WλNT TO BELIEV3",
+        "id": "1764683277150060544",
+        "location": "Hall of Dreams Great Mausoleum",
+        "name": "Mononobe no Futo",
+        "pinned_tweet_id": "1770713399158055191",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906297240819486720/2ReUmj_s_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17133,
+          "following_count": 398,
+          "like_count": 18333,
+          "listed_count": 21,
+          "media_count": 3161,
+          "tweet_count": 13540
+        },
+        "username": "_Mononobe_Futo",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,272 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2065033899932372992"
+      ],
+      "media_source_tweet_id": [
+        "2065034100403216544"
+      ]
+    },
+    "author_id": "1964331185590718464",
+    "conversation_id": "2065509430125604959",
+    "created_at": "2026-06-12T18:59:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-12T19:59:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065509430125604959"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "791296994278907904",
+          "start": 3,
+          "username": "tamakarami"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/N1Czg4wY8h",
+          "end": 51,
+          "expanded_url": "https://x.com/tamakarami/status/2065034100403216544/video/1",
+          "media_key": "13_2065033899932372992",
+          "start": 28,
+          "url": "https://t.co/N1Czg4wY8h"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065509430125604959",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2825
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065034100403216544",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @tamakarami: みんなも使ってみよう！ https://t.co/N1Czg4wY8h"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 5221,
+        "height": 1080,
+        "media_key": "13_2065033899932372992",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2065033899932372992/img/ExhM8DlGOpY32PVV.jpg",
+        "public_metrics": {
+          "view_count": 108366
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 432000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2065033899932372992/vid/avc1/320x320/mOuFnmxXuKi_VYrD.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2065033899932372992/vid/avc1/540x540/DGv7_qwNZJ33NX0e.mp4?tag=14"
+          },
+          {
+            "bit_rate": 1280000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2065033899932372992/vid/avc1/720x720/cWG3-WLqvQixmYBp.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2065033899932372992/pl/0PmXpCE9cD0lbM7G.m3u8?tag=14"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2065033899932372992"
+          ],
+          "media_source_tweet_id": [
+            "2065034100403216544"
+          ]
+        },
+        "author_id": "1964331185590718464",
+        "conversation_id": "2065509430125604959",
+        "created_at": "2026-06-12T18:59:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T19:59:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065509430125604959"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "791296994278907904",
+              "start": 3,
+              "username": "tamakarami"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/N1Czg4wY8h",
+              "end": 51,
+              "expanded_url": "https://x.com/tamakarami/status/2065034100403216544/video/1",
+              "media_key": "13_2065033899932372992",
+              "start": 28,
+              "url": "https://t.co/N1Czg4wY8h"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065509430125604959",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2825
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065034100403216544",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @tamakarami: みんなも使ってみよう！ https://t.co/N1Czg4wY8h"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2065033899932372992"
+          ]
+        },
+        "author_id": "791296994278907904",
+        "conversation_id": "2065034100403216544",
+        "created_at": "2026-06-11T11:31:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T12:31:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065034100403216544"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/N1Czg4wY8h",
+              "end": 35,
+              "expanded_url": "https://x.com/tamakarami/status/2065034100403216544/video/1",
+              "media_key": "13_2065033899932372992",
+              "start": 12,
+              "url": "https://t.co/N1Czg4wY8h"
+            },
+            {
+              "display_url": "x.com/taiko_All/stat…",
+              "end": 59,
+              "expanded_url": "https://twitter.com/taiko_All/status/2064543086391279710",
+              "start": 36,
+              "url": "https://t.co/L5Lvgujyip"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065034100403216544",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1649,
+          "impression_count": 553799,
+          "like_count": 20695,
+          "quote_count": 54,
+          "reply_count": 41,
+          "retweet_count": 2825
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064543086391279710",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "みんなも使ってみよう！ https://t.co/N1Czg4wY8h https://t.co/L5Lvgujyip"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-06T14:13:55.000Z",
+        "description": "OD丨自伤丨Vocaloid丨友跨顺女\n喜欢爬宠 不卖药 非必要不回私信 我很穷欢迎投喂\n不喜欢的直接b 同类查成分回fo 取关请双取",
+        "id": "1964331185590718464",
+        "location": "颅内",
+        "name": "箸",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061439509125074944/Hf-Lim6c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 806,
+          "following_count": 681,
+          "like_count": 17292,
+          "listed_count": 0,
+          "media_count": 248,
+          "tweet_count": 4808
+        },
+        "username": "breakcoreWTF",
+        "verified": false
+      },
+      {
+        "created_at": "2016-10-26T15:14:40.000Z",
+        "description": "🐄ﾓｰ",
+        "id": "791296994278907904",
+        "location": "地獄",
+        "name": "絡める",
+        "pinned_tweet_id": "1149312121731080192",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1851831918914080768/mq6dUdx2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 293077,
+          "following_count": 1,
+          "like_count": 1798,
+          "listed_count": 666,
+          "media_count": 1034,
+          "tweet_count": 2524
+        },
+        "username": "tamakarami",
+        "verified": false
+      }
+    ]
+  }
+}

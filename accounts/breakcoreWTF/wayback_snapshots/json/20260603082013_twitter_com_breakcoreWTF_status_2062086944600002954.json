@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2061762874394255360"
+      ],
+      "media_source_tweet_id": [
+        "2061762886238871868"
+      ]
+    },
+    "author_id": "1964331185590718464",
+    "conversation_id": "2062086944600002954",
+    "created_at": "2026-06-03T08:20:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-03T09:20:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062086944600002954"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "776096283802996737",
+          "start": 3,
+          "username": "yottan20001202"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/DSvXZcLHUW",
+          "end": 59,
+          "expanded_url": "https://x.com/yottan20001202/status/2061762886238871868/photo/1",
+          "media_key": "3_2061762874394255360",
+          "start": 36,
+          "url": "https://t.co/DSvXZcLHUW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062086944600002954",
+    "lang": "in",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 79
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061762886238871868",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yottan20001202: (ᵒ̤̑ ◁ ᵒ̤̑)wow! https://t.co/DSvXZcLHUW"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3024,
+        "media_key": "3_2061762874394255360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJzaaRtboAAPCuj.jpg",
+        "width": 4032
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061762874394255360"
+          ],
+          "media_source_tweet_id": [
+            "2061762886238871868"
+          ]
+        },
+        "author_id": "1964331185590718464",
+        "conversation_id": "2062086944600002954",
+        "created_at": "2026-06-03T08:20:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T09:20:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062086944600002954"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "776096283802996737",
+              "start": 3,
+              "username": "yottan20001202"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/DSvXZcLHUW",
+              "end": 59,
+              "expanded_url": "https://x.com/yottan20001202/status/2061762886238871868/photo/1",
+              "media_key": "3_2061762874394255360",
+              "start": 36,
+              "url": "https://t.co/DSvXZcLHUW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062086944600002954",
+        "lang": "in",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 79
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061762886238871868",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yottan20001202: (ᵒ̤̑ ◁ ᵒ̤̑)wow! https://t.co/DSvXZcLHUW"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061762874394255360"
+          ]
+        },
+        "author_id": "776096283802996737",
+        "conversation_id": "2061762886238871868",
+        "created_at": "2026-06-02T10:52:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T11:52:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061762886238871868"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DSvXZcLHUW",
+              "end": 39,
+              "expanded_url": "https://x.com/yottan20001202/status/2061762886238871868/photo/1",
+              "media_key": "3_2061762874394255360",
+              "start": 16,
+              "url": "https://t.co/DSvXZcLHUW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061762886238871868",
+        "lang": "in",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 29,
+          "impression_count": 20384,
+          "like_count": 883,
+          "quote_count": 2,
+          "reply_count": 26,
+          "retweet_count": 79
+        },
+        "reply_settings": "everyone",
+        "text": "(ᵒ̤̑ ◁ ᵒ̤̑)wow! https://t.co/DSvXZcLHUW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-06T14:13:55.000Z",
+        "description": "OD丨自伤丨Vocaloid丨音游丨友跨顺女\n不喜欢的直接b 同类回fo 取关请双取",
+        "id": "1964331185590718464",
+        "location": "颅内",
+        "name": "箸",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061439509125074944/Hf-Lim6c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 662,
+          "following_count": 602,
+          "like_count": 14118,
+          "listed_count": 0,
+          "media_count": 203,
+          "tweet_count": 4188
+        },
+        "username": "breakcoreWTF",
+        "verified": false
+      },
+      {
+        "created_at": "2016-09-14T16:32:28.000Z",
+        "description": "maimai／全国大会優勝7回🏆(2020~6th 5連覇)／KoP4th.5thスコアタ1位(4th単独303%)／フジテレビ2時間生放送出演+優勝／地上波テレビ出演／公式生放送出演／元紫白全理論値／PANDORA白世界初完走/理論値/☆5／太鼓、ウニ、プロセカ／サブ垢→@ysk__sub_／KoP皆勤賞(単独)",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 147,
+                "start": 137,
+                "username": "ysk__sub_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/channel/UC3HT8…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/channel/UC3HT8BsvQAa4WNZgOjCkIfQ",
+                "start": 0,
+                "url": "https://t.co/4IMXwPomYi"
+              }
+            ]
+          }
+        },
+        "id": "776096283802996737",
+        "location": "↓   チャンネル登録してね♪   ↓",
+        "name": "よしき",
+        "pinned_tweet_id": "1893891419569357280",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893924468168290304/wLCBA0FG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 55883,
+          "following_count": 817,
+          "like_count": 24783,
+          "listed_count": 89,
+          "media_count": 14025,
+          "tweet_count": 65728
+        },
+        "url": "https://t.co/4IMXwPomYi",
+        "username": "yottan20001202",
+        "verified": true
+      }
+    ]
+  }
+}

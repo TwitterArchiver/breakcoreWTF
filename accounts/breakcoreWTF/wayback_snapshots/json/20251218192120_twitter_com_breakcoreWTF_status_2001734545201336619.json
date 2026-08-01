@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2000455121495531520"
+      ],
+      "media_source_tweet_id": [
+        "2000455128315478085"
+      ]
+    },
+    "author_id": "1964331185590718464",
+    "conversation_id": "2001734545201336619",
+    "created_at": "2025-12-18T19:21:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-18T20:21:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2001734545201336619"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "18174355",
+          "start": 3,
+          "username": "jerrynettuno"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/9rtU3wrL55",
+          "end": 49,
+          "expanded_url": "https://x.com/jerrynettuno/status/2000455128315478085/photo/1",
+          "media_key": "3_2000455121495531520",
+          "start": 26,
+          "url": "https://t.co/9rtU3wrL55"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2001734545201336619",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 13
+    },
+    "referenced_tweets": [
+      {
+        "id": "2000455128315478085",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @jerrynettuno: 你兴奋个鸡毛？ https://t.co/9rtU3wrL55"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 890,
+        "media_key": "3_2000455121495531520",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8MLVYnaIAAk8ei.jpg",
+        "width": 933
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2000455121495531520"
+          ],
+          "media_source_tweet_id": [
+            "2000455128315478085"
+          ]
+        },
+        "author_id": "1964331185590718464",
+        "conversation_id": "2001734545201336619",
+        "created_at": "2025-12-18T19:21:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-18T20:21:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2001734545201336619"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "18174355",
+              "start": 3,
+              "username": "jerrynettuno"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/9rtU3wrL55",
+              "end": 49,
+              "expanded_url": "https://x.com/jerrynettuno/status/2000455128315478085/photo/1",
+              "media_key": "3_2000455121495531520",
+              "start": 26,
+              "url": "https://t.co/9rtU3wrL55"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001734545201336619",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 13
+        },
+        "referenced_tweets": [
+          {
+            "id": "2000455128315478085",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @jerrynettuno: 你兴奋个鸡毛？ https://t.co/9rtU3wrL55"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2000455121495531520"
+          ]
+        },
+        "author_id": "18174355",
+        "conversation_id": "2000455128315478085",
+        "created_at": "2025-12-15T06:37:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-15T07:37:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2000455128315478085"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9rtU3wrL55",
+              "end": 31,
+              "expanded_url": "https://x.com/jerrynettuno/status/2000455128315478085/photo/1",
+              "media_key": "3_2000455121495531520",
+              "start": 8,
+              "url": "https://t.co/9rtU3wrL55"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000455128315478085",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 67,
+          "impression_count": 414556,
+          "like_count": 1113,
+          "quote_count": 3,
+          "reply_count": 258,
+          "retweet_count": 13
+        },
+        "reply_settings": "everyone",
+        "text": "你兴奋个鸡毛？ https://t.co/9rtU3wrL55"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-06T14:13:55.000Z",
+        "description": "中文/od/VOCALOID/音游 纯种乐子人性别不明推上啥都有 私信互关欢迎 我有对象 我很喜欢他",
+        "id": "1964331185590718464",
+        "location": "翼天国",
+        "name": "━Σ(ﾟДﾟ|||)━",
+        "pinned_tweet_id": "1966517785367871718",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001729011576426496/HumNDWc3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 48,
+          "following_count": 270,
+          "like_count": 2667,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 697
+        },
+        "username": "breakcoreWTF",
+        "verified": false
+      },
+      {
+        "created_at": "2008-12-16T22:10:50.000Z",
+        "description": "来和我一起碎碎念！",
+        "id": "18174355",
+        "name": "熊出没-熊大",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1916726880780087296/MlTdQcuD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 46509,
+          "following_count": 26,
+          "like_count": 62,
+          "listed_count": 29,
+          "media_count": 192,
+          "tweet_count": 253
+        },
+        "username": "jerrynettuno",
+        "verified": false
+      }
+    ]
+  }
+}

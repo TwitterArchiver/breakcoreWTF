@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2064958006522191872"
+      ],
+      "media_source_tweet_id": [
+        "2064958026994663649"
+      ]
+    },
+    "author_id": "1964331185590718464",
+    "conversation_id": "2064976109171884145",
+    "created_at": "2026-06-11T07:40:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-11T08:40:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064976109171884145"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1404997135360270343",
+          "start": 3,
+          "username": "_yukinaOvO"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/9SlJFs9IsD",
+          "end": 51,
+          "expanded_url": "https://x.com/_yukinaOvO/status/2064958026994663649/photo/1",
+          "media_key": "3_2064958006522191872",
+          "start": 28,
+          "url": "https://t.co/9SlJFs9IsD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064976109171884145",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064958026994663649",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @_yukinaOvO: 这时候的我有点萌，我去 https://t.co/9SlJFs9IsD"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2064976109171884145].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2064976109171884145",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2064976109171884145"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2064958006522191872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKg0XcbaoAAQDYb.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064958006522191872"
+          ]
+        },
+        "author_id": "1404997135360270343",
+        "conversation_id": "2064958026994663649",
+        "created_at": "2026-06-11T06:28:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T07:28:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064958026994663649"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9SlJFs9IsD",
+              "end": 35,
+              "expanded_url": "https://x.com/_yukinaOvO/status/2064958026994663649/photo/1",
+              "media_key": "3_2064958006522191872",
+              "start": 12,
+              "url": "https://t.co/9SlJFs9IsD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064958026994663649",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 19,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "这时候的我有点萌，我去 https://t.co/9SlJFs9IsD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-06T14:13:55.000Z",
+        "description": "OD丨自伤丨Vocaloid丨友跨顺女\n喜欢爬宠 不卖药 非必要不回私信\n不喜欢的直接b 同类查成分回fo 取关请双取",
+        "id": "1964331185590718464",
+        "location": "颅内",
+        "name": "箸",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061439509125074944/Hf-Lim6c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 791,
+          "following_count": 670,
+          "like_count": 16771,
+          "listed_count": 0,
+          "media_count": 240,
+          "tweet_count": 4746
+        },
+        "username": "breakcoreWTF",
+        "verified": false
+      },
+      {
+        "created_at": "2021-06-16T03:00:05.000Z",
+        "description": "^⌯𖥦⌯^ ੭ 鹿角/Yukina❄️ 碎碎念記錄合集┆水色🩵┆中文En OK┆日本語勉強中┆音游┆繪畫┆非常喜歡玩偶┆直fo會回┆不喜歡我請滾出我的世界",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "tiktok.com/@yuki_ovo_neko",
+                "end": 23,
+                "expanded_url": "http://www.tiktok.com/@yuki_ovo_neko",
+                "start": 0,
+                "url": "https://t.co/MI0cejXPTN"
+              }
+            ]
+          }
+        },
+        "id": "1404997135360270343",
+        "location": "｡ﾟ+.雨° 雪꜆˖♡* 貓咪/ᐠ - ˕ -マ Ⳋ",
+        "name": "Yuki._.Neko",
+        "pinned_tweet_id": "1830797879705059402",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1719895247843450880/4noWKEec_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 300,
+          "like_count": 2204,
+          "listed_count": 0,
+          "media_count": 80,
+          "tweet_count": 751
+        },
+        "url": "https://t.co/MI0cejXPTN",
+        "username": "_yukinaOvO",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,464 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2000461896802308097",
+        "3_2000461896802246656"
+      ],
+      "media_source_tweet_id": [
+        "2000461901806109129",
+        "2000461901806109129"
+      ]
+    },
+    "author_id": "1964331185590718464",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Music and radio",
+          "id": "847524658970636288",
+          "name": "Music"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1509257234663952386",
+          "name": "Vocal synthesizers"
+        }
+      }
+    ],
+    "conversation_id": "2000797930366943267",
+    "created_at": "2025-12-16T05:19:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-16T06:19:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2000797930366943267"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 25,
+          "normalized_text": "Yi Xiさん",
+          "probability": 0.4242,
+          "start": 19,
+          "type": "Person"
+        },
+        {
+          "end": 38,
+          "normalized_text": "テトさん",
+          "probability": 0.6745,
+          "start": 35,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1625260687",
+          "start": 3,
+          "username": "yasai31_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/SKKsjxcAiQ",
+          "end": 82,
+          "expanded_url": "https://x.com/yasai31_/status/2000461901806109129/photo/1",
+          "media_key": "3_2000461896802308097",
+          "start": 59,
+          "url": "https://t.co/SKKsjxcAiQ"
+        },
+        {
+          "display_url": "pic.x.com/SKKsjxcAiQ",
+          "end": 82,
+          "expanded_url": "https://x.com/yasai31_/status/2000461901806109129/photo/1",
+          "media_key": "3_2000461896802246656",
+          "start": 59,
+          "url": "https://t.co/SKKsjxcAiQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2000797930366943267",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 92
+    },
+    "referenced_tweets": [
+      {
+        "id": "2000461901806109129",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yasai31_: ふわふわのYi Xiさんが家に来ました\n\nテトさんもSynthVのお友達が増えて、嬉しげ https://t.co/SKKsjxcAiQ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2000461896802308097",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8MRfwmbEAEo9h2.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2000461896802246656",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8MRfwmaIAAFv6Z.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2000461896802308097",
+            "3_2000461896802246656"
+          ],
+          "media_source_tweet_id": [
+            "2000461901806109129",
+            "2000461901806109129"
+          ]
+        },
+        "author_id": "1964331185590718464",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1509257234663952386",
+              "name": "Vocal synthesizers"
+            }
+          }
+        ],
+        "conversation_id": "2000797930366943267",
+        "created_at": "2025-12-16T05:19:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-16T06:19:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2000797930366943267"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 25,
+              "normalized_text": "Yi Xiさん",
+              "probability": 0.4242,
+              "start": 19,
+              "type": "Person"
+            },
+            {
+              "end": 38,
+              "normalized_text": "テトさん",
+              "probability": 0.6745,
+              "start": 35,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1625260687",
+              "start": 3,
+              "username": "yasai31_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/SKKsjxcAiQ",
+              "end": 82,
+              "expanded_url": "https://x.com/yasai31_/status/2000461901806109129/photo/1",
+              "media_key": "3_2000461896802308097",
+              "start": 59,
+              "url": "https://t.co/SKKsjxcAiQ"
+            },
+            {
+              "display_url": "pic.x.com/SKKsjxcAiQ",
+              "end": 82,
+              "expanded_url": "https://x.com/yasai31_/status/2000461901806109129/photo/1",
+              "media_key": "3_2000461896802246656",
+              "start": 59,
+              "url": "https://t.co/SKKsjxcAiQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000797930366943267",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 92
+        },
+        "referenced_tweets": [
+          {
+            "id": "2000461901806109129",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yasai31_: ふわふわのYi Xiさんが家に来ました\n\nテトさんもSynthVのお友達が増えて、嬉しげ https://t.co/SKKsjxcAiQ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2000461896802308097",
+            "3_2000461896802246656"
+          ]
+        },
+        "author_id": "1625260687",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1509257234663952386",
+              "name": "Vocal synthesizers"
+            }
+          }
+        ],
+        "conversation_id": "2000461901806109129",
+        "created_at": "2025-12-15T07:04:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-15T08:04:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2000461901806109129"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 11,
+              "normalized_text": "Yi Xiさん",
+              "probability": 0.4646,
+              "start": 5,
+              "type": "Person"
+            },
+            {
+              "end": 24,
+              "normalized_text": "テトさん",
+              "probability": 0.672,
+              "start": 21,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/SKKsjxcAiQ",
+              "end": 68,
+              "expanded_url": "https://x.com/yasai31_/status/2000461901806109129/photo/1",
+              "media_key": "3_2000461896802308097",
+              "start": 45,
+              "url": "https://t.co/SKKsjxcAiQ"
+            },
+            {
+              "display_url": "pic.x.com/SKKsjxcAiQ",
+              "end": 68,
+              "expanded_url": "https://x.com/yasai31_/status/2000461901806109129/photo/1",
+              "media_key": "3_2000461896802246656",
+              "start": 45,
+              "url": "https://t.co/SKKsjxcAiQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000461901806109129",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 44,
+          "impression_count": 18949,
+          "like_count": 1437,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 92
+        },
+        "reply_settings": "everyone",
+        "text": "ふわふわのYi Xiさんが家に来ました\n\nテトさんもSynthVのお友達が増えて、嬉しげ https://t.co/SKKsjxcAiQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-06T14:13:55.000Z",
+        "description": "中文/od/VOCALOID/音游 纯种乐子人性别不明推上啥都有 私信互关欢迎 我有对象 我很喜欢他",
+        "id": "1964331185590718464",
+        "location": "翼天国",
+        "name": "━Σ(ﾟДﾟ|||)━",
+        "pinned_tweet_id": "1966517785367871718",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000605559452770304/jICiU7V-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 48,
+          "following_count": 262,
+          "like_count": 2560,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 660
+        },
+        "username": "breakcoreWTF",
+        "verified": false
+      },
+      {
+        "created_at": "2013-07-27T11:11:50.000Z",
+        "description": "主に重音テトでカバーを投稿しています🥖 絵と調声をする \n◆ニコニコ［https://t.co/8aIZX1tWLr］◆Youtube［https://t.co/MiIeZmXXyQ］\n(JASRAC許諾番号J240540991/NexTone許諾番号ID000009605)",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "bit.ly/3vILq4P",
+                "end": 58,
+                "expanded_url": "http://bit.ly/3vILq4P",
+                "start": 35,
+                "url": "https://t.co/8aIZX1tWLr"
+              },
+              {
+                "display_url": "youtube.com/@yasai31",
+                "end": 91,
+                "expanded_url": "https://www.youtube.com/@yasai31",
+                "start": 68,
+                "url": "https://t.co/MiIeZmXXyQ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "fori.io/yasai31",
+                "end": 23,
+                "expanded_url": "https://fori.io/yasai31",
+                "start": 0,
+                "url": "https://t.co/Wg8W6HroE2"
+              }
+            ]
+          }
+        },
+        "id": "1625260687",
+        "location": "yyyasai31✉gmail.com",
+        "name": "yasai31",
+        "pinned_tweet_id": "1946497369237033042",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1548113983617413127/IVkCkHXU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41451,
+          "following_count": 813,
+          "like_count": 52658,
+          "listed_count": 84,
+          "media_count": 791,
+          "tweet_count": 17046
+        },
+        "url": "https://t.co/Wg8W6HroE2",
+        "username": "yasai31_",
+        "verified": true
+      }
+    ]
+  }
+}

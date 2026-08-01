@@ -1,0 +1,281 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2003810288957796352"
+      ],
+      "media_source_tweet_id": [
+        "2003810293982638113"
+      ]
+    },
+    "author_id": "1964331185590718464",
+    "conversation_id": "2003869229419057572",
+    "created_at": "2025-12-24T16:43:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-24T17:43:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2003869229419057572"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "84625899",
+          "start": 3,
+          "username": "sasakure__UK"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/XXwgxGFvKF",
+          "end": 41,
+          "expanded_url": "https://x.com/sasakure__UK/status/2003810293982638113/photo/1",
+          "media_key": "3_2003810288957796352",
+          "start": 18,
+          "url": "https://t.co/XXwgxGFvKF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2003869229419057572",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 941
+    },
+    "referenced_tweets": [
+      {
+        "id": "2003810293982638113",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @sasakure__UK: https://t.co/XXwgxGFvKF"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1433,
+        "media_key": "3_2003810288957796352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G87211aaMAAHS-z.jpg",
+        "width": 1077
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2003810288957796352"
+          ],
+          "media_source_tweet_id": [
+            "2003810293982638113"
+          ]
+        },
+        "author_id": "1964331185590718464",
+        "conversation_id": "2003869229419057572",
+        "created_at": "2025-12-24T16:43:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-24T17:43:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2003869229419057572"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "84625899",
+              "start": 3,
+              "username": "sasakure__UK"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/XXwgxGFvKF",
+              "end": 41,
+              "expanded_url": "https://x.com/sasakure__UK/status/2003810293982638113/photo/1",
+              "media_key": "3_2003810288957796352",
+              "start": 18,
+              "url": "https://t.co/XXwgxGFvKF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003869229419057572",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 941
+        },
+        "referenced_tweets": [
+          {
+            "id": "2003810293982638113",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @sasakure__UK: https://t.co/XXwgxGFvKF"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2003810288957796352"
+          ]
+        },
+        "author_id": "84625899",
+        "conversation_id": "2003810293982638113",
+        "created_at": "2025-12-24T12:49:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-24T13:49:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2003810293982638113"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XXwgxGFvKF",
+              "end": 23,
+              "expanded_url": "https://x.com/sasakure__UK/status/2003810293982638113/photo/1",
+              "media_key": "3_2003810288957796352",
+              "start": 0,
+              "url": "https://t.co/XXwgxGFvKF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003810293982638113",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 130,
+          "impression_count": 95025,
+          "like_count": 6932,
+          "quote_count": 87,
+          "reply_count": 29,
+          "retweet_count": 941
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/XXwgxGFvKF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-06T14:13:55.000Z",
+        "description": "中文/od/VOCALOID/音游 纯种乐子人性别不明推上啥都有 私信互关欢迎",
+        "id": "1964331185590718464",
+        "location": "翼天国",
+        "name": "━Σ(ﾟДﾟ|||)━",
+        "pinned_tweet_id": "2003760156488986744",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001729011576426496/HumNDWc3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 48,
+          "following_count": 287,
+          "like_count": 3013,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 850
+        },
+        "username": "breakcoreWTF",
+        "verified": false
+      },
+      {
+        "created_at": "2009-10-23T16:06:14.000Z",
+        "description": "Music Composer／有形ランペイジ\n@UKRampage_info\n▼Youtube https://t.co/qanjCAcQQF\n▼niconico https://t.co/iiVSZJaMoI \n◆contact https://t.co/KYtx88ht9v",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 23,
+                "username": "UKRampage_info"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "youtube.com/c/sasakureUK02…",
+                "end": 71,
+                "expanded_url": "http://youtube.com/c/sasakureUK0211",
+                "start": 48,
+                "url": "https://t.co/qanjCAcQQF"
+              },
+              {
+                "display_url": "nicovideo.jp/mylist/6280579",
+                "end": 105,
+                "expanded_url": "http://nicovideo.jp/mylist/6280579",
+                "start": 82,
+                "url": "https://t.co/iiVSZJaMoI"
+              },
+              {
+                "display_url": "x.gd/hcZzV",
+                "end": 139,
+                "expanded_url": "https://x.gd/hcZzV",
+                "start": 116,
+                "url": "https://t.co/KYtx88ht9v"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "sasakuration.com",
+                "end": 23,
+                "expanded_url": "https://www.sasakuration.com/",
+                "start": 0,
+                "url": "https://t.co/sG4aEuLqzF"
+              }
+            ]
+          }
+        },
+        "id": "84625899",
+        "location": "???",
+        "name": "sasakure.UK",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907670150192766976/-aCTpAtl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 287439,
+          "following_count": 1125,
+          "like_count": 8485,
+          "listed_count": 2707,
+          "media_count": 4502,
+          "tweet_count": 30837
+        },
+        "url": "https://t.co/sG4aEuLqzF",
+        "username": "sasakure__UK",
+        "verified": true
+      }
+    ]
+  }
+}

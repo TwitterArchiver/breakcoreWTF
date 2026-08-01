@@ -1,0 +1,494 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2015553001881325568"
+      ],
+      "media_source_tweet_id": [
+        "2015553016028655892"
+      ]
+    },
+    "author_id": "1964331185590718464",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1404909205924966400",
+          "name": "Doki Doki Literature Club"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1311309260597329921",
+          "name": "Visual novels"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1404909205924966400",
+          "name": "Doki Doki Literature Club"
+        }
+      }
+    ],
+    "conversation_id": "2015879293768024167",
+    "created_at": "2026-01-26T20:07:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-26T21:07:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2015879293768024167"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 26,
+          "normalized_text": "ナツキちゃん",
+          "probability": 0.7904,
+          "start": 21,
+          "type": "Person"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 20,
+          "start": 15,
+          "tag": "DDLC"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1859489906697043971",
+          "start": 3,
+          "username": "moeti0302"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/WvBTPZwQmU",
+          "end": 61,
+          "expanded_url": "https://x.com/moeti0302/status/2015553016028655892/photo/1",
+          "media_key": "3_2015553001881325568",
+          "start": 38,
+          "url": "https://t.co/WvBTPZwQmU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2015879293768024167",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 406
+    },
+    "referenced_tweets": [
+      {
+        "id": "2015553016028655892",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @moeti0302: #DDLC\nナツキちゃん…見ていてください！ https://t.co/WvBTPZwQmU"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2858,
+        "media_key": "3_2015553001881325568",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_iuxr8b0AAiKXO.jpg",
+        "width": 1951
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2015553001881325568"
+          ],
+          "media_source_tweet_id": [
+            "2015553016028655892"
+          ]
+        },
+        "author_id": "1964331185590718464",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1404909205924966400",
+              "name": "Doki Doki Literature Club"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1311309260597329921",
+              "name": "Visual novels"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1404909205924966400",
+              "name": "Doki Doki Literature Club"
+            }
+          }
+        ],
+        "conversation_id": "2015879293768024167",
+        "created_at": "2026-01-26T20:07:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-26T21:07:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015879293768024167"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 26,
+              "normalized_text": "ナツキちゃん",
+              "probability": 0.7904,
+              "start": 21,
+              "type": "Person"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 20,
+              "start": 15,
+              "tag": "DDLC"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1859489906697043971",
+              "start": 3,
+              "username": "moeti0302"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/WvBTPZwQmU",
+              "end": 61,
+              "expanded_url": "https://x.com/moeti0302/status/2015553016028655892/photo/1",
+              "media_key": "3_2015553001881325568",
+              "start": 38,
+              "url": "https://t.co/WvBTPZwQmU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015879293768024167",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 406
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015553016028655892",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @moeti0302: #DDLC\nナツキちゃん…見ていてください！ https://t.co/WvBTPZwQmU"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2015553001881325568"
+          ]
+        },
+        "author_id": "1859489906697043971",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1404909205924966400",
+              "name": "Doki Doki Literature Club"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1311309260597329921",
+              "name": "Visual novels"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1404909205924966400",
+              "name": "Doki Doki Literature Club"
+            }
+          }
+        ],
+        "conversation_id": "2015553016028655892",
+        "created_at": "2026-01-25T22:31:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-25T23:31:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2015553016028655892"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 11,
+              "normalized_text": "ナツキちゃん",
+              "probability": 0.8033,
+              "start": 6,
+              "type": "Person"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 5,
+              "start": 0,
+              "tag": "DDLC"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/WvBTPZwQmU",
+              "end": 46,
+              "expanded_url": "https://x.com/moeti0302/status/2015553016028655892/photo/1",
+              "media_key": "3_2015553001881325568",
+              "start": 23,
+              "url": "https://t.co/WvBTPZwQmU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015553016028655892",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 229,
+          "impression_count": 20346,
+          "like_count": 3357,
+          "quote_count": 7,
+          "reply_count": 5,
+          "retweet_count": 406
+        },
+        "reply_settings": "everyone",
+        "text": "#DDLC\nナツキちゃん…見ていてください！ https://t.co/WvBTPZwQmU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-06T14:13:55.000Z",
+        "description": "中文/od/VOCALOID/音游 纯种乐子人性别不明推上啥都有 会发泄情绪无需理会 私信互关欢迎 🚪40加微信纯绿可陪聊",
+        "id": "1964331185590718464",
+        "location": "Internet",
+        "name": "薄幸",
+        "pinned_tweet_id": "2003760156488986744",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015679257582964737/T8W4H246_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 55,
+          "following_count": 332,
+          "like_count": 3938,
+          "listed_count": 0,
+          "media_count": 40,
+          "tweet_count": 1232
+        },
+        "username": "breakcoreWTF",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-21T06:52:05.000Z",
+        "description": "🇯🇵絵を描いています/ムチムチが好き/夢はコミケに出ることです🎶18↓",
+        "id": "1859489906697043971",
+        "location": "AI学習・無断転載・無断使用禁止",
+        "name": "もえち おわかれバンド",
+        "pinned_tweet_id": "2014829097982296205",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006324737967063040/QSY4Gzuv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1356,
+          "following_count": 46,
+          "like_count": 9492,
+          "listed_count": 3,
+          "media_count": 49,
+          "tweet_count": 432
+        },
+        "username": "moeti0302",
+        "verified": false
+      }
+    ]
+  }
+}

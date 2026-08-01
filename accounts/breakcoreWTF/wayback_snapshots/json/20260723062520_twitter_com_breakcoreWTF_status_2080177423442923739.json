@@ -1,0 +1,330 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1964331185590718464",
+    "conversation_id": "2079796501296148717",
+    "created_at": "2026-07-23T06:25:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-23T07:25:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080177423442923739"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1894390735207890944",
+          "start": 0,
+          "username": "link1737834"
+        },
+        {
+          "end": 22,
+          "id": "1962862026101080064",
+          "start": 13,
+          "username": "w5206666"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080177423442923739",
+    "in_reply_to_user_id": "1894390735207890944",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079928544969236600",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@link1737834 @w5206666 还真是"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1964331185590718464",
+        "conversation_id": "2079796501296148717",
+        "created_at": "2026-07-23T06:25:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T07:25:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080177423442923739"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1894390735207890944",
+              "start": 0,
+              "username": "link1737834"
+            },
+            {
+              "end": 22,
+              "id": "1962862026101080064",
+              "start": 13,
+              "username": "w5206666"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080177423442923739",
+        "in_reply_to_user_id": "1894390735207890944",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079928544969236600",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@link1737834 @w5206666 还真是"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1894390735207890944",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Mobile gaming",
+              "id": "847527946864607232",
+              "name": "Mobile gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1105532158465040384",
+              "name": "Identity V"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1105532158465040384",
+              "name": "Identity V"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491898017464549376",
+              "name": "Multiplayer games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491899016900083712",
+              "name": "Horror games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491899125926821900",
+              "name": "Survival games"
+            }
+          }
+        ],
+        "conversation_id": "2079796501296148717",
+        "created_at": "2026-07-22T13:56:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T14:56:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079928544969236600"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1962862026101080064",
+              "start": 0,
+              "username": "w5206666"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079928544969236600",
+        "in_reply_to_user_id": "1962862026101080064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 38580,
+          "like_count": 273,
+          "quote_count": 0,
+          "reply_count": 20,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079796501296148717",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@w5206666 玩第五人格的都是傻逼中的傻逼"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-06T14:13:55.000Z",
+        "description": "叫我筷子就可以了(:3っ )っ\nOD丨🔪丨Vocaloid丨音游丨顺女 LGBTQ+friendly\n不卖药 只看互关私信 我很穷欢迎投喂\n不喜欢的直接b 查成分同类回fo 取关请双取",
+        "id": "1964331185590718464",
+        "location": "颅内",
+        "name": "箸",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074711282427842560/EOM9Puhb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1126,
+          "following_count": 800,
+          "like_count": 32851,
+          "listed_count": 0,
+          "media_count": 342,
+          "tweet_count": 6125
+        },
+        "url": "",
+        "username": "breakcoreWTF",
+        "verified": true
+      },
+      {
+        "created_at": "2025-02-25T14:15:37.000Z",
+        "description": "",
+        "id": "1894390735207890944",
+        "name": "Officer Griffin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078390413061505024/Trx9v_BY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 0,
+          "like_count": 7,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 22
+        },
+        "url": "",
+        "username": "link1737834",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-02T12:56:11.000Z",
+        "description": ".",
+        "id": "1962862026101080064",
+        "location": "顺直男全家光光",
+        "name": "伱",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079856809234591744/_TW78vAY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 81,
+          "following_count": 188,
+          "like_count": 766,
+          "listed_count": 2,
+          "media_count": 2,
+          "tweet_count": 21
+        },
+        "url": "",
+        "username": "w5206666",
+        "verified": false
+      }
+    ]
+  }
+}

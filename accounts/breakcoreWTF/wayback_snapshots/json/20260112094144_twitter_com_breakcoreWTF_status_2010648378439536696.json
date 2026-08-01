@@ -1,0 +1,379 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2009267029875019778"
+      ],
+      "media_source_tweet_id": [
+        "2009267163362668826"
+      ]
+    },
+    "author_id": "1964331185590718464",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Music and radio",
+          "id": "847524658970636288",
+          "name": "Music"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1509257234663952386",
+          "name": "Vocal synthesizers"
+        }
+      }
+    ],
+    "conversation_id": "2010648378439536696",
+    "created_at": "2026-01-12T09:41:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-12T10:41:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2010648378439536696"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1449006756533714944",
+          "start": 3,
+          "username": "nekononegi_A"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/x2PX7M1HN0",
+          "end": 70,
+          "expanded_url": "https://x.com/nekononegi_A/status/2009267163362668826/video/1",
+          "media_key": "13_2009267029875019778",
+          "start": 47,
+          "url": "https://t.co/x2PX7M1HN0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2010648378439536696",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 30
+    },
+    "referenced_tweets": [
+      {
+        "id": "2009267163362668826",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @nekononegi_A: …マスター？\n\nVOICEROID　/　結月ゆかり🎤🌙💜 https://t.co/x2PX7M1HN0"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 3133,
+        "height": 1080,
+        "media_key": "13_2009267029875019778",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2009267029875019778/img/snWKcBZm6MYR3kOs.jpg",
+        "public_metrics": {
+          "view_count": 8574
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2009267029875019778/vid/avc1/1280x720/Bc5Sj0TOCZmPPtFu.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2009267029875019778/vid/avc1/1920x1080/8_76xM2n-2kqUIzw.mp4"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2009267029875019778/vid/avc1/480x270/IJr2G_sdKZyOvBJ-.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2009267029875019778/vid/avc1/640x360/eQ1zPNLvzCYjjqPm.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2009267029875019778/pl/Nbh_H3ullZT90Mhq.m3u8"
+          }
+        ],
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2009267029875019778"
+          ],
+          "media_source_tweet_id": [
+            "2009267163362668826"
+          ]
+        },
+        "author_id": "1964331185590718464",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1509257234663952386",
+              "name": "Vocal synthesizers"
+            }
+          }
+        ],
+        "conversation_id": "2010648378439536696",
+        "created_at": "2026-01-12T09:41:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-12T10:41:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2010648378439536696"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1449006756533714944",
+              "start": 3,
+              "username": "nekononegi_A"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/x2PX7M1HN0",
+              "end": 70,
+              "expanded_url": "https://x.com/nekononegi_A/status/2009267163362668826/video/1",
+              "media_key": "13_2009267029875019778",
+              "start": 47,
+              "url": "https://t.co/x2PX7M1HN0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010648378439536696",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 30
+        },
+        "referenced_tweets": [
+          {
+            "id": "2009267163362668826",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @nekononegi_A: …マスター？\n\nVOICEROID　/　結月ゆかり🎤🌙💜 https://t.co/x2PX7M1HN0"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2009267029875019778"
+          ]
+        },
+        "author_id": "1449006756533714944",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          }
+        ],
+        "conversation_id": "2009267163362668826",
+        "created_at": "2026-01-08T14:13:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-08T15:13:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2009267163362668826"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/x2PX7M1HN0",
+              "end": 52,
+              "expanded_url": "https://x.com/nekononegi_A/status/2009267163362668826/video/1",
+              "media_key": "13_2009267029875019778",
+              "start": 29,
+              "url": "https://t.co/x2PX7M1HN0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009267163362668826",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 209,
+          "impression_count": 27483,
+          "like_count": 580,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 30
+        },
+        "reply_settings": "everyone",
+        "text": "…マスター？\n\nVOICEROID　/　結月ゆかり🎤🌙💜 https://t.co/x2PX7M1HN0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-06T14:13:55.000Z",
+        "description": "中文/od/VOCALOID/音游 纯种乐子人性别不明推上啥都有 会发泄情绪无需理会 私信互关欢迎",
+        "id": "1964331185590718464",
+        "location": "幻想郷",
+        "name": "薄幸",
+        "pinned_tweet_id": "2003760156488986744",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001729011576426496/HumNDWc3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 47,
+          "following_count": 308,
+          "like_count": 3450,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 1031
+        },
+        "username": "breakcoreWTF",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-15T13:38:37.000Z",
+        "description": "アニコス・キャラコスを専門にコスプレをしてます🚺✨ 配信やFantia、DL.getchuなどやってます💕詳細は🔗を見てみてね！ GRスープラ乗り。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/akatsuki2222",
+                "end": 23,
+                "expanded_url": "https://lit.link/akatsuki2222",
+                "start": 0,
+                "url": "https://t.co/EtKMaT6csC"
+              }
+            ]
+          }
+        },
+        "id": "1449006756533714944",
+        "location": "画面内",
+        "name": "猫之禰宜あかつき",
+        "pinned_tweet_id": "1977104325152587970",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1691055381005631489/eSJ3h7B2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35749,
+          "following_count": 381,
+          "like_count": 19582,
+          "listed_count": 110,
+          "media_count": 1637,
+          "tweet_count": 17136
+        },
+        "url": "https://t.co/EtKMaT6csC",
+        "username": "nekononegi_A",
+        "verified": true
+      }
+    ]
+  }
+}

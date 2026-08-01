@@ -1,0 +1,302 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1999782418769920000"
+      ],
+      "media_source_tweet_id": [
+        "1999782424381985010"
+      ]
+    },
+    "author_id": "1964331185590718464",
+    "conversation_id": "2000601981891850518",
+    "created_at": "2025-12-15T16:20:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-15T17:20:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2000601981891850518"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 27,
+          "normalized_text": "drift lolita",
+          "probability": 0.6704,
+          "start": 16,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "191830183",
+          "start": 3,
+          "username": "neru_sleep"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/7KawtyOsEr",
+          "end": 52,
+          "expanded_url": "https://x.com/neru_sleep/status/1999782424381985010/photo/1",
+          "media_key": "3_1999782418769920000",
+          "start": 29,
+          "url": "https://t.co/7KawtyOsEr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2000601981891850518",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1101
+    },
+    "referenced_tweets": [
+      {
+        "id": "1999782424381985010",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @neru_sleep: drift lolita https://t.co/7KawtyOsEr"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1999782418769920000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8Cng7raQAAFBtI.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1999782418769920000"
+          ],
+          "media_source_tweet_id": [
+            "1999782424381985010"
+          ]
+        },
+        "author_id": "1964331185590718464",
+        "conversation_id": "2000601981891850518",
+        "created_at": "2025-12-15T16:20:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-15T17:20:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2000601981891850518"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 27,
+              "normalized_text": "drift lolita",
+              "probability": 0.6704,
+              "start": 16,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "191830183",
+              "start": 3,
+              "username": "neru_sleep"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/7KawtyOsEr",
+              "end": 52,
+              "expanded_url": "https://x.com/neru_sleep/status/1999782424381985010/photo/1",
+              "media_key": "3_1999782418769920000",
+              "start": 29,
+              "url": "https://t.co/7KawtyOsEr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000601981891850518",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1101
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999782424381985010",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @neru_sleep: drift lolita https://t.co/7KawtyOsEr"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1999782418769920000"
+          ]
+        },
+        "author_id": "191830183",
+        "conversation_id": "1999782424381985010",
+        "created_at": "2025-12-13T10:04:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-13T11:04:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1999782424381985010"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 11,
+              "normalized_text": "drift lolita",
+              "probability": 0.563,
+              "start": 0,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/7KawtyOsEr",
+              "end": 36,
+              "expanded_url": "https://x.com/neru_sleep/status/1999782424381985010/photo/1",
+              "media_key": "3_1999782418769920000",
+              "start": 13,
+              "url": "https://t.co/7KawtyOsEr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999782424381985010",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 355,
+          "impression_count": 180912,
+          "like_count": 12387,
+          "quote_count": 172,
+          "reply_count": 77,
+          "retweet_count": 1101
+        },
+        "reply_settings": "everyone",
+        "text": "drift lolita https://t.co/7KawtyOsEr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-06T14:13:55.000Z",
+        "description": "中文/od/VOCALOID/音游 纯种乐子人性别不明推上啥都有 私信互关欢迎 我有对象 我很喜欢他",
+        "id": "1964331185590718464",
+        "location": "翼天国",
+        "name": "━Σ(ﾟДﾟ|||)━",
+        "pinned_tweet_id": "1966517785367871718",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986080929002164224/0ugqBVVT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 47,
+          "following_count": 262,
+          "like_count": 2473,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 634
+        },
+        "username": "breakcoreWTF",
+        "verified": false
+      },
+      {
+        "created_at": "2010-09-17T13:31:40.000Z",
+        "description": "japanese songwriting ninja\nYouTube / https://t.co/rmHHRsP9zr\nNicoNico  / https://t.co/8Jd82jJpNY\nInstagram / https://t.co/MtOYuWaN99\nBusiness / info@neru-official.com",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "goo.gl/bXQVc0",
+                "end": 60,
+                "expanded_url": "http://goo.gl/bXQVc0",
+                "start": 37,
+                "url": "https://t.co/rmHHRsP9zr"
+              },
+              {
+                "display_url": "goo.gl/VFQYtP",
+                "end": 96,
+                "expanded_url": "http://goo.gl/VFQYtP",
+                "start": 73,
+                "url": "https://t.co/8Jd82jJpNY"
+              },
+              {
+                "display_url": "goo.gl/nM8Ldf",
+                "end": 132,
+                "expanded_url": "http://goo.gl/nM8Ldf",
+                "start": 109,
+                "url": "https://t.co/MtOYuWaN99"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "neruworks.blog.fc2.com",
+                "end": 23,
+                "expanded_url": "http://neruworks.blog.fc2.com/",
+                "start": 0,
+                "url": "https://t.co/Kg1gIzH8TU"
+              }
+            ]
+          }
+        },
+        "id": "191830183",
+        "location": "楽曲利用のガイドラインは下記URLをご参照下さい。",
+        "name": "Neru",
+        "pinned_tweet_id": "1424295941893279745",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/829627160801341440/II2gtFdo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 590396,
+          "following_count": 269,
+          "like_count": 1081,
+          "listed_count": 3105,
+          "media_count": 155,
+          "tweet_count": 1069
+        },
+        "url": "https://t.co/Kg1gIzH8TU",
+        "username": "neru_sleep",
+        "verified": true
+      }
+    ]
+  }
+}

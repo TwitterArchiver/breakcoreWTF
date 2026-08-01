@@ -1,0 +1,313 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1964331185590718464",
+    "conversation_id": "2081488897587269766",
+    "created_at": "2026-07-26T21:16:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-26T22:16:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081488897587269766"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1961519471383744513",
+          "start": 3,
+          "username": "teethareboness"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081488897587269766",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081385811946111420",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @teethareboness: thought this high contrast pic of me was kinda cool. then i realized i genuinely look like im wearing tree trunks on my…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2081385776265220097",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOKRVfrW0AEtJio.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1390,
+        "media_key": "3_2081385776294621184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOKRVfyXcAAkftu.jpg",
+        "width": 866
+      },
+      {
+        "height": 720,
+        "media_key": "3_2081385776294637568",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOKRVfyXsAARgiP.jpg",
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1964331185590718464",
+        "conversation_id": "2081488897587269766",
+        "created_at": "2026-07-26T21:16:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T22:16:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081488897587269766"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1961519471383744513",
+              "start": 3,
+              "username": "teethareboness"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081488897587269766",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081385811946111420",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @teethareboness: thought this high contrast pic of me was kinda cool. then i realized i genuinely look like im wearing tree trunks on my…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081385776265220097",
+            "3_2081385776294621184",
+            "3_2081385776294637568"
+          ]
+        },
+        "author_id": "1961519471383744513",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Behavior around Fashion",
+              "id": "1006277139233103872",
+              "name": "Behavior around fashion"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "General Fashion",
+              "id": "844604232737087488",
+              "name": "General Fashion"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Pants",
+              "id": "849639334663696384",
+              "name": "Pants"
+            }
+          },
+          {
+            "domain": {
+              "description": "A product taxonomy for labeling categories of products. ",
+              "id": "173",
+              "name": "Product Taxonomy"
+            },
+            "entity": {
+              "description": "Pants",
+              "id": "849639334663696384",
+              "name": "Pants"
+            }
+          }
+        ],
+        "conversation_id": "2081385811946111420",
+        "created_at": "2026-07-26T14:27:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T15:27:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081385811946111420"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 195,
+              "start": 188,
+              "tag": "shrtwt"
+            },
+            {
+              "end": 203,
+              "start": 196,
+              "tag": "edrtwt"
+            },
+            {
+              "end": 212,
+              "start": 204,
+              "tag": "slittwt"
+            },
+            {
+              "end": 219,
+              "start": 213,
+              "tag": "scars"
+            },
+            {
+              "end": 229,
+              "start": 220,
+              "tag": "shedrtwt"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/rE361JRBeY",
+              "end": 253,
+              "expanded_url": "https://x.com/teethareboness/status/2081385811946111420/photo/1",
+              "media_key": "3_2081385776265220097",
+              "start": 230,
+              "url": "https://t.co/rE361JRBeY"
+            },
+            {
+              "display_url": "pic.x.com/rE361JRBeY",
+              "end": 253,
+              "expanded_url": "https://x.com/teethareboness/status/2081385811946111420/photo/1",
+              "media_key": "3_2081385776294621184",
+              "start": 230,
+              "url": "https://t.co/rE361JRBeY"
+            },
+            {
+              "display_url": "pic.x.com/rE361JRBeY",
+              "end": 253,
+              "expanded_url": "https://x.com/teethareboness/status/2081385811946111420/photo/1",
+              "media_key": "3_2081385776294637568",
+              "start": 230,
+              "url": "https://t.co/rE361JRBeY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081385811946111420",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 902,
+          "like_count": 106,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "thought this high contrast pic of me was kinda cool. then i realized i genuinely look like im wearing tree trunks on my arms. and here i was thinking the only wood i got was in my pants…  #shrtwt #edrtwt #slittwt #scars #shedrtwt https://t.co/rE361JRBeY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-06T14:13:55.000Z",
+        "description": "叫我筷子就可以了(:3っ )っ\nOD丨🔪丨Vocaloid丨音游丨顺女 LGBTQ+friendly\n不卖药 只看互关私信 我很穷欢迎投喂\n不喜欢的直接b 查成分同类回fo 取关请双取",
+        "id": "1964331185590718464",
+        "location": "颅内",
+        "name": "箸",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074711282427842560/EOM9Puhb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1298,
+          "following_count": 819,
+          "like_count": 35300,
+          "listed_count": 0,
+          "media_count": 350,
+          "tweet_count": 6312
+        },
+        "url": "",
+        "username": "breakcoreWTF",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-29T20:01:43.000Z",
+        "description": "things to know: 1) body shaming of any kind = blocked. 2) this is NOT a safe space for encouraging disordered behavior. 3) dms are always open! 4) im a man",
+        "id": "1961519471383744513",
+        "name": "name",
+        "pinned_tweet_id": "2081177923789180983",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 99,
+          "following_count": 5,
+          "like_count": 219,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 69
+        },
+        "url": "",
+        "username": "teethareboness",
+        "verified": false
+      }
+    ]
+  }
+}

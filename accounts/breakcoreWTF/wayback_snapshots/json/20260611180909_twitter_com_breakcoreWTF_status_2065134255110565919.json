@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2064992178229981184"
+      ],
+      "media_source_tweet_id": [
+        "2064992240314003745"
+      ]
+    },
+    "author_id": "1964331185590718464",
+    "conversation_id": "2065134255110565919",
+    "created_at": "2026-06-11T18:09:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-11T19:09:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065134255110565919"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "702820160210513920",
+          "start": 3,
+          "username": "bell123bell123"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/yPve3nW3vF",
+          "end": 65,
+          "expanded_url": "https://x.com/bell123bell123/status/2064992240314003745/video/1",
+          "media_key": "7_2064992178229981184",
+          "start": 42,
+          "url": "https://t.co/yPve3nW3vF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065134255110565919",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064992240314003745",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @bell123bell123: 時々、凄く小さ〜い声でブツブツ言ってます🐸 https://t.co/yPve3nW3vF"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 37540,
+        "height": 720,
+        "media_key": "7_2064992178229981184",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2064992178229981184/pu/img/thnqic5lMY1h9hxd.jpg",
+        "public_metrics": {
+          "view_count": 779
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2064992178229981184/pu/vid/avc1/480x270/bqwhPVYyAEjIdDld.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2064992178229981184/pu/vid/avc1/640x360/QT1BG1MzD0U82dvh.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2064992178229981184/pu/vid/avc1/1280x720/Ir3BSgeeHkWMU5U8.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2064992178229981184/pu/pl/3eR2POHNQBdvB6Qu.m3u8?tag=12&v=cfc"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2064992178229981184"
+          ],
+          "media_source_tweet_id": [
+            "2064992240314003745"
+          ]
+        },
+        "author_id": "1964331185590718464",
+        "conversation_id": "2065134255110565919",
+        "created_at": "2026-06-11T18:09:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T19:09:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065134255110565919"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "702820160210513920",
+              "start": 3,
+              "username": "bell123bell123"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/yPve3nW3vF",
+              "end": 65,
+              "expanded_url": "https://x.com/bell123bell123/status/2064992240314003745/video/1",
+              "media_key": "7_2064992178229981184",
+              "start": 42,
+              "url": "https://t.co/yPve3nW3vF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065134255110565919",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064992240314003745",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @bell123bell123: 時々、凄く小さ〜い声でブツブツ言ってます🐸 https://t.co/yPve3nW3vF"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2064992178229981184"
+          ]
+        },
+        "author_id": "702820160210513920",
+        "conversation_id": "2064992240314003745",
+        "created_at": "2026-06-11T08:44:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T09:44:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064992240314003745"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yPve3nW3vF",
+              "end": 45,
+              "expanded_url": "https://x.com/bell123bell123/status/2064992240314003745/video/1",
+              "media_key": "7_2064992178229981184",
+              "start": 22,
+              "url": "https://t.co/yPve3nW3vF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064992240314003745",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 2326,
+          "like_count": 143,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "時々、凄く小さ〜い声でブツブツ言ってます🐸 https://t.co/yPve3nW3vF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-06T14:13:55.000Z",
+        "description": "OD丨自伤丨Vocaloid丨友跨顺女\n喜欢爬宠 不卖药 非必要不回私信\n不喜欢的直接b 同类查成分回fo 取关请双取",
+        "id": "1964331185590718464",
+        "location": "颅内",
+        "name": "箸",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061439509125074944/Hf-Lim6c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 799,
+          "following_count": 674,
+          "like_count": 17010,
+          "listed_count": 0,
+          "media_count": 247,
+          "tweet_count": 4782
+        },
+        "username": "breakcoreWTF",
+        "verified": false
+      },
+      {
+        "created_at": "2016-02-25T11:39:18.000Z",
+        "description": "🐸武蔵野美術大学通信教育課程4年生版画コース🐸\n\nアズマヒキガエルと暮らしています🐸\n歌も歌います。\n野生のカエルや野生生物の保全活動もしたいです🐸\nインスタグラム　eine.glocke",
+        "id": "702820160210513920",
+        "name": "蛙田けろこ",
+        "pinned_tweet_id": "1700783184634589469",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1330837379628756996/-yvSFhEM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 630,
+          "following_count": 663,
+          "like_count": 24485,
+          "listed_count": 3,
+          "media_count": 1707,
+          "tweet_count": 2846
+        },
+        "username": "bell123bell123",
+        "verified": false
+      }
+    ]
+  }
+}

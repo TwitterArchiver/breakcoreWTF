@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1964331185590718464",
+    "conversation_id": "2073928011028852897",
+    "created_at": "2026-07-06T00:32:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-06T01:32:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073928011028852897"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1979223016560119808",
+          "start": 3,
+          "username": "garibansipsi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073928011028852897",
+    "lang": "tr",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 394
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073706476770676849",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @garibansipsi: dünyanın en iğrenç olayları\n\n1 - duş aldıktan sonra sıçmak:"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1964331185590718464",
+        "conversation_id": "2073928011028852897",
+        "created_at": "2026-07-06T00:32:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T01:32:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073928011028852897"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1979223016560119808",
+              "start": 3,
+              "username": "garibansipsi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073928011028852897",
+        "lang": "tr",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 394
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073706476770676849",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @garibansipsi: dünyanın en iğrenç olayları\n\n1 - duş aldıktan sonra sıçmak:"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1979223016560119808",
+        "conversation_id": "2073706476770676849",
+        "created_at": "2026-07-05T09:52:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T10:52:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073706476770676849"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2073706476770676849",
+        "lang": "tr",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 448,
+          "impression_count": 1729189,
+          "like_count": 13471,
+          "quote_count": 37,
+          "reply_count": 114,
+          "retweet_count": 393
+        },
+        "reply_settings": "everyone",
+        "text": "dünyanın en iğrenç olayları\n\n1 - duş aldıktan sonra sıçmak:"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-06T14:13:55.000Z",
+        "description": "OD丨自伤丨Vocaloid丨音游丨LGBTQ+friendly\n喜欢爬宠 不卖药 非必要不回私信 我很穷欢迎投喂\n不喜欢的直接b 同类查成分回fo 取关请双取",
+        "id": "1964331185590718464",
+        "location": "颅内",
+        "name": "箸",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071376088018956288/SAB5MTfr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 884,
+          "following_count": 738,
+          "like_count": 22585,
+          "listed_count": 0,
+          "media_count": 311,
+          "tweet_count": 5417
+        },
+        "url": "",
+        "username": "breakcoreWTF",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-17T16:28:58.000Z",
+        "description": "sona yaklaşan bi dünyayım",
+        "id": "1979223016560119808",
+        "location": "4",
+        "name": "sipsi",
+        "pinned_tweet_id": "1980006989036937679",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056499784731525121/7MyB18oZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15985,
+          "following_count": 8746,
+          "like_count": 35019,
+          "listed_count": 30,
+          "media_count": 1105,
+          "tweet_count": 12267
+        },
+        "url": "",
+        "username": "garibansipsi",
+        "verified": true
+      }
+    ]
+  }
+}

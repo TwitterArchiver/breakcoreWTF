@@ -1,0 +1,304 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2049243184874901504"
+      ],
+      "media_source_tweet_id": [
+        "2049243234401227154"
+      ]
+    },
+    "author_id": "1964331185590718464",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2063692014336741425",
+    "created_at": "2026-06-07T18:38:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T19:38:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063692014336741425"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1664040280138436620",
+          "start": 3,
+          "username": "ContextBirds"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/JZd0uzbP14",
+          "end": 45,
+          "expanded_url": "https://x.com/birdscolour56/status/2049243234401227154/video/1",
+          "media_key": "7_2049243184874901504",
+          "start": 22,
+          "url": "https://t.co/JZd0uzbP14"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063692014336741425",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 142
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063515996531700089",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ContextBirds: 🥝🥝🥝 https://t.co/JZd0uzbP14"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 20866,
+        "height": 1280,
+        "media_key": "7_2049243184874901504",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2049243184874901504/pu/img/HNg6K7RIYOqeE6Y5.jpg",
+        "public_metrics": {
+          "view_count": 98722
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2049243184874901504/pu/vid/avc1/320x568/bHTS4pYj4X3DB4C9.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2049243184874901504/pu/vid/avc1/480x852/7pYpTgAqRg2bKlrI.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2049243184874901504/pu/vid/avc1/720x1280/ubndZ6xS9qx6CaOu.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2049243184874901504/pu/pl/0gbhezSCxiiohmm2.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2049243184874901504"
+          ],
+          "media_source_tweet_id": [
+            "2049243234401227154"
+          ]
+        },
+        "author_id": "1964331185590718464",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2063692014336741425",
+        "created_at": "2026-06-07T18:38:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T19:38:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063692014336741425"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1664040280138436620",
+              "start": 3,
+              "username": "ContextBirds"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/JZd0uzbP14",
+              "end": 45,
+              "expanded_url": "https://x.com/birdscolour56/status/2049243234401227154/video/1",
+              "media_key": "7_2049243184874901504",
+              "start": 22,
+              "url": "https://t.co/JZd0uzbP14"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063692014336741425",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 142
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063515996531700089",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ContextBirds: 🥝🥝🥝 https://t.co/JZd0uzbP14"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2049243184874901504"
+          ],
+          "media_source_tweet_id": [
+            "2049243234401227154"
+          ]
+        },
+        "author_id": "1664040280138436620",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2063515996531700089",
+        "created_at": "2026-06-07T06:58:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T07:58:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063515996531700089"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JZd0uzbP14",
+              "end": 27,
+              "expanded_url": "https://x.com/birdscolour56/status/2049243234401227154/video/1",
+              "media_key": "7_2049243184874901504",
+              "start": 4,
+              "url": "https://t.co/JZd0uzbP14"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063515996531700089",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 72,
+          "impression_count": 19967,
+          "like_count": 926,
+          "quote_count": 9,
+          "reply_count": 3,
+          "retweet_count": 142
+        },
+        "reply_settings": "everyone",
+        "text": "🥝🥝🥝 https://t.co/JZd0uzbP14"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-06T14:13:55.000Z",
+        "description": "OD丨自伤丨Vocaloid丨音游丨友跨顺女\n不喜欢的直接b 同类回fo 取关请双取",
+        "id": "1964331185590718464",
+        "location": "颅内",
+        "name": "箸",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061439509125074944/Hf-Lim6c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 725,
+          "following_count": 641,
+          "like_count": 15459,
+          "listed_count": 0,
+          "media_count": 223,
+          "tweet_count": 4511
+        },
+        "username": "breakcoreWTF",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-31T22:45:04.000Z",
+        "description": "Follow for daily birds content",
+        "id": "1664040280138436620",
+        "location": "Turn on notifs 🔔",
+        "name": "Out of Context Birds",
+        "pinned_tweet_id": "2062723797833388336",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1681788053344403456/E9n1y4v6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 96968,
+          "following_count": 106,
+          "like_count": 4554,
+          "listed_count": 291,
+          "media_count": 2949,
+          "tweet_count": 3384
+        },
+        "username": "ContextBirds",
+        "verified": true
+      }
+    ]
+  }
+}

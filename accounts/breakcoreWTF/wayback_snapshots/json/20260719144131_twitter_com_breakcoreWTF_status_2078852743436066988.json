@@ -1,0 +1,416 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2078763726824783872"
+      ],
+      "media_source_tweet_id": [
+        "2078763737528545582"
+      ]
+    },
+    "author_id": "1964331185590718464",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Television shows from around the world",
+          "id": "3",
+          "name": "TV Shows"
+        },
+        "entity": {
+          "description": "Adult animated web series",
+          "id": "1444043338236104705",
+          "name": "Hazbin Hotel"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1281311833593282560",
+          "name": "Adult animation"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1444046743423762434",
+          "name": "Hazbin Hotel"
+        }
+      },
+      {
+        "domain": {
+          "description": "For global/conceptual TV shows without localization.",
+          "id": "172",
+          "name": "Global TV Show"
+        },
+        "entity": {
+          "id": "1444046743423762434",
+          "name": "Hazbin Hotel"
+        }
+      }
+    ],
+    "conversation_id": "2078852743436066988",
+    "created_at": "2026-07-19T14:41:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-19T15:41:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078852743436066988"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1342441996166725632",
+          "start": 3,
+          "username": "77_k0yama"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ncbo2Sg8GG",
+          "end": 65,
+          "expanded_url": "https://x.com/77_k0yama/status/2078763737528545582/video/1",
+          "media_key": "13_2078763726824783872",
+          "start": 42,
+          "url": "https://t.co/ncbo2Sg8GG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078852743436066988",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 19
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078763737528545582",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @77_k0yama: ちょっと遊びました\nぎこちないけどちゃんと動くか？💦 https://t.co/ncbo2Sg8GG"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 2500,
+        "height": 1006,
+        "media_key": "13_2078763726824783872",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2078763726824783872/img/LmLh90-JCVqHj1De.jpg",
+        "public_metrics": {
+          "view_count": 382
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2078763726824783872/vid/avc1/320x446/mqze1EOT-9r_1YM5.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2078763726824783872/vid/avc1/480x670/CUL0BbqxOIqCrHmH.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2078763726824783872/vid/avc1/720x1006/y99j5hQV54G-9NMt.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2078763726824783872/pl/eqEZ3Uywh28nz48R.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2078763726824783872"
+          ]
+        },
+        "author_id": "1342441996166725632",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "description": "Adult animated web series",
+              "id": "1444043338236104705",
+              "name": "Hazbin Hotel"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1281311833593282560",
+              "name": "Adult animation"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1444046743423762434",
+              "name": "Hazbin Hotel"
+            }
+          },
+          {
+            "domain": {
+              "description": "For global/conceptual TV shows without localization.",
+              "id": "172",
+              "name": "Global TV Show"
+            },
+            "entity": {
+              "id": "1444046743423762434",
+              "name": "Hazbin Hotel"
+            }
+          }
+        ],
+        "conversation_id": "2078763737528545582",
+        "created_at": "2026-07-19T08:47:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T09:47:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078763737528545582"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ncbo2Sg8GG",
+              "end": 50,
+              "expanded_url": "https://x.com/77_k0yama/status/2078763737528545582/video/1",
+              "media_key": "13_2078763726824783872",
+              "start": 27,
+              "url": "https://t.co/ncbo2Sg8GG"
+            },
+            {
+              "display_url": "x.com/77_k0yama/stat…",
+              "end": 74,
+              "expanded_url": "https://twitter.com/77_k0yama/status/2078432558883409922",
+              "start": 51,
+              "url": "https://t.co/QL6EMO6GVo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078763737528545582",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 1767,
+          "like_count": 180,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 19
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078432558883409922",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "ちょっと遊びました\nぎこちないけどちゃんと動くか？💦 https://t.co/ncbo2Sg8GG https://t.co/QL6EMO6GVo"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2078763726824783872"
+          ],
+          "media_source_tweet_id": [
+            "2078763737528545582"
+          ]
+        },
+        "author_id": "1964331185590718464",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "description": "Adult animated web series",
+              "id": "1444043338236104705",
+              "name": "Hazbin Hotel"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1281311833593282560",
+              "name": "Adult animation"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1444046743423762434",
+              "name": "Hazbin Hotel"
+            }
+          },
+          {
+            "domain": {
+              "description": "For global/conceptual TV shows without localization.",
+              "id": "172",
+              "name": "Global TV Show"
+            },
+            "entity": {
+              "id": "1444046743423762434",
+              "name": "Hazbin Hotel"
+            }
+          }
+        ],
+        "conversation_id": "2078852743436066988",
+        "created_at": "2026-07-19T14:41:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T15:41:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078852743436066988"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1342441996166725632",
+              "start": 3,
+              "username": "77_k0yama"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ncbo2Sg8GG",
+              "end": 65,
+              "expanded_url": "https://x.com/77_k0yama/status/2078763737528545582/video/1",
+              "media_key": "13_2078763726824783872",
+              "start": 42,
+              "url": "https://t.co/ncbo2Sg8GG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078852743436066988",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 19
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078763737528545582",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @77_k0yama: ちょっと遊びました\nぎこちないけどちゃんと動くか？💦 https://t.co/ncbo2Sg8GG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-06T14:13:55.000Z",
+        "description": "叫我筷子就可以了(:3っ )っ\nOD丨Vocaloid丨音游丨顺女 LGBTQ+friendly\n不卖药 只看互关私信 我很穷欢迎投喂\n不喜欢的直接b 查成分同类回fo 取关请双取",
+        "id": "1964331185590718464",
+        "location": "颅内",
+        "name": "箸",
+        "pinned_tweet_id": "2077686522225270845",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074711282427842560/EOM9Puhb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1090,
+          "following_count": 775,
+          "like_count": 31010,
+          "listed_count": 0,
+          "media_count": 333,
+          "tweet_count": 5956
+        },
+        "url": "",
+        "username": "breakcoreWTF",
+        "verified": true
+      },
+      {
+        "created_at": "2020-12-25T12:09:14.000Z",
+        "description": "Hazbin Hotel中心🦌｜アラスター多めの絵描き✏️｜🇯🇵20↑🍶｜⚠️AI学習・無断転載禁止🙅‍♀️｜Do not re-upload my art or use it for AI training",
+        "id": "1342441996166725632",
+        "location": "日本のどこか",
+        "name": "枯山 七",
+        "pinned_tweet_id": "2069056024653480389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070409845375934465/AaOOg8iY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1755,
+          "following_count": 377,
+          "like_count": 20474,
+          "listed_count": 10,
+          "media_count": 535,
+          "tweet_count": 10248
+        },
+        "url": "",
+        "username": "77_k0yama",
+        "verified": false
+      }
+    ]
+  }
+}

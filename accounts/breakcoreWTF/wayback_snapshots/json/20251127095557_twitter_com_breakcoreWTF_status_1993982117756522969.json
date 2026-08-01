@@ -1,0 +1,438 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1964331185590718464",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1104125539877412864",
+          "name": "Miku Hatsune"
+        }
+      },
+      {
+        "domain": {
+          "description": "A person or other being in a narrative work of art, like Tom Sawyer or Jon Snow",
+          "id": "122",
+          "name": "Fictional Character"
+        },
+        "entity": {
+          "id": "1104125539877412864",
+          "name": "Miku Hatsune"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1104125539877412864",
+          "name": "Miku Hatsune"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1247236287485997056",
+          "name": "Vocaloid"
+        }
+      }
+    ],
+    "conversation_id": "1993982117756522969",
+    "created_at": "2025-11-27T09:55:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-27T10:55:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1993982117756522969"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 122,
+          "normalized_text": "初音ミク",
+          "probability": 0.6687,
+          "start": 119,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1001107099",
+          "start": 3,
+          "username": "maimai_official"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993982117756522969",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2048
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993877777855242288",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @maimai_official: 【12/5(金)「cosMo@暴走P」ちほー2登場！】\n12/5(金)からは、cosMo＠暴走Pコラボの第2弾が登場！\nフェスタとコラボちほー、両方でハイスピードな楽曲を遊び尽くせ！！💨\n\n🎵初音ミクの暴走\n🎵Let's ミクササイズ！…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1152,
+        "media_key": "3_1993877749434593280",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6utP8SasAAvShK.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1964331185590718464",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "A person or other being in a narrative work of art, like Tom Sawyer or Jon Snow",
+              "id": "122",
+              "name": "Fictional Character"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1247236287485997056",
+              "name": "Vocaloid"
+            }
+          }
+        ],
+        "conversation_id": "1993982117756522969",
+        "created_at": "2025-11-27T09:55:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-27T10:55:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993982117756522969"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 122,
+              "normalized_text": "初音ミク",
+              "probability": 0.6687,
+              "start": 119,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1001107099",
+              "start": 3,
+              "username": "maimai_official"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993982117756522969",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2048
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993877777855242288",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @maimai_official: 【12/5(金)「cosMo@暴走P」ちほー2登場！】\n12/5(金)からは、cosMo＠暴走Pコラボの第2弾が登場！\nフェスタとコラボちほー、両方でハイスピードな楽曲を遊び尽くせ！！💨\n\n🎵初音ミクの暴走\n🎵Let's ミクササイズ！…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1993877749434593280"
+          ]
+        },
+        "author_id": "1001107099",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A person or other being in a narrative work of art, like Tom Sawyer or Jon Snow",
+              "id": "122",
+              "name": "Fictional Character"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1247236287485997056",
+              "name": "Vocaloid"
+            }
+          }
+        ],
+        "conversation_id": "1993877777855242288",
+        "created_at": "2025-11-27T03:01:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-27T04:01:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1993877777855242288"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 17,
+              "normalized_text": "cosMo@暴走P",
+              "probability": 0.4358,
+              "start": 9,
+              "type": "Other"
+            },
+            {
+              "end": 101,
+              "normalized_text": "初音ミク",
+              "probability": 0.7522,
+              "start": 98,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "info-maimai.sega.jp/8222/",
+              "end": 170,
+              "expanded_url": "https://info-maimai.sega.jp/8222/",
+              "start": 147,
+              "status": 404,
+              "unwound_url": "https://info-maimai.sega.jp/8222/",
+              "url": "https://t.co/HLvN8OqGTl"
+            },
+            {
+              "display_url": "pic.x.com/nYNEQjIJ9D",
+              "end": 194,
+              "expanded_url": "https://x.com/maimai_official/status/1993877777855242288/photo/1",
+              "media_key": "3_1993877749434593280",
+              "start": 171,
+              "url": "https://t.co/nYNEQjIJ9D"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993877777855242288",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 186,
+          "impression_count": 317292,
+          "like_count": 4588,
+          "quote_count": 1087,
+          "reply_count": 31,
+          "retweet_count": 2048
+        },
+        "reply_settings": "everyone",
+        "text": "【12/5(金)「cosMo@暴走P」ちほー2登場！】\n12/5(金)からは、cosMo＠暴走Pコラボの第2弾が登場！\nフェスタとコラボちほー、両方でハイスピードな楽曲を遊び尽くせ！！💨\n\n🎵初音ミクの暴走\n🎵Let's ミクササイズ！！\n🎵ラストピースに祝福と栄光を\n\n⬇️詳しくはコチラ！\nhttps://t.co/HLvN8OqGTl https://t.co/nYNEQjIJ9D"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-06T14:13:55.000Z",
+        "description": "中文/od/VOCALOID/音游 纯种乐子人性别不明推上啥都有 私信互关欢迎 我有对象 我很喜欢他",
+        "id": "1964331185590718464",
+        "location": "翼天国",
+        "name": "(′д｀ )…",
+        "pinned_tweet_id": "1966517785367871718",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986080929002164224/0ugqBVVT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40,
+          "following_count": 257,
+          "like_count": 2382,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 574
+        },
+        "username": "breakcoreWTF",
+        "verified": false
+      },
+      {
+        "created_at": "2012-12-10T06:53:46.000Z",
+        "description": "洗濯機みたいなSEGA音楽ゲーム「maimai」公式アカウントです。\n▼SEGA音ゲーまとめ→ @performai ▼公式全国大会→ @kop_sega ▼言ノ葉Project→ @kotonoha_PJ ▼CHUNITHM公式→ @chunithm ▼オンゲキ公式→ @ongeki_official",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 48,
+                "username": "performai"
+              },
+              {
+                "end": 77,
+                "start": 68,
+                "username": "kop_sega"
+              },
+              {
+                "end": 103,
+                "start": 91,
+                "username": "kotonoha_PJ"
+              },
+              {
+                "end": 126,
+                "start": 117,
+                "username": "chunithm"
+              },
+              {
+                "end": 152,
+                "start": 136,
+                "username": "ongeki_official"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "maimai.sega.jp",
+                "end": 23,
+                "expanded_url": "https://maimai.sega.jp/",
+                "start": 0,
+                "url": "https://t.co/LI9j5dkDL6"
+              }
+            ]
+          }
+        },
+        "id": "1001107099",
+        "location": "セガ",
+        "name": "maimai でらっくす公式",
+        "pinned_tweet_id": "1993877777855242288",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1270188881581756419/7hrfPNnB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 175414,
+          "following_count": 26,
+          "like_count": 143,
+          "listed_count": 1376,
+          "media_count": 1307,
+          "tweet_count": 2957
+        },
+        "url": "https://t.co/LI9j5dkDL6",
+        "username": "maimai_official",
+        "verified": true
+      }
+    ]
+  }
+}

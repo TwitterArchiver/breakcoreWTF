@@ -1,0 +1,157 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2064041923162337280"
+      ]
+    },
+    "author_id": "1964331185590718464",
+    "conversation_id": "2064041997678334214",
+    "created_at": "2026-06-08T17:48:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-08T18:48:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2064041997678334214"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/4pDgyRKbIo",
+          "end": 39,
+          "expanded_url": "https://x.com/breakcoreWTF/status/2064041997678334214/video/1",
+          "media_key": "13_2064041923162337280",
+          "start": 16,
+          "url": "https://t.co/4pDgyRKbIo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064041997678334214",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "这个就是我呀，头上有两个妙脆角 https://t.co/4pDgyRKbIo"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 6548,
+        "height": 1920,
+        "media_key": "13_2064041923162337280",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2064041923162337280/img/x8M5tMgToxyiBPcl.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2064041923162337280/vid/avc1/320x568/mUEqCpate2hL5bks.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2064041923162337280/vid/avc1/480x852/85pk5K6-r3YPtN90.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2064041923162337280/vid/avc1/720x1280/W_bt_ooQ68rvQdzs.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2064041923162337280/pl/7BuAXqX_AwR9cJZO.m3u8?tag=14"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2064041923162337280"
+          ]
+        },
+        "author_id": "1964331185590718464",
+        "conversation_id": "2064041997678334214",
+        "created_at": "2026-06-08T17:48:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T18:48:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064041997678334214"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4pDgyRKbIo",
+              "end": 39,
+              "expanded_url": "https://x.com/breakcoreWTF/status/2064041997678334214/video/1",
+              "media_key": "13_2064041923162337280",
+              "start": 16,
+              "url": "https://t.co/4pDgyRKbIo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064041997678334214",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这个就是我呀，头上有两个妙脆角 https://t.co/4pDgyRKbIo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-06T14:13:55.000Z",
+        "description": "OD丨自伤丨Vocaloid丨音游丨友跨顺女\n不喜欢的直接b 同类回fo 取关请双取",
+        "id": "1964331185590718464",
+        "location": "颅内",
+        "name": "箸",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061439509125074944/Hf-Lim6c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 752,
+          "following_count": 653,
+          "like_count": 15864,
+          "listed_count": 0,
+          "media_count": 232,
+          "tweet_count": 4588
+        },
+        "username": "breakcoreWTF",
+        "verified": false
+      }
+    ]
+  }
+}

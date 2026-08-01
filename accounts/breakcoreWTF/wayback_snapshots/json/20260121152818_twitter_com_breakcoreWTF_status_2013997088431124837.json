@@ -1,0 +1,198 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1964331185590718464",
+    "conversation_id": "2013997088431124837",
+    "created_at": "2026-01-21T15:28:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-21T16:28:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2013997088431124837"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1732356232290222080",
+          "start": 3,
+          "username": "8964_Y"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2013997088431124837",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 8
+    },
+    "referenced_tweets": [
+      {
+        "id": "2013942319938994183",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @8964_Y: 豆包帮我去除愈创木酚甘油醚"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1964331185590718464",
+        "conversation_id": "2013997088431124837",
+        "created_at": "2026-01-21T15:28:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-21T16:28:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2013997088431124837"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1732356232290222080",
+              "start": 3,
+              "username": "8964_Y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013997088431124837",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 8
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013942319938994183",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @8964_Y: 豆包帮我去除愈创木酚甘油醚"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1732356232290222080",
+        "conversation_id": "2013942319938994183",
+        "created_at": "2026-01-21T11:50:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-21T12:50:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2013942319938994183"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2013942319938994183",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1067,
+          "like_count": 30,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "豆包帮我去除愈创木酚甘油醚"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-06T14:13:55.000Z",
+        "description": "中文/od/VOCALOID/音游 纯种乐子人性别不明推上啥都有 会发泄情绪无需理会 私信互关欢迎",
+        "id": "1964331185590718464",
+        "location": "幻想郷",
+        "name": "薄幸",
+        "pinned_tweet_id": "2003760156488986744",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010659872770326528/BT09LiKm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 49,
+          "following_count": 322,
+          "like_count": 3715,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 1136
+        },
+        "username": "breakcoreWTF",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-06T11:08:15.000Z",
+        "description": "所有推文都是三体人发的和我没有任何关系｜只过信任的人：@llll3lll313｜专门发画的：@QY_art7 ｜我闺@cnmnms666｜不要在我作品下谈论政治滚｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 27,
+                "username": "llll3lll313"
+              },
+              {
+                "end": 54,
+                "start": 46,
+                "username": "QY_art7"
+              },
+              {
+                "end": 68,
+                "start": 58,
+                "username": "cnmnms666"
+              }
+            ]
+          }
+        },
+        "id": "1732356232290222080",
+        "location": "神域市",
+        "name": "洇魔女だ",
+        "pinned_tweet_id": "1976991482767982990",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937433822024597505/Se9_jaWg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5852,
+          "following_count": 834,
+          "like_count": 18275,
+          "listed_count": 19,
+          "media_count": 972,
+          "tweet_count": 14276
+        },
+        "username": "8964_Y",
+        "verified": false
+      }
+    ]
+  }
+}

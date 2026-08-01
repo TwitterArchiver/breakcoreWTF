@@ -1,0 +1,486 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2017490547313938435"
+      ],
+      "media_source_tweet_id": [
+        "2017490599482646613"
+      ]
+    },
+    "author_id": "1964331185590718464",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1104125539877412864",
+          "name": "Miku Hatsune"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A person or other being in a narrative work of art, like Tom Sawyer or Jon Snow",
+          "id": "122",
+          "name": "Fictional Character"
+        },
+        "entity": {
+          "id": "1104125539877412864",
+          "name": "Miku Hatsune"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1104125539877412864",
+          "name": "Miku Hatsune"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1247236287485997056",
+          "name": "Vocaloid"
+        }
+      }
+    ],
+    "conversation_id": "2017589544586252494",
+    "created_at": "2026-01-31T13:23:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-31T14:23:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2017589544586252494"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 20,
+          "normalized_text": "初音ミクさん",
+          "probability": 0.4671,
+          "start": 15,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 11,
+          "id": "62045827",
+          "start": 3,
+          "username": "myosuke"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/kOs9EttRdg",
+          "end": 81,
+          "expanded_url": "https://x.com/myosuke/status/2017490599482646613/video/1",
+          "media_key": "13_2017490547313938435",
+          "start": 58,
+          "url": "https://t.co/kOs9EttRdg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2017589544586252494",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 282
+    },
+    "referenced_tweets": [
+      {
+        "id": "2017490599482646613",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @myosuke: 僕の初音ミクさんからは歪んだキックみたいな音しか出ないけど、いつかは正しく歌ってくれよな https://t.co/kOs9EttRdg"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 9100,
+        "height": 766,
+        "media_key": "13_2017490547313938435",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2017490547313938435/img/TbCplmI0Pf5rTygZ.jpg",
+        "public_metrics": {
+          "view_count": 14268
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 432000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2017490547313938435/vid/avc1/320x320/nryQkDG-j_tKpbhm.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2017490547313938435/vid/avc1/540x540/goqpp3iIM_EFb1R0.mp4"
+          },
+          {
+            "bit_rate": 1280000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2017490547313938435/vid/avc1/766x766/tyZu_wN3I1zixIs2.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2017490547313938435/pl/mpC0QUZWHNz8nnY_.m3u8"
+          }
+        ],
+        "width": 766
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2017490547313938435"
+          ],
+          "media_source_tweet_id": [
+            "2017490599482646613"
+          ]
+        },
+        "author_id": "1964331185590718464",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A person or other being in a narrative work of art, like Tom Sawyer or Jon Snow",
+              "id": "122",
+              "name": "Fictional Character"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1247236287485997056",
+              "name": "Vocaloid"
+            }
+          }
+        ],
+        "conversation_id": "2017589544586252494",
+        "created_at": "2026-01-31T13:23:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-31T14:23:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017589544586252494"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 20,
+              "normalized_text": "初音ミクさん",
+              "probability": 0.4671,
+              "start": 15,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 11,
+              "id": "62045827",
+              "start": 3,
+              "username": "myosuke"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/kOs9EttRdg",
+              "end": 81,
+              "expanded_url": "https://x.com/myosuke/status/2017490599482646613/video/1",
+              "media_key": "13_2017490547313938435",
+              "start": 58,
+              "url": "https://t.co/kOs9EttRdg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017589544586252494",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 282
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017490599482646613",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @myosuke: 僕の初音ミクさんからは歪んだキックみたいな音しか出ないけど、いつかは正しく歌ってくれよな https://t.co/kOs9EttRdg"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2017490547313938435"
+          ]
+        },
+        "author_id": "62045827",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "A person or other being in a narrative work of art, like Tom Sawyer or Jon Snow",
+              "id": "122",
+              "name": "Fictional Character"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1247236287485997056",
+              "name": "Vocaloid"
+            }
+          }
+        ],
+        "conversation_id": "2017490599482646613",
+        "created_at": "2026-01-31T06:50:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-31T07:50:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2017490599482646613"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 7,
+              "normalized_text": "初音ミクさん",
+              "probability": 0.4679,
+              "start": 2,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/kOs9EttRdg",
+              "end": 68,
+              "expanded_url": "https://x.com/myosuke/status/2017490599482646613/video/1",
+              "media_key": "13_2017490547313938435",
+              "start": 45,
+              "url": "https://t.co/kOs9EttRdg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017490599482646613",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 258,
+          "impression_count": 43110,
+          "like_count": 1697,
+          "quote_count": 15,
+          "reply_count": 4,
+          "retweet_count": 282
+        },
+        "reply_settings": "everyone",
+        "text": "僕の初音ミクさんからは歪んだキックみたいな音しか出ないけど、いつかは正しく歌ってくれよな https://t.co/kOs9EttRdg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-06T14:13:55.000Z",
+        "description": "中文/od/自伤/友跨顺女/VOCALOID/音游 舞萌普通w53 纯种乐子人 推上啥都有 负能量相关最好不要关心 其他交流欢迎 我不想在推特都做不到口无遮拦 互fo欢迎 🚪40加微信纯绿可配聊 熟悉的推友可以免门费",
+        "id": "1964331185590718464",
+        "location": "Internet",
+        "name": "薄幸",
+        "pinned_tweet_id": "2016685165557534981",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015679257582964737/T8W4H246_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 83,
+          "following_count": 349,
+          "like_count": 5284,
+          "listed_count": 0,
+          "media_count": 71,
+          "tweet_count": 1669
+        },
+        "username": "breakcoreWTF",
+        "verified": false
+      },
+      {
+        "created_at": "2009-08-01T14:42:34.000Z",
+        "description": "Hardcore Producer\n歪んだ激しい曲を作ります⚠\n┊YouTube→https://t.co/sS20MNM0Qt\n┊日常→ @dj_myosuke\n┊🌚→ @joe__fight\n┊HARDCORE TANO*C所属\n┊楽曲提供→チュウニズム/Arcaea/太鼓の達人/WACCA等",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 81,
+                "start": 70,
+                "username": "dj_myosuke"
+              },
+              {
+                "end": 97,
+                "start": 86,
+                "username": "joe__fight"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "youtube.com/djmyosuke",
+                "end": 64,
+                "expanded_url": "https://www.youtube.com/djmyosuke",
+                "start": 41,
+                "url": "https://t.co/sS20MNM0Qt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "myosuke.com",
+                "end": 23,
+                "expanded_url": "https://myosuke.com",
+                "start": 0,
+                "url": "https://t.co/dLiTXiBcU6"
+              }
+            ]
+          }
+        },
+        "id": "62045827",
+        "location": "ご依頼→myosuke.666 at gmail.com",
+        "name": "DJ Myosuke",
+        "pinned_tweet_id": "2012829144447619196",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973316678076481536/NCF8CbU4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 61453,
+          "following_count": 724,
+          "like_count": 10837,
+          "listed_count": 362,
+          "media_count": 7709,
+          "tweet_count": 47795
+        },
+        "url": "https://t.co/dLiTXiBcU6",
+        "username": "myosuke",
+        "verified": true
+      }
+    ]
+  }
+}

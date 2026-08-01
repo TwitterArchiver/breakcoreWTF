@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2027244967614402560"
+      ],
+      "media_source_tweet_id": [
+        "2027244976258822432"
+      ]
+    },
+    "author_id": "1964331185590718464",
+    "conversation_id": "2027419054626193767",
+    "created_at": "2026-02-27T16:22:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-27T17:22:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027419054626193767"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1622066090074607616",
+          "start": 3,
+          "username": "hoshinofujivy"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/JUsdHS1ewM",
+          "end": 42,
+          "expanded_url": "https://x.com/hoshinofujivy/status/2027244976258822432/photo/1",
+          "media_key": "3_2027244967614402560",
+          "start": 19,
+          "url": "https://t.co/JUsdHS1ewM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027419054626193767",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 27
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027244976258822432",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hoshinofujivy: https://t.co/JUsdHS1ewM"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1273,
+        "media_key": "3_2027244967614402560",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCI4jqda0AAJuJ6.jpg",
+        "width": 959
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2027244967614402560"
+          ],
+          "media_source_tweet_id": [
+            "2027244976258822432"
+          ]
+        },
+        "author_id": "1964331185590718464",
+        "conversation_id": "2027419054626193767",
+        "created_at": "2026-02-27T16:22:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T17:22:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027419054626193767"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1622066090074607616",
+              "start": 3,
+              "username": "hoshinofujivy"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/JUsdHS1ewM",
+              "end": 42,
+              "expanded_url": "https://x.com/hoshinofujivy/status/2027244976258822432/photo/1",
+              "media_key": "3_2027244967614402560",
+              "start": 19,
+              "url": "https://t.co/JUsdHS1ewM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027419054626193767",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 27
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027244976258822432",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hoshinofujivy: https://t.co/JUsdHS1ewM"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2027244967614402560"
+          ]
+        },
+        "author_id": "1622066090074607616",
+        "conversation_id": "2027244976258822432",
+        "created_at": "2026-02-27T04:50:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T05:50:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027244976258822432"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JUsdHS1ewM",
+              "end": 23,
+              "expanded_url": "https://x.com/hoshinofujivy/status/2027244976258822432/photo/1",
+              "media_key": "3_2027244967614402560",
+              "start": 0,
+              "url": "https://t.co/JUsdHS1ewM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027244976258822432",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 32,
+          "impression_count": 27983,
+          "like_count": 983,
+          "quote_count": 3,
+          "reply_count": 11,
+          "retweet_count": 27
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/JUsdHS1ewM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-06T14:13:55.000Z",
+        "description": "OD丨自伤丨Vocaloid丨音游丨友跨顺女丨少关心我\n不喜欢的直接b 推特是垃圾桶口无遮拦 同类回fo",
+        "id": "1964331185590718464",
+        "location": "🚪50/88 同类熟推免",
+        "name": "箸",
+        "pinned_tweet_id": "2024039744276189189",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019848796881186816/pdjXkx-3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 651,
+          "following_count": 597,
+          "like_count": 10752,
+          "listed_count": 0,
+          "media_count": 168,
+          "tweet_count": 3289
+        },
+        "username": "breakcoreWTF",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-05T02:54:57.000Z",
+        "description": "「星穹闌珊，草野風動，斯人舞螢，其名為藤」｜一生挚爱@nationalpurevf4｜NASA｜AIart｜Pixiv Illustrator｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 26,
+                "username": "nationalpurevf4"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/97080106",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/97080106",
+                "start": 0,
+                "url": "https://t.co/ATdhqXSswL"
+              }
+            ]
+          }
+        },
+        "id": "1622066090074607616",
+        "location": "台湾 真理子怀里",
+        "name": "星野ふじ",
+        "pinned_tweet_id": "2025071515801452629",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014254681913237505/8uQeEJEb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4182,
+          "following_count": 3693,
+          "like_count": 36147,
+          "listed_count": 6,
+          "media_count": 937,
+          "tweet_count": 8521
+        },
+        "url": "https://t.co/ATdhqXSswL",
+        "username": "hoshinofujivy",
+        "verified": true
+      }
+    ]
+  }
+}

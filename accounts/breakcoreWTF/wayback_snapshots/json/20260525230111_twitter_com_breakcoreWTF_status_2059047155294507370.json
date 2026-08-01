@@ -1,0 +1,445 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2058885435665907712"
+      ],
+      "media_source_tweet_id": [
+        "2058885446038397267"
+      ]
+    },
+    "author_id": "1964331185590718464",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Drawing and sketching",
+          "id": "847869251595542528",
+          "name": "Drawing & illustration"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Drawing and sketching",
+          "id": "847869251595542528",
+          "name": "Drawing & illustration"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Visual Arts",
+          "id": "1046577790353428480",
+          "name": "Visual arts"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1265660441822281728",
+          "name": "Art"
+        }
+      }
+    ],
+    "conversation_id": "2059047155294507370",
+    "created_at": "2026-05-25T23:01:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-26T00:01:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059047155294507370"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 42,
+          "start": 37,
+          "tag": "イラスト"
+        },
+        {
+          "end": 53,
+          "start": 43,
+          "tag": "NEEDY_Pic"
+        },
+        {
+          "end": 75,
+          "start": 55,
+          "tag": "NEEDY_GIRL_OVERDOSE"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1415655463191031812",
+          "start": 3,
+          "username": "bytreyart"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/as36eb0EXz",
+          "end": 99,
+          "expanded_url": "https://x.com/bytreyart/status/2058885446038397267/photo/1",
+          "media_key": "3_2058885435665907712",
+          "start": 76,
+          "url": "https://t.co/as36eb0EXz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059047155294507370",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 149
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058885446038397267",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @bytreyart: P-chan, is that you?\n\n#イラスト\n#NEEDY_Pic \n#NEEDY_GIRL_OVERDOSE https://t.co/as36eb0EXz"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1426,
+        "media_key": "3_2058885435665907712",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJKhZTIXgAAB2xT.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058885435665907712"
+          ],
+          "media_source_tweet_id": [
+            "2058885446038397267"
+          ]
+        },
+        "author_id": "1964331185590718464",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          }
+        ],
+        "conversation_id": "2059047155294507370",
+        "created_at": "2026-05-25T23:01:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T00:01:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059047155294507370"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 42,
+              "start": 37,
+              "tag": "イラスト"
+            },
+            {
+              "end": 53,
+              "start": 43,
+              "tag": "NEEDY_Pic"
+            },
+            {
+              "end": 75,
+              "start": 55,
+              "tag": "NEEDY_GIRL_OVERDOSE"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1415655463191031812",
+              "start": 3,
+              "username": "bytreyart"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/as36eb0EXz",
+              "end": 99,
+              "expanded_url": "https://x.com/bytreyart/status/2058885446038397267/photo/1",
+              "media_key": "3_2058885435665907712",
+              "start": 76,
+              "url": "https://t.co/as36eb0EXz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059047155294507370",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 149
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058885446038397267",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @bytreyart: P-chan, is that you?\n\n#イラスト\n#NEEDY_Pic \n#NEEDY_GIRL_OVERDOSE https://t.co/as36eb0EXz"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058885435665907712"
+          ]
+        },
+        "author_id": "1415655463191031812",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          }
+        ],
+        "conversation_id": "2058885446038397267",
+        "created_at": "2026-05-25T12:18:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T13:18:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058885446038397267"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 27,
+              "start": 22,
+              "tag": "イラスト"
+            },
+            {
+              "end": 38,
+              "start": 28,
+              "tag": "NEEDY_Pic"
+            },
+            {
+              "end": 60,
+              "start": 40,
+              "tag": "NEEDY_GIRL_OVERDOSE"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/as36eb0EXz",
+              "end": 84,
+              "expanded_url": "https://x.com/bytreyart/status/2058885446038397267/photo/1",
+              "media_key": "3_2058885435665907712",
+              "start": 61,
+              "url": "https://t.co/as36eb0EXz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058885446038397267",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 94,
+          "impression_count": 6780,
+          "like_count": 1191,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 149
+        },
+        "reply_settings": "everyone",
+        "text": "P-chan, is that you?\n\n#イラスト\n#NEEDY_Pic \n#NEEDY_GIRL_OVERDOSE https://t.co/as36eb0EXz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-06T14:13:55.000Z",
+        "description": "OD丨自伤丨Vocaloid丨音游丨友跨顺女\n不喜欢的直接b 同类回fo 取关请双取",
+        "id": "1964331185590718464",
+        "location": "颅内",
+        "name": "箸",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059045985826078721/d21n6gXC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 653,
+          "following_count": 587,
+          "like_count": 13629,
+          "listed_count": 0,
+          "media_count": 187,
+          "tweet_count": 4008
+        },
+        "username": "breakcoreWTF",
+        "verified": false
+      },
+      {
+        "created_at": "2021-07-15T12:54:11.000Z",
+        "description": "𑣲 hallooo (• w •)/ I am an Ilustrator! \n𑣲 私が美しいと感じるものを描.   Credit me when reposting! Don’t use my art for Al training or unauthorized reproduction がとう！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/bytreyart",
+                "end": 23,
+                "expanded_url": "https://t.me/bytreyart",
+                "start": 0,
+                "url": "https://t.co/zxpXEBPXgX"
+              }
+            ]
+          }
+        },
+        "id": "1415655463191031812",
+        "name": "bytrey",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045450948361990144/PYFrLIGA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 293,
+          "following_count": 38,
+          "like_count": 612,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 57
+        },
+        "url": "https://t.co/zxpXEBPXgX",
+        "username": "bytreyart",
+        "verified": true
+      }
+    ]
+  }
+}

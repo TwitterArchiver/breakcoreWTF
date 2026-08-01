@@ -1,0 +1,267 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2026877849182031872"
+      ],
+      "media_source_tweet_id": [
+        "2026877851379875965"
+      ]
+    },
+    "author_id": "1964331185590718464",
+    "conversation_id": "2027261586436673705",
+    "created_at": "2026-02-27T05:56:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-27T06:56:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027261586436673705"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1875538046789283843",
+          "start": 3,
+          "username": "jiji0752"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/MEtau1WPXH",
+          "end": 40,
+          "expanded_url": "https://x.com/jiji0752/status/2026877851379875965/photo/1",
+          "media_key": "3_2026877849182031872",
+          "start": 17,
+          "url": "https://t.co/MEtau1WPXH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027261586436673705",
+    "lang": "ko",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 285
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026877851379875965",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @jiji0752: 니고 https://t.co/MEtau1WPXH"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1600,
+        "media_key": "3_2026877849182031872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCDqqjuaUAAO9He.jpg",
+        "width": 1105
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2026877849182031872"
+          ],
+          "media_source_tweet_id": [
+            "2026877851379875965"
+          ]
+        },
+        "author_id": "1964331185590718464",
+        "conversation_id": "2027261586436673705",
+        "created_at": "2026-02-27T05:56:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T06:56:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027261586436673705"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1875538046789283843",
+              "start": 3,
+              "username": "jiji0752"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/MEtau1WPXH",
+              "end": 40,
+              "expanded_url": "https://x.com/jiji0752/status/2026877851379875965/photo/1",
+              "media_key": "3_2026877849182031872",
+              "start": 17,
+              "url": "https://t.co/MEtau1WPXH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027261586436673705",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 285
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026877851379875965",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @jiji0752: 니고 https://t.co/MEtau1WPXH"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2026877849182031872"
+          ]
+        },
+        "author_id": "1875538046789283843",
+        "conversation_id": "2026877851379875965",
+        "created_at": "2026-02-26T04:31:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-26T05:31:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2026877851379875965"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MEtau1WPXH",
+              "end": 26,
+              "expanded_url": "https://x.com/jiji0752/status/2026877851379875965/photo/1",
+              "media_key": "3_2026877849182031872",
+              "start": 3,
+              "url": "https://t.co/MEtau1WPXH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026877851379875965",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 95,
+          "impression_count": 13974,
+          "like_count": 1858,
+          "quote_count": 2,
+          "reply_count": 0,
+          "retweet_count": 285
+        },
+        "reply_settings": "everyone",
+        "text": "니고 https://t.co/MEtau1WPXH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-06T14:13:55.000Z",
+        "description": "OD丨自伤丨Vocaloid丨音游丨友跨顺女丨少关心我\n不喜欢的直接b 推特是垃圾桶口无遮拦 同类回fo",
+        "id": "1964331185590718464",
+        "location": "🚪50/88 同类熟推免",
+        "name": "箸",
+        "pinned_tweet_id": "2024039744276189189",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019848796881186816/pdjXkx-3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 644,
+          "following_count": 596,
+          "like_count": 10622,
+          "listed_count": 0,
+          "media_count": 168,
+          "tweet_count": 3266
+        },
+        "username": "breakcoreWTF",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-04T13:41:44.000Z",
+        "description": "그리고 싶은 거 그림 (1차계: @Rokuta_0) (커미션: https://t.co/WG7FOlaP5u)",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 18,
+                "username": "Rokuta_0"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "kre.pe/JkLy",
+                "end": 58,
+                "expanded_url": "https://kre.pe/JkLy",
+                "start": 35,
+                "url": "https://t.co/WG7FOlaP5u"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "spin-spin.com/ji00752",
+                "end": 23,
+                "expanded_url": "https://spin-spin.com/ji00752",
+                "start": 0,
+                "url": "https://t.co/9ysal8VwPT"
+              }
+            ]
+          }
+        },
+        "id": "1875538046789283843",
+        "location": "모든 문의, 리퀘신청은 스핀으로",
+        "name": "지긋",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025454115191717888/3opUkfgm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 421,
+          "following_count": 65,
+          "like_count": 180,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 276
+        },
+        "url": "https://t.co/9ysal8VwPT",
+        "username": "jiji0752",
+        "verified": false
+      }
+    ]
+  }
+}

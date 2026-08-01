@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2023040733402595328"
+      ],
+      "media_source_tweet_id": [
+        "2023040743284367704"
+      ]
+    },
+    "author_id": "1964331185590718464",
+    "conversation_id": "2023266513223053642",
+    "created_at": "2026-02-16T05:21:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-16T06:21:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2023266513223053642"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1974688655513096192",
+          "start": 3,
+          "username": "lin_dialog"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/XsXrAotFtw",
+          "end": 44,
+          "expanded_url": "https://x.com/lin_dialog/status/2023040743284367704/photo/1",
+          "media_key": "3_2023040733402595328",
+          "start": 21,
+          "url": "https://t.co/XsXrAotFtw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023266513223053642",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2023040743284367704",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @lin_dialog: 卧槽？？ https://t.co/XsXrAotFtw"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2023040733402595328",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBNI1BibgAA5blk.jpg",
+        "width": 1282
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2023040733402595328"
+          ],
+          "media_source_tweet_id": [
+            "2023040743284367704"
+          ]
+        },
+        "author_id": "1964331185590718464",
+        "conversation_id": "2023266513223053642",
+        "created_at": "2026-02-16T05:21:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-16T06:21:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023266513223053642"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1974688655513096192",
+              "start": 3,
+              "username": "lin_dialog"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/XsXrAotFtw",
+              "end": 44,
+              "expanded_url": "https://x.com/lin_dialog/status/2023040743284367704/photo/1",
+              "media_key": "3_2023040733402595328",
+              "start": 21,
+              "url": "https://t.co/XsXrAotFtw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023266513223053642",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023040743284367704",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @lin_dialog: 卧槽？？ https://t.co/XsXrAotFtw"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2023040733402595328"
+          ]
+        },
+        "author_id": "1974688655513096192",
+        "conversation_id": "2023040743284367704",
+        "created_at": "2026-02-15T14:24:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-15T15:24:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2023040743284367704"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XsXrAotFtw",
+              "end": 28,
+              "expanded_url": "https://x.com/lin_dialog/status/2023040743284367704/photo/1",
+              "media_key": "3_2023040733402595328",
+              "start": 5,
+              "url": "https://t.co/XsXrAotFtw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023040743284367704",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 7612,
+          "like_count": 60,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "卧槽？？ https://t.co/XsXrAotFtw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-06T14:13:55.000Z",
+        "description": "OD丨自伤丨Vocaloid丨音游丨友跨顺女丨少关心我\n不喜欢的直接b 推特是垃圾桶口无遮拦 同类回fo",
+        "id": "1964331185590718464",
+        "location": "🚪40走vx+10pyq 熟推免",
+        "name": "箸",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019848796881186816/pdjXkx-3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 532,
+          "following_count": 575,
+          "like_count": 8198,
+          "listed_count": 0,
+          "media_count": 136,
+          "tweet_count": 2574
+        },
+        "username": "breakcoreWTF",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-05T04:10:53.000Z",
+        "description": "竹霖♡ 18 they/them｜shedtwt odtwt｜bmi14.87｜烟酒割药四毒俱全｜无政府个人主义｜LGBTQ+全友好｜论点/观点常有 欢迎交流｜互fo私信 选拒建议别来",
+        "id": "1974688655513096192",
+        "name": "竹霖",
+        "pinned_tweet_id": "2006041221995847931",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015796280795258880/pvCRCu-6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 739,
+          "following_count": 194,
+          "like_count": 1102,
+          "listed_count": 0,
+          "media_count": 159,
+          "tweet_count": 2001
+        },
+        "username": "lin_dialog",
+        "verified": false
+      }
+    ]
+  }
+}

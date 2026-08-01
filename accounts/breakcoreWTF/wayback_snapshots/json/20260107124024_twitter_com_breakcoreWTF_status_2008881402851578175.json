@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2008563547878682631"
+      ],
+      "media_source_tweet_id": [
+        "2008563645396205895"
+      ]
+    },
+    "author_id": "1964331185590718464",
+    "conversation_id": "2008881402851578175",
+    "created_at": "2026-01-07T12:40:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-07T13:40:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2008881402851578175"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "785965953490182146",
+          "start": 3,
+          "username": "Bunnies"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Ut7Fe41d4E",
+          "end": 36,
+          "expanded_url": "https://x.com/Bunnies/status/2008563645396205895/video/1",
+          "media_key": "13_2008563547878682631",
+          "start": 13,
+          "url": "https://t.co/Ut7Fe41d4E"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2008881402851578175",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2252
+    },
+    "referenced_tweets": [
+      {
+        "id": "2008563645396205895",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Bunnies: https://t.co/Ut7Fe41d4E"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 21766,
+        "height": 720,
+        "media_key": "13_2008563547878682631",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2008563547878682631/img/NE5kCEIAhGeE-z-8.jpg",
+        "public_metrics": {
+          "view_count": 106586
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2008563547878682631/vid/avc1/478x270/xQWHgoN80VgGfgQ5.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2008563547878682631/vid/avc1/638x360/VZWOkAYeNSrsbDrw.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2008563547878682631/vid/avc1/1276x720/k86QR4CKZQb5s_W1.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2008563547878682631/pl/GXnkAD_c6OR4Ewii.m3u8"
+          }
+        ],
+        "width": 1276
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2008563547878682631"
+          ],
+          "media_source_tweet_id": [
+            "2008563645396205895"
+          ]
+        },
+        "author_id": "1964331185590718464",
+        "conversation_id": "2008881402851578175",
+        "created_at": "2026-01-07T12:40:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-07T13:40:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2008881402851578175"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "785965953490182146",
+              "start": 3,
+              "username": "Bunnies"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ut7Fe41d4E",
+              "end": 36,
+              "expanded_url": "https://x.com/Bunnies/status/2008563645396205895/video/1",
+              "media_key": "13_2008563547878682631",
+              "start": 13,
+              "url": "https://t.co/Ut7Fe41d4E"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008881402851578175",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2252
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008563645396205895",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Bunnies: https://t.co/Ut7Fe41d4E"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2008563547878682631"
+          ]
+        },
+        "author_id": "785965953490182146",
+        "conversation_id": "2008563645396205895",
+        "created_at": "2026-01-06T15:37:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-06T16:37:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2008563645396205895"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ut7Fe41d4E",
+              "end": 23,
+              "expanded_url": "https://x.com/Bunnies/status/2008563645396205895/video/1",
+              "media_key": "13_2008563547878682631",
+              "start": 0,
+              "url": "https://t.co/Ut7Fe41d4E"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008563645396205895",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2415,
+          "impression_count": 190592,
+          "like_count": 14314,
+          "quote_count": 61,
+          "reply_count": 28,
+          "retweet_count": 2252
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/Ut7Fe41d4E"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-06T14:13:55.000Z",
+        "description": "中文/od/VOCALOID/音游 纯种乐子人性别不明推上啥都有 会发泄情绪无需理会 私信互关欢迎",
+        "id": "1964331185590718464",
+        "location": "幻想郷",
+        "name": "━Σ(ﾟДﾟ|||)━",
+        "pinned_tweet_id": "2003760156488986744",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001729011576426496/HumNDWc3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 49,
+          "following_count": 309,
+          "like_count": 3447,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 1018
+        },
+        "username": "breakcoreWTF",
+        "verified": false
+      },
+      {
+        "created_at": "2016-10-11T22:11:00.000Z",
+        "description": "A bunny a day will keep the doctor away. DM YOUR BUNNY!",
+        "id": "785965953490182146",
+        "location": "Burrow",
+        "name": "Bunnies",
+        "pinned_tweet_id": "1847677551604281411",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1190553059010793473/bY5QStG6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 105041,
+          "following_count": 133,
+          "like_count": 17044,
+          "listed_count": 277,
+          "media_count": 9730,
+          "tweet_count": 10924
+        },
+        "username": "Bunnies",
+        "verified": true
+      }
+    ]
+  }
+}

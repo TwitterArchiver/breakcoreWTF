@@ -1,0 +1,478 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2071081282482630656",
+        "3_2071081282507845632"
+      ],
+      "media_source_tweet_id": [
+        "2071081289269063694",
+        "2071081289269063694"
+      ]
+    },
+    "author_id": "1964331185590718464",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1486871269001687042",
+          "name": "Procreate"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Drawing and sketching",
+          "id": "847869251595542528",
+          "name": "Drawing & illustration"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Visual Arts",
+          "id": "1046577790353428480",
+          "name": "Visual arts"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1486871269001687042",
+          "name": "Procreate"
+        }
+      }
+    ],
+    "conversation_id": "2071397936718823601",
+    "created_at": "2026-06-29T00:58:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-29T01:58:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071397936718823601"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 81,
+          "start": 69,
+          "tag": "radiostatic"
+        },
+        {
+          "end": 88,
+          "start": 82,
+          "tag": "alvox"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1990881760373288960",
+          "start": 3,
+          "username": "voxtekEmployee"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/x5iaqHopOh",
+          "end": 112,
+          "expanded_url": "https://x.com/voxtekEmployee/status/2071081289269063694/photo/1",
+          "media_key": "3_2071081282482630656",
+          "start": 89,
+          "url": "https://t.co/x5iaqHopOh"
+        },
+        {
+          "display_url": "pic.x.com/x5iaqHopOh",
+          "end": 112,
+          "expanded_url": "https://x.com/voxtekEmployee/status/2071081289269063694/photo/1",
+          "media_key": "3_2071081282507845632",
+          "start": 89,
+          "url": "https://t.co/x5iaqHopOh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071397936718823601",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 82
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071081289269063694",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @voxtekEmployee: ⚠️ self harm\n2p!media doodles i did on procreate #radiostatic #alvox https://t.co/x5iaqHopOh"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1640,
+        "media_key": "3_2071081282482630656",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL31dA9WcAA2YyM.jpg",
+        "width": 1802
+      },
+      {
+        "height": 912,
+        "media_key": "3_2071081282507845632",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL31dBDXMAAz-5T.jpg",
+        "width": 1101
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071081282482630656",
+            "3_2071081282507845632"
+          ],
+          "media_source_tweet_id": [
+            "2071081289269063694",
+            "2071081289269063694"
+          ]
+        },
+        "author_id": "1964331185590718464",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1486871269001687042",
+              "name": "Procreate"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1486871269001687042",
+              "name": "Procreate"
+            }
+          }
+        ],
+        "conversation_id": "2071397936718823601",
+        "created_at": "2026-06-29T00:58:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T01:58:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071397936718823601"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 81,
+              "start": 69,
+              "tag": "radiostatic"
+            },
+            {
+              "end": 88,
+              "start": 82,
+              "tag": "alvox"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1990881760373288960",
+              "start": 3,
+              "username": "voxtekEmployee"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/x5iaqHopOh",
+              "end": 112,
+              "expanded_url": "https://x.com/voxtekEmployee/status/2071081289269063694/photo/1",
+              "media_key": "3_2071081282482630656",
+              "start": 89,
+              "url": "https://t.co/x5iaqHopOh"
+            },
+            {
+              "display_url": "pic.x.com/x5iaqHopOh",
+              "end": 112,
+              "expanded_url": "https://x.com/voxtekEmployee/status/2071081289269063694/photo/1",
+              "media_key": "3_2071081282507845632",
+              "start": 89,
+              "url": "https://t.co/x5iaqHopOh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071397936718823601",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 82
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071081289269063694",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @voxtekEmployee: ⚠️ self harm\n2p!media doodles i did on procreate #radiostatic #alvox https://t.co/x5iaqHopOh"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071081282482630656",
+            "3_2071081282507845632"
+          ]
+        },
+        "author_id": "1990881760373288960",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1486871269001687042",
+              "name": "Procreate"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1486871269001687042",
+              "name": "Procreate"
+            }
+          }
+        ],
+        "conversation_id": "2071081289269063694",
+        "created_at": "2026-06-28T04:00:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T05:00:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071081289269063694"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 61,
+              "start": 49,
+              "tag": "radiostatic"
+            },
+            {
+              "end": 68,
+              "start": 62,
+              "tag": "alvox"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/x5iaqHopOh",
+              "end": 92,
+              "expanded_url": "https://x.com/voxtekEmployee/status/2071081289269063694/photo/1",
+              "media_key": "3_2071081282482630656",
+              "start": 69,
+              "url": "https://t.co/x5iaqHopOh"
+            },
+            {
+              "display_url": "pic.x.com/x5iaqHopOh",
+              "end": 92,
+              "expanded_url": "https://x.com/voxtekEmployee/status/2071081289269063694/photo/1",
+              "media_key": "3_2071081282507845632",
+              "start": 69,
+              "url": "https://t.co/x5iaqHopOh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071081289269063694",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 80,
+          "impression_count": 3889,
+          "like_count": 539,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 82
+        },
+        "reply_settings": "everyone",
+        "text": "⚠️ self harm\n2p!media doodles i did on procreate #radiostatic #alvox https://t.co/x5iaqHopOh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-06T14:13:55.000Z",
+        "description": "OD丨自伤丨Vocaloid丨音游丨LGBTQ+friendly\n喜欢爬宠 不卖药 非必要不回私信 我很穷欢迎投喂\n不喜欢的直接b 同类查成分回fo 取关请双取",
+        "id": "1964331185590718464",
+        "location": "颅内",
+        "name": "箸",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071376088018956288/SAB5MTfr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 875,
+          "following_count": 730,
+          "like_count": 20651,
+          "listed_count": 0,
+          "media_count": 298,
+          "tweet_count": 5250
+        },
+        "url": "",
+        "username": "breakcoreWTF",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-18T20:36:23.000Z",
+        "description": "20⬆️| 🔞no minors plz | 📻📺,Top!Alastor x Bottom!Vox (no switch🔄❌) | join the alvox discord!: https://t.co/0S33wqiLyi",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "discord.gg/trustuswithyou…",
+                "end": 115,
+                "expanded_url": "https://discord.gg/trustuswithyouralvox",
+                "start": 92,
+                "url": "https://t.co/0S33wqiLyi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "alvox.straw.page",
+                "end": 23,
+                "expanded_url": "https://alvox.straw.page/",
+                "start": 0,
+                "url": "https://t.co/jiV5PAFCRA"
+              }
+            ]
+          }
+        },
+        "id": "1990881760373288960",
+        "location": "vox populi, vox dei",
+        "name": "tavi 🦈",
+        "pinned_tweet_id": "2051747351719473475",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061552133615337472/XwLAh-E2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3095,
+          "following_count": 112,
+          "like_count": 5123,
+          "listed_count": 4,
+          "media_count": 329,
+          "tweet_count": 2459
+        },
+        "url": "https://t.co/jiV5PAFCRA",
+        "username": "voxtekEmployee",
+        "verified": false
+      }
+    ]
+  }
+}

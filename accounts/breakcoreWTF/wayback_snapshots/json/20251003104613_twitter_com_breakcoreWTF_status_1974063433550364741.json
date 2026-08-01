@@ -1,0 +1,721 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1954835792003792896"
+      ],
+      "media_source_tweet_id": [
+        "1954836545778618497"
+      ]
+    },
+    "author_id": "1964331185590718464",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1104125539877412864",
+          "name": "Miku Hatsune"
+        }
+      },
+      {
+        "domain": {
+          "description": "A person or other being in a narrative work of art, like Tom Sawyer or Jon Snow",
+          "id": "122",
+          "name": "Fictional Character"
+        },
+        "entity": {
+          "id": "1104125539877412864",
+          "name": "Miku Hatsune"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Visual Arts",
+          "id": "1046577790353428480",
+          "name": "Visual arts"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1104125539877412864",
+          "name": "Miku Hatsune"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1247236287485997056",
+          "name": "Vocaloid"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1265660441822281728",
+          "name": "Art"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1401934144238604294",
+          "name": "Pixel art"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Drawing and sketching",
+          "id": "847869251595542528",
+          "name": "Drawing & illustration"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Drawing and sketching",
+          "id": "847869251595542528",
+          "name": "Drawing & illustration"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Visual Arts",
+          "id": "1046577790353428480",
+          "name": "Visual arts"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1265660441822281728",
+          "name": "Art"
+        }
+      }
+    ],
+    "conversation_id": "1974063433550364741",
+    "created_at": "2025-10-03T10:46:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-03T11:46:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1974063433550364741"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 69,
+          "start": 64,
+          "tag": "初音ミク"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1043104375642587136",
+          "start": 3,
+          "username": "04_fujino9"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/8eXYYqGesB",
+          "end": 93,
+          "expanded_url": "https://x.com/04_fujino9/status/1954836545778618497/video/1",
+          "media_key": "13_1954835792003792896",
+          "start": 70,
+          "url": "https://t.co/8eXYYqGesB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1974063433550364741",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2747
+    },
+    "referenced_tweets": [
+      {
+        "id": "1954836545778618497",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @04_fujino9: いますぐ輪廻(retry now)描いてみた\n【ドット絵アニメーション/pixel art】\n\n#初音ミク https://t.co/8eXYYqGesB"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 25758,
+        "height": 1600,
+        "media_key": "13_1954835792003792896",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1954835792003792896/img/4en8jDXlWC8jnn-l.jpg",
+        "public_metrics": {
+          "view_count": 142493
+        },
+        "type": "video",
+        "variants": [
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1954835792003792896/pl/aHFDMrnFlZP0cosL.m3u8?v=cfc"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1954835792003792896/vid/avc1/1350x1080/LmyvVki4KYfMVPqa.mp4"
+          },
+          {
+            "bit_rate": 25128000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1954835792003792896/vid/avc1/2000x1600/WrvuenNrkd_Ob7_l.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1954835792003792896/vid/avc1/900x720/8klI6KXtiI12O-TC.mp4"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1954835792003792896/vid/avc1/336x270/-6geXO3qaolETVvh.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1954835792003792896/vid/avc1/450x360/nLto7ImyB4z8RgYa.mp4"
+          }
+        ],
+        "width": 2000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1954835792003792896"
+          ],
+          "media_source_tweet_id": [
+            "1954836545778618497"
+          ]
+        },
+        "author_id": "1964331185590718464",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "A person or other being in a narrative work of art, like Tom Sawyer or Jon Snow",
+              "id": "122",
+              "name": "Fictional Character"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1247236287485997056",
+              "name": "Vocaloid"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1401934144238604294",
+              "name": "Pixel art"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          }
+        ],
+        "conversation_id": "1974063433550364741",
+        "created_at": "2025-10-03T10:46:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-03T11:46:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1974063433550364741"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 69,
+              "start": 64,
+              "tag": "初音ミク"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1043104375642587136",
+              "start": 3,
+              "username": "04_fujino9"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/8eXYYqGesB",
+              "end": 93,
+              "expanded_url": "https://x.com/04_fujino9/status/1954836545778618497/video/1",
+              "media_key": "13_1954835792003792896",
+              "start": 70,
+              "url": "https://t.co/8eXYYqGesB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974063433550364741",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2747
+        },
+        "referenced_tweets": [
+          {
+            "id": "1954836545778618497",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @04_fujino9: いますぐ輪廻(retry now)描いてみた\n【ドット絵アニメーション/pixel art】\n\n#初音ミク https://t.co/8eXYYqGesB"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1954835792003792896"
+          ]
+        },
+        "author_id": "1043104375642587136",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "A person or other being in a narrative work of art, like Tom Sawyer or Jon Snow",
+              "id": "122",
+              "name": "Fictional Character"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1247236287485997056",
+              "name": "Vocaloid"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1401934144238604294",
+              "name": "Pixel art"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          }
+        ],
+        "conversation_id": "1954836545778618497",
+        "created_at": "2025-08-11T09:25:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-11T10:25:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1954836545778618497"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 53,
+              "start": 48,
+              "tag": "初音ミク"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/8eXYYqGesB",
+              "end": 77,
+              "expanded_url": "https://x.com/04_fujino9/status/1954836545778618497/video/1",
+              "media_key": "13_1954835792003792896",
+              "start": 54,
+              "url": "https://t.co/8eXYYqGesB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1954836545778618497",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2392,
+          "impression_count": 355124,
+          "like_count": 25932,
+          "quote_count": 23,
+          "reply_count": 4,
+          "retweet_count": 2747
+        },
+        "reply_settings": "everyone",
+        "text": "いますぐ輪廻(retry now)描いてみた\n【ドット絵アニメーション/pixel art】\n\n#初音ミク https://t.co/8eXYYqGesB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-06T14:13:55.000Z",
+        "description": "中文/od/自残/精神病/网蛆/VOCALOID/音游/舞萌w43/中二14.9/世界计划 无底线无雷点无素质 含暴论/地域黑/辱男女/发情等成分 私信互关欢迎 我有对象 我很喜欢他",
+        "id": "1964331185590718464",
+        "location": "翼天国",
+        "name": "💊人工時代完全犯罪",
+        "pinned_tweet_id": "1966517785367871718",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1964333475118665733/qxlL_t3T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35,
+          "following_count": 212,
+          "like_count": 1407,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 326
+        },
+        "username": "breakcoreWTF",
+        "verified": false
+      },
+      {
+        "created_at": "2018-09-21T11:47:17.000Z",
+        "description": "絵と映像 / ■12月納品○企業様からのお仕事受付中 (DMかメールまで)お急ぎは相談■HP→https://t.co/wrCkAb8f1W ■創作アニメフリーゲーム #ミスリアの花園 / ■ミス花情報→https://t.co/3ZJ80HrXSX / ■FA #ふじのふぁんあーと #ミス花考察",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 92,
+                "start": 84,
+                "tag": "ミスリアの花園"
+              },
+              {
+                "end": 142,
+                "start": 132,
+                "tag": "ふじのふぁんあーと"
+              },
+              {
+                "end": 149,
+                "start": 143,
+                "tag": "ミス花考察"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "04fujino9hp.com",
+                "end": 70,
+                "expanded_url": "http://04fujino9hp.com",
+                "start": 47,
+                "url": "https://t.co/wrCkAb8f1W"
+              },
+              {
+                "display_url": "fujino9.fanbox.cc",
+                "end": 125,
+                "expanded_url": "http://fujino9.fanbox.cc",
+                "start": 102,
+                "url": "https://t.co/3ZJ80HrXSX"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@04_fujino9/fe…",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@04_fujino9/featured",
+                "start": 0,
+                "url": "https://t.co/appruVFUXj"
+              }
+            ]
+          }
+        },
+        "id": "1043104375642587136",
+        "location": "HoYoverseゼンレスゾーンゼロ/コンテンツクリエイター",
+        "name": "藤墅。🧸",
+        "pinned_tweet_id": "1948684930701222390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1798678574364512256/oUecc-CF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38511,
+          "following_count": 787,
+          "like_count": 23206,
+          "listed_count": 194,
+          "media_count": 2673,
+          "tweet_count": 54101
+        },
+        "url": "https://t.co/appruVFUXj",
+        "username": "04_fujino9",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,295 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2028057095258755072"
+      ],
+      "media_source_tweet_id": [
+        "2028057104238698735"
+      ]
+    },
+    "author_id": "1964331185590718464",
+    "conversation_id": "2028112787571081560",
+    "created_at": "2026-03-01T14:19:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-01T15:19:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2028112787571081560"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 40,
+          "normalized_text": "あめちゃん",
+          "probability": 0.679,
+          "start": 36,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1510030638610493442",
+          "start": 3,
+          "username": "jinbaRTA2"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/C4oLGJpaHo",
+          "end": 65,
+          "expanded_url": "https://x.com/jinbaRTA2/status/2028057104238698735/photo/1",
+          "media_key": "3_2028057095258755072",
+          "start": 42,
+          "url": "https://t.co/C4oLGJpaHo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028112787571081560",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 333
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028057104238698735",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @jinbaRTA2: NEEDY GIRL OVERDOSE  あめちゃん https://t.co/C4oLGJpaHo"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2028057095258755072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCUbLtsb0AAlUP3.jpg",
+        "width": 1444
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2028057095258755072"
+          ],
+          "media_source_tweet_id": [
+            "2028057104238698735"
+          ]
+        },
+        "author_id": "1964331185590718464",
+        "conversation_id": "2028112787571081560",
+        "created_at": "2026-03-01T14:19:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-01T15:19:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028112787571081560"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 40,
+              "normalized_text": "あめちゃん",
+              "probability": 0.679,
+              "start": 36,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1510030638610493442",
+              "start": 3,
+              "username": "jinbaRTA2"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/C4oLGJpaHo",
+              "end": 65,
+              "expanded_url": "https://x.com/jinbaRTA2/status/2028057104238698735/photo/1",
+              "media_key": "3_2028057095258755072",
+              "start": 42,
+              "url": "https://t.co/C4oLGJpaHo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028112787571081560",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 333
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028057104238698735",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @jinbaRTA2: NEEDY GIRL OVERDOSE  あめちゃん https://t.co/C4oLGJpaHo"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2028057095258755072"
+          ]
+        },
+        "author_id": "1510030638610493442",
+        "conversation_id": "2028057104238698735",
+        "created_at": "2026-03-01T10:37:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-01T11:37:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2028057104238698735"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 18,
+              "normalized_text": "NEEDY GIRL OVERDOSE",
+              "probability": 0.2887,
+              "start": 0,
+              "type": "Organization"
+            },
+            {
+              "end": 25,
+              "normalized_text": "あめちゃん",
+              "probability": 0.7799,
+              "start": 21,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/C4oLGJpaHo",
+              "end": 50,
+              "expanded_url": "https://x.com/jinbaRTA2/status/2028057104238698735/photo/1",
+              "media_key": "3_2028057095258755072",
+              "start": 27,
+              "url": "https://t.co/C4oLGJpaHo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028057104238698735",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 291,
+          "impression_count": 22195,
+          "like_count": 3183,
+          "quote_count": 3,
+          "reply_count": 5,
+          "retweet_count": 333
+        },
+        "reply_settings": "everyone",
+        "text": "NEEDY GIRL OVERDOSE  あめちゃん https://t.co/C4oLGJpaHo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-06T14:13:55.000Z",
+        "description": "OD丨自伤丨Vocaloid丨音游丨友跨顺女丨少关心我\n不喜欢的直接b 推特是垃圾桶口无遮拦 同类回fo",
+        "id": "1964331185590718464",
+        "location": "🚪50/88 同类熟推免",
+        "name": "箸",
+        "pinned_tweet_id": "2024039744276189189",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019848796881186816/pdjXkx-3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 649,
+          "following_count": 595,
+          "like_count": 10947,
+          "listed_count": 0,
+          "media_count": 169,
+          "tweet_count": 3338
+        },
+        "username": "breakcoreWTF",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-01T23:05:48.000Z",
+        "description": "@jinba123456のサブ。アイコン→ @faoru_ofuton。ショタお嬢様です。お絵描きはカルマ。絵保管庫👉https://t.co/sOEN2Bhsid",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 0,
+                "username": "jinba123456"
+              },
+              {
+                "end": 35,
+                "start": 22,
+                "username": "faoru_ofuton"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/92380601",
+                "end": 82,
+                "expanded_url": "https://www.pixiv.net/users/92380601",
+                "start": 59,
+                "url": "https://t.co/sOEN2Bhsid"
+              }
+            ]
+          }
+        },
+        "id": "1510030638610493442",
+        "location": "闇空間",
+        "name": "じんばちゃん",
+        "pinned_tweet_id": "2026763865325973777",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010254495398461440/XHR9Z2q7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8501,
+          "following_count": 897,
+          "like_count": 50805,
+          "listed_count": 46,
+          "media_count": 946,
+          "tweet_count": 20100
+        },
+        "username": "jinbaRTA2",
+        "verified": false
+      }
+    ]
+  }
+}
