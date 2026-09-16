@@ -1,0 +1,380 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2091610086733168640"
+      ],
+      "media_source_tweet_id": [
+        "2091610197605384410"
+      ]
+    },
+    "author_id": "1964331185590718464",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2091615235992084743",
+    "created_at": "2026-08-23T19:55:07.000Z",
+    "display_text_range": [
+      0,
+      52
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-23T20:55:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091615235992084743"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1608778531173199879",
+          "start": 3,
+          "username": "uwpa_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/OdDnkv19kS",
+          "end": 52,
+          "expanded_url": "https://x.com/uwpa_/status/2091610197605384410/video/1",
+          "media_key": "13_2091610086733168640",
+          "start": 29,
+          "url": "https://t.co/OdDnkv19kS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091615235992084743",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "13_2091610086733168640"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091610197605384410",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @uwpa_: ニコイチになってから復縁まで⟡.꙳ https://t.co/OdDnkv19kS"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 60333,
+        "height": 1574,
+        "media_key": "13_2091610086733168640",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2091610086733168640/img/Lo9_HIyYIvAYuBk6.jpg",
+        "public_metrics": {
+          "view_count": 227
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2091610086733168640/vid/avc1/720x1278/0BG20wDxD91-1MEa.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2091610086733168640/pl/Q4uGtrN3cfQ34hHZ.m3u8"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2091610086733168640/vid/avc1/480x852/iQwJ2k4Gmq3Ogr3K.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2091610086733168640/vid/avc1/886x1574/TI5QgaURO7LUTHPB.mp4"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2091610086733168640/vid/avc1/320x568/gVvaV9hkxxC4kKVL.mp4"
+          }
+        ],
+        "width": 886
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2091610086733168640"
+          ],
+          "media_source_tweet_id": [
+            "2091610197605384410"
+          ]
+        },
+        "author_id": "1964331185590718464",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2091615235992084743",
+        "created_at": "2026-08-23T19:55:07.000Z",
+        "display_text_range": [
+          0,
+          52
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-23T20:55:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091615235992084743"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1608778531173199879",
+              "start": 3,
+              "username": "uwpa_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/OdDnkv19kS",
+              "end": 52,
+              "expanded_url": "https://x.com/uwpa_/status/2091610197605384410/video/1",
+              "media_key": "13_2091610086733168640",
+              "start": 29,
+              "url": "https://t.co/OdDnkv19kS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091615235992084743",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "13_2091610086733168640"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091610197605384410",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @uwpa_: ニコイチになってから復縁まで⟡.꙳ https://t.co/OdDnkv19kS"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2091610086733168640"
+          ]
+        },
+        "author_id": "1608778531173199879",
+        "conversation_id": "2091610197605384410",
+        "created_at": "2026-08-23T19:35:06.000Z",
+        "display_text_range": [
+          0,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-23T20:35:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2091610197605384410"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/OdDnkv19kS",
+              "end": 41,
+              "expanded_url": "https://x.com/uwpa_/status/2091610197605384410/video/1",
+              "media_key": "13_2091610086733168640",
+              "start": 18,
+              "url": "https://t.co/OdDnkv19kS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091610197605384410",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "13_2091610086733168640"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 687,
+          "like_count": 43,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "ニコイチになってから復縁まで⟡.꙳ https://t.co/OdDnkv19kS"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-09-06T14:13:55.000Z",
+        "description": "叫我筷子就可以了(:3っ )っ\n雜多丨OD丨自傷丨Vocaloid丨maimai丨🏳️‍🌈friendly\n不卖药 互关私信 取关请双取 不喜欢的直接b\nHH：Vox推し bottom🔁⭕ \nサブ垢＆避難垢→@Hashi_988",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 114,
+                "start": 104,
+                "username": "Hashi_988"
+              }
+            ]
+          }
+        },
+        "id": "1964331185590718464",
+        "is_identity_verified": false,
+        "location": "颅内",
+        "most_recent_tweet_id": "2091615235992084743",
+        "name": "箸",
+        "pinned_tweet_id": "2090132992979284341",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1964331185590718464/1785100910",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074711282427842560/EOM9Puhb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1576,
+          "following_count": 800,
+          "like_count": 42187,
+          "listed_count": 0,
+          "media_count": 425,
+          "tweet_count": 7534
+        },
+        "url": "",
+        "username": "breakcoreWTF",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-12-30T10:54:35.000Z",
+        "description": "毎日かわいい更新👶🏻🍥 #あかちゃんなると◁見てる♥  @_a_15_z\nサブ@unfy_",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 21,
+                "start": 12,
+                "tag": "あかちゃんなると"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 36,
+                "start": 28,
+                "username": "_a_15_z"
+              },
+              {
+                "end": 45,
+                "start": 39,
+                "username": "unfy_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "amazon.jp/hz/wishlist/ls…",
+                "end": 23,
+                "expanded_url": "https://www.amazon.jp/hz/wishlist/ls/1HP286QEQNV0F?ref_=wl_share",
+                "start": 0,
+                "url": "https://t.co/ypfXaWvDGD"
+              }
+            ]
+          }
+        },
+        "id": "1608778531173199879",
+        "is_identity_verified": false,
+        "location": "送り先♥東京都中央区築地4-12-2シグネットビル8くれあ宛",
+        "most_recent_tweet_id": "2091611667566379088",
+        "name": "癇癪持ち",
+        "pinned_tweet_id": "2087190801952718895",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1608778531173199879/1783529910",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051264560842285056/mX71edtv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 50195,
+          "following_count": 37,
+          "like_count": 16675,
+          "listed_count": 44,
+          "media_count": 663,
+          "tweet_count": 9468
+        },
+        "url": "https://t.co/ypfXaWvDGD",
+        "username": "uwpa_",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

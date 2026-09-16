@@ -1,0 +1,885 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2097058260155248640"
+      ],
+      "media_source_tweet_id": [
+        "2097058271223767421"
+      ]
+    },
+    "author_id": "1964331185590718464",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1254792182738808833",
+          "name": "Technoblade"
+        }
+      },
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1428003418195435523",
+          "name": "TommyInnit"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Influencers who create content on digital platforms",
+          "id": "120",
+          "name": "Digital Creator"
+        },
+        "entity": {
+          "id": "1254792182738808833",
+          "name": "Technoblade"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839543456678596608",
+          "name": "Digital creators"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming Personalities & Esports Players",
+          "id": "1146103171086819328",
+          "name": "Gaming influencers"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1254792182738808833",
+          "name": "Technoblade"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1287879055191052288",
+          "name": "Gaming content creators"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1293615037932646400",
+          "name": "YouTubers"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1293615080622272512",
+          "name": "Twitch streamers"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1390814121650647040",
+          "name": "Dream SMP"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1428003418195435523",
+          "name": "TommyInnit"
+        }
+      },
+      {
+        "domain": {
+          "description": "",
+          "id": "136",
+          "name": "Video Game Personality "
+        },
+        "entity": {
+          "id": "1254792182738808833",
+          "name": "Technoblade"
+        }
+      },
+      {
+        "domain": {
+          "description": "",
+          "id": "136",
+          "name": "Video Game Personality "
+        },
+        "entity": {
+          "id": "1428003418195435523",
+          "name": "TommyInnit"
+        }
+      }
+    ],
+    "conversation_id": "2097430649489805600",
+    "created_at": "2026-09-08T21:03:29.000Z",
+    "display_text_range": [
+      0,
+      125
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-08T22:03:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097430649489805600"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 70,
+          "start": 52,
+          "tag": "technobladefanart"
+        },
+        {
+          "end": 88,
+          "start": 71,
+          "tag": "tommyinnitfanart"
+        },
+        {
+          "end": 101,
+          "start": 89,
+          "tag": "bedrockbros"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1410326477254672390",
+          "start": 3,
+          "username": "Bubvy_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/XWnF80HtbV",
+          "end": 125,
+          "expanded_url": "https://x.com/Bubvy_/status/2097058271223767421/photo/1",
+          "media_key": "3_2097058260155248640",
+          "start": 102,
+          "url": "https://t.co/XWnF80HtbV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097430649489805600",
+    "lang": "en",
+    "media_metadata": [
+      {
+        "media_key": "3_2097058260155248640"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 89
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097058271223767421",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Bubvy_: Unbothered King doing the Lords work. \n\n#technobladefanart #tommyinnitfanart #bedrockbros https://t.co/XWnF80HtbV"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2097058260155248640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRo_YH3aMAAkcVZ.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2097058260155248640"
+          ],
+          "media_source_tweet_id": [
+            "2097058271223767421"
+          ]
+        },
+        "author_id": "1964331185590718464",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1254792182738808833",
+              "name": "Technoblade"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1428003418195435523",
+              "name": "TommyInnit"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Influencers who create content on digital platforms",
+              "id": "120",
+              "name": "Digital Creator"
+            },
+            "entity": {
+              "id": "1254792182738808833",
+              "name": "Technoblade"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543456678596608",
+              "name": "Digital creators"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming Personalities & Esports Players",
+              "id": "1146103171086819328",
+              "name": "Gaming influencers"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1254792182738808833",
+              "name": "Technoblade"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1287879055191052288",
+              "name": "Gaming content creators"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1293615037932646400",
+              "name": "YouTubers"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1293615080622272512",
+              "name": "Twitch streamers"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1390814121650647040",
+              "name": "Dream SMP"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1428003418195435523",
+              "name": "TommyInnit"
+            }
+          },
+          {
+            "domain": {
+              "description": "",
+              "id": "136",
+              "name": "Video Game Personality "
+            },
+            "entity": {
+              "id": "1254792182738808833",
+              "name": "Technoblade"
+            }
+          },
+          {
+            "domain": {
+              "description": "",
+              "id": "136",
+              "name": "Video Game Personality "
+            },
+            "entity": {
+              "id": "1428003418195435523",
+              "name": "TommyInnit"
+            }
+          }
+        ],
+        "conversation_id": "2097430649489805600",
+        "created_at": "2026-09-08T21:03:29.000Z",
+        "display_text_range": [
+          0,
+          125
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-08T22:03:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097430649489805600"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 70,
+              "start": 52,
+              "tag": "technobladefanart"
+            },
+            {
+              "end": 88,
+              "start": 71,
+              "tag": "tommyinnitfanart"
+            },
+            {
+              "end": 101,
+              "start": 89,
+              "tag": "bedrockbros"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1410326477254672390",
+              "start": 3,
+              "username": "Bubvy_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/XWnF80HtbV",
+              "end": 125,
+              "expanded_url": "https://x.com/Bubvy_/status/2097058271223767421/photo/1",
+              "media_key": "3_2097058260155248640",
+              "start": 102,
+              "url": "https://t.co/XWnF80HtbV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097430649489805600",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2097058260155248640"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 89
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097058271223767421",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Bubvy_: Unbothered King doing the Lords work. \n\n#technobladefanart #tommyinnitfanart #bedrockbros https://t.co/XWnF80HtbV"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2097058260155248640"
+          ]
+        },
+        "author_id": "1410326477254672390",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1254792182738808833",
+              "name": "Technoblade"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1428003418195435523",
+              "name": "TommyInnit"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Influencers who create content on digital platforms",
+              "id": "120",
+              "name": "Digital Creator"
+            },
+            "entity": {
+              "id": "1254792182738808833",
+              "name": "Technoblade"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543456678596608",
+              "name": "Digital creators"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming Personalities & Esports Players",
+              "id": "1146103171086819328",
+              "name": "Gaming influencers"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1254792182738808833",
+              "name": "Technoblade"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1287879055191052288",
+              "name": "Gaming content creators"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1293615037932646400",
+              "name": "YouTubers"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1293615080622272512",
+              "name": "Twitch streamers"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1390814121650647040",
+              "name": "Dream SMP"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1428003418195435523",
+              "name": "TommyInnit"
+            }
+          },
+          {
+            "domain": {
+              "description": "",
+              "id": "136",
+              "name": "Video Game Personality "
+            },
+            "entity": {
+              "id": "1254792182738808833",
+              "name": "Technoblade"
+            }
+          },
+          {
+            "domain": {
+              "description": "",
+              "id": "136",
+              "name": "Video Game Personality "
+            },
+            "entity": {
+              "id": "1428003418195435523",
+              "name": "TommyInnit"
+            }
+          }
+        ],
+        "conversation_id": "2097058271223767421",
+        "created_at": "2026-09-07T20:23:47.000Z",
+        "display_text_range": [
+          0,
+          89
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T21:23:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097058271223767421"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 58,
+              "start": 40,
+              "tag": "technobladefanart"
+            },
+            {
+              "end": 76,
+              "start": 59,
+              "tag": "tommyinnitfanart"
+            },
+            {
+              "end": 89,
+              "start": 77,
+              "tag": "bedrockbros"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/XWnF80HtbV",
+              "end": 113,
+              "expanded_url": "https://x.com/Bubvy_/status/2097058271223767421/photo/1",
+              "media_key": "3_2097058260155248640",
+              "start": 90,
+              "url": "https://t.co/XWnF80HtbV"
+            },
+            {
+              "display_url": "x.com/sircantus/stat…",
+              "end": 137,
+              "expanded_url": "https://twitter.com/sircantus/status/2096800749519044929",
+              "start": 114,
+              "url": "https://t.co/jG99m9EHHA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097058271223767421",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2097058260155248640"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 109,
+          "impression_count": 7872,
+          "like_count": 1047,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 89
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096800749519044929",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Unbothered King doing the Lords work. \n\n#technobladefanart #tommyinnitfanart #bedrockbros https://t.co/XWnF80HtbV https://t.co/jG99m9EHHA"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-09-06T14:13:55.000Z",
+        "description": "叫我筷子就可以了(:3っ )っ\n雜多丨OD丨自傷丨Vocaloid丨maimai丨🏳️‍🌈friendly\n不卖药 眼熟回关 取关请双取 不喜欢的直接b\nサブ垢＆避難垢→@Hashi_988",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 95,
+                "start": 85,
+                "username": "Hashi_988"
+              }
+            ]
+          }
+        },
+        "id": "1964331185590718464",
+        "is_identity_verified": false,
+        "location": "颅内",
+        "most_recent_tweet_id": "2097430649489805600",
+        "name": "箸",
+        "pinned_tweet_id": "2090132992979284341",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1964331185590718464/1788644554",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2093963390620487680/sATuTGb4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1631,
+          "following_count": 798,
+          "like_count": 47002,
+          "listed_count": 0,
+          "media_count": 463,
+          "tweet_count": 8314
+        },
+        "url": "",
+        "username": "breakcoreWTF",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-06-30T19:56:56.000Z",
+        "description": "Matthew 10:22 | The actual better Bubvy | alt: @Bubvyalt | ✨reminder: an adult✨",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 47,
+                "username": "Bubvyalt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/bubvy",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/bubvy",
+                "start": 0,
+                "url": "https://t.co/AEwlVztCIc"
+              }
+            ]
+          }
+        },
+        "id": "1410326477254672390",
+        "is_identity_verified": false,
+        "location": "Technoblade never dies",
+        "most_recent_tweet_id": "2097058271223767421",
+        "name": "Bubvy_",
+        "pinned_tweet_id": "2006461670844150211",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1410326477254672390/1713572434",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2094618759650541568/RITNDSV6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3720,
+          "following_count": 675,
+          "like_count": 119672,
+          "listed_count": 13,
+          "media_count": 1655,
+          "tweet_count": 4272
+        },
+        "url": "https://t.co/AEwlVztCIc",
+        "username": "Bubvy_",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,478 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2091143947343335424"
+      ],
+      "media_source_tweet_id": [
+        "2091143953173372986"
+      ]
+    },
+    "author_id": "1964331185590718464",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Television shows from around the world",
+          "id": "3",
+          "name": "TV Shows"
+        },
+        "entity": {
+          "description": "Adult animated web series",
+          "id": "1444041626402234368",
+          "name": "Helluva Boss"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1281311833593282560",
+          "name": "Adult animation"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1444044792988459009",
+          "name": "Helluva Boss"
+        }
+      },
+      {
+        "domain": {
+          "description": "For global/conceptual TV shows without localization.",
+          "id": "172",
+          "name": "Global TV Show"
+        },
+        "entity": {
+          "id": "1444044792988459009",
+          "name": "Helluva Boss"
+        }
+      }
+    ],
+    "conversation_id": "2091348962926330320",
+    "created_at": "2026-08-23T02:17:02.000Z",
+    "display_text_range": [
+      0,
+      107
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-23T03:17:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091348962926330320"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 76,
+          "start": 63,
+          "tag": "HelluvaBoss‌"
+        },
+        {
+          "end": 83,
+          "start": 77,
+          "tag": "Loona"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1243190059022422016",
+          "start": 3,
+          "username": "ssgg_cos"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/KnHHCE0fKy",
+          "end": 107,
+          "expanded_url": "https://x.com/ssgg_cos/status/2091143953173372986/photo/1",
+          "media_key": "3_2091143947343335424",
+          "start": 84,
+          "url": "https://t.co/KnHHCE0fKy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091348962926330320",
+    "lang": "ko",
+    "media_metadata": [
+      {
+        "media_key": "3_2091143947343335424"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 147
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091143953173372986",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ssgg_cos: 헬루바 콜라보 카페 루나로 다녀왔어요~!🌙\n알아봐주셔서 내심 행복했습니다...//🫶🏻\n\n#HelluvaBoss‌ #Loona https://t.co/KnHHCE0fKy"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2091143947343335424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQU8VzubkAAHMR9.jpg",
+        "width": 1510
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2091143947343335424"
+          ],
+          "media_source_tweet_id": [
+            "2091143953173372986"
+          ]
+        },
+        "author_id": "1964331185590718464",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "description": "Adult animated web series",
+              "id": "1444041626402234368",
+              "name": "Helluva Boss"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1281311833593282560",
+              "name": "Adult animation"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1444044792988459009",
+              "name": "Helluva Boss"
+            }
+          },
+          {
+            "domain": {
+              "description": "For global/conceptual TV shows without localization.",
+              "id": "172",
+              "name": "Global TV Show"
+            },
+            "entity": {
+              "id": "1444044792988459009",
+              "name": "Helluva Boss"
+            }
+          }
+        ],
+        "conversation_id": "2091348962926330320",
+        "created_at": "2026-08-23T02:17:02.000Z",
+        "display_text_range": [
+          0,
+          107
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-23T03:17:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091348962926330320"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 76,
+              "start": 63,
+              "tag": "HelluvaBoss‌"
+            },
+            {
+              "end": 83,
+              "start": 77,
+              "tag": "Loona"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1243190059022422016",
+              "start": 3,
+              "username": "ssgg_cos"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/KnHHCE0fKy",
+              "end": 107,
+              "expanded_url": "https://x.com/ssgg_cos/status/2091143953173372986/photo/1",
+              "media_key": "3_2091143947343335424",
+              "start": 84,
+              "url": "https://t.co/KnHHCE0fKy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091348962926330320",
+        "lang": "ko",
+        "media_metadata": [
+          {
+            "media_key": "3_2091143947343335424"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 147
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091143953173372986",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ssgg_cos: 헬루바 콜라보 카페 루나로 다녀왔어요~!🌙\n알아봐주셔서 내심 행복했습니다...//🫶🏻\n\n#HelluvaBoss‌ #Loona https://t.co/KnHHCE0fKy"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2091143947343335424"
+          ]
+        },
+        "author_id": "1243190059022422016",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "description": "Adult animated web series",
+              "id": "1444041626402234368",
+              "name": "Helluva Boss"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1281311833593282560",
+              "name": "Adult animation"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1444044792988459009",
+              "name": "Helluva Boss"
+            }
+          },
+          {
+            "domain": {
+              "description": "For global/conceptual TV shows without localization.",
+              "id": "172",
+              "name": "Global TV Show"
+            },
+            "entity": {
+              "id": "1444044792988459009",
+              "name": "Helluva Boss"
+            }
+          }
+        ],
+        "conversation_id": "2091143953173372986",
+        "created_at": "2026-08-22T12:42:24.000Z",
+        "display_text_range": [
+          0,
+          69
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-22T13:42:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091143953173372986"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 62,
+              "start": 49,
+              "tag": "HelluvaBoss‌"
+            },
+            {
+              "end": 69,
+              "start": 63,
+              "tag": "Loona"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/KnHHCE0fKy",
+              "end": 93,
+              "expanded_url": "https://x.com/ssgg_cos/status/2091143953173372986/photo/1",
+              "media_key": "3_2091143947343335424",
+              "start": 70,
+              "url": "https://t.co/KnHHCE0fKy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091143953173372986",
+        "lang": "ko",
+        "media_metadata": [
+          {
+            "media_key": "3_2091143947343335424"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 218,
+          "impression_count": 17854,
+          "like_count": 1646,
+          "quote_count": 19,
+          "reply_count": 7,
+          "retweet_count": 147
+        },
+        "reply_settings": "everyone",
+        "text": "헬루바 콜라보 카페 루나로 다녀왔어요~!🌙\n알아봐주셔서 내심 행복했습니다...//🫶🏻\n\n#HelluvaBoss‌ #Loona https://t.co/KnHHCE0fKy"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-09-06T14:13:55.000Z",
+        "description": "叫我筷子就可以了(:3っ )っ\n雜多丨OD丨自傷丨Vocaloid丨maimai丨🏳️‍🌈friendly\n不卖药 互关私信 取关请双取 不喜欢的直接b\nHH：Vox推し bottom🔁⭕ \nサブ垢＆避難垢→@Hashi_988",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 114,
+                "start": 104,
+                "username": "Hashi_988"
+              }
+            ]
+          }
+        },
+        "id": "1964331185590718464",
+        "is_identity_verified": false,
+        "location": "颅内",
+        "most_recent_tweet_id": "2091348962926330320",
+        "name": "箸",
+        "pinned_tweet_id": "2090132992979284341",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1964331185590718464/1785100910",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074711282427842560/EOM9Puhb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1577,
+          "following_count": 798,
+          "like_count": 41792,
+          "listed_count": 0,
+          "media_count": 423,
+          "tweet_count": 7467
+        },
+        "url": "",
+        "username": "breakcoreWTF",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-03-26T14:56:40.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "spin-spin.com/ssgg_cos",
+                "end": 23,
+                "expanded_url": "https://spin-spin.com/ssgg_cos",
+                "start": 0,
+                "url": "https://t.co/R0g6v06hjQ"
+              }
+            ]
+          }
+        },
+        "id": "1243190059022422016",
+        "is_identity_verified": false,
+        "location": "25↑ DISNEY HELLAVERSE SKDY",
+        "most_recent_tweet_id": "2091172476546101504",
+        "name": "승승 スン",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1243190059022422016/1775972775",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058668367452708864/xmbwjjCj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1787,
+          "following_count": 495,
+          "like_count": 10009,
+          "listed_count": 11,
+          "media_count": 355,
+          "tweet_count": 14517
+        },
+        "url": "https://t.co/R0g6v06hjQ",
+        "username": "ssgg_cos",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

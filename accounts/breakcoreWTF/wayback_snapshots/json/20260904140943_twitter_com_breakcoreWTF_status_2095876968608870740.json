@@ -1,0 +1,326 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2095851452371554304"
+      ],
+      "media_source_tweet_id": [
+        "2095851471942139988"
+      ]
+    },
+    "author_id": "1964331185590718464",
+    "conversation_id": "2095876968608870740",
+    "created_at": "2026-09-04T14:09:43.000Z",
+    "display_text_range": [
+      0,
+      58
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-04T15:09:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2095876968608870740"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2046333663294406656",
+          "start": 3,
+          "username": "TripleTeth"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/RWEnCSpwCc",
+          "end": 58,
+          "expanded_url": "https://x.com/TripleTeth/status/2095851471942139988/video/1",
+          "media_key": "13_2095851452371554304",
+          "start": 35,
+          "url": "https://t.co/RWEnCSpwCc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095876968608870740",
+    "lang": "en",
+    "media_metadata": [
+      {
+        "media_key": "13_2095851452371554304"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 9
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095851471942139988",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @TripleTeth: everything is fine https://t.co/RWEnCSpwCc"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 4933,
+        "height": 1000,
+        "media_key": "13_2095851452371554304",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2095851452371554304/img/cE8TbPiNEun5mKS4.jpg",
+        "public_metrics": {
+          "view_count": 132
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2095851452371554304/vid/avc1/320x430/B6mO2rIG24EqZogY.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2095851452371554304/vid/avc1/480x646/DzJ8rRIo2ucdYVm0.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2095851452371554304/vid/avc1/742x1000/vtM41BGFvCBH3Zzp.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2095851452371554304/pl/P7ozmIJe0PJXgOgK.m3u8"
+          }
+        ],
+        "width": 742
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2095851452371554304"
+          ],
+          "media_source_tweet_id": [
+            "2095851471942139988"
+          ]
+        },
+        "author_id": "1964331185590718464",
+        "conversation_id": "2095876968608870740",
+        "created_at": "2026-09-04T14:09:43.000Z",
+        "display_text_range": [
+          0,
+          58
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-04T15:09:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095876968608870740"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2046333663294406656",
+              "start": 3,
+              "username": "TripleTeth"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/RWEnCSpwCc",
+              "end": 58,
+              "expanded_url": "https://x.com/TripleTeth/status/2095851471942139988/video/1",
+              "media_key": "13_2095851452371554304",
+              "start": 35,
+              "url": "https://t.co/RWEnCSpwCc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095876968608870740",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "13_2095851452371554304"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 9
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095851471942139988",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @TripleTeth: everything is fine https://t.co/RWEnCSpwCc"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2095851452371554304"
+          ]
+        },
+        "author_id": "2046333663294406656",
+        "conversation_id": "2095851471942139988",
+        "created_at": "2026-09-04T12:28:24.000Z",
+        "display_text_range": [
+          0,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-04T13:28:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095851471942139988"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/RWEnCSpwCc",
+              "end": 42,
+              "expanded_url": "https://x.com/TripleTeth/status/2095851471942139988/video/1",
+              "media_key": "13_2095851452371554304",
+              "start": 19,
+              "url": "https://t.co/RWEnCSpwCc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095851471942139988",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "13_2095851452371554304"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 423,
+          "like_count": 42,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "everything is fine https://t.co/RWEnCSpwCc"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-09-06T14:13:55.000Z",
+        "description": "叫我筷子就可以了(:3っ )っ\n雜多丨OD丨自傷丨Vocaloid丨maimai丨🏳️‍🌈friendly\n不卖药 眼熟回关 取关请双取 不喜欢的直接b\nサブ垢＆避難垢→@Hashi_988",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 95,
+                "start": 85,
+                "username": "Hashi_988"
+              }
+            ]
+          }
+        },
+        "id": "1964331185590718464",
+        "is_identity_verified": false,
+        "location": "颅内",
+        "most_recent_tweet_id": "2095876968608870740",
+        "name": "箸",
+        "pinned_tweet_id": "2090132992979284341",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1964331185590718464/1785100910",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2093963390620487680/sATuTGb4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1611,
+          "following_count": 800,
+          "like_count": 46150,
+          "listed_count": 0,
+          "media_count": 455,
+          "tweet_count": 8209
+        },
+        "url": "",
+        "username": "breakcoreWTF",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-04-20T21:02:23.000Z",
+        "description": "#1 Gen Z brainrot character Tung Tung Tung Sahur (TripleT)",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "tung-tung-tung.com",
+                "end": 23,
+                "expanded_url": "https://www.tung-tung-tung.com/",
+                "start": 0,
+                "url": "https://t.co/g8D2XbhzAT"
+              }
+            ]
+          }
+        },
+        "id": "2046333663294406656",
+        "is_identity_verified": true,
+        "location": "Tung Tung Tung",
+        "most_recent_tweet_id": "2095851471942139988",
+        "name": "TripleT",
+        "pinned_tweet_id": "2093418574563938772",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2046333663294406656/1787907752",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2093262902119559168/_04HCFKN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1163,
+          "following_count": 12,
+          "like_count": 362,
+          "listed_count": 4,
+          "media_count": 330,
+          "tweet_count": 416
+        },
+        "url": "https://t.co/g8D2XbhzAT",
+        "username": "TripleTeth",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

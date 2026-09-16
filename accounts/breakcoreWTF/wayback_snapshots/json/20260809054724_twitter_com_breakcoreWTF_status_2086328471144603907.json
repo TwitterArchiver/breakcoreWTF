@@ -1,0 +1,334 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2086182229332676608",
+        "3_2086182229353664512"
+      ],
+      "media_source_tweet_id": [
+        "2086182412049129886",
+        "2086182412049129886"
+      ]
+    },
+    "author_id": "1964331185590718464",
+    "conversation_id": "2086328471144603907",
+    "created_at": "2026-08-09T05:47:24.000Z",
+    "display_text_range": [
+      0,
+      60
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-09T06:47:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2086328471144603907"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "2023319810118123520",
+          "start": 3,
+          "username": "ichigo_mirukoo"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/crTIsMYr65",
+          "end": 60,
+          "expanded_url": "https://x.com/ichigo_mirukoo/status/2086182412049129886/photo/1",
+          "media_key": "3_2086182229332676608",
+          "start": 37,
+          "url": "https://t.co/crTIsMYr65"
+        },
+        {
+          "display_url": "pic.x.com/crTIsMYr65",
+          "end": 60,
+          "expanded_url": "https://x.com/ichigo_mirukoo/status/2086182412049129886/photo/1",
+          "media_key": "3_2086182229353664512",
+          "start": 37,
+          "url": "https://t.co/crTIsMYr65"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086328471144603907",
+    "lang": "en",
+    "media_metadata": [
+      {
+        "media_key": "3_2086182229332676608"
+      },
+      {
+        "media_key": "3_2086182229353664512"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 492
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086182412049129886",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "RT @ichigo_mirukoo: demon babysitter https://t.co/crTIsMYr65"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3308,
+        "media_key": "3_2086182229332676608",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPObrzwbUAA6g-C.jpg",
+        "width": 2397
+      },
+      {
+        "height": 2964,
+        "media_key": "3_2086182229353664512",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPObrz1bkAA7m5n.jpg",
+        "width": 2928
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2086182229332676608",
+            "3_2086182229353664512"
+          ]
+        },
+        "author_id": "2023319810118123520",
+        "conversation_id": "2086182412049129886",
+        "created_at": "2026-08-08T20:07:01.000Z",
+        "display_text_range": [
+          0,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-08T21:07:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086182412049129886"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/crTIsMYr65",
+              "end": 40,
+              "expanded_url": "https://x.com/ichigo_mirukoo/status/2086182412049129886/photo/1",
+              "media_key": "3_2086182229332676608",
+              "start": 17,
+              "url": "https://t.co/crTIsMYr65"
+            },
+            {
+              "display_url": "pic.x.com/crTIsMYr65",
+              "end": 40,
+              "expanded_url": "https://x.com/ichigo_mirukoo/status/2086182412049129886/photo/1",
+              "media_key": "3_2086182229353664512",
+              "start": 17,
+              "url": "https://t.co/crTIsMYr65"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086182412049129886",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2086182229332676608"
+          },
+          {
+            "media_key": "3_2086182229353664512"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 692,
+          "impression_count": 33212,
+          "like_count": 3929,
+          "quote_count": 21,
+          "reply_count": 0,
+          "retweet_count": 492
+        },
+        "reply_settings": "following",
+        "text": "demon babysitter https://t.co/crTIsMYr65"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2086182229332676608",
+            "3_2086182229353664512"
+          ],
+          "media_source_tweet_id": [
+            "2086182412049129886",
+            "2086182412049129886"
+          ]
+        },
+        "author_id": "1964331185590718464",
+        "conversation_id": "2086328471144603907",
+        "created_at": "2026-08-09T05:47:24.000Z",
+        "display_text_range": [
+          0,
+          60
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-09T06:47:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086328471144603907"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "2023319810118123520",
+              "start": 3,
+              "username": "ichigo_mirukoo"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/crTIsMYr65",
+              "end": 60,
+              "expanded_url": "https://x.com/ichigo_mirukoo/status/2086182412049129886/photo/1",
+              "media_key": "3_2086182229332676608",
+              "start": 37,
+              "url": "https://t.co/crTIsMYr65"
+            },
+            {
+              "display_url": "pic.x.com/crTIsMYr65",
+              "end": 60,
+              "expanded_url": "https://x.com/ichigo_mirukoo/status/2086182412049129886/photo/1",
+              "media_key": "3_2086182229353664512",
+              "start": 37,
+              "url": "https://t.co/crTIsMYr65"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086328471144603907",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2086182229332676608"
+          },
+          {
+            "media_key": "3_2086182229353664512"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 492
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086182412049129886",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "RT @ichigo_mirukoo: demon babysitter https://t.co/crTIsMYr65"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-09-06T14:13:55.000Z",
+        "description": "叫我筷子就可以了(:3っ )っ\nOD丨🔪丨Vocaloid丨音游丨LGBTQ+friendly\n不卖药 只看互关私信\n不喜欢的直接b 查成分回fo 取关请双取\n备用机、愚痴垢→@Hashi_988",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 98,
+                "start": 88,
+                "username": "Hashi_988"
+              }
+            ]
+          }
+        },
+        "id": "1964331185590718464",
+        "is_identity_verified": false,
+        "location": "颅内",
+        "most_recent_tweet_id": "2086328471144603907",
+        "name": "箸",
+        "pinned_tweet_id": "2086154153508884828",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1964331185590718464/1785100910",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074711282427842560/EOM9Puhb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1431,
+          "following_count": 792,
+          "like_count": 37850,
+          "listed_count": 0,
+          "media_count": 376,
+          "tweet_count": 6720
+        },
+        "url": "",
+        "username": "breakcoreWTF",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-02-16T08:53:36.000Z",
+        "description": "20⬆️",
+        "id": "2023319810118123520",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2086201120746349016",
+        "name": "n",
+        "pinned_tweet_id": "2060794044628996456",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2023319810118123520/1771232783",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079621486122532864/0xqYSz9p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3039,
+          "following_count": 1,
+          "like_count": 1371,
+          "listed_count": 5,
+          "media_count": 64,
+          "tweet_count": 261
+        },
+        "url": "",
+        "username": "ichigo_mirukoo",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

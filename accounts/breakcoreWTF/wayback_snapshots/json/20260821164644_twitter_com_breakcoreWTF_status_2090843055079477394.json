@@ -1,0 +1,288 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2090818539578126336"
+      ],
+      "media_source_tweet_id": [
+        "2090818545517265165"
+      ]
+    },
+    "author_id": "1964331185590718464",
+    "conversation_id": "2090843055079477394",
+    "created_at": "2026-08-21T16:46:44.000Z",
+    "display_text_range": [
+      0,
+      57
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-21T17:46:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090843055079477394"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1702340676539846656",
+          "start": 3,
+          "username": "wabi_1527"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/pXCe401rBA",
+          "end": 57,
+          "expanded_url": "https://x.com/wabi_1527/status/2090818545517265165/photo/1",
+          "media_key": "3_2090818539578126336",
+          "start": 34,
+          "url": "https://t.co/pXCe401rBA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090843055079477394",
+    "lang": "ko",
+    "media_metadata": [
+      {
+        "media_key": "3_2090818539578126336"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 39
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090818545517265165",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @wabi_1527: 누이 이렇게밖에 안 보여서 곤란함 https://t.co/pXCe401rBA"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2673,
+        "media_key": "3_2090818539578126336",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQQUYlVa8AAaqKX.jpg",
+        "width": 2100
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2090818539578126336"
+          ],
+          "media_source_tweet_id": [
+            "2090818545517265165"
+          ]
+        },
+        "author_id": "1964331185590718464",
+        "conversation_id": "2090843055079477394",
+        "created_at": "2026-08-21T16:46:44.000Z",
+        "display_text_range": [
+          0,
+          57
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T17:46:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090843055079477394"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1702340676539846656",
+              "start": 3,
+              "username": "wabi_1527"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/pXCe401rBA",
+              "end": 57,
+              "expanded_url": "https://x.com/wabi_1527/status/2090818545517265165/photo/1",
+              "media_key": "3_2090818539578126336",
+              "start": 34,
+              "url": "https://t.co/pXCe401rBA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090843055079477394",
+        "lang": "ko",
+        "media_metadata": [
+          {
+            "media_key": "3_2090818539578126336"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 39
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090818545517265165",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @wabi_1527: 누이 이렇게밖에 안 보여서 곤란함 https://t.co/pXCe401rBA"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2090818539578126336"
+          ]
+        },
+        "author_id": "1702340676539846656",
+        "conversation_id": "2090818545517265165",
+        "created_at": "2026-08-21T15:09:21.000Z",
+        "display_text_range": [
+          0,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T16:09:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090818545517265165"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pXCe401rBA",
+              "end": 42,
+              "expanded_url": "https://x.com/wabi_1527/status/2090818545517265165/photo/1",
+              "media_key": "3_2090818539578126336",
+              "start": 19,
+              "url": "https://t.co/pXCe401rBA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090818545517265165",
+        "lang": "ko",
+        "media_metadata": [
+          {
+            "media_key": "3_2090818539578126336"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 17,
+          "impression_count": 925,
+          "like_count": 180,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 39
+        },
+        "reply_settings": "everyone",
+        "text": "누이 이렇게밖에 안 보여서 곤란함 https://t.co/pXCe401rBA"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-09-06T14:13:55.000Z",
+        "description": "叫我筷子就可以了(:3っ )っ\n雜多丨OD丨自傷丨Vocaloid丨maimai丨🏳️‍🌈friendly\n不卖药 互关私信 取关请双取 不喜欢的直接b\nHH：Vox推し bottom🔁⭕ \nサブ垢＆避難垢→@Hashi_988",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 114,
+                "start": 104,
+                "username": "Hashi_988"
+              }
+            ]
+          }
+        },
+        "id": "1964331185590718464",
+        "is_identity_verified": false,
+        "location": "颅内",
+        "most_recent_tweet_id": "2090843055079477394",
+        "name": "箸",
+        "pinned_tweet_id": "2090132992979284341",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1964331185590718464/1785100910",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074711282427842560/EOM9Puhb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1567,
+          "following_count": 799,
+          "like_count": 40679,
+          "listed_count": 0,
+          "media_count": 418,
+          "tweet_count": 7298
+        },
+        "url": "",
+        "username": "breakcoreWTF",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-09-14T15:17:27.000Z",
+        "description": "🇰🇷/ 20 up / 헛소리, 혼잣말 / 지금은 해즈빈 / 구독 / \nmain 📺🦌📺 / 올라운더(캐릭, cp, 리버스 o)",
+        "id": "1702340676539846656",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090818643068334591",
+        "name": "와비",
+        "pinned_tweet_id": "2075637389868011669",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1702340676539846656/1775923269",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1992759932526149632/dAWEYw9C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1242,
+          "following_count": 48,
+          "like_count": 2276,
+          "listed_count": 0,
+          "media_count": 135,
+          "tweet_count": 297
+        },
+        "url": "",
+        "username": "wabi_1527",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

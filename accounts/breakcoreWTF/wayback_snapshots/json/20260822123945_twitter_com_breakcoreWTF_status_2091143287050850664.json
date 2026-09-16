@@ -1,0 +1,747 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2090758000059502592",
+        "3_2090758000038608896"
+      ],
+      "media_source_tweet_id": [
+        "2090758009270288769",
+        "2090758009270288769"
+      ]
+    },
+    "author_id": "1964331185590718464",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Television shows from around the world",
+          "id": "3",
+          "name": "TV Shows"
+        },
+        "entity": {
+          "description": "Adult animated web series",
+          "id": "1444041626402234368",
+          "name": "Helluva Boss"
+        }
+      },
+      {
+        "domain": {
+          "description": "Television shows from around the world",
+          "id": "3",
+          "name": "TV Shows"
+        },
+        "entity": {
+          "description": "Adult animated web series",
+          "id": "1444043338236104705",
+          "name": "Hazbin Hotel"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839544274442051584",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1276514328007467008",
+          "name": "Movies & TV"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1281311833593282560",
+          "name": "Adult animation"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1444044792988459009",
+          "name": "Helluva Boss"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1444046743423762434",
+          "name": "Hazbin Hotel"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1985581624369516544",
+          "name": "Hazbin Hotel"
+        }
+      },
+      {
+        "domain": {
+          "description": "For global/conceptual TV shows without localization.",
+          "id": "172",
+          "name": "Global TV Show"
+        },
+        "entity": {
+          "id": "1444044792988459009",
+          "name": "Helluva Boss"
+        }
+      },
+      {
+        "domain": {
+          "description": "For global/conceptual TV shows without localization.",
+          "id": "172",
+          "name": "Global TV Show"
+        },
+        "entity": {
+          "id": "1444046743423762434",
+          "name": "Hazbin Hotel"
+        }
+      }
+    ],
+    "conversation_id": "2091143287050850664",
+    "created_at": "2026-08-22T12:39:45.000Z",
+    "display_text_range": [
+      0,
+      66
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-22T13:39:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091143287050850664"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 42,
+          "start": 30,
+          "tag": "HazbinHotel"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1840846574098034688",
+          "start": 3,
+          "username": "mizuiro_zarasi"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/HwFsrImUrN",
+          "end": 66,
+          "expanded_url": "https://x.com/mizuiro_zarasi/status/2090758009270288769/photo/1",
+          "media_key": "3_2090758000059502592",
+          "start": 43,
+          "url": "https://t.co/HwFsrImUrN"
+        },
+        {
+          "display_url": "pic.x.com/HwFsrImUrN",
+          "end": 66,
+          "expanded_url": "https://x.com/mizuiro_zarasi/status/2090758009270288769/photo/1",
+          "media_key": "3_2090758000038608896",
+          "start": 43,
+          "url": "https://t.co/HwFsrImUrN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091143287050850664",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2090758000059502592"
+      },
+      {
+        "media_key": "3_2090758000038608896"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 169
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090758009270288769",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @mizuiro_zarasi: P版バニーの日×2\n#HazbinHotel https://t.co/HwFsrImUrN"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3508,
+        "media_key": "3_2090758000059502592",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQPdUuDaUAAWAi0.jpg",
+        "width": 3508
+      },
+      {
+        "height": 3508,
+        "media_key": "3_2090758000038608896",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQPdUt-bgAA2K_L.jpg",
+        "width": 3508
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2090758000059502592",
+            "3_2090758000038608896"
+          ],
+          "media_source_tweet_id": [
+            "2090758009270288769",
+            "2090758009270288769"
+          ]
+        },
+        "author_id": "1964331185590718464",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "description": "Adult animated web series",
+              "id": "1444041626402234368",
+              "name": "Helluva Boss"
+            }
+          },
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "description": "Adult animated web series",
+              "id": "1444043338236104705",
+              "name": "Hazbin Hotel"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1276514328007467008",
+              "name": "Movies & TV"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1281311833593282560",
+              "name": "Adult animation"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1444044792988459009",
+              "name": "Helluva Boss"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1444046743423762434",
+              "name": "Hazbin Hotel"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1985581624369516544",
+              "name": "Hazbin Hotel"
+            }
+          },
+          {
+            "domain": {
+              "description": "For global/conceptual TV shows without localization.",
+              "id": "172",
+              "name": "Global TV Show"
+            },
+            "entity": {
+              "id": "1444044792988459009",
+              "name": "Helluva Boss"
+            }
+          },
+          {
+            "domain": {
+              "description": "For global/conceptual TV shows without localization.",
+              "id": "172",
+              "name": "Global TV Show"
+            },
+            "entity": {
+              "id": "1444046743423762434",
+              "name": "Hazbin Hotel"
+            }
+          }
+        ],
+        "conversation_id": "2091143287050850664",
+        "created_at": "2026-08-22T12:39:45.000Z",
+        "display_text_range": [
+          0,
+          66
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-22T13:39:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091143287050850664"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 42,
+              "start": 30,
+              "tag": "HazbinHotel"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1840846574098034688",
+              "start": 3,
+              "username": "mizuiro_zarasi"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/HwFsrImUrN",
+              "end": 66,
+              "expanded_url": "https://x.com/mizuiro_zarasi/status/2090758009270288769/photo/1",
+              "media_key": "3_2090758000059502592",
+              "start": 43,
+              "url": "https://t.co/HwFsrImUrN"
+            },
+            {
+              "display_url": "pic.x.com/HwFsrImUrN",
+              "end": 66,
+              "expanded_url": "https://x.com/mizuiro_zarasi/status/2090758009270288769/photo/1",
+              "media_key": "3_2090758000038608896",
+              "start": 43,
+              "url": "https://t.co/HwFsrImUrN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091143287050850664",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2090758000059502592"
+          },
+          {
+            "media_key": "3_2090758000038608896"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 169
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090758009270288769",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @mizuiro_zarasi: P版バニーの日×2\n#HazbinHotel https://t.co/HwFsrImUrN"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2090758000059502592",
+            "3_2090758000038608896"
+          ]
+        },
+        "author_id": "1840846574098034688",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "description": "Adult animated web series",
+              "id": "1444041626402234368",
+              "name": "Helluva Boss"
+            }
+          },
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "description": "Adult animated web series",
+              "id": "1444043338236104705",
+              "name": "Hazbin Hotel"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1276514328007467008",
+              "name": "Movies & TV"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1281311833593282560",
+              "name": "Adult animation"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1444044792988459009",
+              "name": "Helluva Boss"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1444046743423762434",
+              "name": "Hazbin Hotel"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1985581624369516544",
+              "name": "Hazbin Hotel"
+            }
+          },
+          {
+            "domain": {
+              "description": "For global/conceptual TV shows without localization.",
+              "id": "172",
+              "name": "Global TV Show"
+            },
+            "entity": {
+              "id": "1444044792988459009",
+              "name": "Helluva Boss"
+            }
+          },
+          {
+            "domain": {
+              "description": "For global/conceptual TV shows without localization.",
+              "id": "172",
+              "name": "Global TV Show"
+            },
+            "entity": {
+              "id": "1444046743423762434",
+              "name": "Hazbin Hotel"
+            }
+          }
+        ],
+        "conversation_id": "2090758009270288769",
+        "created_at": "2026-08-21T11:08:48.000Z",
+        "display_text_range": [
+          0,
+          22
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T12:08:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090758009270288769"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 22,
+              "start": 10,
+              "tag": "HazbinHotel"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/HwFsrImUrN",
+              "end": 46,
+              "expanded_url": "https://x.com/mizuiro_zarasi/status/2090758009270288769/photo/1",
+              "media_key": "3_2090758000059502592",
+              "start": 23,
+              "url": "https://t.co/HwFsrImUrN"
+            },
+            {
+              "display_url": "pic.x.com/HwFsrImUrN",
+              "end": 46,
+              "expanded_url": "https://x.com/mizuiro_zarasi/status/2090758009270288769/photo/1",
+              "media_key": "3_2090758000038608896",
+              "start": 23,
+              "url": "https://t.co/HwFsrImUrN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090758009270288769",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2090758000059502592"
+          },
+          {
+            "media_key": "3_2090758000038608896"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 188,
+          "impression_count": 19410,
+          "like_count": 1351,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 169
+        },
+        "reply_settings": "everyone",
+        "text": "P版バニーの日×2\n#HazbinHotel https://t.co/HwFsrImUrN"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-09-06T14:13:55.000Z",
+        "description": "叫我筷子就可以了(:3っ )っ\n雜多丨OD丨自傷丨Vocaloid丨maimai丨🏳️‍🌈friendly\n不卖药 互关私信 取关请双取 不喜欢的直接b\nHH：Vox推し bottom🔁⭕ \nサブ垢＆避難垢→@Hashi_988",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 114,
+                "start": 104,
+                "username": "Hashi_988"
+              }
+            ]
+          }
+        },
+        "id": "1964331185590718464",
+        "is_identity_verified": false,
+        "location": "颅内",
+        "most_recent_tweet_id": "2091143287050850664",
+        "name": "箸",
+        "pinned_tweet_id": "2090132992979284341",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1964331185590718464/1785100910",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074711282427842560/EOM9Puhb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1571,
+          "following_count": 802,
+          "like_count": 41633,
+          "listed_count": 0,
+          "media_count": 422,
+          "tweet_count": 7438
+        },
+        "url": "",
+        "username": "breakcoreWTF",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-09-30T20:10:16.000Z",
+        "description": "20↑/無断転載❌AI学習❌\nVoxがいればなんでもみますいなくてもみます地雷なしで何でも見るし描きます：)",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/zarashi_Profile",
+                "end": 23,
+                "expanded_url": "https://lit.link/zarashi_Profile",
+                "start": 0,
+                "url": "https://t.co/83wKQKykT0"
+              }
+            ]
+          }
+        },
+        "id": "1840846574098034688",
+        "is_identity_verified": false,
+        "location": "📺📱🦋♡",
+        "most_recent_tweet_id": "2091119478482604464",
+        "name": "みずいろざらし🦭",
+        "pinned_tweet_id": "2087494437278765454",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1840846574098034688/1784564304",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072343625795878912/zfBN1SyS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2429,
+          "following_count": 20,
+          "like_count": 6205,
+          "listed_count": 7,
+          "media_count": 149,
+          "tweet_count": 573
+        },
+        "url": "https://t.co/83wKQKykT0",
+        "username": "mizuiro_zarasi",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

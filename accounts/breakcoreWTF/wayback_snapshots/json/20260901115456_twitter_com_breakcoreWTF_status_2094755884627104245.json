@@ -1,0 +1,301 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2094608471400558592"
+      ],
+      "media_source_tweet_id": [
+        "2094608477285155271"
+      ]
+    },
+    "author_id": "1964331185590718464",
+    "conversation_id": "2094755884627104245",
+    "created_at": "2026-09-01T11:54:56.000Z",
+    "display_text_range": [
+      0,
+      49
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-01T12:54:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2094755884627104245"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2082823272958418944",
+          "start": 3,
+          "username": "sa9chigyo"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/tiCGtue9v3",
+          "end": 49,
+          "expanded_url": "https://x.com/sa9chigyo/status/2094608477285155271/photo/1",
+          "media_key": "3_2094608471400558592",
+          "start": 26,
+          "url": "https://t.co/tiCGtue9v3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094755884627104245",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2094608471400558592"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 401
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094608477285155271",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "RT @sa9chigyo: キックウウウウウウ💉 https://t.co/tiCGtue9v3"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2094608471400558592",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRGLTplasAAn69U.jpg",
+        "width": 1424
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2094608471400558592"
+          ],
+          "media_source_tweet_id": [
+            "2094608477285155271"
+          ]
+        },
+        "author_id": "1964331185590718464",
+        "conversation_id": "2094755884627104245",
+        "created_at": "2026-09-01T11:54:56.000Z",
+        "display_text_range": [
+          0,
+          49
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-01T12:54:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094755884627104245"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2082823272958418944",
+              "start": 3,
+              "username": "sa9chigyo"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/tiCGtue9v3",
+              "end": 49,
+              "expanded_url": "https://x.com/sa9chigyo/status/2094608477285155271/photo/1",
+              "media_key": "3_2094608471400558592",
+              "start": 26,
+              "url": "https://t.co/tiCGtue9v3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094755884627104245",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2094608471400558592"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 401
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094608477285155271",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "RT @sa9chigyo: キックウウウウウウ💉 https://t.co/tiCGtue9v3"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2094608471400558592"
+          ]
+        },
+        "author_id": "2082823272958418944",
+        "conversation_id": "2094608477285155271",
+        "created_at": "2026-09-01T02:09:11.000Z",
+        "display_text_range": [
+          0,
+          10
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-01T03:09:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2094608477285155271"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tiCGtue9v3",
+              "end": 34,
+              "expanded_url": "https://x.com/sa9chigyo/status/2094608477285155271/photo/1",
+              "media_key": "3_2094608471400558592",
+              "start": 11,
+              "url": "https://t.co/tiCGtue9v3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094608477285155271",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2094608471400558592"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 361,
+          "impression_count": 36042,
+          "like_count": 4792,
+          "quote_count": 12,
+          "reply_count": 0,
+          "retweet_count": 401
+        },
+        "reply_settings": "following",
+        "text": "キックウウウウウウ💉 https://t.co/tiCGtue9v3"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-09-06T14:13:55.000Z",
+        "description": "叫我筷子就可以了(:3っ )っ\n雜多丨OD丨自傷丨Vocaloid丨maimai丨🏳️‍🌈friendly\n不卖药 互关请私信 取关请双取 不喜欢的直接b\nHH：Vox推し bottom🔁⭕ \nサブ垢＆避難垢→@Hashi_988",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 115,
+                "start": 105,
+                "username": "Hashi_988"
+              }
+            ]
+          }
+        },
+        "id": "1964331185590718464",
+        "is_identity_verified": false,
+        "location": "颅内",
+        "most_recent_tweet_id": "2094755884627104245",
+        "name": "箸",
+        "pinned_tweet_id": "2090132992979284341",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1964331185590718464/1785100910",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2093963390620487680/sATuTGb4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1587,
+          "following_count": 805,
+          "like_count": 44979,
+          "listed_count": 0,
+          "media_count": 449,
+          "tweet_count": 8028
+        },
+        "url": "",
+        "username": "breakcoreWTF",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-07-30T13:41:02.000Z",
+        "description": "通知🔇 雑多TikTok https://t.co/MUlD5WoElh",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "tiktok.com/@gero_syaketu?…",
+                "end": 36,
+                "expanded_url": "https://www.tiktok.com/@gero_syaketu?_r=1&_t=ZS-99JsWn8hEuu",
+                "start": 13,
+                "url": "https://t.co/MUlD5WoElh"
+              }
+            ]
+          }
+        },
+        "id": "2082823272958418944",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2094752244164080112",
+        "name": "胎盤",
+        "pinned_tweet_id": "2092535548162531354",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2082823272958418944/1785576960",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088255599083712512/HVktoSC0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 145,
+          "following_count": 67,
+          "like_count": 923,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 194
+        },
+        "url": "",
+        "username": "sa9chigyo",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

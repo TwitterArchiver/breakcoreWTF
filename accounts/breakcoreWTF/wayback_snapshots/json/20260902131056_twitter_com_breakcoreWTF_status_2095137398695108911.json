@@ -1,0 +1,289 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2095127860713582592"
+      ],
+      "media_source_tweet_id": [
+        "2095127869169221729"
+      ]
+    },
+    "author_id": "1964331185590718464",
+    "conversation_id": "2095137398695108911",
+    "created_at": "2026-09-02T13:10:56.000Z",
+    "display_text_range": [
+      0,
+      44
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-02T14:10:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2095137398695108911"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1773008546721873920",
+          "start": 3,
+          "username": "The_Regal_Raven"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ZeJu4s9PS7",
+          "end": 44,
+          "expanded_url": "https://x.com/The_Regal_Raven/status/2095127869169221729/photo/1",
+          "media_key": "3_2095127860713582592",
+          "start": 21,
+          "url": "https://t.co/ZeJu4s9PS7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095137398695108911",
+    "lang": "zxx",
+    "media_metadata": [
+      {
+        "media_key": "3_2095127860713582592"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 11
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095127869169221729",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @The_Regal_Raven: https://t.co/ZeJu4s9PS7"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_2095127860713582592",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRNjsFjbcAAVZTg.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2095127860713582592"
+          ],
+          "media_source_tweet_id": [
+            "2095127869169221729"
+          ]
+        },
+        "author_id": "1964331185590718464",
+        "conversation_id": "2095137398695108911",
+        "created_at": "2026-09-02T13:10:56.000Z",
+        "display_text_range": [
+          0,
+          44
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-02T14:10:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095137398695108911"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1773008546721873920",
+              "start": 3,
+              "username": "The_Regal_Raven"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZeJu4s9PS7",
+              "end": 44,
+              "expanded_url": "https://x.com/The_Regal_Raven/status/2095127869169221729/photo/1",
+              "media_key": "3_2095127860713582592",
+              "start": 21,
+              "url": "https://t.co/ZeJu4s9PS7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095137398695108911",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2095127860713582592"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 11
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095127869169221729",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @The_Regal_Raven: https://t.co/ZeJu4s9PS7"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2095127860713582592"
+          ]
+        },
+        "author_id": "1773008546721873920",
+        "conversation_id": "2095127869169221729",
+        "created_at": "2026-09-02T12:33:04.000Z",
+        "display_text_range": [
+          0,
+          0
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-02T13:33:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095127869169221729"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZeJu4s9PS7",
+              "end": 23,
+              "expanded_url": "https://x.com/The_Regal_Raven/status/2095127869169221729/photo/1",
+              "media_key": "3_2095127860713582592",
+              "start": 0,
+              "url": "https://t.co/ZeJu4s9PS7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095127869169221729",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2095127860713582592"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 594,
+          "like_count": 53,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/ZeJu4s9PS7"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-09-06T14:13:55.000Z",
+        "description": "叫我筷子就可以了(:3っ )っ\n雜多丨OD丨自傷丨Vocaloid丨maimai丨🏳️‍🌈friendly\n不卖药 互关请私信 取关请双取 不喜欢的直接b\nサブ垢＆避難垢→@Hashi_988",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 96,
+                "start": 86,
+                "username": "Hashi_988"
+              }
+            ]
+          }
+        },
+        "id": "1964331185590718464",
+        "is_identity_verified": false,
+        "location": "颅内",
+        "most_recent_tweet_id": "2095137398695108911",
+        "name": "箸",
+        "pinned_tweet_id": "2090132992979284341",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1964331185590718464/1785100910",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2093963390620487680/sATuTGb4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1586,
+          "following_count": 802,
+          "like_count": 45415,
+          "listed_count": 0,
+          "media_count": 452,
+          "tweet_count": 8100
+        },
+        "url": "",
+        "username": "breakcoreWTF",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-03-27T15:26:13.000Z",
+        "description": "VALHALLA CALLING ME !!!",
+        "id": "1773008546721873920",
+        "is_identity_verified": false,
+        "location": "valhalla",
+        "most_recent_tweet_id": "2095131497741324758",
+        "name": "Raven",
+        "pinned_tweet_id": "2077456569214832868",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1773008546721873920/1780152861",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089960406093885441/EkIBbI2o_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19229,
+          "following_count": 325,
+          "like_count": 49727,
+          "listed_count": 50,
+          "media_count": 3706,
+          "tweet_count": 12326
+        },
+        "url": "",
+        "username": "The_Regal_Raven",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

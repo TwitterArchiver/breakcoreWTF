@@ -1,0 +1,387 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2087725935147843584"
+      ],
+      "media_source_tweet_id": [
+        "2087726063950700770"
+      ]
+    },
+    "author_id": "1964331185590718464",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2087744157200863434",
+    "created_at": "2026-08-13T03:32:50.000Z",
+    "display_text_range": [
+      0,
+      47
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-13T04:32:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087744157200863434"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2063887724709650432",
+          "start": 3,
+          "username": "zzaalllx"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/G7nMgh2KYZ",
+          "end": 47,
+          "expanded_url": "https://x.com/zzaalllx/status/2087726063950700770/video/1",
+          "media_key": "13_2087725935147843584",
+          "start": 24,
+          "url": "https://t.co/G7nMgh2KYZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087744157200863434",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "13_2087725935147843584"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087726063950700770",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @zzaalllx: 昨日の病気Vlog https://t.co/G7nMgh2KYZ"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 48900,
+        "height": 720,
+        "media_key": "13_2087725935147843584",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2087725935147843584/img/O96MTctn2ViTpNJQ.jpg",
+        "public_metrics": {
+          "view_count": 89
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2087725935147843584/vid/avc1/420x270/b2noqzzY_bXQ_LQy.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2087725935147843584/vid/avc1/562x360/idSbX907h3t2vmwV.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2087725935147843584/vid/avc1/1124x720/xCy4NK5QY75FnrFN.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2087725935147843584/pl/m9Ze7n6hFRLv0_Np.m3u8"
+          }
+        ],
+        "width": 1124
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2087725935147843584"
+          ]
+        },
+        "author_id": "2063887724709650432",
+        "conversation_id": "2087726063950700770",
+        "created_at": "2026-08-13T02:20:56.000Z",
+        "display_text_range": [
+          0,
+          9
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T03:20:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087726063950700770"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/G7nMgh2KYZ",
+              "end": 33,
+              "expanded_url": "https://x.com/zzaalllx/status/2087726063950700770/video/1",
+              "media_key": "13_2087725935147843584",
+              "start": 10,
+              "url": "https://t.co/G7nMgh2KYZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087726063950700770",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "13_2087725935147843584"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 216,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "昨日の病気Vlog https://t.co/G7nMgh2KYZ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2087725935147843584"
+          ],
+          "media_source_tweet_id": [
+            "2087726063950700770"
+          ]
+        },
+        "author_id": "1964331185590718464",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2087744157200863434",
+        "created_at": "2026-08-13T03:32:50.000Z",
+        "display_text_range": [
+          0,
+          47
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T04:32:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087744157200863434"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2063887724709650432",
+              "start": 3,
+              "username": "zzaalllx"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/G7nMgh2KYZ",
+              "end": 47,
+              "expanded_url": "https://x.com/zzaalllx/status/2087726063950700770/video/1",
+              "media_key": "13_2087725935147843584",
+              "start": 24,
+              "url": "https://t.co/G7nMgh2KYZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087744157200863434",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "13_2087725935147843584"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087726063950700770",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @zzaalllx: 昨日の病気Vlog https://t.co/G7nMgh2KYZ"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-09-06T14:13:55.000Z",
+        "description": "叫我筷子就可以了(:3っ )っ\nOD丨🔪丨Vocaloid丨音游丨LGBTQ+friendly\n不卖药 只看互关私信\n不喜欢的直接b 查成分回fo 取关请双取\n备用机、愚痴垢→@Hashi_988",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 98,
+                "start": 88,
+                "username": "Hashi_988"
+              }
+            ]
+          }
+        },
+        "id": "1964331185590718464",
+        "is_identity_verified": false,
+        "location": "颅内",
+        "most_recent_tweet_id": "2087744157200863434",
+        "name": "箸",
+        "pinned_tweet_id": "2086154153508884828",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1964331185590718464/1785100910",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074711282427842560/EOM9Puhb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1462,
+          "following_count": 790,
+          "like_count": 38556,
+          "listed_count": 0,
+          "media_count": 390,
+          "tweet_count": 6865
+        },
+        "url": "",
+        "username": "breakcoreWTF",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-06-08T07:39:44.000Z",
+        "description": "ひめにゃたんです( ´• ɷ •` )y🚬♥ @4qloz",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 23,
+                "username": "4qloz"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "amazon.jp/hz/wishlist/ls…",
+                "end": 23,
+                "expanded_url": "https://www.amazon.jp/hz/wishlist/ls/1J9BZIDN7SUZM?ref_=wl_share",
+                "start": 0,
+                "url": "https://t.co/48e6AS3WiK"
+              }
+            ]
+          }
+        },
+        "id": "2063887724709650432",
+        "is_identity_verified": false,
+        "location": "嘘吐き歌舞伎町",
+        "most_recent_tweet_id": "2087726063950700770",
+        "name": "暴力的で猟奇的♥",
+        "pinned_tweet_id": "2066870813589188939",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2063887724709650432/1786072690",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064900974079324160/daUmzRS4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 907,
+          "following_count": 9,
+          "like_count": 164,
+          "listed_count": 0,
+          "media_count": 152,
+          "tweet_count": 481
+        },
+        "url": "https://t.co/48e6AS3WiK",
+        "username": "zzaalllx",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,168 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1964331185590718464",
+    "conversation_id": "2085408043571855864",
+    "created_at": "2026-08-06T17:49:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-06T18:49:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085423093045207475"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2046216304508407808",
+          "start": 0,
+          "username": "Ilovemmlol"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085423093045207475",
+    "in_reply_to_user_id": "2046216304508407808",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085408043571855864",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ilovemmlol 孝家产"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2085408043571855864].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2085408043571855864",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2085408043571855864"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1964331185590718464",
+        "conversation_id": "2085408043571855864",
+        "created_at": "2026-08-06T17:49:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T18:49:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085423093045207475"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2046216304508407808",
+              "start": 0,
+              "username": "Ilovemmlol"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085423093045207475",
+        "in_reply_to_user_id": "2046216304508407808",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085408043571855864",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ilovemmlol 孝家产"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-06T14:13:55.000Z",
+        "description": "叫我筷子就可以了(:3っ )っ\nOD丨🔪丨Vocaloid丨音游丨LGBTQ+friendly\n不卖药 只看互关私信 我很穷欢迎投喂\n不喜欢的直接b 查成分同类回fo 取关请双取\n备用机→@Hashi_988",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 104,
+                "start": 94,
+                "username": "Hashi_988"
+              }
+            ]
+          }
+        },
+        "id": "1964331185590718464",
+        "location": "颅内",
+        "name": "箸",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074711282427842560/EOM9Puhb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1400,
+          "following_count": 821,
+          "like_count": 36860,
+          "listed_count": 0,
+          "media_count": 372,
+          "tweet_count": 6532
+        },
+        "url": "",
+        "username": "breakcoreWTF",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-20T13:16:13.000Z",
+        "description": "我脾气不好从现在开始减少自己的进食频率",
+        "id": "2046216304508407808",
+        "name": "我希望自己能…",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085037816174546944/BPwG6m3Q_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 98,
+          "following_count": 39,
+          "like_count": 1092,
+          "listed_count": 0,
+          "media_count": 111,
+          "tweet_count": 715
+        },
+        "url": "",
+        "username": "Ilovemmlol",
+        "verified": false
+      }
+    ]
+  }
+}

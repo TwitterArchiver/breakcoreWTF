@@ -1,0 +1,473 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2092842901973934080"
+      ],
+      "media_source_tweet_id": [
+        "2092843644009300169"
+      ]
+    },
+    "author_id": "1964331185590718464",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Television shows from around the world",
+          "id": "3",
+          "name": "TV Shows"
+        },
+        "entity": {
+          "description": "Adult animated web series",
+          "id": "1444043338236104705",
+          "name": "Hazbin Hotel"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1281311833593282560",
+          "name": "Adult animation"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1444046743423762434",
+          "name": "Hazbin Hotel"
+        }
+      },
+      {
+        "domain": {
+          "description": "For global/conceptual TV shows without localization.",
+          "id": "172",
+          "name": "Global TV Show"
+        },
+        "entity": {
+          "id": "1444046743423762434",
+          "name": "Hazbin Hotel"
+        }
+      }
+    ],
+    "conversation_id": "2092883186552648052",
+    "created_at": "2026-08-27T07:53:30.000Z",
+    "display_text_range": [
+      0,
+      69
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-27T08:53:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092883186552648052"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 32,
+          "start": 17,
+          "tag": "HazbinHotelVox"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2012059957588594688",
+          "start": 3,
+          "username": "momomo_hzbn"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/4wM2rmPG35",
+          "end": 69,
+          "expanded_url": "https://x.com/momomo_hzbn/status/2092843644009300169/photo/1",
+          "media_key": "3_2092842901973934080",
+          "start": 46,
+          "url": "https://t.co/4wM2rmPG35"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092883186552648052",
+    "lang": "en",
+    "media_metadata": [
+      {
+        "media_key": "3_2092842901973934080"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 43
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092843644009300169",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "RT @momomo_hzbn: #HazbinHotelVox \nOld times🌩️ https://t.co/4wM2rmPG35"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4000,
+        "media_key": "3_2092842901973934080",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQtFh-7aoAASQLX.jpg",
+        "width": 4000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2092842901973934080"
+          ],
+          "media_source_tweet_id": [
+            "2092843644009300169"
+          ]
+        },
+        "author_id": "1964331185590718464",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "description": "Adult animated web series",
+              "id": "1444043338236104705",
+              "name": "Hazbin Hotel"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1281311833593282560",
+              "name": "Adult animation"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1444046743423762434",
+              "name": "Hazbin Hotel"
+            }
+          },
+          {
+            "domain": {
+              "description": "For global/conceptual TV shows without localization.",
+              "id": "172",
+              "name": "Global TV Show"
+            },
+            "entity": {
+              "id": "1444046743423762434",
+              "name": "Hazbin Hotel"
+            }
+          }
+        ],
+        "conversation_id": "2092883186552648052",
+        "created_at": "2026-08-27T07:53:30.000Z",
+        "display_text_range": [
+          0,
+          69
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T08:53:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092883186552648052"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 32,
+              "start": 17,
+              "tag": "HazbinHotelVox"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2012059957588594688",
+              "start": 3,
+              "username": "momomo_hzbn"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/4wM2rmPG35",
+              "end": 69,
+              "expanded_url": "https://x.com/momomo_hzbn/status/2092843644009300169/photo/1",
+              "media_key": "3_2092842901973934080",
+              "start": 46,
+              "url": "https://t.co/4wM2rmPG35"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092883186552648052",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2092842901973934080"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 43
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092843644009300169",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "RT @momomo_hzbn: #HazbinHotelVox \nOld times🌩️ https://t.co/4wM2rmPG35"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2092842901973934080"
+          ]
+        },
+        "author_id": "2012059957588594688",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "description": "Adult animated web series",
+              "id": "1444043338236104705",
+              "name": "Hazbin Hotel"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1281311833593282560",
+              "name": "Adult animation"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1444046743423762434",
+              "name": "Hazbin Hotel"
+            }
+          },
+          {
+            "domain": {
+              "description": "For global/conceptual TV shows without localization.",
+              "id": "172",
+              "name": "Global TV Show"
+            },
+            "entity": {
+              "id": "1444046743423762434",
+              "name": "Hazbin Hotel"
+            }
+          }
+        ],
+        "conversation_id": "2092843644009300169",
+        "created_at": "2026-08-27T05:16:22.000Z",
+        "display_text_range": [
+          0,
+          28
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T06:16:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092843644009300169"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 15,
+              "start": 0,
+              "tag": "HazbinHotelVox"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/4wM2rmPG35",
+              "end": 52,
+              "expanded_url": "https://x.com/momomo_hzbn/status/2092843644009300169/photo/1",
+              "media_key": "3_2092842901973934080",
+              "start": 29,
+              "url": "https://t.co/4wM2rmPG35"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092843644009300169",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2092842901973934080"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 19,
+          "impression_count": 1508,
+          "like_count": 132,
+          "quote_count": 2,
+          "reply_count": 2,
+          "retweet_count": 43
+        },
+        "reply_settings": "following",
+        "text": "#HazbinHotelVox \nOld times🌩️ https://t.co/4wM2rmPG35"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-09-06T14:13:55.000Z",
+        "description": "叫我筷子就可以了(:3っ )っ\n雜多丨OD丨自傷丨Vocaloid丨maimai丨🏳️‍🌈friendly\n不卖药 互关私信 取关请双取 不喜欢的直接b\nHH：Vox推し bottom🔁⭕ \nサブ垢＆避難垢→@Hashi_988",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 114,
+                "start": 104,
+                "username": "Hashi_988"
+              }
+            ]
+          }
+        },
+        "id": "1964331185590718464",
+        "is_identity_verified": false,
+        "location": "颅内",
+        "most_recent_tweet_id": "2092883186552648052",
+        "name": "箸",
+        "pinned_tweet_id": "2090132992979284341",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1964331185590718464/1785100910",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074711282427842560/EOM9Puhb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1577,
+          "following_count": 808,
+          "like_count": 43293,
+          "listed_count": 0,
+          "media_count": 437,
+          "tweet_count": 7746
+        },
+        "url": "",
+        "username": "breakcoreWTF",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-01-16T07:11:06.000Z",
+        "description": "20↑ | 모 も | RT多‼️ | OP 👒🕒🔄❌ HZBN 📺 bottom 🔄⭕️ | 표기대로 소비 | 낙서계 @momomo_dump",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 74,
+                "start": 62,
+                "username": "momomo_dump"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "spin-spin.com/momomo_hzbn",
+                "end": 23,
+                "expanded_url": "https://spin-spin.com/momomo_hzbn",
+                "start": 0,
+                "url": "https://t.co/cyvumOCaL3"
+              }
+            ]
+          }
+        },
+        "id": "2012059957588594688",
+        "is_identity_verified": false,
+        "location": "I : 연구원님❤️ H : 뽀글님💙",
+        "most_recent_tweet_id": "2092881865447546897",
+        "name": "MO",
+        "pinned_tweet_id": "2084883629478695316",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2012059957588594688/1787576241",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085733719332294656/bhfuD_S2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2182,
+          "following_count": 313,
+          "like_count": 6737,
+          "listed_count": 7,
+          "media_count": 182,
+          "tweet_count": 5502
+        },
+        "url": "https://t.co/cyvumOCaL3",
+        "username": "momomo_hzbn",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

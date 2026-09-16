@@ -1,0 +1,496 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2087693026378514432",
+        "3_2087693026378608640"
+      ],
+      "media_source_tweet_id": [
+        "2087693030472266185",
+        "2087693030472266185"
+      ]
+    },
+    "author_id": "1964331185590718464",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Television shows from around the world",
+          "id": "3",
+          "name": "TV Shows"
+        },
+        "entity": {
+          "description": "Adult animated web series",
+          "id": "1444043338236104705",
+          "name": "Hazbin Hotel"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1281311833593282560",
+          "name": "Adult animation"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1444046743423762434",
+          "name": "Hazbin Hotel"
+        }
+      },
+      {
+        "domain": {
+          "description": "For global/conceptual TV shows without localization.",
+          "id": "172",
+          "name": "Global TV Show"
+        },
+        "entity": {
+          "id": "1444046743423762434",
+          "name": "Hazbin Hotel"
+        }
+      }
+    ],
+    "conversation_id": "2087698929542680836",
+    "created_at": "2026-08-13T00:33:07.000Z",
+    "display_text_range": [
+      0,
+      55
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-13T01:33:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087698929542680836"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 31,
+          "start": 16,
+          "tag": "HazbinhotelVox"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2083207130816159744",
+          "start": 3,
+          "username": "ayo___hzbn"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/b6VWpsaRTA",
+          "end": 55,
+          "expanded_url": "https://x.com/ayo___hzbn/status/2087693030472266185/photo/1",
+          "media_key": "3_2087693026378514432",
+          "start": 32,
+          "url": "https://t.co/b6VWpsaRTA"
+        },
+        {
+          "display_url": "pic.x.com/b6VWpsaRTA",
+          "end": 55,
+          "expanded_url": "https://x.com/ayo___hzbn/status/2087693030472266185/photo/1",
+          "media_key": "3_2087693026378608640",
+          "start": 32,
+          "url": "https://t.co/b6VWpsaRTA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087698929542680836",
+    "lang": "qme",
+    "media_metadata": [
+      {
+        "media_key": "3_2087693026378514432"
+      },
+      {
+        "media_key": "3_2087693026378608640"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087693030472266185",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ayo___hzbn: #HazbinhotelVox https://t.co/b6VWpsaRTA"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2087693026378514432",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPj5vxVaAAABjmW.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2087693026378608640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPj5vxVbcAAaaaW.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2087693026378514432",
+            "3_2087693026378608640"
+          ]
+        },
+        "author_id": "2083207130816159744",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "description": "Adult animated web series",
+              "id": "1444043338236104705",
+              "name": "Hazbin Hotel"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1281311833593282560",
+              "name": "Adult animation"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1444046743423762434",
+              "name": "Hazbin Hotel"
+            }
+          },
+          {
+            "domain": {
+              "description": "For global/conceptual TV shows without localization.",
+              "id": "172",
+              "name": "Global TV Show"
+            },
+            "entity": {
+              "id": "1444046743423762434",
+              "name": "Hazbin Hotel"
+            }
+          }
+        ],
+        "conversation_id": "2087693030472266185",
+        "created_at": "2026-08-13T00:09:40.000Z",
+        "display_text_range": [
+          0,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T01:09:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087693030472266185"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 15,
+              "start": 0,
+              "tag": "HazbinhotelVox"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/b6VWpsaRTA",
+              "end": 39,
+              "expanded_url": "https://x.com/ayo___hzbn/status/2087693030472266185/photo/1",
+              "media_key": "3_2087693026378514432",
+              "start": 16,
+              "url": "https://t.co/b6VWpsaRTA"
+            },
+            {
+              "display_url": "pic.x.com/b6VWpsaRTA",
+              "end": 39,
+              "expanded_url": "https://x.com/ayo___hzbn/status/2087693030472266185/photo/1",
+              "media_key": "3_2087693026378608640",
+              "start": 16,
+              "url": "https://t.co/b6VWpsaRTA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087693030472266185",
+        "lang": "qme",
+        "media_metadata": [
+          {
+            "media_key": "3_2087693026378514432"
+          },
+          {
+            "media_key": "3_2087693026378608640"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 43,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "#HazbinhotelVox https://t.co/b6VWpsaRTA"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2087693026378514432",
+            "3_2087693026378608640"
+          ],
+          "media_source_tweet_id": [
+            "2087693030472266185",
+            "2087693030472266185"
+          ]
+        },
+        "author_id": "1964331185590718464",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "description": "Adult animated web series",
+              "id": "1444043338236104705",
+              "name": "Hazbin Hotel"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1281311833593282560",
+              "name": "Adult animation"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1444046743423762434",
+              "name": "Hazbin Hotel"
+            }
+          },
+          {
+            "domain": {
+              "description": "For global/conceptual TV shows without localization.",
+              "id": "172",
+              "name": "Global TV Show"
+            },
+            "entity": {
+              "id": "1444046743423762434",
+              "name": "Hazbin Hotel"
+            }
+          }
+        ],
+        "conversation_id": "2087698929542680836",
+        "created_at": "2026-08-13T00:33:07.000Z",
+        "display_text_range": [
+          0,
+          55
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T01:33:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087698929542680836"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 31,
+              "start": 16,
+              "tag": "HazbinhotelVox"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2083207130816159744",
+              "start": 3,
+              "username": "ayo___hzbn"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/b6VWpsaRTA",
+              "end": 55,
+              "expanded_url": "https://x.com/ayo___hzbn/status/2087693030472266185/photo/1",
+              "media_key": "3_2087693026378514432",
+              "start": 32,
+              "url": "https://t.co/b6VWpsaRTA"
+            },
+            {
+              "display_url": "pic.x.com/b6VWpsaRTA",
+              "end": 55,
+              "expanded_url": "https://x.com/ayo___hzbn/status/2087693030472266185/photo/1",
+              "media_key": "3_2087693026378608640",
+              "start": 32,
+              "url": "https://t.co/b6VWpsaRTA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087698929542680836",
+        "lang": "qme",
+        "media_metadata": [
+          {
+            "media_key": "3_2087693026378514432"
+          },
+          {
+            "media_key": "3_2087693026378608640"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087693030472266185",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ayo___hzbn: #HazbinhotelVox https://t.co/b6VWpsaRTA"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-09-06T14:13:55.000Z",
+        "description": "叫我筷子就可以了(:3っ )っ\nOD丨🔪丨Vocaloid丨音游丨LGBTQ+friendly\n不卖药 只看互关私信\n不喜欢的直接b 查成分回fo 取关请双取\n备用机、愚痴垢→@Hashi_988",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 98,
+                "start": 88,
+                "username": "Hashi_988"
+              }
+            ]
+          }
+        },
+        "id": "1964331185590718464",
+        "is_identity_verified": false,
+        "location": "颅内",
+        "most_recent_tweet_id": "2087698929542680836",
+        "name": "箸",
+        "pinned_tweet_id": "2086154153508884828",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1964331185590718464/1785100910",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074711282427842560/EOM9Puhb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1461,
+          "following_count": 789,
+          "like_count": 38467,
+          "listed_count": 0,
+          "media_count": 390,
+          "tweet_count": 6851
+        },
+        "url": "",
+        "username": "breakcoreWTF",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-07-31T15:05:22.000Z",
+        "description": "hzbn 好きなものを描きます",
+        "id": "2083207130816159744",
+        "is_identity_verified": false,
+        "location": "壁打ち気味です",
+        "most_recent_tweet_id": "2087693030472266185",
+        "name": "Ayo。",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2083207130816159744/1785643593",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2086831890036912128/_KVpsB-a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 82,
+          "following_count": 6,
+          "like_count": 120,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 20
+        },
+        "url": "",
+        "username": "ayo___hzbn",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

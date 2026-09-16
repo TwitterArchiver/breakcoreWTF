@@ -1,0 +1,325 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2091894177730867200"
+      ],
+      "media_source_tweet_id": [
+        "2091894184135573821"
+      ]
+    },
+    "author_id": "1964331185590718464",
+    "conversation_id": "2092042493949002220",
+    "created_at": "2026-08-25T00:12:53.000Z",
+    "display_text_range": [
+      0,
+      45
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-25T01:12:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092042493949002220"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "948962967843880960",
+          "start": 3,
+          "username": "iii0303_8"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/YqTQiC9yR0",
+          "end": 45,
+          "expanded_url": "https://x.com/iii0303_8/status/2091894184135573821/photo/1",
+          "media_key": "3_2091894177730867200",
+          "start": 22,
+          "url": "https://t.co/YqTQiC9yR0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092042493949002220",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2091894177730867200"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 253
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091894184135573821",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @iii0303_8: どりーまーず https://t.co/YqTQiC9yR0"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2091894177730867200",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQfmq9tbMAAdmLo.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2091894177730867200"
+          ],
+          "media_source_tweet_id": [
+            "2091894184135573821"
+          ]
+        },
+        "author_id": "1964331185590718464",
+        "conversation_id": "2092042493949002220",
+        "created_at": "2026-08-25T00:12:53.000Z",
+        "display_text_range": [
+          0,
+          45
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-25T01:12:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092042493949002220"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "948962967843880960",
+              "start": 3,
+              "username": "iii0303_8"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/YqTQiC9yR0",
+              "end": 45,
+              "expanded_url": "https://x.com/iii0303_8/status/2091894184135573821/photo/1",
+              "media_key": "3_2091894177730867200",
+              "start": 22,
+              "url": "https://t.co/YqTQiC9yR0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092042493949002220",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2091894177730867200"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 253
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091894184135573821",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @iii0303_8: どりーまーず https://t.co/YqTQiC9yR0"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2091894177730867200"
+          ]
+        },
+        "author_id": "948962967843880960",
+        "conversation_id": "2091894184135573821",
+        "created_at": "2026-08-24T14:23:33.000Z",
+        "display_text_range": [
+          0,
+          6
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-24T15:23:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2091894184135573821"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YqTQiC9yR0",
+              "end": 30,
+              "expanded_url": "https://x.com/iii0303_8/status/2091894184135573821/photo/1",
+              "media_key": "3_2091894177730867200",
+              "start": 7,
+              "url": "https://t.co/YqTQiC9yR0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091894184135573821",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2091894177730867200"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 39,
+          "impression_count": 53491,
+          "like_count": 2299,
+          "quote_count": 56,
+          "reply_count": 10,
+          "retweet_count": 253
+        },
+        "reply_settings": "everyone",
+        "text": "どりーまーず https://t.co/YqTQiC9yR0"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-09-06T14:13:55.000Z",
+        "description": "叫我筷子就可以了(:3っ )っ\n雜多丨OD丨自傷丨Vocaloid丨maimai丨🏳️‍🌈friendly\n不卖药 互关私信 取关请双取 不喜欢的直接b\nHH：Vox推し bottom🔁⭕ \nサブ垢＆避難垢→@Hashi_988",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 114,
+                "start": 104,
+                "username": "Hashi_988"
+              }
+            ]
+          }
+        },
+        "id": "1964331185590718464",
+        "is_identity_verified": false,
+        "location": "颅内",
+        "most_recent_tweet_id": "2092042493949002220",
+        "name": "箸",
+        "pinned_tweet_id": "2090132992979284341",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1964331185590718464/1785100910",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074711282427842560/EOM9Puhb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1577,
+          "following_count": 804,
+          "like_count": 42757,
+          "listed_count": 0,
+          "media_count": 436,
+          "tweet_count": 7646
+        },
+        "url": "",
+        "username": "breakcoreWTF",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2018-01-04T17:02:57.000Z",
+        "description": "音楽 / YouTube:https://t.co/064kPQG2Nt スタッフアカウント→（@THREEE_STAFF）バンド始めました→Aooo（@Aooo_band）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 48,
+                "username": "THREEE_STAFF"
+              },
+              {
+                "end": 86,
+                "start": 76,
+                "username": "Aooo_band"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "onl.bz/tTAfus8",
+                "end": 36,
+                "expanded_url": "http://onl.bz/tTAfus8",
+                "start": 13,
+                "url": "https://t.co/064kPQG2Nt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "nicovideo.jp/mylist/61186360",
+                "end": 23,
+                "expanded_url": "https://www.nicovideo.jp/mylist/61186360",
+                "start": 0,
+                "url": "https://t.co/03R7IDYtls"
+              }
+            ]
+          }
+        },
+        "id": "948962967843880960",
+        "is_identity_verified": false,
+        "location": "iii0303iii8@gmail.com",
+        "most_recent_tweet_id": "2091894184135573821",
+        "name": "すりぃ_THREEE",
+        "pinned_tweet_id": "2057765330177675633",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/948962967843880960/1779444517",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1510100674788601856/uXLpl7ua_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 389454,
+          "following_count": 324,
+          "like_count": 5465,
+          "listed_count": 1391,
+          "media_count": 765,
+          "tweet_count": 9193
+        },
+        "url": "https://t.co/03R7IDYtls",
+        "username": "iii0303_8",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

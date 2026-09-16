@@ -1,0 +1,311 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2085217586065874945"
+      ],
+      "media_source_tweet_id": [
+        "2085217622719967400"
+      ]
+    },
+    "author_id": "1964331185590718464",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2085439212288168039",
+    "created_at": "2026-08-06T18:53:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-06T19:53:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085439212288168039"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1848378597322743808",
+          "start": 3,
+          "username": "osakana_sanm"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/To0Jepx5C6",
+          "end": 46,
+          "expanded_url": "https://x.com/osakana_sanm/status/2085217622719967400/video/1",
+          "media_key": "13_2085217586065874945",
+          "start": 23,
+          "url": "https://t.co/To0Jepx5C6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085439212288168039",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 285
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085217622719967400",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @osakana_sanm: ガチで神 https://t.co/To0Jepx5C6"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 16006,
+        "height": 720,
+        "media_key": "13_2085217586065874945",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2085217586065874945/img/doUNleBAVAoY-IBI.jpg",
+        "public_metrics": {
+          "view_count": 59620
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2085217586065874945/vid/avc1/476x270/IrUYBGxCPrAFpzjI.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2085217586065874945/vid/avc1/636x360/TvDuVRdONP_B4OpI.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2085217586065874945/vid/avc1/1274x720/mlbfH6TKkUMLebBe.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2085217586065874945/pl/wAnlFLs-2umAPH4_.m3u8?v=cfc"
+          }
+        ],
+        "width": 1274
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2085217586065874945"
+          ]
+        },
+        "author_id": "1848378597322743808",
+        "conversation_id": "2085217622719967400",
+        "created_at": "2026-08-06T04:13:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T05:13:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085217622719967400"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/To0Jepx5C6",
+              "end": 28,
+              "expanded_url": "https://x.com/osakana_sanm/status/2085217622719967400/video/1",
+              "media_key": "13_2085217586065874945",
+              "start": 5,
+              "url": "https://t.co/To0Jepx5C6"
+            },
+            {
+              "display_url": "x.com/f41co_/status/…",
+              "end": 52,
+              "expanded_url": "https://twitter.com/f41co_/status/2085013674583011620",
+              "start": 29,
+              "url": "https://t.co/NzeDdoKilw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085217622719967400",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 449,
+          "impression_count": 192009,
+          "like_count": 1772,
+          "quote_count": 19,
+          "reply_count": 2,
+          "retweet_count": 285
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085013674583011620",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "ガチで神 https://t.co/To0Jepx5C6 https://t.co/NzeDdoKilw"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2085217586065874945"
+          ],
+          "media_source_tweet_id": [
+            "2085217622719967400"
+          ]
+        },
+        "author_id": "1964331185590718464",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2085439212288168039",
+        "created_at": "2026-08-06T18:53:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T19:53:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085439212288168039"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1848378597322743808",
+              "start": 3,
+              "username": "osakana_sanm"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/To0Jepx5C6",
+              "end": 46,
+              "expanded_url": "https://x.com/osakana_sanm/status/2085217622719967400/video/1",
+              "media_key": "13_2085217586065874945",
+              "start": 23,
+              "url": "https://t.co/To0Jepx5C6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085439212288168039",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 285
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085217622719967400",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @osakana_sanm: ガチで神 https://t.co/To0Jepx5C6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-06T14:13:55.000Z",
+        "description": "叫我筷子就可以了(:3っ )っ\nOD丨🔪丨Vocaloid丨音游丨LGBTQ+friendly\n不卖药 只看互关私信 我很穷欢迎投喂\n不喜欢的直接b 查成分同类回fo 取关请双取\n备用机→@Hashi_988",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 104,
+                "start": 94,
+                "username": "Hashi_988"
+              }
+            ]
+          }
+        },
+        "id": "1964331185590718464",
+        "location": "颅内",
+        "name": "箸",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074711282427842560/EOM9Puhb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1399,
+          "following_count": 820,
+          "like_count": 36883,
+          "listed_count": 0,
+          "media_count": 372,
+          "tweet_count": 6538
+        },
+        "url": "",
+        "username": "breakcoreWTF",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-21T14:59:48.000Z",
+        "description": "す",
+        "id": "1848378597322743808",
+        "name": "🌊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078782971524587520/_jlfSIUP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 111,
+          "following_count": 196,
+          "like_count": 10330,
+          "listed_count": 0,
+          "media_count": 2069,
+          "tweet_count": 8305
+        },
+        "url": "",
+        "username": "osakana_sanm",
+        "verified": false
+      }
+    ]
+  }
+}

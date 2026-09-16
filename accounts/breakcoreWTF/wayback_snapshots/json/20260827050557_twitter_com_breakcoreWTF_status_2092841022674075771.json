@@ -1,0 +1,414 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2092734978916306945",
+        "3_2092734987296559104"
+      ],
+      "media_source_tweet_id": [
+        "2092734996134215878",
+        "2092734996134215878"
+      ]
+    },
+    "author_id": "1964331185590718464",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Vaping",
+          "id": "1047109035600764929",
+          "name": "Vaping"
+        }
+      }
+    ],
+    "conversation_id": "2092841022674075771",
+    "created_at": "2026-08-27T05:05:57.000Z",
+    "display_text_range": [
+      0,
+      65
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-27T06:05:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092841022674075771"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "2084720678192795648",
+          "start": 3,
+          "username": "_cirrushusband"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/yDmsmUYdir",
+          "end": 65,
+          "expanded_url": "https://x.com/_cirrushusband/status/2092734996134215878/photo/1",
+          "media_key": "3_2092734978916306945",
+          "start": 42,
+          "url": "https://t.co/yDmsmUYdir"
+        },
+        {
+          "display_url": "pic.x.com/yDmsmUYdir",
+          "end": 65,
+          "expanded_url": "https://x.com/_cirrushusband/status/2092734996134215878/photo/1",
+          "media_key": "3_2092734987296559104",
+          "start": 42,
+          "url": "https://t.co/yDmsmUYdir"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092841022674075771",
+    "lang": "en",
+    "media_metadata": [
+      {
+        "media_key": "3_2092734978916306945"
+      },
+      {
+        "media_key": "3_2092734987296559104"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 877
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092734996134215878",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @_cirrushusband: weed san and vape kun https://t.co/yDmsmUYdir"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1737,
+        "media_key": "3_2092734978916306945",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQrjYCNXUAESr1Q.jpg",
+        "width": 1379
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2092734987296559104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQrjYhbX0AAZf7B.jpg",
+        "width": 3155
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2092734978916306945",
+            "3_2092734987296559104"
+          ],
+          "media_source_tweet_id": [
+            "2092734996134215878",
+            "2092734996134215878"
+          ]
+        },
+        "author_id": "1964331185590718464",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Vaping",
+              "id": "1047109035600764929",
+              "name": "Vaping"
+            }
+          }
+        ],
+        "conversation_id": "2092841022674075771",
+        "created_at": "2026-08-27T05:05:57.000Z",
+        "display_text_range": [
+          0,
+          65
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T06:05:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092841022674075771"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "2084720678192795648",
+              "start": 3,
+              "username": "_cirrushusband"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/yDmsmUYdir",
+              "end": 65,
+              "expanded_url": "https://x.com/_cirrushusband/status/2092734996134215878/photo/1",
+              "media_key": "3_2092734978916306945",
+              "start": 42,
+              "url": "https://t.co/yDmsmUYdir"
+            },
+            {
+              "display_url": "pic.x.com/yDmsmUYdir",
+              "end": 65,
+              "expanded_url": "https://x.com/_cirrushusband/status/2092734996134215878/photo/1",
+              "media_key": "3_2092734987296559104",
+              "start": 42,
+              "url": "https://t.co/yDmsmUYdir"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092841022674075771",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2092734978916306945"
+          },
+          {
+            "media_key": "3_2092734987296559104"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 877
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092734996134215878",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @_cirrushusband: weed san and vape kun https://t.co/yDmsmUYdir"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2092734978916306945",
+            "3_2092734987296559104"
+          ]
+        },
+        "author_id": "2084720678192795648",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Vaping",
+              "id": "1047109035600764929",
+              "name": "Vaping"
+            }
+          }
+        ],
+        "conversation_id": "2092734996134215878",
+        "created_at": "2026-08-26T22:04:38.000Z",
+        "display_text_range": [
+          0,
+          21
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T23:04:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092734996134215878"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yDmsmUYdir",
+              "end": 45,
+              "expanded_url": "https://x.com/_cirrushusband/status/2092734996134215878/photo/1",
+              "media_key": "3_2092734978916306945",
+              "start": 22,
+              "url": "https://t.co/yDmsmUYdir"
+            },
+            {
+              "display_url": "pic.x.com/yDmsmUYdir",
+              "end": 45,
+              "expanded_url": "https://x.com/_cirrushusband/status/2092734996134215878/photo/1",
+              "media_key": "3_2092734987296559104",
+              "start": 22,
+              "url": "https://t.co/yDmsmUYdir"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092734996134215878",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2092734978916306945"
+          },
+          {
+            "media_key": "3_2092734987296559104"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 456,
+          "impression_count": 27489,
+          "like_count": 4783,
+          "quote_count": 40,
+          "reply_count": 28,
+          "retweet_count": 877
+        },
+        "reply_settings": "everyone",
+        "text": "weed san and vape kun https://t.co/yDmsmUYdir"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-09-06T14:13:55.000Z",
+        "description": "叫我筷子就可以了(:3っ )っ\n雜多丨OD丨自傷丨Vocaloid丨maimai丨🏳️‍🌈friendly\n不卖药 互关私信 取关请双取 不喜欢的直接b\nHH：Vox推し bottom🔁⭕ \nサブ垢＆避難垢→@Hashi_988",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 114,
+                "start": 104,
+                "username": "Hashi_988"
+              }
+            ]
+          }
+        },
+        "id": "1964331185590718464",
+        "is_identity_verified": false,
+        "location": "颅内",
+        "most_recent_tweet_id": "2092841022674075771",
+        "name": "箸",
+        "pinned_tweet_id": "2090132992979284341",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1964331185590718464/1785100910",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074711282427842560/EOM9Puhb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1575,
+          "following_count": 807,
+          "like_count": 43256,
+          "listed_count": 0,
+          "media_count": 437,
+          "tweet_count": 7739
+        },
+        "url": "",
+        "username": "breakcoreWTF",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-04T19:21:14.000Z",
+        "description": "#shedrtwt #chiikawatwt #moetwt #litctwt\nfeel free to talk to me  ૮₍ ´ ꒳ `₎ა  愛、人生 ٠࣪ 🇦🇷\n\nsussed like four times lol ,, normaltwt dni",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 9,
+                "start": 0,
+                "tag": "shedrtwt"
+              },
+              {
+                "end": 22,
+                "start": 10,
+                "tag": "chiikawatwt"
+              },
+              {
+                "end": 30,
+                "start": 23,
+                "tag": "moetwt"
+              },
+              {
+                "end": 39,
+                "start": 31,
+                "tag": "litctwt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "cirrushusbandkai.straw.page",
+                "end": 23,
+                "expanded_url": "https://cirrushusbandkai.straw.page",
+                "start": 0,
+                "url": "https://t.co/xlkfzGxY3z"
+              }
+            ]
+          }
+        },
+        "id": "2084720678192795648",
+        "is_identity_verified": false,
+        "location": "discord ; kaiiyuki 🤍🪽",
+        "most_recent_tweet_id": "2092785016572952930",
+        "name": "カイ",
+        "pinned_tweet_id": "2084723664990454119",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2084720678192795648/1786985360",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2086582466794463232/dnTRjrxW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 389,
+          "following_count": 336,
+          "like_count": 2746,
+          "listed_count": 10,
+          "media_count": 30,
+          "tweet_count": 254
+        },
+        "url": "https://t.co/xlkfzGxY3z",
+        "username": "_cirrushusband",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

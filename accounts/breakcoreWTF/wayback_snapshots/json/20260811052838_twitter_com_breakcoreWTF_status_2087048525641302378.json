@@ -1,0 +1,481 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2086776251537412096",
+        "3_2086776258621571072"
+      ],
+      "media_source_tweet_id": [
+        "2086776263780524494",
+        "2086776263780524494"
+      ]
+    },
+    "author_id": "1964331185590718464",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1297951101136732160",
+          "name": "Animation & comics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1585790663575994368",
+          "name": "Magical girl"
+        }
+      }
+    ],
+    "conversation_id": "2087048525641302378",
+    "created_at": "2026-08-11T05:28:38.000Z",
+    "display_text_range": [
+      0,
+      56
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-11T06:28:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087048525641302378"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1344919377947213825",
+          "start": 3,
+          "username": "moromoromonmo"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/c1IyZVcQUH",
+          "end": 56,
+          "expanded_url": "https://x.com/moromoromonmo/status/2086776263780524494/photo/1",
+          "media_key": "3_2086776251537412096",
+          "start": 33,
+          "url": "https://t.co/c1IyZVcQUH"
+        },
+        {
+          "display_url": "pic.x.com/c1IyZVcQUH",
+          "end": 56,
+          "expanded_url": "https://x.com/moromoromonmo/status/2086776263780524494/photo/1",
+          "media_key": "3_2086776258621571072",
+          "start": 33,
+          "url": "https://t.co/c1IyZVcQUH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087048525641302378",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2086776251537412096"
+      },
+      {
+        "media_key": "3_2086776258621571072"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 317
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086776263780524494",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @moromoromonmo: 魔法少女\n初期と後期であれ https://t.co/c1IyZVcQUH"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_2086776251537412096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPW38c6b0AAFjgx.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1280,
+        "media_key": "3_2086776258621571072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPW383TbgAAbfK0.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2086776251537412096",
+            "3_2086776258621571072"
+          ]
+        },
+        "author_id": "1344919377947213825",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1585790663575994368",
+              "name": "Magical girl"
+            }
+          }
+        ],
+        "conversation_id": "2086776263780524494",
+        "created_at": "2026-08-10T11:26:46.000Z",
+        "display_text_range": [
+          0,
+          13
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T12:26:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086776263780524494"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/c1IyZVcQUH",
+              "end": 37,
+              "expanded_url": "https://x.com/moromoromonmo/status/2086776263780524494/photo/1",
+              "media_key": "3_2086776251537412096",
+              "start": 14,
+              "url": "https://t.co/c1IyZVcQUH"
+            },
+            {
+              "display_url": "pic.x.com/c1IyZVcQUH",
+              "end": 37,
+              "expanded_url": "https://x.com/moromoromonmo/status/2086776263780524494/photo/1",
+              "media_key": "3_2086776258621571072",
+              "start": 14,
+              "url": "https://t.co/c1IyZVcQUH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086776263780524494",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2086776251537412096"
+          },
+          {
+            "media_key": "3_2086776258621571072"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 845,
+          "impression_count": 113926,
+          "like_count": 6249,
+          "quote_count": 13,
+          "reply_count": 1,
+          "retweet_count": 317
+        },
+        "reply_settings": "everyone",
+        "text": "魔法少女\n初期と後期であれ https://t.co/c1IyZVcQUH"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2086776251537412096",
+            "3_2086776258621571072"
+          ],
+          "media_source_tweet_id": [
+            "2086776263780524494",
+            "2086776263780524494"
+          ]
+        },
+        "author_id": "1964331185590718464",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1585790663575994368",
+              "name": "Magical girl"
+            }
+          }
+        ],
+        "conversation_id": "2087048525641302378",
+        "created_at": "2026-08-11T05:28:38.000Z",
+        "display_text_range": [
+          0,
+          56
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T06:28:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087048525641302378"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1344919377947213825",
+              "start": 3,
+              "username": "moromoromonmo"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/c1IyZVcQUH",
+              "end": 56,
+              "expanded_url": "https://x.com/moromoromonmo/status/2086776263780524494/photo/1",
+              "media_key": "3_2086776251537412096",
+              "start": 33,
+              "url": "https://t.co/c1IyZVcQUH"
+            },
+            {
+              "display_url": "pic.x.com/c1IyZVcQUH",
+              "end": 56,
+              "expanded_url": "https://x.com/moromoromonmo/status/2086776263780524494/photo/1",
+              "media_key": "3_2086776258621571072",
+              "start": 33,
+              "url": "https://t.co/c1IyZVcQUH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087048525641302378",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2086776251537412096"
+          },
+          {
+            "media_key": "3_2086776258621571072"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 317
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086776263780524494",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @moromoromonmo: 魔法少女\n初期と後期であれ https://t.co/c1IyZVcQUH"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-09-06T14:13:55.000Z",
+        "description": "叫我筷子就可以了(:3っ )っ\nOD丨🔪丨Vocaloid丨音游丨LGBTQ+friendly\n不卖药 只看互关私信\n不喜欢的直接b 查成分回fo 取关请双取\n备用机、愚痴垢→@Hashi_988",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 98,
+                "start": 88,
+                "username": "Hashi_988"
+              }
+            ]
+          }
+        },
+        "id": "1964331185590718464",
+        "is_identity_verified": false,
+        "location": "颅内",
+        "most_recent_tweet_id": "2087048525641302378",
+        "name": "箸",
+        "pinned_tweet_id": "2086154153508884828",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1964331185590718464/1785100910",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074711282427842560/EOM9Puhb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1457,
+          "following_count": 786,
+          "like_count": 38278,
+          "listed_count": 0,
+          "media_count": 387,
+          "tweet_count": 6795
+        },
+        "url": "",
+        "username": "breakcoreWTF",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-01-01T08:12:43.000Z",
+        "description": "上級国民代表/壁打ちアカウント▶@diarymarimo0530\n3⬇FAかなりよろこびます▶ #カブまりもち畑 skeb▶https://t.co/lpT6C4SAWi\nまりもです。通知切っているので反応鈍いです🥲All rights reserved.",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 56,
+                "start": 48,
+                "tag": "カブまりもち畑"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 32,
+                "start": 16,
+                "username": "diarymarimo0530"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "skeb.jp/@kabumarimoti",
+                "end": 85,
+                "expanded_url": "https://skeb.jp/@kabumarimoti",
+                "start": 62,
+                "url": "https://t.co/lpT6C4SAWi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/happybeeflife?…",
+                "end": 23,
+                "expanded_url": "https://marshmallow-qa.com/happybeeflife?t=45Skkp&utm_medium=url_text&utm_source",
+                "start": 0,
+                "url": "https://t.co/G6Y9R88Rci"
+              }
+            ]
+          }
+        },
+        "id": "1344919377947213825",
+        "is_identity_verified": false,
+        "location": "絵の無断使用禁止/ご依頼:2件作業中",
+        "most_recent_tweet_id": "2086821982600044932",
+        "name": "力ブまりもち",
+        "pinned_tweet_id": "2050886244192981481",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1344919377947213825/1771706469",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978090017340665856/P5hfDU7N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6250,
+          "following_count": 144,
+          "like_count": 7478,
+          "listed_count": 34,
+          "media_count": 941,
+          "tweet_count": 6986
+        },
+        "url": "https://t.co/G6Y9R88Rci",
+        "username": "moromoromonmo",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,350 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2096538128509214722"
+      ],
+      "media_source_tweet_id": [
+        "2096538277499253242"
+      ]
+    },
+    "author_id": "1964331185590718464",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2096770097977364612",
+    "created_at": "2026-09-07T01:18:42.000Z",
+    "display_text_range": [
+      0,
+      47
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-07T02:18:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096770097977364612"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1308286894204051458",
+          "start": 3,
+          "username": "_mimimi222"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/njFDhmkRYw",
+          "end": 47,
+          "expanded_url": "https://x.com/_mimimi222/status/2096538277499253242/video/1",
+          "media_key": "13_2096538128509214722",
+          "start": 24,
+          "url": "https://t.co/njFDhmkRYw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096770097977364612",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "13_2096538128509214722"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 275
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096538277499253242",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @_mimimi222: ベノム　手描き https://t.co/njFDhmkRYw"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 7000,
+        "height": 720,
+        "media_key": "13_2096538128509214722",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2096538128509214722/img/eDwYqVM4ONPJur7O.jpg",
+        "public_metrics": {
+          "view_count": 26612
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2096538128509214722/vid/avc1/480x270/F9qJSOOG9rkrZ_eO.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2096538128509214722/vid/avc1/640x360/D9_pptjgLg6e6Fmg.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2096538128509214722/vid/avc1/1280x720/P9NCrahwaFqvaN2d.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2096538128509214722/pl/0lCjEjlnlLQAB8Y2.m3u8?tag=14"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2096538128509214722"
+          ],
+          "media_source_tweet_id": [
+            "2096538277499253242"
+          ]
+        },
+        "author_id": "1964331185590718464",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2096770097977364612",
+        "created_at": "2026-09-07T01:18:42.000Z",
+        "display_text_range": [
+          0,
+          47
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T02:18:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096770097977364612"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1308286894204051458",
+              "start": 3,
+              "username": "_mimimi222"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/njFDhmkRYw",
+              "end": 47,
+              "expanded_url": "https://x.com/_mimimi222/status/2096538277499253242/video/1",
+              "media_key": "13_2096538128509214722",
+              "start": 24,
+              "url": "https://t.co/njFDhmkRYw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096770097977364612",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "13_2096538128509214722"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 275
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096538277499253242",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @_mimimi222: ベノム　手描き https://t.co/njFDhmkRYw"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2096538128509214722"
+          ]
+        },
+        "author_id": "1308286894204051458",
+        "conversation_id": "2096538277499253242",
+        "created_at": "2026-09-06T09:57:31.000Z",
+        "display_text_range": [
+          0,
+          7
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T10:57:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096538277499253242"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/njFDhmkRYw",
+              "end": 31,
+              "expanded_url": "https://x.com/_mimimi222/status/2096538277499253242/video/1",
+              "media_key": "13_2096538128509214722",
+              "start": 8,
+              "url": "https://t.co/njFDhmkRYw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096538277499253242",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "13_2096538128509214722"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 406,
+          "impression_count": 52368,
+          "like_count": 1687,
+          "quote_count": 6,
+          "reply_count": 0,
+          "retweet_count": 275
+        },
+        "reply_settings": "everyone",
+        "text": "ベノム　手描き https://t.co/njFDhmkRYw"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-09-06T14:13:55.000Z",
+        "description": "叫我筷子就可以了(:3っ )っ\n雜多丨OD丨自傷丨Vocaloid丨maimai丨🏳️‍🌈friendly\n不卖药 眼熟回关 取关请双取 不喜欢的直接b\nサブ垢＆避難垢→@Hashi_988",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 95,
+                "start": 85,
+                "username": "Hashi_988"
+              }
+            ]
+          }
+        },
+        "id": "1964331185590718464",
+        "is_identity_verified": false,
+        "location": "颅内",
+        "most_recent_tweet_id": "2096770097977364612",
+        "name": "箸",
+        "pinned_tweet_id": "2090132992979284341",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1964331185590718464/1788644554",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2093963390620487680/sATuTGb4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1624,
+          "following_count": 801,
+          "like_count": 46545,
+          "listed_count": 0,
+          "media_count": 460,
+          "tweet_count": 8250
+        },
+        "url": "",
+        "username": "breakcoreWTF",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-09-22T06:08:26.000Z",
+        "description": "絵　修行\n🔞→@_mimimigekiero",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 7,
+                "username": "_mimimigekiero"
+              }
+            ]
+          }
+        },
+        "id": "1308286894204051458",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2096538766869729711",
+        "name": "みみみ222",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1507360116672446468/OY7bGF4A_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7184,
+          "following_count": 972,
+          "like_count": 10286,
+          "listed_count": 69,
+          "media_count": 599,
+          "tweet_count": 1235
+        },
+        "url": "",
+        "username": "_mimimi222",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

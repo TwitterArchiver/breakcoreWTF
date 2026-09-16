@@ -1,0 +1,515 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1964331185590718464",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series.\n\nThe Video Game domain query only tracks conversation about the game series whereas the Multimedia Franchise query contains all Persona conversation.",
+          "id": "854954654546907136",
+          "name": "Persona"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series.\n\nThe Video Game domain query only tracks conversation about the game series whereas the Multimedia Franchise query contains all Persona conversation.",
+          "id": "854954654546907136",
+          "name": "Persona"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1197907410582532096",
+          "name": "Roleplaying games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491898900390707204",
+          "name": "JRPGs"
+        }
+      }
+    ],
+    "conversation_id": "2093082425601798566",
+    "created_at": "2026-08-27T21:05:12.000Z",
+    "display_text_range": [
+      0,
+      146
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-27T22:05:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2093082425601798566"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2092979508450414592",
+          "start": 3,
+          "username": "shuniu21"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2093082425601798566",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092987661032259856",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @shuniu21: hiii:3 这里是枢纽Toky 前世被msk制裁。。希望此生可以寻回互fo！求转😿\n我想和—些oder ed妹 地雷女 餐券妹玩&gt;ω&lt;\np1永封了。p2、3我脸 p4我每天\n可能会雷到你：此女是出门无能的烟鬼ed毒蛆、喜欢研究精神活性物质。\nany…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1159,
+        "media_key": "3_2092987256990785536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQvI0jRa4AAD2C9.jpg",
+        "width": 1440
+      },
+      {
+        "height": 2000,
+        "media_key": "3_2092987276183887872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQvI1qxaYAApAHx.jpg",
+        "width": 1500
+      },
+      {
+        "height": 2000,
+        "media_key": "3_2092987326582730753",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQvI4mhbsAEQTRw.jpg",
+        "width": 1500
+      },
+      {
+        "duration_ms": 2870,
+        "height": 962,
+        "media_key": "13_2092987441938681856",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2092987441938681856/img/ONec7zxdSUj8yuji.jpg",
+        "public_metrics": {
+          "view_count": 51
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2092987441938681856/vid/avc1/320x426/TwX2eG2rU9sij6NH.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2092987441938681856/vid/avc1/480x640/Ca3mZ1xch8lU7Mul.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2092987441938681856/vid/avc1/720x962/o4bkm28LWRkaj_RB.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2092987441938681856/pl/p4eJZylVzR-F0CcQ.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1964331185590718464",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series.\n\nThe Video Game domain query only tracks conversation about the game series whereas the Multimedia Franchise query contains all Persona conversation.",
+              "id": "854954654546907136",
+              "name": "Persona"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series.\n\nThe Video Game domain query only tracks conversation about the game series whereas the Multimedia Franchise query contains all Persona conversation.",
+              "id": "854954654546907136",
+              "name": "Persona"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1197907410582532096",
+              "name": "Roleplaying games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491898900390707204",
+              "name": "JRPGs"
+            }
+          }
+        ],
+        "conversation_id": "2093082425601798566",
+        "created_at": "2026-08-27T21:05:12.000Z",
+        "display_text_range": [
+          0,
+          146
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T22:05:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093082425601798566"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2092979508450414592",
+              "start": 3,
+              "username": "shuniu21"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093082425601798566",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092987661032259856",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @shuniu21: hiii:3 这里是枢纽Toky 前世被msk制裁。。希望此生可以寻回互fo！求转😿\n我想和—些oder ed妹 地雷女 餐券妹玩&gt;ω&lt;\np1永封了。p2、3我脸 p4我每天\n可能会雷到你：此女是出门无能的烟鬼ed毒蛆、喜欢研究精神活性物质。\nany…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2092987256990785536",
+            "3_2092987276183887872",
+            "3_2092987326582730753",
+            "13_2092987441938681856"
+          ]
+        },
+        "author_id": "2092979508450414592",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series.\n\nThe Video Game domain query only tracks conversation about the game series whereas the Multimedia Franchise query contains all Persona conversation.",
+              "id": "854954654546907136",
+              "name": "Persona"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series.\n\nThe Video Game domain query only tracks conversation about the game series whereas the Multimedia Franchise query contains all Persona conversation.",
+              "id": "854954654546907136",
+              "name": "Persona"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1197907410582532096",
+              "name": "Roleplaying games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491898900390707204",
+              "name": "JRPGs"
+            }
+          }
+        ],
+        "conversation_id": "2092987661032259856",
+        "created_at": "2026-08-27T14:48:38.000Z",
+        "display_text_range": [
+          0,
+          175
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T15:48:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092987661032259856"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/I4QIUUpY0Y",
+              "end": 199,
+              "expanded_url": "https://x.com/shuniu21/status/2092987661032259856/video/1",
+              "media_key": "3_2092987256990785536",
+              "start": 176,
+              "url": "https://t.co/I4QIUUpY0Y"
+            },
+            {
+              "display_url": "pic.x.com/I4QIUUpY0Y",
+              "end": 199,
+              "expanded_url": "https://x.com/shuniu21/status/2092987661032259856/video/1",
+              "media_key": "3_2092987276183887872",
+              "start": 176,
+              "url": "https://t.co/I4QIUUpY0Y"
+            },
+            {
+              "display_url": "pic.x.com/I4QIUUpY0Y",
+              "end": 199,
+              "expanded_url": "https://x.com/shuniu21/status/2092987661032259856/video/1",
+              "media_key": "3_2092987326582730753",
+              "start": 176,
+              "url": "https://t.co/I4QIUUpY0Y"
+            },
+            {
+              "display_url": "pic.x.com/I4QIUUpY0Y",
+              "end": 199,
+              "expanded_url": "https://x.com/shuniu21/status/2092987661032259856/video/1",
+              "media_key": "13_2092987441938681856",
+              "start": 176,
+              "url": "https://t.co/I4QIUUpY0Y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092987661032259856",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2092987256990785536"
+          },
+          {
+            "media_key": "3_2092987276183887872"
+          },
+          {
+            "media_key": "3_2092987326582730753"
+          },
+          {
+            "media_key": "13_2092987441938681856"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 218,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "hiii:3 这里是枢纽Toky 前世被msk制裁。。希望此生可以寻回互fo！求转😿\n我想和—些oder ed妹 地雷女 餐券妹玩&gt;ω&lt;\np1永封了。p2、3我脸 p4我每天\n可能会雷到你：此女是出门无能的烟鬼ed毒蛆、喜欢研究精神活性物质。\nanyway欢迎成分差不多的和我玩呀!我很温良 ÒwÓ（忘记转帖回fo的宝宝评论或者私戳我呀! https://t.co/I4QIUUpY0Y"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-09-06T14:13:55.000Z",
+        "description": "叫我筷子就可以了(:3っ )っ\n雜多丨OD丨自傷丨Vocaloid丨maimai丨🏳️‍🌈friendly\n不卖药 互关私信 取关请双取 不喜欢的直接b\nHH：Vox推し bottom🔁⭕ \nサブ垢＆避難垢→@Hashi_988",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 114,
+                "start": 104,
+                "username": "Hashi_988"
+              }
+            ]
+          }
+        },
+        "id": "1964331185590718464",
+        "is_identity_verified": false,
+        "location": "颅内",
+        "most_recent_tweet_id": "2093082425601798566",
+        "name": "箸",
+        "pinned_tweet_id": "2090132992979284341",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1964331185590718464/1785100910",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074711282427842560/EOM9Puhb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1576,
+          "following_count": 806,
+          "like_count": 43362,
+          "listed_count": 0,
+          "media_count": 440,
+          "tweet_count": 7776
+        },
+        "url": "",
+        "username": "breakcoreWTF",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-27T14:17:37.000Z",
+        "description": "枢纽2.0诞生！~~\n前世@Stolly21_TG 已陨落。\n学习药理的oder、ed、162cm35kg、鼻吸130mgDPT存活、休学无所事事、尼古丁依赖持续、外出无能家里蹲。（互fo欢迎~查成分回fo回私信这些！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 13,
+                "username": "Stolly21_TG"
+              }
+            ]
+          }
+        },
+        "id": "2092979508450414592",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2093056363463356802",
+        "name": "枢纽Toky（互关寻回",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2092979508450414592/1787842871",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092980101415829504/XqQS0kSc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 19,
+          "like_count": 7,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 5
+        },
+        "url": "",
+        "username": "shuniu21",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

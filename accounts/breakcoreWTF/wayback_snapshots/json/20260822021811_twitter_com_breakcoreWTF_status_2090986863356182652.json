@@ -1,0 +1,466 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2090869677929193472"
+      ],
+      "media_source_tweet_id": [
+        "2090869682895303055"
+      ]
+    },
+    "author_id": "1964331185590718464",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Television shows from around the world",
+          "id": "3",
+          "name": "TV Shows"
+        },
+        "entity": {
+          "description": "Adult animated web series",
+          "id": "1444043338236104705",
+          "name": "Hazbin Hotel"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1281311833593282560",
+          "name": "Adult animation"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1444046743423762434",
+          "name": "Hazbin Hotel"
+        }
+      },
+      {
+        "domain": {
+          "description": "For global/conceptual TV shows without localization.",
+          "id": "172",
+          "name": "Global TV Show"
+        },
+        "entity": {
+          "id": "1444046743423762434",
+          "name": "Hazbin Hotel"
+        }
+      }
+    ],
+    "conversation_id": "2090986863356182652",
+    "created_at": "2026-08-22T02:18:11.000Z",
+    "display_text_range": [
+      0,
+      75
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-22T03:18:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090986863356182652"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 35,
+          "start": 20,
+          "tag": "HazbinHotelVox"
+        },
+        {
+          "end": 51,
+          "start": 36,
+          "tag": "VoxHazbinHotel"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 18,
+          "id": "2012840864905879552",
+          "start": 3,
+          "username": "Shaku_meramera"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/FAIQ9SHmHe",
+          "end": 75,
+          "expanded_url": "https://x.com/Shaku_meramera/status/2090869682895303055/photo/1",
+          "media_key": "3_2090869677929193472",
+          "start": 52,
+          "url": "https://t.co/FAIQ9SHmHe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090986863356182652",
+    "lang": "qme",
+    "media_metadata": [
+      {
+        "media_key": "3_2090869677929193472"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090869682895303055",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Shaku_meramera: #HazbinHotelVox #VoxHazbinHotel https://t.co/FAIQ9SHmHe"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2090869677929193472",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQRC5Oia4AA0jAq.jpg",
+        "width": 1548
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2090869677929193472"
+          ],
+          "media_source_tweet_id": [
+            "2090869682895303055"
+          ]
+        },
+        "author_id": "1964331185590718464",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "description": "Adult animated web series",
+              "id": "1444043338236104705",
+              "name": "Hazbin Hotel"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1281311833593282560",
+              "name": "Adult animation"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1444046743423762434",
+              "name": "Hazbin Hotel"
+            }
+          },
+          {
+            "domain": {
+              "description": "For global/conceptual TV shows without localization.",
+              "id": "172",
+              "name": "Global TV Show"
+            },
+            "entity": {
+              "id": "1444046743423762434",
+              "name": "Hazbin Hotel"
+            }
+          }
+        ],
+        "conversation_id": "2090986863356182652",
+        "created_at": "2026-08-22T02:18:11.000Z",
+        "display_text_range": [
+          0,
+          75
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-22T03:18:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090986863356182652"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 35,
+              "start": 20,
+              "tag": "HazbinHotelVox"
+            },
+            {
+              "end": 51,
+              "start": 36,
+              "tag": "VoxHazbinHotel"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 18,
+              "id": "2012840864905879552",
+              "start": 3,
+              "username": "Shaku_meramera"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/FAIQ9SHmHe",
+              "end": 75,
+              "expanded_url": "https://x.com/Shaku_meramera/status/2090869682895303055/photo/1",
+              "media_key": "3_2090869677929193472",
+              "start": 52,
+              "url": "https://t.co/FAIQ9SHmHe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090986863356182652",
+        "lang": "qme",
+        "media_metadata": [
+          {
+            "media_key": "3_2090869677929193472"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090869682895303055",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Shaku_meramera: #HazbinHotelVox #VoxHazbinHotel https://t.co/FAIQ9SHmHe"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2090869677929193472"
+          ]
+        },
+        "author_id": "2012840864905879552",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "description": "Adult animated web series",
+              "id": "1444043338236104705",
+              "name": "Hazbin Hotel"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1281311833593282560",
+              "name": "Adult animation"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1444046743423762434",
+              "name": "Hazbin Hotel"
+            }
+          },
+          {
+            "domain": {
+              "description": "For global/conceptual TV shows without localization.",
+              "id": "172",
+              "name": "Global TV Show"
+            },
+            "entity": {
+              "id": "1444046743423762434",
+              "name": "Hazbin Hotel"
+            }
+          }
+        ],
+        "conversation_id": "2090869682895303055",
+        "created_at": "2026-08-21T18:32:33.000Z",
+        "display_text_range": [
+          0,
+          31
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T19:32:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090869682895303055"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 15,
+              "start": 0,
+              "tag": "HazbinHotelVox"
+            },
+            {
+              "end": 31,
+              "start": 16,
+              "tag": "VoxHazbinHotel"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/FAIQ9SHmHe",
+              "end": 55,
+              "expanded_url": "https://x.com/Shaku_meramera/status/2090869682895303055/photo/1",
+              "media_key": "3_2090869677929193472",
+              "start": 32,
+              "url": "https://t.co/FAIQ9SHmHe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090869682895303055",
+        "lang": "qme",
+        "media_metadata": [
+          {
+            "media_key": "3_2090869677929193472"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 95,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "#HazbinHotelVox #VoxHazbinHotel https://t.co/FAIQ9SHmHe"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-09-06T14:13:55.000Z",
+        "description": "叫我筷子就可以了(:3っ )っ\n雜多丨OD丨自傷丨Vocaloid丨maimai丨🏳️‍🌈friendly\n不卖药 互关私信 取关请双取 不喜欢的直接b\nHH：Vox推し bottom🔁⭕ \nサブ垢＆避難垢→@Hashi_988",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 114,
+                "start": 104,
+                "username": "Hashi_988"
+              }
+            ]
+          }
+        },
+        "id": "1964331185590718464",
+        "is_identity_verified": false,
+        "location": "颅内",
+        "most_recent_tweet_id": "2090986863356182652",
+        "name": "箸",
+        "pinned_tweet_id": "2090132992979284341",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1964331185590718464/1785100910",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074711282427842560/EOM9Puhb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1575,
+          "following_count": 805,
+          "like_count": 41298,
+          "listed_count": 0,
+          "media_count": 422,
+          "tweet_count": 7384
+        },
+        "url": "",
+        "username": "breakcoreWTF",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-01-18T10:54:39.000Z",
+        "description": "Bottom📺only🔁🚫",
+        "id": "2012840864905879552",
+        "is_identity_verified": false,
+        "location": "🇯🇵",
+        "most_recent_tweet_id": "2090876491659956312",
+        "name": "灼",
+        "pinned_tweet_id": "2080611704992608300",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2012840864905879552/1786891675",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088999754911129600/YQtRGtQH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32,
+          "following_count": 29,
+          "like_count": 131,
+          "listed_count": 0,
+          "media_count": 115,
+          "tweet_count": 201
+        },
+        "url": "",
+        "username": "Shaku_meramera",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

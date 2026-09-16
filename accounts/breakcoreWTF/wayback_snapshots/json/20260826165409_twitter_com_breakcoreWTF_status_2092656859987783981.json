@@ -1,0 +1,354 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2092456883252588544"
+      ],
+      "media_source_tweet_id": [
+        "2092457065843216674"
+      ]
+    },
+    "author_id": "1964331185590718464",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      }
+    ],
+    "conversation_id": "2092656859987783981",
+    "created_at": "2026-08-26T16:54:09.000Z",
+    "display_text_range": [
+      0,
+      51
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-26T17:54:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092656859987783981"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "766691484569481216",
+          "start": 3,
+          "username": "jibblyuniverse4"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/MTOZfXGgTq",
+          "end": 51,
+          "expanded_url": "https://x.com/jibblyuniverse4/status/2092457065843216674/photo/1",
+          "media_key": "3_2092456883252588544",
+          "start": 28,
+          "url": "https://t.co/MTOZfXGgTq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092656859987783981",
+    "lang": "in",
+    "media_metadata": [
+      {
+        "media_key": "3_2092456883252588544"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 48
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092457065843216674",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @jibblyuniverse4: TV man https://t.co/MTOZfXGgTq"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1002,
+        "media_key": "3_2092456883252588544",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQnmcvIXcAAOcdz.jpg",
+        "width": 1002
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2092456883252588544"
+          ],
+          "media_source_tweet_id": [
+            "2092457065843216674"
+          ]
+        },
+        "author_id": "1964331185590718464",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          }
+        ],
+        "conversation_id": "2092656859987783981",
+        "created_at": "2026-08-26T16:54:09.000Z",
+        "display_text_range": [
+          0,
+          51
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T17:54:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092656859987783981"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "766691484569481216",
+              "start": 3,
+              "username": "jibblyuniverse4"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/MTOZfXGgTq",
+              "end": 51,
+              "expanded_url": "https://x.com/jibblyuniverse4/status/2092457065843216674/photo/1",
+              "media_key": "3_2092456883252588544",
+              "start": 28,
+              "url": "https://t.co/MTOZfXGgTq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092656859987783981",
+        "lang": "in",
+        "media_metadata": [
+          {
+            "media_key": "3_2092456883252588544"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 48
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092457065843216674",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @jibblyuniverse4: TV man https://t.co/MTOZfXGgTq"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2092456883252588544"
+          ]
+        },
+        "author_id": "766691484569481216",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          }
+        ],
+        "conversation_id": "2092457065843216674",
+        "created_at": "2026-08-26T03:40:15.000Z",
+        "display_text_range": [
+          0,
+          6
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T04:40:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092457065843216674"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MTOZfXGgTq",
+              "end": 30,
+              "expanded_url": "https://x.com/jibblyuniverse4/status/2092457065843216674/photo/1",
+              "media_key": "3_2092456883252588544",
+              "start": 7,
+              "url": "https://t.co/MTOZfXGgTq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092457065843216674",
+        "lang": "in",
+        "media_metadata": [
+          {
+            "media_key": "3_2092456883252588544"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 21,
+          "impression_count": 1758,
+          "like_count": 290,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 48
+        },
+        "reply_settings": "everyone",
+        "text": "TV man https://t.co/MTOZfXGgTq"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-09-06T14:13:55.000Z",
+        "description": "叫我筷子就可以了(:3っ )っ\n雜多丨OD丨自傷丨Vocaloid丨maimai丨🏳️‍🌈friendly\n不卖药 互关私信 取关请双取 不喜欢的直接b\nHH：Vox推し bottom🔁⭕ \nサブ垢＆避難垢→@Hashi_988",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 114,
+                "start": 104,
+                "username": "Hashi_988"
+              }
+            ]
+          }
+        },
+        "id": "1964331185590718464",
+        "is_identity_verified": false,
+        "location": "颅内",
+        "most_recent_tweet_id": "2092656859987783981",
+        "name": "箸",
+        "pinned_tweet_id": "2090132992979284341",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1964331185590718464/1785100910",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074711282427842560/EOM9Puhb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1576,
+          "following_count": 805,
+          "like_count": 43072,
+          "listed_count": 0,
+          "media_count": 437,
+          "tweet_count": 7709
+        },
+        "url": "",
+        "username": "breakcoreWTF",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2016-08-19T17:41:09.000Z",
+        "description": "I🔞(ﾉ*ﾟｰﾟ)ﾉ/PERVERT ONLY ZONE/\nActively problematic// Full NSFW on Patreon//\nBlue sky = https://t.co/jpNi8NBtGr",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/jibbly…",
+                "end": 110,
+                "expanded_url": "https://bsky.app/profile/jibblyuniverse.bsky.social",
+                "start": 87,
+                "url": "https://t.co/jpNi8NBtGr"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "patreon.com/jibblyart",
+                "end": 23,
+                "expanded_url": "https://www.patreon.com/jibblyart",
+                "start": 0,
+                "url": "https://t.co/iIViMOypVJ"
+              }
+            ]
+          }
+        },
+        "id": "766691484569481216",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2092463256677859410",
+        "name": "JIBBLY",
+        "pinned_tweet_id": "1760144995183448215",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/766691484569481216/1778117615",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1759470131309109248/KWNalDp1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12260,
+          "following_count": 956,
+          "like_count": 14781,
+          "listed_count": 9,
+          "media_count": 2213,
+          "tweet_count": 8730
+        },
+        "url": "https://t.co/iIViMOypVJ",
+        "username": "jibblyuniverse4",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

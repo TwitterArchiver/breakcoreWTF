@@ -1,0 +1,452 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2089306620463656960"
+      ],
+      "media_source_tweet_id": [
+        "2089306627551940646"
+      ]
+    },
+    "author_id": "1964331185590718464",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "description": "Vox",
+          "id": "1113147293346041856",
+          "name": "Vox"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Vox",
+          "id": "1113147293346041856",
+          "name": "Vox"
+        }
+      }
+    ],
+    "conversation_id": "2089340385751638172",
+    "created_at": "2026-08-17T13:15:40.000Z",
+    "display_text_range": [
+      0,
+      61
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-17T14:15:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2089340385751638172"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 28,
+          "start": 24,
+          "tag": "vox"
+        },
+        {
+          "end": 37,
+          "start": 29,
+          "tag": "alastor"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1840846574098034688",
+          "start": 3,
+          "username": "mizuiro_zarasi"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/52bN4egtrL",
+          "end": 61,
+          "expanded_url": "https://x.com/mizuiro_zarasi/status/2089306627551940646/photo/1",
+          "media_key": "3_2089306620463656960",
+          "start": 38,
+          "url": "https://t.co/52bN4egtrL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089340385751638172",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2089306620463656960"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 68
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089306627551940646",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @mizuiro_zarasi: ご機嫌\n#vox #alastor https://t.co/52bN4egtrL"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2483,
+        "media_key": "3_2089306620463656960",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HP61TTubsAAChc2.jpg",
+        "width": 2443
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2089306620463656960"
+          ],
+          "media_source_tweet_id": [
+            "2089306627551940646"
+          ]
+        },
+        "author_id": "1964331185590718464",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "Vox",
+              "id": "1113147293346041856",
+              "name": "Vox"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Vox",
+              "id": "1113147293346041856",
+              "name": "Vox"
+            }
+          }
+        ],
+        "conversation_id": "2089340385751638172",
+        "created_at": "2026-08-17T13:15:40.000Z",
+        "display_text_range": [
+          0,
+          61
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-17T14:15:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089340385751638172"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 28,
+              "start": 24,
+              "tag": "vox"
+            },
+            {
+              "end": 37,
+              "start": 29,
+              "tag": "alastor"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1840846574098034688",
+              "start": 3,
+              "username": "mizuiro_zarasi"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/52bN4egtrL",
+              "end": 61,
+              "expanded_url": "https://x.com/mizuiro_zarasi/status/2089306627551940646/photo/1",
+              "media_key": "3_2089306620463656960",
+              "start": 38,
+              "url": "https://t.co/52bN4egtrL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089340385751638172",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2089306620463656960"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 68
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089306627551940646",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @mizuiro_zarasi: ご機嫌\n#vox #alastor https://t.co/52bN4egtrL"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2089306620463656960"
+          ]
+        },
+        "author_id": "1840846574098034688",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "Vox",
+              "id": "1113147293346041856",
+              "name": "Vox"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Vox",
+              "id": "1113147293346041856",
+              "name": "Vox"
+            }
+          }
+        ],
+        "conversation_id": "2089306627551940646",
+        "created_at": "2026-08-17T11:01:32.000Z",
+        "display_text_range": [
+          0,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-17T12:01:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089306627551940646"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 8,
+              "start": 4,
+              "tag": "vox"
+            },
+            {
+              "end": 17,
+              "start": 9,
+              "tag": "alastor"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/52bN4egtrL",
+              "end": 41,
+              "expanded_url": "https://x.com/mizuiro_zarasi/status/2089306627551940646/photo/1",
+              "media_key": "3_2089306620463656960",
+              "start": 18,
+              "url": "https://t.co/52bN4egtrL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089306627551940646",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2089306620463656960"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 43,
+          "impression_count": 2531,
+          "like_count": 494,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 68
+        },
+        "reply_settings": "everyone",
+        "text": "ご機嫌\n#vox #alastor https://t.co/52bN4egtrL"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-09-06T14:13:55.000Z",
+        "description": "叫我筷子就可以了(:3っ )っ\nOD丨🔪丨Vocaloid丨maimai丨LGBTQ+friendly\n不卖药 只看互关私信\n不喜欢的直接b 查成分回fo 取关请双取\n备用机、愚痴垢→@Hashi_988",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 102,
+                "start": 92,
+                "username": "Hashi_988"
+              }
+            ]
+          }
+        },
+        "id": "1964331185590718464",
+        "is_identity_verified": false,
+        "location": "颅内",
+        "most_recent_tweet_id": "2089340385751638172",
+        "name": "箸",
+        "pinned_tweet_id": "2086154153508884828",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1964331185590718464/1785100910",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074711282427842560/EOM9Puhb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1476,
+          "following_count": 790,
+          "like_count": 39252,
+          "listed_count": 0,
+          "media_count": 400,
+          "tweet_count": 7004
+        },
+        "url": "",
+        "username": "breakcoreWTF",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-09-30T20:10:16.000Z",
+        "description": "20↑/無断転載❌AI学習❌\nVoxがいればなんでもみますいなくてもみます地雷なしで何でも見るし描きます：)",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/zarashi_Profile",
+                "end": 23,
+                "expanded_url": "https://lit.link/zarashi_Profile",
+                "start": 0,
+                "url": "https://t.co/83wKQKykT0"
+              }
+            ]
+          }
+        },
+        "id": "1840846574098034688",
+        "is_identity_verified": false,
+        "location": "📺📱🦋♡",
+        "most_recent_tweet_id": "2089326298216984834",
+        "name": "みずいろざらし🦭",
+        "pinned_tweet_id": "2082058711905038606",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1840846574098034688/1784564304",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072343625795878912/zfBN1SyS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2362,
+          "following_count": 20,
+          "like_count": 6035,
+          "listed_count": 7,
+          "media_count": 144,
+          "tweet_count": 541
+        },
+        "url": "https://t.co/83wKQKykT0",
+        "username": "mizuiro_zarasi",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

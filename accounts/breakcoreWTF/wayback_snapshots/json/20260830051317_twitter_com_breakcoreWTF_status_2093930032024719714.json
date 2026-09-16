@@ -1,0 +1,371 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2093710724791214080",
+        "3_2093710724837371904"
+      ],
+      "media_source_tweet_id": [
+        "2093710730667475430",
+        "2093710730667475430"
+      ]
+    },
+    "author_id": "1964331185590718464",
+    "conversation_id": "2093930032024719714",
+    "created_at": "2026-08-30T05:13:17.000Z",
+    "display_text_range": [
+      0,
+      79
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-30T06:13:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2093930032024719714"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "764264312122683392",
+          "start": 3,
+          "username": "yuba9291"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/vWrTZkpIa7",
+          "end": 79,
+          "expanded_url": "https://x.com/yuba9291/status/2093710730667475430/photo/1",
+          "media_key": "3_2093710724791214080",
+          "start": 56,
+          "url": "https://t.co/vWrTZkpIa7"
+        },
+        {
+          "display_url": "pic.x.com/vWrTZkpIa7",
+          "end": 79,
+          "expanded_url": "https://x.com/yuba9291/status/2093710730667475430/photo/1",
+          "media_key": "3_2093710724837371904",
+          "start": 56,
+          "url": "https://t.co/vWrTZkpIa7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2093930032024719714",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2093710724791214080"
+      },
+      {
+        "media_key": "3_2093710724837371904"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 29
+    },
+    "referenced_tweets": [
+      {
+        "id": "2093710730667475430",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yuba9291: 📺には、「誰も分かんねえよ……」ってレベルの🦌の違いを息をするように見抜いてほしい https://t.co/vWrTZkpIa7"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1900,
+        "media_key": "3_2093710724791214080",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQ5az62bIAACKPa.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1718,
+        "media_key": "3_2093710724837371904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQ5az7BbcAA5A-x.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2093710724791214080",
+            "3_2093710724837371904"
+          ],
+          "media_source_tweet_id": [
+            "2093710730667475430",
+            "2093710730667475430"
+          ]
+        },
+        "author_id": "1964331185590718464",
+        "conversation_id": "2093930032024719714",
+        "created_at": "2026-08-30T05:13:17.000Z",
+        "display_text_range": [
+          0,
+          79
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-30T06:13:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093930032024719714"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "764264312122683392",
+              "start": 3,
+              "username": "yuba9291"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/vWrTZkpIa7",
+              "end": 79,
+              "expanded_url": "https://x.com/yuba9291/status/2093710730667475430/photo/1",
+              "media_key": "3_2093710724791214080",
+              "start": 56,
+              "url": "https://t.co/vWrTZkpIa7"
+            },
+            {
+              "display_url": "pic.x.com/vWrTZkpIa7",
+              "end": 79,
+              "expanded_url": "https://x.com/yuba9291/status/2093710730667475430/photo/1",
+              "media_key": "3_2093710724837371904",
+              "start": 56,
+              "url": "https://t.co/vWrTZkpIa7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093930032024719714",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2093710724791214080"
+          },
+          {
+            "media_key": "3_2093710724837371904"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 29
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093710730667475430",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yuba9291: 📺には、「誰も分かんねえよ……」ってレベルの🦌の違いを息をするように見抜いてほしい https://t.co/vWrTZkpIa7"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2093710724791214080",
+            "3_2093710724837371904"
+          ]
+        },
+        "author_id": "764264312122683392",
+        "conversation_id": "2093710730667475430",
+        "created_at": "2026-08-29T14:41:52.000Z",
+        "display_text_range": [
+          0,
+          41
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-29T15:41:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2093710730667475430"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vWrTZkpIa7",
+              "end": 65,
+              "expanded_url": "https://x.com/yuba9291/status/2093710730667475430/photo/1",
+              "media_key": "3_2093710724791214080",
+              "start": 42,
+              "url": "https://t.co/vWrTZkpIa7"
+            },
+            {
+              "display_url": "pic.x.com/vWrTZkpIa7",
+              "end": 65,
+              "expanded_url": "https://x.com/yuba9291/status/2093710730667475430/photo/1",
+              "media_key": "3_2093710724837371904",
+              "start": 42,
+              "url": "https://t.co/vWrTZkpIa7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093710730667475430",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2093710724791214080"
+          },
+          {
+            "media_key": "3_2093710724837371904"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 46,
+          "impression_count": 4420,
+          "like_count": 594,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 29
+        },
+        "reply_settings": "everyone",
+        "text": "📺には、「誰も分かんねえよ……」ってレベルの🦌の違いを息をするように見抜いてほしい https://t.co/vWrTZkpIa7"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-09-06T14:13:55.000Z",
+        "description": "叫我筷子就可以了(:3っ )っ\n雜多丨OD丨自傷丨Vocaloid丨maimai丨🏳️‍🌈friendly\n不卖药 互关请私信 取关请双取 不喜欢的直接b\nHH：Vox推し bottom🔁⭕ \nサブ垢＆避難垢→@Hashi_988",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 115,
+                "start": 105,
+                "username": "Hashi_988"
+              }
+            ]
+          }
+        },
+        "id": "1964331185590718464",
+        "is_identity_verified": false,
+        "location": "颅内",
+        "most_recent_tweet_id": "2093930032024719714",
+        "name": "箸",
+        "pinned_tweet_id": "2090132992979284341",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1964331185590718464/1785100910",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074711282427842560/EOM9Puhb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1580,
+          "following_count": 805,
+          "like_count": 43948,
+          "listed_count": 0,
+          "media_count": 444,
+          "tweet_count": 7882
+        },
+        "url": "",
+        "username": "breakcoreWTF",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2016-08-13T00:56:26.000Z",
+        "description": "20↑二次創作垢/腐/hzbn:📺🦌/🔞【@yuba9292】/Please do not reupload my art or use it for AI training.🙏/【@yuba9291-00.🦋】【https://t.co/hBbLCS00Qk🌊📦】",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 21,
+                "username": "yuba9292"
+              },
+              {
+                "end": 100,
+                "start": 91,
+                "username": "yuba9291"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "wavebox.me/wave/cmnkalr69…",
+                "end": 130,
+                "expanded_url": "https://wavebox.me/wave/cmnkalr693ufemxf/",
+                "start": 107,
+                "url": "https://t.co/hBbLCS00Qk"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/45486876",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/45486876",
+                "start": 0,
+                "url": "https://t.co/WVnmtUKEF5"
+              }
+            ]
+          }
+        },
+        "id": "764264312122683392",
+        "is_identity_verified": false,
+        "location": "地獄",
+        "most_recent_tweet_id": "2093710730667475430",
+        "name": "かに山",
+        "pinned_tweet_id": "2050861248896733482",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/764264312122683392/1764519704",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026523652372705280/QzlQiqva_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5464,
+          "following_count": 272,
+          "like_count": 33267,
+          "listed_count": 63,
+          "media_count": 680,
+          "tweet_count": 7038
+        },
+        "url": "https://t.co/WVnmtUKEF5",
+        "username": "yuba9291",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

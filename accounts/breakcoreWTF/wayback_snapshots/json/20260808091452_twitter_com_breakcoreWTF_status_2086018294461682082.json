@@ -1,0 +1,366 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2085125341488852993"
+      ],
+      "media_source_tweet_id": [
+        "2085803162137485606"
+      ]
+    },
+    "author_id": "1964331185590718464",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2086018294461682082",
+    "created_at": "2026-08-08T09:14:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-08T10:14:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2086018294461682082"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1036957264861585408",
+          "start": 3,
+          "username": "glitch_prod"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/TDERAToBzC",
+          "end": 80,
+          "expanded_url": "https://x.com/glitch_prod/status/2085803162137485606/video/1",
+          "media_key": "13_2085125341488852993",
+          "start": 57,
+          "url": "https://t.co/TDERAToBzC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086018294461682082",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4884
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085803162137485606",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @glitch_prod: At least the good times will never end. https://t.co/TDERAToBzC"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 198566,
+        "height": 1080,
+        "media_key": "13_2085125341488852993",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2085125341488852993/img/rQ7Ifmk7ul-iV3oE.jpg",
+        "public_metrics": {
+          "view_count": 295388
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2085125341488852993/vid/avc1/1280x720/2z_LWhRRSm1DhKTq.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2085125341488852993/vid/avc1/640x360/rW6G0FbMPxDoKzSh.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2085125341488852993/pl/C3WINogjeiaWmx_n.m3u8"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2085125341488852993/vid/avc1/1920x1080/-x3IsgDxb4FliEP5.mp4"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2085125341488852993/vid/avc1/480x270/7tWJA3AULhw1SgHZ.mp4"
+          }
+        ],
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2085125341488852993"
+          ]
+        },
+        "author_id": "1036957264861585408",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2085803162137485606",
+        "created_at": "2026-08-07T19:00:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T20:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085803162137485606"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TDERAToBzC",
+              "end": 63,
+              "expanded_url": "https://x.com/glitch_prod/status/2085803162137485606/video/1",
+              "media_key": "13_2085125341488852993",
+              "start": 40,
+              "url": "https://t.co/TDERAToBzC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085803162137485606",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5206,
+          "impression_count": 1126798,
+          "like_count": 31831,
+          "quote_count": 1100,
+          "reply_count": 444,
+          "retweet_count": 4884
+        },
+        "reply_settings": "everyone",
+        "text": "At least the good times will never end. https://t.co/TDERAToBzC"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2085125341488852993"
+          ],
+          "media_source_tweet_id": [
+            "2085803162137485606"
+          ]
+        },
+        "author_id": "1964331185590718464",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2086018294461682082",
+        "created_at": "2026-08-08T09:14:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-08T10:14:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086018294461682082"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1036957264861585408",
+              "start": 3,
+              "username": "glitch_prod"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/TDERAToBzC",
+              "end": 80,
+              "expanded_url": "https://x.com/glitch_prod/status/2085803162137485606/video/1",
+              "media_key": "13_2085125341488852993",
+              "start": 57,
+              "url": "https://t.co/TDERAToBzC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086018294461682082",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4884
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085803162137485606",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @glitch_prod: At least the good times will never end. https://t.co/TDERAToBzC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-06T14:13:55.000Z",
+        "description": "叫我筷子就可以了(:3っ )っ\nOD丨🔪丨Vocaloid丨音游丨LGBTQ+friendly\n不卖药 只看互关私信\n不喜欢的直接b 查成分回fo 取关请双取\n备用机、愚痴垢→@Hashi_988",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 98,
+                "start": 88,
+                "username": "Hashi_988"
+              }
+            ]
+          }
+        },
+        "id": "1964331185590718464",
+        "location": "颅内",
+        "name": "箸",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074711282427842560/EOM9Puhb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1400,
+          "following_count": 796,
+          "like_count": 37400,
+          "listed_count": 0,
+          "media_count": 374,
+          "tweet_count": 6623
+        },
+        "url": "",
+        "username": "breakcoreWTF",
+        "verified": false
+      },
+      {
+        "created_at": "2018-09-04T12:40:52.000Z",
+        "description": "Indie animation studio making fun, colorful shows with occasional violence and existential breakdowns :D | business@glitchprod.com",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/glitch_prod",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/glitch_prod",
+                "start": 0,
+                "url": "https://t.co/lYgi6AT5ta"
+              }
+            ]
+          }
+        },
+        "id": "1036957264861585408",
+        "name": "GLITCH",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1922166790655758336/4S2_Nuj3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1132874,
+          "following_count": 214,
+          "like_count": 3253,
+          "listed_count": 523,
+          "media_count": 1404,
+          "tweet_count": 2426
+        },
+        "url": "https://t.co/lYgi6AT5ta",
+        "username": "glitch_prod",
+        "verified": false
+      }
+    ]
+  }
+}

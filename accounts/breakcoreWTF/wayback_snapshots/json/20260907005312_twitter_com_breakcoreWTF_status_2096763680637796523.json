@@ -1,0 +1,364 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2094681539405864960"
+      ],
+      "media_source_tweet_id": [
+        "2094681621035393491"
+      ]
+    },
+    "author_id": "1964331185590718464",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2096763680637796523",
+    "created_at": "2026-09-07T00:53:12.000Z",
+    "display_text_range": [
+      0,
+      38
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-07T01:53:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096763680637796523"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1842182923124088832",
+          "start": 3,
+          "username": "Miee711"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/bIEzVBuUo0",
+          "end": 38,
+          "expanded_url": "https://x.com/Miee711/status/2094681621035393491/video/1",
+          "media_key": "13_2094681539405864960",
+          "start": 15,
+          "url": "https://t.co/bIEzVBuUo0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096763680637796523",
+    "lang": "qme",
+    "media_metadata": [
+      {
+        "media_key": "13_2094681539405864960"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 23
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094681621035393491",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Miee711: 🔥 https://t.co/bIEzVBuUo0"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 60093,
+        "height": 1280,
+        "media_key": "13_2094681539405864960",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2094681539405864960/img/olHvlbm-horIrxqJ.jpg",
+        "public_metrics": {
+          "view_count": 11428
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2094681539405864960/vid/avc1/320x568/K6XTD_wDjbpY8-Bt.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2094681539405864960/vid/avc1/480x852/wiZfnXcfbZDVgGYR.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2094681539405864960/vid/avc1/720x1280/Le2oPtuUMeSmEehe.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2094681539405864960/pl/5bVwLwE6Abm0yVt3.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2094681539405864960"
+          ],
+          "media_source_tweet_id": [
+            "2094681621035393491"
+          ]
+        },
+        "author_id": "1964331185590718464",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2096763680637796523",
+        "created_at": "2026-09-07T00:53:12.000Z",
+        "display_text_range": [
+          0,
+          38
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T01:53:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096763680637796523"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1842182923124088832",
+              "start": 3,
+              "username": "Miee711"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/bIEzVBuUo0",
+              "end": 38,
+              "expanded_url": "https://x.com/Miee711/status/2094681621035393491/video/1",
+              "media_key": "13_2094681539405864960",
+              "start": 15,
+              "url": "https://t.co/bIEzVBuUo0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096763680637796523",
+        "lang": "qme",
+        "media_metadata": [
+          {
+            "media_key": "13_2094681539405864960"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 23
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094681621035393491",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Miee711: 🔥 https://t.co/bIEzVBuUo0"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2094681539405864960"
+          ]
+        },
+        "author_id": "1842182923124088832",
+        "conversation_id": "2094681621035393491",
+        "created_at": "2026-09-01T06:59:50.000Z",
+        "display_text_range": [
+          0,
+          1
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-01T07:59:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2094681621035393491"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bIEzVBuUo0",
+              "end": 25,
+              "expanded_url": "https://x.com/Miee711/status/2094681621035393491/video/1",
+              "media_key": "13_2094681539405864960",
+              "start": 2,
+              "url": "https://t.co/bIEzVBuUo0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094681621035393491",
+        "lang": "qme",
+        "media_metadata": [
+          {
+            "media_key": "13_2094681539405864960"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 77,
+          "impression_count": 21959,
+          "like_count": 305,
+          "quote_count": 2,
+          "reply_count": 5,
+          "retweet_count": 23
+        },
+        "reply_settings": "everyone",
+        "text": "🔥 https://t.co/bIEzVBuUo0"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-09-06T14:13:55.000Z",
+        "description": "叫我筷子就可以了(:3っ )っ\n雜多丨OD丨自傷丨Vocaloid丨maimai丨🏳️‍🌈friendly\n不卖药 眼熟回关 取关请双取 不喜欢的直接b\nサブ垢＆避難垢→@Hashi_988",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 95,
+                "start": 85,
+                "username": "Hashi_988"
+              }
+            ]
+          }
+        },
+        "id": "1964331185590718464",
+        "is_identity_verified": false,
+        "location": "颅内",
+        "most_recent_tweet_id": "2096763680637796523",
+        "name": "箸",
+        "pinned_tweet_id": "2090132992979284341",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1964331185590718464/1788644554",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2093963390620487680/sATuTGb4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1624,
+          "following_count": 801,
+          "like_count": 46506,
+          "listed_count": 0,
+          "media_count": 459,
+          "tweet_count": 8243
+        },
+        "url": "",
+        "username": "breakcoreWTF",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-10-04T12:40:26.000Z",
+        "description": "I love meme",
+        "id": "1842182923124088832",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2096762832880853240",
+        "name": "Miee",
+        "pinned_tweet_id": "2092224669361586678",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1842182923124088832/1785635374",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2087904962454175744/MLi3QkTr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1332,
+          "following_count": 3872,
+          "like_count": 3335,
+          "listed_count": 1,
+          "media_count": 341,
+          "tweet_count": 1068
+        },
+        "url": "",
+        "username": "Miee711",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

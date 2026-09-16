@@ -1,0 +1,439 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1964331185590718464",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Television shows from around the world",
+          "id": "3",
+          "name": "TV Shows"
+        },
+        "entity": {
+          "description": "Adult animated web series",
+          "id": "1444041626402234368",
+          "name": "Helluva Boss"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1281311833593282560",
+          "name": "Adult animation"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1444044792988459009",
+          "name": "Helluva Boss"
+        }
+      },
+      {
+        "domain": {
+          "description": "For global/conceptual TV shows without localization.",
+          "id": "172",
+          "name": "Global TV Show"
+        },
+        "entity": {
+          "id": "1444044792988459009",
+          "name": "Helluva Boss"
+        }
+      }
+    ],
+    "conversation_id": "2091337459573604528",
+    "created_at": "2026-08-23T01:31:20.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-23T02:31:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091337459573604528"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 26,
+          "start": 14,
+          "tag": "helluvaboss"
+        },
+        {
+          "end": 35,
+          "start": 28,
+          "tag": "Blitzo"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2045121109700542464",
+          "start": 3,
+          "username": "onsen_a_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091337459573604528",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 211
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091146777248612656",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @onsen_a_: #helluvaboss  #Blitzo　From his mother’s keepsake to the white discoloration of his burn scars… I’m amazed by how much of Blit…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1694,
+        "media_key": "16_2091145601635483648",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HQU92GcagAA7PvJ.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HQU92GcagAA7PvJ.mp4"
+          }
+        ],
+        "width": 1500
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1964331185590718464",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "description": "Adult animated web series",
+              "id": "1444041626402234368",
+              "name": "Helluva Boss"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1281311833593282560",
+              "name": "Adult animation"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1444044792988459009",
+              "name": "Helluva Boss"
+            }
+          },
+          {
+            "domain": {
+              "description": "For global/conceptual TV shows without localization.",
+              "id": "172",
+              "name": "Global TV Show"
+            },
+            "entity": {
+              "id": "1444044792988459009",
+              "name": "Helluva Boss"
+            }
+          }
+        ],
+        "conversation_id": "2091337459573604528",
+        "created_at": "2026-08-23T01:31:20.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-23T02:31:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091337459573604528"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 26,
+              "start": 14,
+              "tag": "helluvaboss"
+            },
+            {
+              "end": 35,
+              "start": 28,
+              "tag": "Blitzo"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2045121109700542464",
+              "start": 3,
+              "username": "onsen_a_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091337459573604528",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 211
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091146777248612656",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @onsen_a_: #helluvaboss  #Blitzo　From his mother’s keepsake to the white discoloration of his burn scars… I’m amazed by how much of Blit…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2091145601635483648"
+          ]
+        },
+        "author_id": "2045121109700542464",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "description": "Adult animated web series",
+              "id": "1444041626402234368",
+              "name": "Helluva Boss"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1281311833593282560",
+              "name": "Adult animation"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1339381554087223297",
+              "name": "Character design"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1444044792988459009",
+              "name": "Helluva Boss"
+            }
+          },
+          {
+            "domain": {
+              "description": "For global/conceptual TV shows without localization.",
+              "id": "172",
+              "name": "Global TV Show"
+            },
+            "entity": {
+              "id": "1444044792988459009",
+              "name": "Helluva Boss"
+            }
+          }
+        ],
+        "conversation_id": "2091146777248612656",
+        "created_at": "2026-08-22T12:53:37.000Z",
+        "display_text_range": [
+          0,
+          224
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-22T13:53:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2091146777248612656"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 12,
+              "start": 0,
+              "tag": "helluvaboss"
+            },
+            {
+              "end": 21,
+              "start": 14,
+              "tag": "Blitzo"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/JEVQwHwuPV",
+              "end": 248,
+              "expanded_url": "https://x.com/onsen_a_/status/2091146777248612656/photo/1",
+              "media_key": "16_2091145601635483648",
+              "start": 225,
+              "url": "https://t.co/JEVQwHwuPV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091146777248612656",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "16_2091145601635483648"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 197,
+          "impression_count": 12229,
+          "like_count": 951,
+          "quote_count": 6,
+          "reply_count": 8,
+          "retweet_count": 211
+        },
+        "reply_settings": "everyone",
+        "text": "#helluvaboss  #Blitzo　From his mother’s keepsake to the white discoloration of his burn scars… I’m amazed by how much of Blitzø’s character design was foreshadowed from the very beginning. So, I made an animation about it✍️🤤 https://t.co/JEVQwHwuPV"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-09-06T14:13:55.000Z",
+        "description": "叫我筷子就可以了(:3っ )っ\n雜多丨OD丨自傷丨Vocaloid丨maimai丨🏳️‍🌈friendly\n不卖药 互关私信 取关请双取 不喜欢的直接b\nHH：Vox推し bottom🔁⭕ \nサブ垢＆避難垢→@Hashi_988",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 114,
+                "start": 104,
+                "username": "Hashi_988"
+              }
+            ]
+          }
+        },
+        "id": "1964331185590718464",
+        "is_identity_verified": false,
+        "location": "颅内",
+        "most_recent_tweet_id": "2091337459573604528",
+        "name": "箸",
+        "pinned_tweet_id": "2090132992979284341",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1964331185590718464/1785100910",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074711282427842560/EOM9Puhb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1575,
+          "following_count": 797,
+          "like_count": 41703,
+          "listed_count": 0,
+          "media_count": 423,
+          "tweet_count": 7459
+        },
+        "url": "",
+        "username": "breakcoreWTF",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-04-17T12:47:21.000Z",
+        "description": "おえかき✍ NSFW ⚠️\nminors DNI\nDo not repost. No pfp use.",
+        "id": "2045121109700542464",
+        "is_identity_verified": false,
+        "location": "壁際",
+        "most_recent_tweet_id": "2091184100245987637",
+        "name": "a📍",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2045121109700542464/1779164789",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045122914710917120/Xcj4_98U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8956,
+          "following_count": 7,
+          "like_count": 575,
+          "listed_count": 13,
+          "media_count": 106,
+          "tweet_count": 142
+        },
+        "url": "",
+        "username": "onsen_a_",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

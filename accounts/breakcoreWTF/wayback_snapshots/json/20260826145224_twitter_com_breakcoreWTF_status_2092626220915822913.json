@@ -1,0 +1,635 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2084918435369422848"
+      ],
+      "media_source_tweet_id": [
+        "2092537536493068665"
+      ]
+    },
+    "author_id": "1964331185590718464",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1104125539877412864",
+          "name": "Miku Hatsune"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A person or other being in a narrative work of art, like Tom Sawyer or Jon Snow",
+          "id": "122",
+          "name": "Fictional Character"
+        },
+        "entity": {
+          "id": "1104125539877412864",
+          "name": "Miku Hatsune"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.",
+          "id": "1205247603799019520",
+          "name": "Haruhi Suzumiya"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1074757527995277313",
+          "name": "Entertainment franchises"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1104125539877412864",
+          "name": "Miku Hatsune"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.",
+          "id": "1205247603799019520",
+          "name": "Haruhi Suzumiya"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1247236287485997056",
+          "name": "Vocaloid"
+        }
+      }
+    ],
+    "conversation_id": "2092626220915822913",
+    "created_at": "2026-08-26T14:52:24.000Z",
+    "display_text_range": [
+      0,
+      138
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-26T15:52:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092626220915822913"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 107,
+          "start": 102,
+          "tag": "初音ミク"
+        },
+        {
+          "end": 114,
+          "start": 108,
+          "tag": "涼宮ハルヒ"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1298215077762330624",
+          "start": 3,
+          "username": "haruhi_official"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/bhRIAZ0Qww",
+          "end": 138,
+          "expanded_url": "https://x.com/haruhi_official/status/2092537536493068665/photo/1",
+          "media_key": "3_2084918435369422848",
+          "start": 115,
+          "url": "https://t.co/bhRIAZ0Qww"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092626220915822913",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2084918435369422848"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 8663
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092537536493068665",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @haruhi_official: ／\n✨緊急告知✨\n＼\n初音ミク×涼宮ハルヒ、スペシャルコラボ決定！\n世界を大いに盛り上げるための、新たなプロジェクトが始動します！\n\n続報をどうぞお楽しみに！\n\n#初音ミク #涼宮ハルヒ https://t.co/bhRIAZ0Qww"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2084918435369422848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO8eRUXbkAA0S-n.jpg",
+        "width": 3083
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084918435369422848"
+          ],
+          "media_source_tweet_id": [
+            "2092537536493068665"
+          ]
+        },
+        "author_id": "1964331185590718464",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A person or other being in a narrative work of art, like Tom Sawyer or Jon Snow",
+              "id": "122",
+              "name": "Fictional Character"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.",
+              "id": "1205247603799019520",
+              "name": "Haruhi Suzumiya"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.",
+              "id": "1205247603799019520",
+              "name": "Haruhi Suzumiya"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1247236287485997056",
+              "name": "Vocaloid"
+            }
+          }
+        ],
+        "conversation_id": "2092626220915822913",
+        "created_at": "2026-08-26T14:52:24.000Z",
+        "display_text_range": [
+          0,
+          138
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T15:52:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092626220915822913"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 107,
+              "start": 102,
+              "tag": "初音ミク"
+            },
+            {
+              "end": 114,
+              "start": 108,
+              "tag": "涼宮ハルヒ"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1298215077762330624",
+              "start": 3,
+              "username": "haruhi_official"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/bhRIAZ0Qww",
+              "end": 138,
+              "expanded_url": "https://x.com/haruhi_official/status/2092537536493068665/photo/1",
+              "media_key": "3_2084918435369422848",
+              "start": 115,
+              "url": "https://t.co/bhRIAZ0Qww"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092626220915822913",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2084918435369422848"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 8663
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092537536493068665",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @haruhi_official: ／\n✨緊急告知✨\n＼\n初音ミク×涼宮ハルヒ、スペシャルコラボ決定！\n世界を大いに盛り上げるための、新たなプロジェクトが始動します！\n\n続報をどうぞお楽しみに！\n\n#初音ミク #涼宮ハルヒ https://t.co/bhRIAZ0Qww"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084918435369422848"
+          ]
+        },
+        "author_id": "1298215077762330624",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A person or other being in a narrative work of art, like Tom Sawyer or Jon Snow",
+              "id": "122",
+              "name": "Fictional Character"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.",
+              "id": "1205247603799019520",
+              "name": "Haruhi Suzumiya"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.",
+              "id": "1205247603799019520",
+              "name": "Haruhi Suzumiya"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1247236287485997056",
+              "name": "Vocaloid"
+            }
+          }
+        ],
+        "conversation_id": "2092537536493068665",
+        "created_at": "2026-08-26T09:00:00.000Z",
+        "display_text_range": [
+          0,
+          93
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T10:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092537536493068665"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 86,
+              "start": 81,
+              "tag": "初音ミク"
+            },
+            {
+              "end": 93,
+              "start": 87,
+              "tag": "涼宮ハルヒ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/bhRIAZ0Qww",
+              "end": 117,
+              "expanded_url": "https://x.com/haruhi_official/status/2092537536493068665/photo/1",
+              "media_key": "3_2084918435369422848",
+              "start": 94,
+              "url": "https://t.co/bhRIAZ0Qww"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092537536493068665",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2084918435369422848"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2536,
+          "impression_count": 919369,
+          "like_count": 24563,
+          "quote_count": 2711,
+          "reply_count": 113,
+          "retweet_count": 8662
+        },
+        "reply_settings": "everyone",
+        "text": "／\n✨緊急告知✨\n＼\n初音ミク×涼宮ハルヒ、スペシャルコラボ決定！\n世界を大いに盛り上げるための、新たなプロジェクトが始動します！\n\n続報をどうぞお楽しみに！\n\n#初音ミク #涼宮ハルヒ https://t.co/bhRIAZ0Qww"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-09-06T14:13:55.000Z",
+        "description": "叫我筷子就可以了(:3っ )っ\n雜多丨OD丨自傷丨Vocaloid丨maimai丨🏳️‍🌈friendly\n不卖药 互关私信 取关请双取 不喜欢的直接b\nHH：Vox推し bottom🔁⭕ \nサブ垢＆避難垢→@Hashi_988",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 114,
+                "start": 104,
+                "username": "Hashi_988"
+              }
+            ]
+          }
+        },
+        "id": "1964331185590718464",
+        "is_identity_verified": false,
+        "location": "颅内",
+        "most_recent_tweet_id": "2092626220915822913",
+        "name": "箸",
+        "pinned_tweet_id": "2090132992979284341",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1964331185590718464/1785100910",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074711282427842560/EOM9Puhb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1577,
+          "following_count": 805,
+          "like_count": 42927,
+          "listed_count": 0,
+          "media_count": 437,
+          "tweet_count": 7682
+        },
+        "url": "",
+        "username": "breakcoreWTF",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-08-25T11:06:43.000Z",
+        "description": "「涼宮ハルヒ」シリーズを大いに盛り上げるためのSNS。シリーズ全13巻＋ファンブック＋画集も超好評発売中‼ 最新情報をいち早く読者の皆さんにお届けします！ 作品公式Discordチャンネルも開設！⇒https://t.co/ZwVKHuSCuR　推奨ハッシュタグは #涼宮ハルヒ",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 139,
+                "start": 133,
+                "tag": "涼宮ハルヒ"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "discord.gg/fDpnYbqcyc",
+                "end": 122,
+                "expanded_url": "https://discord.gg/fDpnYbqcyc",
+                "start": 99,
+                "url": "https://t.co/ZwVKHuSCuR"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "sneakerbunko.jp/haruhi/",
+                "end": 23,
+                "expanded_url": "https://sneakerbunko.jp/haruhi/",
+                "start": 0,
+                "url": "https://t.co/JwMwubWoTJ"
+              }
+            ]
+          }
+        },
+        "id": "1298215077762330624",
+        "is_identity_verified": false,
+        "location": "涼宮ハルヒの劇場　好評発売中✨",
+        "most_recent_tweet_id": "2092537537499951356",
+        "name": "涼宮ハルヒの公式",
+        "pinned_tweet_id": "2039991306966143485",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1298215077762330624/1640006234",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1876480356259627008/Hel8f3nr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 146554,
+          "following_count": 13,
+          "like_count": 1568,
+          "listed_count": 536,
+          "media_count": 982,
+          "tweet_count": 2546
+        },
+        "url": "https://t.co/JwMwubWoTJ",
+        "username": "haruhi_official",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

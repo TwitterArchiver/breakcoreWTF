@@ -1,0 +1,357 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2096693506760933376",
+        "3_2096693513744183299"
+      ],
+      "media_source_tweet_id": [
+        "2096693522187366861",
+        "2096693522187366861"
+      ]
+    },
+    "author_id": "1964331185590718464",
+    "conversation_id": "2096998133796581752",
+    "created_at": "2026-09-07T16:24:50.000Z",
+    "display_text_range": [
+      0,
+      72
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-07T17:24:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096998133796581752"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2076803179396599808",
+          "start": 3,
+          "username": "moriitician"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ry0VWRgGAo",
+          "end": 72,
+          "expanded_url": "https://x.com/moriitician/status/2096693522187366861/photo/1",
+          "media_key": "3_2096693506760933376",
+          "start": 49,
+          "url": "https://t.co/ry0VWRgGAo"
+        },
+        {
+          "display_url": "pic.x.com/ry0VWRgGAo",
+          "end": 72,
+          "expanded_url": "https://x.com/moriitician/status/2096693522187366861/photo/1",
+          "media_key": "3_2096693513744183299",
+          "start": 49,
+          "url": "https://t.co/ry0VWRgGAo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096998133796581752",
+    "lang": "en",
+    "media_metadata": [
+      {
+        "media_key": "3_2096693506760933376"
+      },
+      {
+        "media_key": "3_2096693513744183299"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3268
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096693522187366861",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @moriitician: old-school spinal cord removal. https://t.co/ry0VWRgGAo"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 820,
+        "media_key": "3_2096693506760933376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRjzorlagAAP6SJ.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1056,
+        "media_key": "3_2096693513744183299",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRjzpFmWcAMkX0X.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2096693506760933376",
+            "3_2096693513744183299"
+          ],
+          "media_source_tweet_id": [
+            "2096693522187366861",
+            "2096693522187366861"
+          ]
+        },
+        "author_id": "1964331185590718464",
+        "conversation_id": "2096998133796581752",
+        "created_at": "2026-09-07T16:24:50.000Z",
+        "display_text_range": [
+          0,
+          72
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T17:24:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096998133796581752"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2076803179396599808",
+              "start": 3,
+              "username": "moriitician"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ry0VWRgGAo",
+              "end": 72,
+              "expanded_url": "https://x.com/moriitician/status/2096693522187366861/photo/1",
+              "media_key": "3_2096693506760933376",
+              "start": 49,
+              "url": "https://t.co/ry0VWRgGAo"
+            },
+            {
+              "display_url": "pic.x.com/ry0VWRgGAo",
+              "end": 72,
+              "expanded_url": "https://x.com/moriitician/status/2096693522187366861/photo/1",
+              "media_key": "3_2096693513744183299",
+              "start": 49,
+              "url": "https://t.co/ry0VWRgGAo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096998133796581752",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2096693506760933376"
+          },
+          {
+            "media_key": "3_2096693513744183299"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3268
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096693522187366861",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @moriitician: old-school spinal cord removal. https://t.co/ry0VWRgGAo"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2096693506760933376",
+            "3_2096693513744183299"
+          ]
+        },
+        "author_id": "2076803179396599808",
+        "conversation_id": "2096693522187366861",
+        "created_at": "2026-09-06T20:14:25.000Z",
+        "display_text_range": [
+          0,
+          31
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T21:14:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096693522187366861"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ry0VWRgGAo",
+              "end": 55,
+              "expanded_url": "https://x.com/moriitician/status/2096693522187366861/photo/1",
+              "media_key": "3_2096693506760933376",
+              "start": 32,
+              "url": "https://t.co/ry0VWRgGAo"
+            },
+            {
+              "display_url": "pic.x.com/ry0VWRgGAo",
+              "end": 55,
+              "expanded_url": "https://x.com/moriitician/status/2096693522187366861/photo/1",
+              "media_key": "3_2096693513744183299",
+              "start": 32,
+              "url": "https://t.co/ry0VWRgGAo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096693522187366861",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2096693506760933376"
+          },
+          {
+            "media_key": "3_2096693513744183299"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6165,
+          "impression_count": 1819946,
+          "like_count": 37596,
+          "quote_count": 327,
+          "reply_count": 68,
+          "retweet_count": 3266
+        },
+        "reply_settings": "everyone",
+        "text": "old-school spinal cord removal. https://t.co/ry0VWRgGAo"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-09-06T14:13:55.000Z",
+        "description": "叫我筷子就可以了(:3っ )っ\n雜多丨OD丨自傷丨Vocaloid丨maimai丨🏳️‍🌈friendly\n不卖药 眼熟回关 取关请双取 不喜欢的直接b\nサブ垢＆避難垢→@Hashi_988",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 95,
+                "start": 85,
+                "username": "Hashi_988"
+              }
+            ]
+          }
+        },
+        "id": "1964331185590718464",
+        "is_identity_verified": false,
+        "location": "颅内",
+        "most_recent_tweet_id": "2096998133796581752",
+        "name": "箸",
+        "pinned_tweet_id": "2090132992979284341",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1964331185590718464/1788644554",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2093963390620487680/sATuTGb4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1624,
+          "following_count": 798,
+          "like_count": 46784,
+          "listed_count": 0,
+          "media_count": 462,
+          "tweet_count": 8284
+        },
+        "url": "",
+        "username": "breakcoreWTF",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-07-13T23:01:13.000Z",
+        "description": "˚ʚ♡ɞ˚\npermanently isolated, always surrounded.\npriv : @moriismorgue",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 54,
+                "username": "moriismorgue"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "moriiimoriii.straw.page",
+                "end": 23,
+                "expanded_url": "http://moriiimoriii.straw.page",
+                "start": 0,
+                "url": "https://t.co/QjND9JGN0s"
+              }
+            ]
+          }
+        },
+        "id": "2076803179396599808",
+        "is_identity_verified": false,
+        "location": "any prns | ndni | 15 ",
+        "most_recent_tweet_id": "2096998064846205422",
+        "name": "morii",
+        "pinned_tweet_id": "2096693522187366861",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2076803179396599808/1787185497",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090233590340546560/pM_y8fnT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3603,
+          "following_count": 169,
+          "like_count": 12564,
+          "listed_count": 19,
+          "media_count": 710,
+          "tweet_count": 3607
+        },
+        "url": "https://t.co/QjND9JGN0s",
+        "username": "moriitician",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

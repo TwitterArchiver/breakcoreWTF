@@ -1,0 +1,416 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2092930665889312768"
+      ],
+      "media_source_tweet_id": [
+        "2092930674282131778"
+      ]
+    },
+    "author_id": "1964331185590718464",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "description": "Vox",
+          "id": "1113147293346041856",
+          "name": "Vox"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Vox",
+          "id": "1113147293346041856",
+          "name": "Vox"
+        }
+      }
+    ],
+    "conversation_id": "2092955017288519846",
+    "created_at": "2026-08-27T12:38:56.000Z",
+    "display_text_range": [
+      0,
+      64
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-27T13:38:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092955017288519846"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 30,
+          "start": 26,
+          "tag": "vox"
+        },
+        {
+          "end": 40,
+          "start": 31,
+          "tag": "velvette"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1840846574098034688",
+          "start": 3,
+          "username": "mizuiro_zarasi"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/1MGK5qcTFt",
+          "end": 64,
+          "expanded_url": "https://x.com/mizuiro_zarasi/status/2092930674282131778/photo/1",
+          "media_key": "3_2092930665889312768",
+          "start": 41,
+          "url": "https://t.co/1MGK5qcTFt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092955017288519846",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2092930665889312768"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 18
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092930674282131778",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @mizuiro_zarasi: イタズラ😜\n#vox #velvette https://t.co/1MGK5qcTFt"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3700,
+        "media_key": "3_2092930665889312768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQuVWg_asAA-Diz.jpg",
+        "width": 2480
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2092930665889312768"
+          ],
+          "media_source_tweet_id": [
+            "2092930674282131778"
+          ]
+        },
+        "author_id": "1964331185590718464",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "Vox",
+              "id": "1113147293346041856",
+              "name": "Vox"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Vox",
+              "id": "1113147293346041856",
+              "name": "Vox"
+            }
+          }
+        ],
+        "conversation_id": "2092955017288519846",
+        "created_at": "2026-08-27T12:38:56.000Z",
+        "display_text_range": [
+          0,
+          64
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T13:38:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092955017288519846"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 30,
+              "start": 26,
+              "tag": "vox"
+            },
+            {
+              "end": 40,
+              "start": 31,
+              "tag": "velvette"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1840846574098034688",
+              "start": 3,
+              "username": "mizuiro_zarasi"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/1MGK5qcTFt",
+              "end": 64,
+              "expanded_url": "https://x.com/mizuiro_zarasi/status/2092930674282131778/photo/1",
+              "media_key": "3_2092930665889312768",
+              "start": 41,
+              "url": "https://t.co/1MGK5qcTFt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092955017288519846",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2092930665889312768"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 18
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092930674282131778",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @mizuiro_zarasi: イタズラ😜\n#vox #velvette https://t.co/1MGK5qcTFt"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2092930665889312768"
+          ]
+        },
+        "author_id": "1840846574098034688",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "Vox",
+              "id": "1113147293346041856",
+              "name": "Vox"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Vox",
+              "id": "1113147293346041856",
+              "name": "Vox"
+            }
+          }
+        ],
+        "conversation_id": "2092930674282131778",
+        "created_at": "2026-08-27T11:02:12.000Z",
+        "display_text_range": [
+          0,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T12:02:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092930674282131778"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 10,
+              "start": 6,
+              "tag": "vox"
+            },
+            {
+              "end": 20,
+              "start": 11,
+              "tag": "velvette"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/1MGK5qcTFt",
+              "end": 44,
+              "expanded_url": "https://x.com/mizuiro_zarasi/status/2092930674282131778/photo/1",
+              "media_key": "3_2092930665889312768",
+              "start": 21,
+              "url": "https://t.co/1MGK5qcTFt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092930674282131778",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2092930665889312768"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 1137,
+          "like_count": 125,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 18
+        },
+        "reply_settings": "everyone",
+        "text": "イタズラ😜\n#vox #velvette https://t.co/1MGK5qcTFt"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-09-06T14:13:55.000Z",
+        "description": "叫我筷子就可以了(:3っ )っ\n雜多丨OD丨自傷丨Vocaloid丨maimai丨🏳️‍🌈friendly\n不卖药 互关私信 取关请双取 不喜欢的直接b\nHH：Vox推し bottom🔁⭕ \nサブ垢＆避難垢→@Hashi_988",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 114,
+                "start": 104,
+                "username": "Hashi_988"
+              }
+            ]
+          }
+        },
+        "id": "1964331185590718464",
+        "is_identity_verified": false,
+        "location": "颅内",
+        "most_recent_tweet_id": "2092955017288519846",
+        "name": "箸",
+        "pinned_tweet_id": "2090132992979284341",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1964331185590718464/1785100910",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074711282427842560/EOM9Puhb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1578,
+          "following_count": 808,
+          "like_count": 43330,
+          "listed_count": 0,
+          "media_count": 439,
+          "tweet_count": 7760
+        },
+        "url": "",
+        "username": "breakcoreWTF",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-09-30T20:10:16.000Z",
+        "description": "20↑/無断転載❌AI学習❌\nVoxがいればなんでもみますいなくてもみます地雷なしで何でも見るし描きます：)",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/zarashi_Profile",
+                "end": 23,
+                "expanded_url": "https://lit.link/zarashi_Profile",
+                "start": 0,
+                "url": "https://t.co/83wKQKykT0"
+              }
+            ]
+          }
+        },
+        "id": "1840846574098034688",
+        "is_identity_verified": false,
+        "location": "📺📱🦋♡",
+        "most_recent_tweet_id": "2092930674282131778",
+        "name": "みずいろざらし🦭",
+        "pinned_tweet_id": "2087494437278765454",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1840846574098034688/1784564304",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072343625795878912/zfBN1SyS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2538,
+          "following_count": 21,
+          "like_count": 6390,
+          "listed_count": 7,
+          "media_count": 153,
+          "tweet_count": 607
+        },
+        "url": "https://t.co/83wKQKykT0",
+        "username": "mizuiro_zarasi",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

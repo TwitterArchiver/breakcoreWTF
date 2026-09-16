@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2085668437905625088"
+      ],
+      "media_source_tweet_id": [
+        "2085668442980732935"
+      ]
+    },
+    "author_id": "1964331185590718464",
+    "conversation_id": "2085729133603254381",
+    "created_at": "2026-08-07T14:05:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-07T15:05:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085729133603254381"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2012840864905879552",
+          "start": 3,
+          "username": "hmjn_n_n"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/GZ1dWhDg17",
+          "end": 49,
+          "expanded_url": "https://x.com/hmjn_n_n/status/2085668442980732935/photo/1",
+          "media_key": "3_2085668437905625088",
+          "start": 26,
+          "url": "https://t.co/GZ1dWhDg17"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085729133603254381",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085668442980732935",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hmjn_n_n: Sales Smile https://t.co/GZ1dWhDg17"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1396,
+        "media_key": "3_2085668437905625088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPHIZNib0AAsUQK.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2085668437905625088"
+          ]
+        },
+        "author_id": "2012840864905879552",
+        "conversation_id": "2085668442980732935",
+        "created_at": "2026-08-07T10:04:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T11:04:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085668442980732935"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GZ1dWhDg17",
+              "end": 35,
+              "expanded_url": "https://x.com/hmjn_n_n/status/2085668442980732935/photo/1",
+              "media_key": "3_2085668437905625088",
+              "start": 12,
+              "url": "https://t.co/GZ1dWhDg17"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085668442980732935",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 83,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "Sales Smile https://t.co/GZ1dWhDg17"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2085668437905625088"
+          ],
+          "media_source_tweet_id": [
+            "2085668442980732935"
+          ]
+        },
+        "author_id": "1964331185590718464",
+        "conversation_id": "2085729133603254381",
+        "created_at": "2026-08-07T14:05:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T15:05:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085729133603254381"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2012840864905879552",
+              "start": 3,
+              "username": "hmjn_n_n"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/GZ1dWhDg17",
+              "end": 49,
+              "expanded_url": "https://x.com/hmjn_n_n/status/2085668442980732935/photo/1",
+              "media_key": "3_2085668437905625088",
+              "start": 26,
+              "url": "https://t.co/GZ1dWhDg17"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085729133603254381",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085668442980732935",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hmjn_n_n: Sales Smile https://t.co/GZ1dWhDg17"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-06T14:13:55.000Z",
+        "description": "叫我筷子就可以了(:3っ )っ\nOD丨🔪丨Vocaloid丨音游丨LGBTQ+friendly\n不卖药 只看互关私信\n不喜欢的直接b 查成分回fo 取关请双取\n备用机、愚痴垢→@Hashi_988",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 98,
+                "start": 88,
+                "username": "Hashi_988"
+              }
+            ]
+          }
+        },
+        "id": "1964331185590718464",
+        "location": "颅内",
+        "name": "箸",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074711282427842560/EOM9Puhb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1397,
+          "following_count": 793,
+          "like_count": 37122,
+          "listed_count": 0,
+          "media_count": 374,
+          "tweet_count": 6571
+        },
+        "url": "",
+        "username": "breakcoreWTF",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-18T10:54:39.000Z",
+        "description": "bottom📺only🔁❌",
+        "id": "2012840864905879552",
+        "location": "🇯🇵",
+        "name": "ひまじん",
+        "pinned_tweet_id": "2080611704992608300",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081984803310858240/GpUIoa58_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26,
+          "following_count": 28,
+          "like_count": 162,
+          "listed_count": 0,
+          "media_count": 96,
+          "tweet_count": 173
+        },
+        "url": "",
+        "username": "hmjn_n_n",
+        "verified": false
+      }
+    ]
+  }
+}

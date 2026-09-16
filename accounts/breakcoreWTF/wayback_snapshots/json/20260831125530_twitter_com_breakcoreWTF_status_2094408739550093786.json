@@ -1,0 +1,349 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2094114400063877121"
+      ],
+      "media_source_tweet_id": [
+        "2094114405474582975"
+      ]
+    },
+    "author_id": "1964331185590718464",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10045225402",
+          "name": "X"
+        }
+      }
+    ],
+    "conversation_id": "2094408739550093786",
+    "created_at": "2026-08-31T12:55:30.000Z",
+    "display_text_range": [
+      0,
+      87
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-31T13:55:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2094408739550093786"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1243158025084510208",
+          "start": 3,
+          "username": "detentrice2mst"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/e65s9o0kUG",
+          "end": 87,
+          "expanded_url": "https://x.com/detentrice2mst/status/2094114405474582975/photo/1",
+          "media_key": "3_2094114400063877121",
+          "start": 64,
+          "url": "https://t.co/e65s9o0kUG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094408739550093786",
+    "lang": "fr",
+    "media_metadata": [
+      {
+        "media_key": "3_2094114400063877121"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2582
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094114405474582975",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @detentrice2mst: premier date, il m’explique tout ses tweets https://t.co/e65s9o0kUG"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2094114400063877121",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQ_J86bWcAEEK4b.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2094114400063877121"
+          ],
+          "media_source_tweet_id": [
+            "2094114405474582975"
+          ]
+        },
+        "author_id": "1964331185590718464",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "2094408739550093786",
+        "created_at": "2026-08-31T12:55:30.000Z",
+        "display_text_range": [
+          0,
+          87
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-31T13:55:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094408739550093786"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1243158025084510208",
+              "start": 3,
+              "username": "detentrice2mst"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/e65s9o0kUG",
+              "end": 87,
+              "expanded_url": "https://x.com/detentrice2mst/status/2094114405474582975/photo/1",
+              "media_key": "3_2094114400063877121",
+              "start": 64,
+              "url": "https://t.co/e65s9o0kUG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094408739550093786",
+        "lang": "fr",
+        "media_metadata": [
+          {
+            "media_key": "3_2094114400063877121"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2582
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094114405474582975",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @detentrice2mst: premier date, il m’explique tout ses tweets https://t.co/e65s9o0kUG"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2094114400063877121"
+          ]
+        },
+        "author_id": "1243158025084510208",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "2094114405474582975",
+        "created_at": "2026-08-30T17:25:55.000Z",
+        "display_text_range": [
+          0,
+          43
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-30T18:25:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2094114405474582975"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/e65s9o0kUG",
+              "end": 67,
+              "expanded_url": "https://x.com/detentrice2mst/status/2094114405474582975/photo/1",
+              "media_key": "3_2094114400063877121",
+              "start": 44,
+              "url": "https://t.co/e65s9o0kUG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094114405474582975",
+        "lang": "fr",
+        "media_metadata": [
+          {
+            "media_key": "3_2094114400063877121"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1419,
+          "impression_count": 875485,
+          "like_count": 29080,
+          "quote_count": 1235,
+          "reply_count": 220,
+          "retweet_count": 2582
+        },
+        "reply_settings": "everyone",
+        "text": "premier date, il m’explique tout ses tweets https://t.co/e65s9o0kUG"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-09-06T14:13:55.000Z",
+        "description": "叫我筷子就可以了(:3っ )っ\n雜多丨OD丨自傷丨Vocaloid丨maimai丨🏳️‍🌈friendly\n不卖药 互关请私信 取关请双取 不喜欢的直接b\nHH：Vox推し bottom🔁⭕ \nサブ垢＆避難垢→@Hashi_988",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 115,
+                "start": 105,
+                "username": "Hashi_988"
+              }
+            ]
+          }
+        },
+        "id": "1964331185590718464",
+        "is_identity_verified": false,
+        "location": "颅内",
+        "most_recent_tweet_id": "2094408739550093786",
+        "name": "箸",
+        "pinned_tweet_id": "2090132992979284341",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1964331185590718464/1785100910",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2093963390620487680/sATuTGb4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1586,
+          "following_count": 807,
+          "like_count": 44787,
+          "listed_count": 0,
+          "media_count": 448,
+          "tweet_count": 7989
+        },
+        "url": "",
+        "username": "breakcoreWTF",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-03-26T12:49:16.000Z",
+        "description": "fake it untill you make it @swaggyhbuu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 27,
+                "username": "swaggyhbuu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "paypal.me/swaggyhbuu",
+                "end": 23,
+                "expanded_url": "https://www.paypal.me/swaggyhbuu",
+                "start": 0,
+                "url": "https://t.co/SQSn2BVQGm"
+              }
+            ]
+          }
+        },
+        "id": "1243158025084510208",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2094394715357552668",
+        "name": "mere de famille experte en pause snuss",
+        "pinned_tweet_id": "1996965463205486917",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1243158025084510208/1773008239",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1794768418215731200/R2bk3o8c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 945,
+          "following_count": 524,
+          "like_count": 53059,
+          "listed_count": 4,
+          "media_count": 579,
+          "tweet_count": 10990
+        },
+        "url": "https://t.co/SQSn2BVQGm",
+        "username": "detentrice2mst",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

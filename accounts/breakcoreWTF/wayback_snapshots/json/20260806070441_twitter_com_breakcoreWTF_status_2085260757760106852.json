@@ -1,0 +1,284 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1969705519121326080"
+      ],
+      "media_source_tweet_id": [
+        "1969705970499756238"
+      ]
+    },
+    "author_id": "1964331185590718464",
+    "conversation_id": "2085260757760106852",
+    "created_at": "2026-08-06T07:04:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-06T08:04:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085260757760106852"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1758109926139084801",
+          "start": 3,
+          "username": "kuriakasa"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/6gkjuu1IZu",
+          "end": 49,
+          "expanded_url": "https://x.com/kuriakasa/status/1969705970499756238/video/1",
+          "media_key": "13_1969705519121326080",
+          "start": 26,
+          "url": "https://t.co/6gkjuu1IZu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085260757760106852",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1368
+    },
+    "referenced_tweets": [
+      {
+        "id": "1969705970499756238",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kuriakasa: 商品を紹介するVOX https://t.co/6gkjuu1IZu"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 13466,
+        "height": 1200,
+        "media_key": "13_1969705519121326080",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1969705519121326080/img/w_CjBlL6XVNph_vg.jpg",
+        "public_metrics": {
+          "view_count": 48238
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1969705519121326080/vid/avc1/432x270/gk4cfqRhwTdnn5NL.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1969705519121326080/vid/avc1/576x360/WdVOfF5tefP6ow89.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1969705519121326080/vid/avc1/1152x720/nlX1Su0xvPowRxKn.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1969705519121326080/pl/Vt0N7CMzGD7DfjHQ.m3u8?tag=14"
+          }
+        ],
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1969705519121326080"
+          ]
+        },
+        "author_id": "1758109926139084801",
+        "conversation_id": "1969705970499756238",
+        "created_at": "2025-09-21T10:11:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-21T11:11:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1969705970499756238"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6gkjuu1IZu",
+              "end": 34,
+              "expanded_url": "https://x.com/kuriakasa/status/1969705970499756238/video/1",
+              "media_key": "13_1969705519121326080",
+              "start": 11,
+              "url": "https://t.co/6gkjuu1IZu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1969705970499756238",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1320,
+          "impression_count": 122452,
+          "like_count": 7515,
+          "quote_count": 31,
+          "reply_count": 7,
+          "retweet_count": 1368
+        },
+        "reply_settings": "everyone",
+        "text": "商品を紹介するVOX https://t.co/6gkjuu1IZu"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1969705519121326080"
+          ],
+          "media_source_tweet_id": [
+            "1969705970499756238"
+          ]
+        },
+        "author_id": "1964331185590718464",
+        "conversation_id": "2085260757760106852",
+        "created_at": "2026-08-06T07:04:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T08:04:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085260757760106852"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1758109926139084801",
+              "start": 3,
+              "username": "kuriakasa"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/6gkjuu1IZu",
+              "end": 49,
+              "expanded_url": "https://x.com/kuriakasa/status/1969705970499756238/video/1",
+              "media_key": "13_1969705519121326080",
+              "start": 26,
+              "url": "https://t.co/6gkjuu1IZu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085260757760106852",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1368
+        },
+        "referenced_tweets": [
+          {
+            "id": "1969705970499756238",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kuriakasa: 商品を紹介するVOX https://t.co/6gkjuu1IZu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-06T14:13:55.000Z",
+        "description": "叫我筷子就可以了(:3っ )っ\nOD丨🔪丨Vocaloid丨音游丨LGBTQ+friendly\n不卖药 只看互关私信 我很穷欢迎投喂\n不喜欢的直接b 查成分同类回fo 取关请双取\n备用机→@Hashi_988",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 104,
+                "start": 94,
+                "username": "Hashi_988"
+              }
+            ]
+          }
+        },
+        "id": "1964331185590718464",
+        "location": "颅内",
+        "name": "箸",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074711282427842560/EOM9Puhb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1394,
+          "following_count": 819,
+          "like_count": 36705,
+          "listed_count": 0,
+          "media_count": 366,
+          "tweet_count": 6511
+        },
+        "url": "",
+        "username": "breakcoreWTF",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-15T12:44:26.000Z",
+        "description": "ハズビンホテル！　ほぼVOX",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "profcard.info/u/wlhTdcZTSZUH…",
+                "end": 23,
+                "expanded_url": "https://profcard.info/u/wlhTdcZTSZUHf0yLwdbJCrQ6x7s2",
+                "start": 0,
+                "url": "https://t.co/gMeKMAJAZM"
+              }
+            ]
+          }
+        },
+        "id": "1758109926139084801",
+        "name": "クリアかっさ",
+        "pinned_tweet_id": "2076993873608577442",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1764633409677328384/A5DyBtpu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9260,
+          "following_count": 124,
+          "like_count": 13140,
+          "listed_count": 30,
+          "media_count": 575,
+          "tweet_count": 1037
+        },
+        "url": "https://t.co/gMeKMAJAZM",
+        "username": "kuriakasa",
+        "verified": false
+      }
+    ]
+  }
+}

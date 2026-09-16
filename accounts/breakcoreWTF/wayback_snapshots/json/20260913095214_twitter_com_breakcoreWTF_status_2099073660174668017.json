@@ -1,0 +1,341 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2099058674442653696"
+      ],
+      "media_source_tweet_id": [
+        "2099060582200852921"
+      ]
+    },
+    "author_id": "1964331185590718464",
+    "conversation_id": "2099073660174668017",
+    "created_at": "2026-09-13T09:52:14.000Z",
+    "display_text_range": [
+      0,
+      43
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-13T10:52:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2099073660174668017"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "776386890370908161",
+          "start": 3,
+          "username": "c_h_r_o_m_a"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ma57o03zAW",
+          "end": 43,
+          "expanded_url": "https://x.com/c_h_r_o_m_a/status/2099060582200852921/video/1",
+          "media_key": "13_2099058674442653696",
+          "start": 20,
+          "url": "https://t.co/ma57o03zAW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099073660174668017",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "13_2099058674442653696"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 25
+    },
+    "referenced_tweets": [
+      {
+        "id": "2099060582200852921",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @c_h_r_o_m_a: 日記 https://t.co/ma57o03zAW"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 48466,
+        "height": 1080,
+        "media_key": "13_2099058674442653696",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2099058674442653696/img/tOEmUv9vzPKnnMfT.jpg",
+        "public_metrics": {
+          "view_count": 719
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 432000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2099058674442653696/vid/avc1/320x320/PmOPDQ9P2dvivYxD.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2099058674442653696/vid/avc1/540x540/IK3tc5Sxq3Yb1fzQ.mp4?tag=14"
+          },
+          {
+            "bit_rate": 1280000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2099058674442653696/vid/avc1/720x720/37ueOg9NiNNuuC_X.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2099058674442653696/pl/WlQwBWQPOOJSf4_b.m3u8?tag=14&v=cfc"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2099058674442653696"
+          ],
+          "media_source_tweet_id": [
+            "2099060582200852921"
+          ]
+        },
+        "author_id": "1964331185590718464",
+        "conversation_id": "2099073660174668017",
+        "created_at": "2026-09-13T09:52:14.000Z",
+        "display_text_range": [
+          0,
+          43
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-13T10:52:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099073660174668017"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "776386890370908161",
+              "start": 3,
+              "username": "c_h_r_o_m_a"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ma57o03zAW",
+              "end": 43,
+              "expanded_url": "https://x.com/c_h_r_o_m_a/status/2099060582200852921/video/1",
+              "media_key": "13_2099058674442653696",
+              "start": 20,
+              "url": "https://t.co/ma57o03zAW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099073660174668017",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "13_2099058674442653696"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 25
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099060582200852921",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @c_h_r_o_m_a: 日記 https://t.co/ma57o03zAW"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2099058674442653696"
+          ]
+        },
+        "author_id": "776386890370908161",
+        "conversation_id": "2099060582200852921",
+        "created_at": "2026-09-13T09:00:16.000Z",
+        "display_text_range": [
+          0,
+          2
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-13T10:00:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2099060582200852921"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ma57o03zAW",
+              "end": 26,
+              "expanded_url": "https://x.com/c_h_r_o_m_a/status/2099060582200852921/video/1",
+              "media_key": "13_2099058674442653696",
+              "start": 3,
+              "url": "https://t.co/ma57o03zAW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099060582200852921",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "13_2099058674442653696"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 24,
+          "impression_count": 2790,
+          "like_count": 118,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 25
+        },
+        "reply_settings": "everyone",
+        "text": "日記 https://t.co/ma57o03zAW"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-09-06T14:13:55.000Z",
+        "description": "叫我筷子就可以了(:3っ )っ\n雜多丨OD丨自傷丨Vocaloid丨maimai丨🏳️‍🌈friendly\n不卖药 眼熟回关 取关请双取 不喜欢的直接b\nサブ垢＆避難垢→@Hashi_988",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 95,
+                "start": 85,
+                "username": "Hashi_988"
+              }
+            ]
+          }
+        },
+        "id": "1964331185590718464",
+        "is_identity_verified": false,
+        "location": "颅内",
+        "most_recent_tweet_id": "2099073660174668017",
+        "name": "箸",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1964331185590718464/1788644554",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2093963390620487680/sATuTGb4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1694,
+          "following_count": 801,
+          "like_count": 47762,
+          "listed_count": 0,
+          "media_count": 474,
+          "tweet_count": 8475
+        },
+        "url": "",
+        "username": "breakcoreWTF",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2016-09-15T11:47:14.000Z",
+        "description": "音楽とゲームが好き 🐕️\n────────────\n✉️info@c-h-r-o-m-a.jp / 🐾@woof_awoo_wan / 🎨#黒魔chroma",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 78,
+                "start": 69,
+                "tag": "黒魔chroma"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 65,
+                "start": 51,
+                "username": "woof_awoo_wan"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "c-h-r-o-m-a.jp",
+                "end": 23,
+                "expanded_url": "https://www.c-h-r-o-m-a.jp/",
+                "start": 0,
+                "url": "https://t.co/t3CPQEE4zT"
+              }
+            ]
+          }
+        },
+        "id": "776386890370908161",
+        "is_identity_verified": false,
+        "location": "💤",
+        "most_recent_tweet_id": "2099060582200852921",
+        "name": "黒魔 / Chroma",
+        "pinned_tweet_id": "2032073015375380903",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/776386890370908161/1546132737",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1079186564901523456/h26D7AZi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33983,
+          "following_count": 1950,
+          "like_count": 5069,
+          "listed_count": 173,
+          "media_count": 714,
+          "tweet_count": 3040
+        },
+        "url": "https://t.co/t3CPQEE4zT",
+        "username": "c_h_r_o_m_a",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

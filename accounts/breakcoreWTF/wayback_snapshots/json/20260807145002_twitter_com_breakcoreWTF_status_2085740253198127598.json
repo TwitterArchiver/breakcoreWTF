@@ -1,0 +1,412 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2085739472306802689",
+        "3_2085739472352911360",
+        "3_2085739472638111744",
+        "3_2085739472625520641"
+      ],
+      "media_source_tweet_id": [
+        "2085739483442622963",
+        "2085739483442622963",
+        "2085739483442622963",
+        "2085739483442622963"
+      ]
+    },
+    "author_id": "1964331185590718464",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2085740253198127598",
+    "created_at": "2026-08-07T14:50:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-07T15:50:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085740253198127598"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1169174984389885952",
+          "start": 3,
+          "username": "Angel_SaveUsAll"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/pIHDwHE5fX",
+          "end": 59,
+          "expanded_url": "https://x.com/Angel_SaveUsAll/status/2085739483442622963/photo/1",
+          "media_key": "3_2085739472306802689",
+          "start": 36,
+          "url": "https://t.co/pIHDwHE5fX"
+        },
+        {
+          "display_url": "pic.x.com/pIHDwHE5fX",
+          "end": 59,
+          "expanded_url": "https://x.com/Angel_SaveUsAll/status/2085739483442622963/photo/1",
+          "media_key": "3_2085739472352911360",
+          "start": 36,
+          "url": "https://t.co/pIHDwHE5fX"
+        },
+        {
+          "display_url": "pic.x.com/pIHDwHE5fX",
+          "end": 59,
+          "expanded_url": "https://x.com/Angel_SaveUsAll/status/2085739483442622963/photo/1",
+          "media_key": "3_2085739472638111744",
+          "start": 36,
+          "url": "https://t.co/pIHDwHE5fX"
+        },
+        {
+          "display_url": "pic.x.com/pIHDwHE5fX",
+          "end": 59,
+          "expanded_url": "https://x.com/Angel_SaveUsAll/status/2085739483442622963/photo/1",
+          "media_key": "3_2085739472625520641",
+          "start": 36,
+          "url": "https://t.co/pIHDwHE5fX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085740253198127598",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085739483442622963",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Angel_SaveUsAll: 去街机烈火了，好好玩好多东西 https://t.co/pIHDwHE5fX"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2085739472306802689",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPII_9TbkAEURl0.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2085739472352911360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPII_9ebIAAMhlb.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2085739472638111744",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPII_-ia8AAHkfj.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2085739472625520641",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPII_-fa0AEraq8.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2085739472306802689",
+            "3_2085739472352911360",
+            "3_2085739472638111744",
+            "3_2085739472625520641"
+          ]
+        },
+        "author_id": "1169174984389885952",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2085739483442622963",
+        "created_at": "2026-08-07T14:46:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T15:46:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085739483442622963"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pIHDwHE5fX",
+              "end": 38,
+              "expanded_url": "https://x.com/Angel_SaveUsAll/status/2085739483442622963/photo/1",
+              "media_key": "3_2085739472306802689",
+              "start": 15,
+              "url": "https://t.co/pIHDwHE5fX"
+            },
+            {
+              "display_url": "pic.x.com/pIHDwHE5fX",
+              "end": 38,
+              "expanded_url": "https://x.com/Angel_SaveUsAll/status/2085739483442622963/photo/1",
+              "media_key": "3_2085739472352911360",
+              "start": 15,
+              "url": "https://t.co/pIHDwHE5fX"
+            },
+            {
+              "display_url": "pic.x.com/pIHDwHE5fX",
+              "end": 38,
+              "expanded_url": "https://x.com/Angel_SaveUsAll/status/2085739483442622963/photo/1",
+              "media_key": "3_2085739472638111744",
+              "start": 15,
+              "url": "https://t.co/pIHDwHE5fX"
+            },
+            {
+              "display_url": "pic.x.com/pIHDwHE5fX",
+              "end": 38,
+              "expanded_url": "https://x.com/Angel_SaveUsAll/status/2085739483442622963/photo/1",
+              "media_key": "3_2085739472625520641",
+              "start": 15,
+              "url": "https://t.co/pIHDwHE5fX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085739483442622963",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "去街机烈火了，好好玩好多东西 https://t.co/pIHDwHE5fX"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2085739472306802689",
+            "3_2085739472352911360",
+            "3_2085739472638111744",
+            "3_2085739472625520641"
+          ],
+          "media_source_tweet_id": [
+            "2085739483442622963",
+            "2085739483442622963",
+            "2085739483442622963",
+            "2085739483442622963"
+          ]
+        },
+        "author_id": "1964331185590718464",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2085740253198127598",
+        "created_at": "2026-08-07T14:50:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T15:50:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085740253198127598"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1169174984389885952",
+              "start": 3,
+              "username": "Angel_SaveUsAll"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/pIHDwHE5fX",
+              "end": 59,
+              "expanded_url": "https://x.com/Angel_SaveUsAll/status/2085739483442622963/photo/1",
+              "media_key": "3_2085739472306802689",
+              "start": 36,
+              "url": "https://t.co/pIHDwHE5fX"
+            },
+            {
+              "display_url": "pic.x.com/pIHDwHE5fX",
+              "end": 59,
+              "expanded_url": "https://x.com/Angel_SaveUsAll/status/2085739483442622963/photo/1",
+              "media_key": "3_2085739472352911360",
+              "start": 36,
+              "url": "https://t.co/pIHDwHE5fX"
+            },
+            {
+              "display_url": "pic.x.com/pIHDwHE5fX",
+              "end": 59,
+              "expanded_url": "https://x.com/Angel_SaveUsAll/status/2085739483442622963/photo/1",
+              "media_key": "3_2085739472638111744",
+              "start": 36,
+              "url": "https://t.co/pIHDwHE5fX"
+            },
+            {
+              "display_url": "pic.x.com/pIHDwHE5fX",
+              "end": 59,
+              "expanded_url": "https://x.com/Angel_SaveUsAll/status/2085739483442622963/photo/1",
+              "media_key": "3_2085739472625520641",
+              "start": 36,
+              "url": "https://t.co/pIHDwHE5fX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085740253198127598",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085739483442622963",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Angel_SaveUsAll: 去街机烈火了，好好玩好多东西 https://t.co/pIHDwHE5fX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-06T14:13:55.000Z",
+        "description": "叫我筷子就可以了(:3っ )っ\nOD丨🔪丨Vocaloid丨音游丨LGBTQ+friendly\n不卖药 只看互关私信\n不喜欢的直接b 查成分回fo 取关请双取\n备用机、愚痴垢→@Hashi_988",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 98,
+                "start": 88,
+                "username": "Hashi_988"
+              }
+            ]
+          }
+        },
+        "id": "1964331185590718464",
+        "location": "颅内",
+        "name": "箸",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074711282427842560/EOM9Puhb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1398,
+          "following_count": 794,
+          "like_count": 37181,
+          "listed_count": 0,
+          "media_count": 374,
+          "tweet_count": 6582
+        },
+        "url": "",
+        "username": "breakcoreWTF",
+        "verified": false
+      },
+      {
+        "created_at": "2019-09-04T09:07:06.000Z",
+        "description": "救贖天使 含糖 新人画师，阴湿蕾蕾 只是会吃神秘小药片💊💊噶手手🩸🔪 情绪不稳定/双相/焦虑症 舞萌 经常碎碎念EN&CN OK 日本語苦手 欢迎同类找我聊天贴贴🍥老婆@linwei130",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 84,
+                "username": "linwei130"
+              }
+            ]
+          }
+        },
+        "id": "1169174984389885952",
+        "location": "New York, NY",
+        "name": "小救「回归」",
+        "pinned_tweet_id": "2043782475936120911",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058870609170616320/JW0PIo2B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1657,
+          "following_count": 662,
+          "like_count": 17721,
+          "listed_count": 5,
+          "media_count": 640,
+          "tweet_count": 5518
+        },
+        "url": "",
+        "username": "Angel_SaveUsAll",
+        "verified": true
+      }
+    ]
+  }
+}

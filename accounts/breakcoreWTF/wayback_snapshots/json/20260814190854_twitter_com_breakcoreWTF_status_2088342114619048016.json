@@ -1,0 +1,385 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2001147945840750595"
+      ],
+      "media_source_tweet_id": [
+        "2001147948416020694"
+      ]
+    },
+    "author_id": "1964331185590718464",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2088342114619048016",
+    "created_at": "2026-08-14T19:08:54.000Z",
+    "display_text_range": [
+      0,
+      71
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-14T20:08:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088342114619048016"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 47,
+          "start": 35,
+          "tag": "RadioStatic"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1201295425749364742",
+          "start": 3,
+          "username": "ChandlLucky"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/N3CpZE8MJT",
+          "end": 71,
+          "expanded_url": "https://x.com/ChandlLucky/status/2001147948416020694/photo/1",
+          "media_key": "3_2001147945840750595",
+          "start": 48,
+          "url": "https://t.co/N3CpZE8MJT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088342114619048016",
+    "lang": "en",
+    "media_metadata": [
+      {
+        "media_key": "3_2001147945840750595"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2586
+    },
+    "referenced_tweets": [
+      {
+        "id": "2001147948416020694",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ChandlLucky: Hello dear...📺📻♥️\n#RadioStatic https://t.co/N3CpZE8MJT"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2001147945840750595",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8WBdEbXMAM10s5.jpg",
+        "width": 1484
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2001147945840750595"
+          ],
+          "media_source_tweet_id": [
+            "2001147948416020694"
+          ]
+        },
+        "author_id": "1964331185590718464",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2088342114619048016",
+        "created_at": "2026-08-14T19:08:54.000Z",
+        "display_text_range": [
+          0,
+          71
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T20:08:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088342114619048016"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 47,
+              "start": 35,
+              "tag": "RadioStatic"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1201295425749364742",
+              "start": 3,
+              "username": "ChandlLucky"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/N3CpZE8MJT",
+              "end": 71,
+              "expanded_url": "https://x.com/ChandlLucky/status/2001147948416020694/photo/1",
+              "media_key": "3_2001147945840750595",
+              "start": 48,
+              "url": "https://t.co/N3CpZE8MJT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088342114619048016",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2001147945840750595"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2586
+        },
+        "referenced_tweets": [
+          {
+            "id": "2001147948416020694",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ChandlLucky: Hello dear...📺📻♥️\n#RadioStatic https://t.co/N3CpZE8MJT"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2001147945840750595"
+          ]
+        },
+        "author_id": "1201295425749364742",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2001147948416020694",
+        "created_at": "2025-12-17T04:30:25.000Z",
+        "display_text_range": [
+          0,
+          30
+        ],
+        "edit_controls": {
+          "editable_until": "2025-12-17T05:30:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2001147948416020694"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 30,
+              "start": 18,
+              "tag": "RadioStatic"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/N3CpZE8MJT",
+              "end": 54,
+              "expanded_url": "https://x.com/ChandlLucky/status/2001147948416020694/photo/1",
+              "media_key": "3_2001147945840750595",
+              "start": 31,
+              "url": "https://t.co/N3CpZE8MJT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001147948416020694",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2001147945840750595"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2242,
+          "impression_count": 176323,
+          "like_count": 15679,
+          "quote_count": 15,
+          "reply_count": 17,
+          "retweet_count": 2586
+        },
+        "reply_settings": "everyone",
+        "text": "Hello dear...📺📻♥️\n#RadioStatic https://t.co/N3CpZE8MJT"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-09-06T14:13:55.000Z",
+        "description": "叫我筷子就可以了(:3っ )っ\nOD丨🔪丨Vocaloid丨maimai丨LGBTQ+friendly\n不卖药 只看互关私信\n不喜欢的直接b 查成分回fo 取关请双取\n备用机、愚痴垢→@Hashi_988",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 102,
+                "start": 92,
+                "username": "Hashi_988"
+              }
+            ]
+          }
+        },
+        "id": "1964331185590718464",
+        "is_identity_verified": false,
+        "location": "颅内",
+        "most_recent_tweet_id": "2088342114619048016",
+        "name": "箸",
+        "pinned_tweet_id": "2086154153508884828",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1964331185590718464/1785100910",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074711282427842560/EOM9Puhb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1465,
+          "following_count": 792,
+          "like_count": 38908,
+          "listed_count": 0,
+          "media_count": 395,
+          "tweet_count": 6921
+        },
+        "url": "",
+        "username": "breakcoreWTF",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2019-12-02T00:22:14.000Z",
+        "description": "Hi!!🦐🏳️‍🌈\nMexican artist!🇲🇽 🌮\nWorking for #HelluvaBoss/#HazbinHotel at @SpindleHorse😈\n(COMMISSION CLOSED ) (ig:Lucky_chandl34)",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 54,
+                "start": 42,
+                "tag": "HelluvaBoss"
+              },
+              {
+                "end": 67,
+                "start": 55,
+                "tag": "HazbinHotel"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 84,
+                "start": 71,
+                "username": "SpindleHorse"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "patreon.com/Lucky_chanDL",
+                "end": 23,
+                "expanded_url": "http://patreon.com/Lucky_chanDL",
+                "start": 0,
+                "url": "https://t.co/EOrddwVDJ0"
+              }
+            ]
+          }
+        },
+        "id": "1201295425749364742",
+        "is_identity_verified": false,
+        "location": "México",
+        "most_recent_tweet_id": "2088017197746536535",
+        "name": "Lucky_chandl🪽✨️✍️🏼",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1201295425749364742/1768816310",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945060013052973056/qgs_sg0C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 68140,
+          "following_count": 828,
+          "like_count": 72509,
+          "listed_count": 197,
+          "media_count": 1550,
+          "tweet_count": 14373
+        },
+        "url": "https://t.co/EOrddwVDJ0",
+        "username": "ChandlLucky",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

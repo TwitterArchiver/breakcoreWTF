@@ -1,0 +1,416 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2096726264417812480"
+      ],
+      "media_source_tweet_id": [
+        "2096726275171713412"
+      ]
+    },
+    "author_id": "1964331185590718464",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "description": "Vox",
+          "id": "1113147293346041856",
+          "name": "Vox"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Vox",
+          "id": "1113147293346041856",
+          "name": "Vox"
+        }
+      }
+    ],
+    "conversation_id": "2096776571495579772",
+    "created_at": "2026-09-07T01:44:25.000Z",
+    "display_text_range": [
+      0,
+      70
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-07T02:44:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096776571495579772"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 29,
+          "start": 25,
+          "tag": "Vox"
+        },
+        {
+          "end": 46,
+          "start": 30,
+          "tag": "VincentWhittman"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1458020268467752964",
+          "start": 3,
+          "username": "jat_art_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/19F0o15A8e",
+          "end": 70,
+          "expanded_url": "https://x.com/jat_art_/status/2096726275171713412/photo/1",
+          "media_key": "3_2096726264417812480",
+          "start": 47,
+          "url": "https://t.co/19F0o15A8e"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096776571495579772",
+    "lang": "en",
+    "media_metadata": [
+      {
+        "media_key": "3_2096726264417812480"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 41
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096726275171713412",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @jat_art_: something \n#Vox #VincentWhittman https://t.co/19F0o15A8e"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2096726264417812480",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRkRbbXbAAAyezO.jpg",
+        "width": 1498
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2096726264417812480"
+          ],
+          "media_source_tweet_id": [
+            "2096726275171713412"
+          ]
+        },
+        "author_id": "1964331185590718464",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "Vox",
+              "id": "1113147293346041856",
+              "name": "Vox"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Vox",
+              "id": "1113147293346041856",
+              "name": "Vox"
+            }
+          }
+        ],
+        "conversation_id": "2096776571495579772",
+        "created_at": "2026-09-07T01:44:25.000Z",
+        "display_text_range": [
+          0,
+          70
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T02:44:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096776571495579772"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 29,
+              "start": 25,
+              "tag": "Vox"
+            },
+            {
+              "end": 46,
+              "start": 30,
+              "tag": "VincentWhittman"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1458020268467752964",
+              "start": 3,
+              "username": "jat_art_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/19F0o15A8e",
+              "end": 70,
+              "expanded_url": "https://x.com/jat_art_/status/2096726275171713412/photo/1",
+              "media_key": "3_2096726264417812480",
+              "start": 47,
+              "url": "https://t.co/19F0o15A8e"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096776571495579772",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2096726264417812480"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 41
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096726275171713412",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @jat_art_: something \n#Vox #VincentWhittman https://t.co/19F0o15A8e"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2096726264417812480"
+          ]
+        },
+        "author_id": "1458020268467752964",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "Vox",
+              "id": "1113147293346041856",
+              "name": "Vox"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Vox",
+              "id": "1113147293346041856",
+              "name": "Vox"
+            }
+          }
+        ],
+        "conversation_id": "2096726275171713412",
+        "created_at": "2026-09-06T22:24:33.000Z",
+        "display_text_range": [
+          0,
+          32
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T23:24:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096726275171713412"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 15,
+              "start": 11,
+              "tag": "Vox"
+            },
+            {
+              "end": 32,
+              "start": 16,
+              "tag": "VincentWhittman"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/19F0o15A8e",
+              "end": 56,
+              "expanded_url": "https://x.com/jat_art_/status/2096726275171713412/photo/1",
+              "media_key": "3_2096726264417812480",
+              "start": 33,
+              "url": "https://t.co/19F0o15A8e"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096726275171713412",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2096726264417812480"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 22,
+          "impression_count": 1040,
+          "like_count": 244,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 41
+        },
+        "reply_settings": "everyone",
+        "text": "something \n#Vox #VincentWhittman https://t.co/19F0o15A8e"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-09-06T14:13:55.000Z",
+        "description": "叫我筷子就可以了(:3っ )っ\n雜多丨OD丨自傷丨Vocaloid丨maimai丨🏳️‍🌈friendly\n不卖药 眼熟回关 取关请双取 不喜欢的直接b\nサブ垢＆避難垢→@Hashi_988",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 95,
+                "start": 85,
+                "username": "Hashi_988"
+              }
+            ]
+          }
+        },
+        "id": "1964331185590718464",
+        "is_identity_verified": false,
+        "location": "颅内",
+        "most_recent_tweet_id": "2096776571495579772",
+        "name": "箸",
+        "pinned_tweet_id": "2090132992979284341",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1964331185590718464/1788644554",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2093963390620487680/sATuTGb4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1624,
+          "following_count": 801,
+          "like_count": 46639,
+          "listed_count": 0,
+          "media_count": 460,
+          "tweet_count": 8256
+        },
+        "url": "",
+        "username": "breakcoreWTF",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-11-09T10:35:24.000Z",
+        "description": "‧ they/them ‧ Alavox no switch ‧ тгк: https://t.co/9ylF51EtsK ‧ they/them ‧\n‧‧‧ rus/eng",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/jat_art",
+                "end": 61,
+                "expanded_url": "https://t.me/jat_art",
+                "start": 38,
+                "url": "https://t.co/9ylF51EtsK"
+              }
+            ]
+          }
+        },
+        "id": "1458020268467752964",
+        "is_identity_verified": false,
+        "location": " ‧ adults only ‧ ",
+        "most_recent_tweet_id": "2096726275171713412",
+        "name": "· Jat · CEO of Alavox · 🏳️‍⚧️",
+        "pinned_tweet_id": "2073698144475378142",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1458020268467752964/1780435281",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1918704024494182401/lSF60-Du_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3812,
+          "following_count": 156,
+          "like_count": 18901,
+          "listed_count": 6,
+          "media_count": 516,
+          "tweet_count": 2522
+        },
+        "url": "",
+        "username": "jat_art_",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,313 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2091802256689836032"
+      ],
+      "media_source_tweet_id": [
+        "2091802442245828644"
+      ]
+    },
+    "author_id": "1964331185590718464",
+    "conversation_id": "2092030847465758936",
+    "created_at": "2026-08-24T23:26:36.000Z",
+    "display_text_range": [
+      0,
+      50
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-25T00:26:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092030847465758936"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2041449281677045760",
+          "start": 3,
+          "username": "Sorcerer1311"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/WwaYDMIi6I",
+          "end": 50,
+          "expanded_url": "https://x.com/Sorcerer1311/status/2091802442245828644/video/1",
+          "media_key": "13_2091802256689836032",
+          "start": 27,
+          "url": "https://t.co/WwaYDMIi6I"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092030847465758936",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "13_2091802256689836032"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 21
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091802442245828644",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Sorcerer1311: 大和武士斩乙豚！ https://t.co/WwaYDMIi6I"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 11500,
+        "height": 1146,
+        "media_key": "13_2091802256689836032",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2091802256689836032/img/lBzmzw5mCUMzvYFs.jpg",
+        "public_metrics": {
+          "view_count": 21318
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2091802256689836032/vid/avc1/320x508/fAUg6pdoecwEMak8.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2091802256689836032/vid/avc1/480x764/04vVYXJj-VCTFtOw.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2091802256689836032/vid/avc1/720x1146/CXVQcA1rI0JBk7J5.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2091802256689836032/pl/nZOx6FHYxsylAwdJ.m3u8?v=cfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2091802256689836032"
+          ],
+          "media_source_tweet_id": [
+            "2091802442245828644"
+          ]
+        },
+        "author_id": "1964331185590718464",
+        "conversation_id": "2092030847465758936",
+        "created_at": "2026-08-24T23:26:36.000Z",
+        "display_text_range": [
+          0,
+          50
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-25T00:26:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092030847465758936"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2041449281677045760",
+              "start": 3,
+              "username": "Sorcerer1311"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/WwaYDMIi6I",
+              "end": 50,
+              "expanded_url": "https://x.com/Sorcerer1311/status/2091802442245828644/video/1",
+              "media_key": "13_2091802256689836032",
+              "start": 27,
+              "url": "https://t.co/WwaYDMIi6I"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092030847465758936",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "13_2091802256689836032"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 21
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091802442245828644",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Sorcerer1311: 大和武士斩乙豚！ https://t.co/WwaYDMIi6I"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2091802256689836032"
+          ]
+        },
+        "author_id": "2041449281677045760",
+        "conversation_id": "2091802442245828644",
+        "created_at": "2026-08-24T08:19:00.000Z",
+        "display_text_range": [
+          0,
+          8
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-24T09:19:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2091802442245828644"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/WwaYDMIi6I",
+              "end": 32,
+              "expanded_url": "https://x.com/Sorcerer1311/status/2091802442245828644/video/1",
+              "media_key": "13_2091802256689836032",
+              "start": 9,
+              "url": "https://t.co/WwaYDMIi6I"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091802442245828644",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "13_2091802256689836032"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 56,
+          "impression_count": 30531,
+          "like_count": 417,
+          "quote_count": 1,
+          "reply_count": 65,
+          "retweet_count": 21
+        },
+        "reply_settings": "everyone",
+        "text": "大和武士斩乙豚！ https://t.co/WwaYDMIi6I"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-09-06T14:13:55.000Z",
+        "description": "叫我筷子就可以了(:3っ )っ\n雜多丨OD丨自傷丨Vocaloid丨maimai丨🏳️‍🌈friendly\n不卖药 互关私信 取关请双取 不喜欢的直接b\nHH：Vox推し bottom🔁⭕ \nサブ垢＆避難垢→@Hashi_988",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 114,
+                "start": 104,
+                "username": "Hashi_988"
+              }
+            ]
+          }
+        },
+        "id": "1964331185590718464",
+        "is_identity_verified": false,
+        "location": "颅内",
+        "most_recent_tweet_id": "2092030847465758936",
+        "name": "箸",
+        "pinned_tweet_id": "2090132992979284341",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1964331185590718464/1785100910",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074711282427842560/EOM9Puhb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1577,
+          "following_count": 803,
+          "like_count": 42681,
+          "listed_count": 0,
+          "media_count": 436,
+          "tweet_count": 7640
+        },
+        "url": "",
+        "username": "breakcoreWTF",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-04-07T09:33:46.000Z",
+        "description": "前世假死过， 互fo寻回中｜ 06 ｜ enby/MTF｜TQ｜ENTP｜公路车｜精英社会自由主义｜AI/美股/理工/生物/哲学/政经｜Cantonese｜略通药理｜NPD｜ 抹茶脑袋｜ 🚪28.8｜同类可免互fo可面哦",
+        "id": "2041449281677045760",
+        "is_identity_verified": false,
+        "location": "北京市西城区西华门大街28号",
+        "most_recent_tweet_id": "2091994282467205449",
+        "name": "索瑟尔 𝓢𝓸𝓻𝓬𝓮𝓻𝓮𝓻🍥",
+        "pinned_tweet_id": "2045889078865072444",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2041449281677045760/1787357405",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072703506100977664/gMi_fG2-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1320,
+          "following_count": 1058,
+          "like_count": 2596,
+          "listed_count": 4,
+          "media_count": 575,
+          "tweet_count": 4057
+        },
+        "url": "",
+        "username": "Sorcerer1311",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

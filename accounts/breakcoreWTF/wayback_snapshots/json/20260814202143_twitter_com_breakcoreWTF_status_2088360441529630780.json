@@ -1,0 +1,464 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2088322452245839872"
+      ],
+      "media_source_tweet_id": [
+        "2088322473154449717"
+      ]
+    },
+    "author_id": "1964331185590718464",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Television shows from around the world",
+          "id": "3",
+          "name": "TV Shows"
+        },
+        "entity": {
+          "description": "Adult animated web series",
+          "id": "1444043338236104705",
+          "name": "Hazbin Hotel"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1281311833593282560",
+          "name": "Adult animation"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1444046743423762434",
+          "name": "Hazbin Hotel"
+        }
+      },
+      {
+        "domain": {
+          "description": "For global/conceptual TV shows without localization.",
+          "id": "172",
+          "name": "Global TV Show"
+        },
+        "entity": {
+          "id": "1444046743423762434",
+          "name": "Hazbin Hotel"
+        }
+      }
+    ],
+    "conversation_id": "2088360441529630780",
+    "created_at": "2026-08-14T20:21:43.000Z",
+    "display_text_range": [
+      0,
+      76
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-14T21:21:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088360441529630780"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 43,
+          "start": 28,
+          "tag": "hazbinhotelvox"
+        },
+        {
+          "end": 52,
+          "start": 44,
+          "tag": "voxcest"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1964557414105284608",
+          "start": 3,
+          "username": "foret_lles"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/WuVjLOzGHR",
+          "end": 76,
+          "expanded_url": "https://x.com/foret_lles/status/2088322473154449717/photo/1",
+          "media_key": "3_2088322452245839872",
+          "start": 53,
+          "url": "https://t.co/WuVjLOzGHR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088360441529630780",
+    "lang": "en",
+    "media_metadata": [
+      {
+        "media_key": "3_2088322452245839872"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 21
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088322473154449717",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @foret_lles: he's clingy\n#hazbinhotelvox #voxcest https://t.co/WuVjLOzGHR"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1699,
+        "media_key": "3_2088322452245839872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPs2NLaWAAATTLv.jpg",
+        "width": 1732
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088322452245839872"
+          ],
+          "media_source_tweet_id": [
+            "2088322473154449717"
+          ]
+        },
+        "author_id": "1964331185590718464",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "description": "Adult animated web series",
+              "id": "1444043338236104705",
+              "name": "Hazbin Hotel"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1281311833593282560",
+              "name": "Adult animation"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1444046743423762434",
+              "name": "Hazbin Hotel"
+            }
+          },
+          {
+            "domain": {
+              "description": "For global/conceptual TV shows without localization.",
+              "id": "172",
+              "name": "Global TV Show"
+            },
+            "entity": {
+              "id": "1444046743423762434",
+              "name": "Hazbin Hotel"
+            }
+          }
+        ],
+        "conversation_id": "2088360441529630780",
+        "created_at": "2026-08-14T20:21:43.000Z",
+        "display_text_range": [
+          0,
+          76
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T21:21:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088360441529630780"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 43,
+              "start": 28,
+              "tag": "hazbinhotelvox"
+            },
+            {
+              "end": 52,
+              "start": 44,
+              "tag": "voxcest"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1964557414105284608",
+              "start": 3,
+              "username": "foret_lles"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/WuVjLOzGHR",
+              "end": 76,
+              "expanded_url": "https://x.com/foret_lles/status/2088322473154449717/photo/1",
+              "media_key": "3_2088322452245839872",
+              "start": 53,
+              "url": "https://t.co/WuVjLOzGHR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088360441529630780",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2088322452245839872"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 21
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088322473154449717",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @foret_lles: he's clingy\n#hazbinhotelvox #voxcest https://t.co/WuVjLOzGHR"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088322452245839872"
+          ]
+        },
+        "author_id": "1964557414105284608",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "description": "Adult animated web series",
+              "id": "1444043338236104705",
+              "name": "Hazbin Hotel"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1281311833593282560",
+              "name": "Adult animation"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1444046743423762434",
+              "name": "Hazbin Hotel"
+            }
+          },
+          {
+            "domain": {
+              "description": "For global/conceptual TV shows without localization.",
+              "id": "172",
+              "name": "Global TV Show"
+            },
+            "entity": {
+              "id": "1444046743423762434",
+              "name": "Hazbin Hotel"
+            }
+          }
+        ],
+        "conversation_id": "2088322473154449717",
+        "created_at": "2026-08-14T17:50:51.000Z",
+        "display_text_range": [
+          0,
+          36
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T18:50:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088322473154449717"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 27,
+              "start": 12,
+              "tag": "hazbinhotelvox"
+            },
+            {
+              "end": 36,
+              "start": 28,
+              "tag": "voxcest"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/WuVjLOzGHR",
+              "end": 60,
+              "expanded_url": "https://x.com/foret_lles/status/2088322473154449717/photo/1",
+              "media_key": "3_2088322452245839872",
+              "start": 37,
+              "url": "https://t.co/WuVjLOzGHR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088322473154449717",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2088322452245839872"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 831,
+          "like_count": 167,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 21
+        },
+        "reply_settings": "everyone",
+        "text": "he's clingy\n#hazbinhotelvox #voxcest https://t.co/WuVjLOzGHR"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-09-06T14:13:55.000Z",
+        "description": "叫我筷子就可以了(:3っ )っ\nOD丨🔪丨Vocaloid丨maimai丨LGBTQ+friendly\n不卖药 只看互关私信\n不喜欢的直接b 查成分回fo 取关请双取\n备用机、愚痴垢→@Hashi_988",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 102,
+                "start": 92,
+                "username": "Hashi_988"
+              }
+            ]
+          }
+        },
+        "id": "1964331185590718464",
+        "is_identity_verified": false,
+        "location": "颅内",
+        "most_recent_tweet_id": "2088360441529630780",
+        "name": "箸",
+        "pinned_tweet_id": "2086154153508884828",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1964331185590718464/1785100910",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074711282427842560/EOM9Puhb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1465,
+          "following_count": 792,
+          "like_count": 38939,
+          "listed_count": 0,
+          "media_count": 395,
+          "tweet_count": 6928
+        },
+        "url": "",
+        "username": "breakcoreWTF",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-09-07T05:13:19.000Z",
+        "description": "rus/eng • she/her • 📻📺(🔄❌️) | radiostatic obsession",
+        "id": "1964557414105284608",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2088322473154449717",
+        "name": "les",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078809146430820352/OcxMA507_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 411,
+          "following_count": 9,
+          "like_count": 519,
+          "listed_count": 1,
+          "media_count": 46,
+          "tweet_count": 58
+        },
+        "url": "",
+        "username": "foret_lles",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

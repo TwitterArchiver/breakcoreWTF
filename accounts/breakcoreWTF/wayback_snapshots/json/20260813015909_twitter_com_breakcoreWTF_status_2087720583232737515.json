@@ -1,0 +1,359 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2087571531601965056",
+        "3_2087571782731755520"
+      ],
+      "media_source_tweet_id": [
+        "2087571791770452156",
+        "2087571791770452156"
+      ]
+    },
+    "author_id": "1964331185590718464",
+    "conversation_id": "2087720583232737515",
+    "created_at": "2026-08-13T01:59:09.000Z",
+    "display_text_range": [
+      0,
+      46
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-13T02:59:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087720583232737515"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1684269091849404416",
+          "start": 3,
+          "username": "1212s1212bs1242"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/sJzQ5omEdx",
+          "end": 46,
+          "expanded_url": "https://x.com/1212s1212bs1242/status/2087571791770452156/video/1",
+          "media_key": "13_2087571531601965056",
+          "start": 23,
+          "url": "https://t.co/sJzQ5omEdx"
+        },
+        {
+          "display_url": "pic.x.com/sJzQ5omEdx",
+          "end": 46,
+          "expanded_url": "https://x.com/1212s1212bs1242/status/2087571791770452156/video/1",
+          "media_key": "3_2087571782731755520",
+          "start": 23,
+          "url": "https://t.co/sJzQ5omEdx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087720583232737515",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "13_2087571531601965056"
+      },
+      {
+        "media_key": "3_2087571782731755520"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087571791770452156",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @1212s1212bs1242: 唉 https://t.co/sJzQ5omEdx"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 22400,
+        "height": 1280,
+        "media_key": "13_2087571531601965056",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2087571531601965056/img/qB3ju_LiyLnQbetW.jpg",
+        "public_metrics": {
+          "view_count": 61
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2087571531601965056/vid/avc1/320x568/9lgCHfB0qohKxdHI.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2087571531601965056/vid/avc1/480x852/FtlZW_ldG-855gCj.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2087571531601965056/vid/avc1/720x1280/pSnjNyVIcFKRJgUc.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2087571531601965056/pl/vU3ZFNZJBSQen-rT.m3u8"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "height": 1103,
+        "media_key": "3_2087571782731755520",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPiLedja8AA5aMb.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2087571531601965056",
+            "3_2087571782731755520"
+          ]
+        },
+        "author_id": "1684269091849404416",
+        "conversation_id": "2087571791770452156",
+        "created_at": "2026-08-12T16:07:55.000Z",
+        "display_text_range": [
+          0,
+          1
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T17:07:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087571791770452156"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/sJzQ5omEdx",
+              "end": 25,
+              "expanded_url": "https://x.com/1212s1212bs1242/status/2087571791770452156/video/1",
+              "media_key": "13_2087571531601965056",
+              "start": 2,
+              "url": "https://t.co/sJzQ5omEdx"
+            },
+            {
+              "display_url": "pic.x.com/sJzQ5omEdx",
+              "end": 25,
+              "expanded_url": "https://x.com/1212s1212bs1242/status/2087571791770452156/video/1",
+              "media_key": "3_2087571782731755520",
+              "start": 2,
+              "url": "https://t.co/sJzQ5omEdx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087571791770452156",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "13_2087571531601965056"
+          },
+          {
+            "media_key": "3_2087571782731755520"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 154,
+          "like_count": 4,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "唉 https://t.co/sJzQ5omEdx"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2087571531601965056",
+            "3_2087571782731755520"
+          ],
+          "media_source_tweet_id": [
+            "2087571791770452156",
+            "2087571791770452156"
+          ]
+        },
+        "author_id": "1964331185590718464",
+        "conversation_id": "2087720583232737515",
+        "created_at": "2026-08-13T01:59:09.000Z",
+        "display_text_range": [
+          0,
+          46
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T02:59:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087720583232737515"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1684269091849404416",
+              "start": 3,
+              "username": "1212s1212bs1242"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/sJzQ5omEdx",
+              "end": 46,
+              "expanded_url": "https://x.com/1212s1212bs1242/status/2087571791770452156/video/1",
+              "media_key": "13_2087571531601965056",
+              "start": 23,
+              "url": "https://t.co/sJzQ5omEdx"
+            },
+            {
+              "display_url": "pic.x.com/sJzQ5omEdx",
+              "end": 46,
+              "expanded_url": "https://x.com/1212s1212bs1242/status/2087571791770452156/video/1",
+              "media_key": "3_2087571782731755520",
+              "start": 23,
+              "url": "https://t.co/sJzQ5omEdx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087720583232737515",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "13_2087571531601965056"
+          },
+          {
+            "media_key": "3_2087571782731755520"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087571791770452156",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @1212s1212bs1242: 唉 https://t.co/sJzQ5omEdx"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-09-06T14:13:55.000Z",
+        "description": "叫我筷子就可以了(:3っ )っ\nOD丨🔪丨Vocaloid丨音游丨LGBTQ+friendly\n不卖药 只看互关私信\n不喜欢的直接b 查成分回fo 取关请双取\n备用机、愚痴垢→@Hashi_988",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 98,
+                "start": 88,
+                "username": "Hashi_988"
+              }
+            ]
+          }
+        },
+        "id": "1964331185590718464",
+        "is_identity_verified": false,
+        "location": "颅内",
+        "most_recent_tweet_id": "2087720583232737515",
+        "name": "箸",
+        "pinned_tweet_id": "2086154153508884828",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1964331185590718464/1785100910",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074711282427842560/EOM9Puhb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1461,
+          "following_count": 789,
+          "like_count": 38531,
+          "listed_count": 0,
+          "media_count": 390,
+          "tweet_count": 6863
+        },
+        "url": "",
+        "username": "breakcoreWTF",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-07-26T18:27:14.000Z",
+        "description": "12是12/没消息就是进牢了/单机/我只是一个缺爱的抽烟大丑b",
+        "id": "1684269091849404416",
+        "is_identity_verified": false,
+        "location": "我爱你",
+        "most_recent_tweet_id": "2087572783551414286",
+        "name": "12",
+        "pinned_tweet_id": "2068905914640585131",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1684269091849404416/1775462503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085734300742512640/9xgPxyaH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 883,
+          "following_count": 906,
+          "like_count": 17082,
+          "listed_count": 1,
+          "media_count": 1093,
+          "tweet_count": 10427
+        },
+        "url": "",
+        "username": "1212s1212bs1242",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

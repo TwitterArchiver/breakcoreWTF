@@ -1,0 +1,448 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2089389773584826374"
+      ],
+      "media_source_tweet_id": [
+        "2089390228079608133"
+      ]
+    },
+    "author_id": "1964331185590718464",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Drawing and sketching",
+          "id": "847869251595542528",
+          "name": "Drawing & illustration"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Drawing and sketching",
+          "id": "847869251595542528",
+          "name": "Drawing & illustration"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Visual Arts",
+          "id": "1046577790353428480",
+          "name": "Visual arts"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1265660441822281728",
+          "name": "Art"
+        }
+      }
+    ],
+    "conversation_id": "2089665907505463624",
+    "created_at": "2026-08-18T10:49:11.000Z",
+    "display_text_range": [
+      0,
+      86
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-18T11:49:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2089665907505463624"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1762790381597716480",
+          "start": 3,
+          "username": "bokuhagakepputi"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/0rAJT3ox47",
+          "end": 86,
+          "expanded_url": "https://x.com/bokuhagakepputi/status/2089390228079608133/photo/1",
+          "media_key": "3_2089389773584826374",
+          "start": 63,
+          "url": "https://t.co/0rAJT3ox47"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089665907505463624",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2089389773584826374"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 58
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089390228079608133",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @bokuhagakepputi: 落書き。両方女体化のヴォクアラ（昔）。基本的には、にょたあらが、王子様ぶっている。 https://t.co/0rAJT3ox47"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 640,
+        "media_key": "3_2089389773584826374",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HP8A7dPbgAYtmU3.png",
+        "width": 512
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2089389773584826374"
+          ],
+          "media_source_tweet_id": [
+            "2089390228079608133"
+          ]
+        },
+        "author_id": "1964331185590718464",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          }
+        ],
+        "conversation_id": "2089665907505463624",
+        "created_at": "2026-08-18T10:49:11.000Z",
+        "display_text_range": [
+          0,
+          86
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T11:49:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089665907505463624"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1762790381597716480",
+              "start": 3,
+              "username": "bokuhagakepputi"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/0rAJT3ox47",
+              "end": 86,
+              "expanded_url": "https://x.com/bokuhagakepputi/status/2089390228079608133/photo/1",
+              "media_key": "3_2089389773584826374",
+              "start": 63,
+              "url": "https://t.co/0rAJT3ox47"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089665907505463624",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2089389773584826374"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 58
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089390228079608133",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @bokuhagakepputi: 落書き。両方女体化のヴォクアラ（昔）。基本的には、にょたあらが、王子様ぶっている。 https://t.co/0rAJT3ox47"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2089389773584826374"
+          ]
+        },
+        "author_id": "1762790381597716480",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          }
+        ],
+        "conversation_id": "2089390228079608133",
+        "created_at": "2026-08-17T16:33:44.000Z",
+        "display_text_range": [
+          0,
+          41
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-17T17:33:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089390228079608133"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0rAJT3ox47",
+              "end": 65,
+              "expanded_url": "https://x.com/bokuhagakepputi/status/2089390228079608133/photo/1",
+              "media_key": "3_2089389773584826374",
+              "start": 42,
+              "url": "https://t.co/0rAJT3ox47"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089390228079608133",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2089389773584826374"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 56,
+          "impression_count": 3806,
+          "like_count": 501,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 58
+        },
+        "reply_settings": "everyone",
+        "text": "落書き。両方女体化のヴォクアラ（昔）。基本的には、にょたあらが、王子様ぶっている。 https://t.co/0rAJT3ox47"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-09-06T14:13:55.000Z",
+        "description": "叫我筷子就可以了(:3っ )っ\nOD丨🔪丨Vocaloid丨maimai丨LGBTQ+friendly\n不卖药 只看互关私信\n不喜欢的直接b 查成分回fo 取关请双取\n备用机、愚痴垢→@Hashi_988",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 102,
+                "start": 92,
+                "username": "Hashi_988"
+              }
+            ]
+          }
+        },
+        "id": "1964331185590718464",
+        "is_identity_verified": false,
+        "location": "颅内",
+        "most_recent_tweet_id": "2089665907505463624",
+        "name": "箸",
+        "pinned_tweet_id": "2086154153508884828",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1964331185590718464/1785100910",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074711282427842560/EOM9Puhb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1475,
+          "following_count": 791,
+          "like_count": 39390,
+          "listed_count": 0,
+          "media_count": 401,
+          "tweet_count": 7046
+        },
+        "url": "",
+        "username": "breakcoreWTF",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-02-28T10:43:12.000Z",
+        "description": "20↑。ヴォクアラ固定。同人アカウント。同人に理解のない方、または実名・職業アカウントでの閲覧・フォローはご遠慮願います。このアカウントが投稿した画像について、無断での二次利用は原則禁止です。フォローの際はWebサイト欄のページをお読みください。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "twpf.jp/bokuhagakepputi",
+                "end": 23,
+                "expanded_url": "https://twpf.jp/bokuhagakepputi",
+                "start": 0,
+                "url": "https://t.co/V15p6r6htr"
+              }
+            ]
+          }
+        },
+        "id": "1762790381597716480",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2089390228079608133",
+        "name": "ガケ",
+        "pinned_tweet_id": "2030183107312373909",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1762790381597716480/1715415075",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927012035545411585/H1TAr2vz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2135,
+          "following_count": 291,
+          "like_count": 3935,
+          "listed_count": 12,
+          "media_count": 287,
+          "tweet_count": 4935
+        },
+        "url": "https://t.co/V15p6r6htr",
+        "username": "bokuhagakepputi",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,341 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2086936457797615616"
+      ],
+      "media_source_tweet_id": [
+        "2086936495491830083"
+      ]
+    },
+    "author_id": "1964331185590718464",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2087242365841051862",
+    "created_at": "2026-08-11T18:18:53.000Z",
+    "display_text_range": [
+      0,
+      43
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-11T19:18:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087242365841051862"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1998628223773728768",
+          "start": 3,
+          "username": "Rain_MakeFair2"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/RA11LCCmDg",
+          "end": 43,
+          "expanded_url": "https://x.com/Rain_MakeFair2/status/2086936495491830083/video/1",
+          "media_key": "13_2086936457797615616",
+          "start": 20,
+          "url": "https://t.co/RA11LCCmDg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087242365841051862",
+    "lang": "zxx",
+    "media_metadata": [
+      {
+        "media_key": "13_2086936457797615616"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 627
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086936495491830083",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Rain_MakeFair2: https://t.co/RA11LCCmDg"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 10843,
+        "height": 720,
+        "media_key": "13_2086936457797615616",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2086936457797615616/img/QbwvPToiori8hnrF.jpg",
+        "public_metrics": {
+          "view_count": 30470
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 432000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2086936457797615616/vid/avc1/320x320/N17lTVdTPgdtgS3L.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2086936457797615616/vid/avc1/540x540/aWI4q6lzyexkJ5Qe.mp4?tag=14"
+          },
+          {
+            "bit_rate": 1280000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2086936457797615616/vid/avc1/720x720/aeQxjoV4EKodhuT2.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2086936457797615616/pl/JzkR9-ZV52ToJOvP.m3u8?tag=14"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2086936457797615616"
+          ]
+        },
+        "author_id": "1998628223773728768",
+        "conversation_id": "2086936495491830083",
+        "created_at": "2026-08-10T22:03:28.000Z",
+        "display_text_range": [
+          0,
+          0
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T23:03:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086936495491830083"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/RA11LCCmDg",
+              "end": 23,
+              "expanded_url": "https://x.com/Rain_MakeFair2/status/2086936495491830083/video/1",
+              "media_key": "13_2086936457797615616",
+              "start": 0,
+              "url": "https://t.co/RA11LCCmDg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086936495491830083",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "13_2086936457797615616"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 620,
+          "impression_count": 49532,
+          "like_count": 3492,
+          "quote_count": 10,
+          "reply_count": 23,
+          "retweet_count": 627
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/RA11LCCmDg"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2086936457797615616"
+          ],
+          "media_source_tweet_id": [
+            "2086936495491830083"
+          ]
+        },
+        "author_id": "1964331185590718464",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2087242365841051862",
+        "created_at": "2026-08-11T18:18:53.000Z",
+        "display_text_range": [
+          0,
+          43
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T19:18:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087242365841051862"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1998628223773728768",
+              "start": 3,
+              "username": "Rain_MakeFair2"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/RA11LCCmDg",
+              "end": 43,
+              "expanded_url": "https://x.com/Rain_MakeFair2/status/2086936495491830083/video/1",
+              "media_key": "13_2086936457797615616",
+              "start": 20,
+              "url": "https://t.co/RA11LCCmDg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087242365841051862",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "13_2086936457797615616"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 627
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086936495491830083",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Rain_MakeFair2: https://t.co/RA11LCCmDg"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-09-06T14:13:55.000Z",
+        "description": "叫我筷子就可以了(:3っ )っ\nOD丨🔪丨Vocaloid丨音游丨LGBTQ+friendly\n不卖药 只看互关私信\n不喜欢的直接b 查成分回fo 取关请双取\n备用机、愚痴垢→@Hashi_988",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 98,
+                "start": 88,
+                "username": "Hashi_988"
+              }
+            ]
+          }
+        },
+        "id": "1964331185590718464",
+        "is_identity_verified": false,
+        "location": "颅内",
+        "most_recent_tweet_id": "2087242365841051862",
+        "name": "箸",
+        "pinned_tweet_id": "2086154153508884828",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1964331185590718464/1785100910",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074711282427842560/EOM9Puhb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1457,
+          "following_count": 785,
+          "like_count": 38298,
+          "listed_count": 0,
+          "media_count": 388,
+          "tweet_count": 6799
+        },
+        "url": "",
+        "username": "breakcoreWTF",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-12-10T05:38:07.000Z",
+        "description": "50-year-old war soldier✨❤️",
+        "id": "1998628223773728768",
+        "is_identity_verified": false,
+        "location": "My first account got banned",
+        "most_recent_tweet_id": "2087218510145491451",
+        "name": "⛤✸Vivian✸⛤",
+        "pinned_tweet_id": "2043785285394145595",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1998628223773728768/1783908002",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2086642026779451393/eNuG4xp__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3887,
+          "following_count": 247,
+          "like_count": 8765,
+          "listed_count": 5,
+          "media_count": 2002,
+          "tweet_count": 3552
+        },
+        "url": "",
+        "username": "Rain_MakeFair2",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

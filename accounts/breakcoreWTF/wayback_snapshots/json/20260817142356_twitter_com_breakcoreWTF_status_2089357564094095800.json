@@ -1,0 +1,470 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2088997847203217409"
+      ],
+      "media_source_tweet_id": [
+        "2088997879969173542"
+      ]
+    },
+    "author_id": "1964331185590718464",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Television shows from around the world",
+          "id": "3",
+          "name": "TV Shows"
+        },
+        "entity": {
+          "description": "Adult animated web series",
+          "id": "1444043338236104705",
+          "name": "Hazbin Hotel"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1281311833593282560",
+          "name": "Adult animation"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1444046743423762434",
+          "name": "Hazbin Hotel"
+        }
+      },
+      {
+        "domain": {
+          "description": "For global/conceptual TV shows without localization.",
+          "id": "172",
+          "name": "Global TV Show"
+        },
+        "entity": {
+          "id": "1444046743423762434",
+          "name": "Hazbin Hotel"
+        }
+      }
+    ],
+    "conversation_id": "2089357564094095800",
+    "created_at": "2026-08-17T14:23:56.000Z",
+    "display_text_range": [
+      0,
+      71
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-17T15:23:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2089357564094095800"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 47,
+          "start": 32,
+          "tag": "HazbinHotelVox"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1975102128571265024",
+          "start": 3,
+          "username": "rott3n_mandarin"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/J2XMz5JHra",
+          "end": 71,
+          "expanded_url": "https://x.com/rott3n_mandarin/status/2088997879969173542/photo/1",
+          "media_key": "3_2088997847203217409",
+          "start": 48,
+          "url": "https://t.co/J2XMz5JHra"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089357564094095800",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2088997847203217409"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088997879969173542",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @rott3n_mandarin: 何かがあったCEO\n\n#HazbinHotelVox https://t.co/J2XMz5JHra"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2088997847203217409",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HP2ceVsagAEjRoz.jpg",
+        "width": 1477
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088997847203217409"
+          ],
+          "media_source_tweet_id": [
+            "2088997879969173542"
+          ]
+        },
+        "author_id": "1964331185590718464",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "description": "Adult animated web series",
+              "id": "1444043338236104705",
+              "name": "Hazbin Hotel"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1281311833593282560",
+              "name": "Adult animation"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1444046743423762434",
+              "name": "Hazbin Hotel"
+            }
+          },
+          {
+            "domain": {
+              "description": "For global/conceptual TV shows without localization.",
+              "id": "172",
+              "name": "Global TV Show"
+            },
+            "entity": {
+              "id": "1444046743423762434",
+              "name": "Hazbin Hotel"
+            }
+          }
+        ],
+        "conversation_id": "2089357564094095800",
+        "created_at": "2026-08-17T14:23:56.000Z",
+        "display_text_range": [
+          0,
+          71
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-17T15:23:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089357564094095800"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 47,
+              "start": 32,
+              "tag": "HazbinHotelVox"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1975102128571265024",
+              "start": 3,
+              "username": "rott3n_mandarin"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/J2XMz5JHra",
+              "end": 71,
+              "expanded_url": "https://x.com/rott3n_mandarin/status/2088997879969173542/photo/1",
+              "media_key": "3_2088997847203217409",
+              "start": 48,
+              "url": "https://t.co/J2XMz5JHra"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089357564094095800",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2088997847203217409"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088997879969173542",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @rott3n_mandarin: 何かがあったCEO\n\n#HazbinHotelVox https://t.co/J2XMz5JHra"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088997847203217409"
+          ]
+        },
+        "author_id": "1975102128571265024",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "description": "Adult animated web series",
+              "id": "1444043338236104705",
+              "name": "Hazbin Hotel"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1281311833593282560",
+              "name": "Adult animation"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1444046743423762434",
+              "name": "Hazbin Hotel"
+            }
+          },
+          {
+            "domain": {
+              "description": "For global/conceptual TV shows without localization.",
+              "id": "172",
+              "name": "Global TV Show"
+            },
+            "entity": {
+              "id": "1444046743423762434",
+              "name": "Hazbin Hotel"
+            }
+          }
+        ],
+        "conversation_id": "2088997879969173542",
+        "created_at": "2026-08-16T14:34:40.000Z",
+        "display_text_range": [
+          0,
+          26
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T15:34:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088997879969173542"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 26,
+              "start": 11,
+              "tag": "HazbinHotelVox"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/J2XMz5JHra",
+              "end": 50,
+              "expanded_url": "https://x.com/rott3n_mandarin/status/2088997879969173542/photo/1",
+              "media_key": "3_2088997847203217409",
+              "start": 27,
+              "url": "https://t.co/J2XMz5JHra"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088997879969173542",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2088997847203217409"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 462,
+          "like_count": 41,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "何かがあったCEO\n\n#HazbinHotelVox https://t.co/J2XMz5JHra"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-09-06T14:13:55.000Z",
+        "description": "叫我筷子就可以了(:3っ )っ\nOD丨🔪丨Vocaloid丨maimai丨LGBTQ+friendly\n不卖药 只看互关私信\n不喜欢的直接b 查成分回fo 取关请双取\n备用机、愚痴垢→@Hashi_988",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 102,
+                "start": 92,
+                "username": "Hashi_988"
+              }
+            ]
+          }
+        },
+        "id": "1964331185590718464",
+        "is_identity_verified": false,
+        "location": "颅内",
+        "most_recent_tweet_id": "2089357564094095800",
+        "name": "箸",
+        "pinned_tweet_id": "2086154153508884828",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1964331185590718464/1785100910",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074711282427842560/EOM9Puhb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1474,
+          "following_count": 790,
+          "like_count": 39323,
+          "listed_count": 0,
+          "media_count": 400,
+          "tweet_count": 7022
+        },
+        "url": "",
+        "username": "breakcoreWTF",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-10-06T07:33:45.000Z",
+        "description": "hzbn垢です！！！　18↑20↓/🇯🇵\nゔぃーず箱推し(特に📺️)・🦌・🕷️も好きです\n浮上率はまちまち\n絵も文も書きます\n\nプロフカード→https://t.co/pLqwhtZk0M\n本垢(フォロー非推奨)→@Candy_and_Charm",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 123,
+                "start": 107,
+                "username": "Candy_and_Charm"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "profcard.info/u/pvbq0R12mwQA…",
+                "end": 94,
+                "expanded_url": "https://profcard.info/u/pvbq0R12mwQAioKFZrz04R7bipQ2",
+                "start": 71,
+                "url": "https://t.co/pLqwhtZk0M"
+              }
+            ]
+          }
+        },
+        "id": "1975102128571265024",
+        "is_identity_verified": false,
+        "location": "北の大地",
+        "most_recent_tweet_id": "2089338870660055086",
+        "name": "ろってんまんだりん",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1975102128571265024/1786615028",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2086823283652255745/DE-G2cyE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 23,
+          "like_count": 312,
+          "listed_count": 1,
+          "media_count": 11,
+          "tweet_count": 87
+        },
+        "url": "",
+        "username": "rott3n_mandarin",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

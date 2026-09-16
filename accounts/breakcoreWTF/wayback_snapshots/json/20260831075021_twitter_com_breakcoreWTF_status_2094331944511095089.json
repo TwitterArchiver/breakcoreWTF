@@ -1,0 +1,322 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2094213612827004928"
+      ],
+      "media_source_tweet_id": [
+        "2094213646494703753"
+      ]
+    },
+    "author_id": "1964331185590718464",
+    "conversation_id": "2094331944511095089",
+    "created_at": "2026-08-31T07:50:21.000Z",
+    "display_text_range": [
+      0,
+      42
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-31T08:50:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2094331944511095089"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1937829116994105344",
+          "start": 3,
+          "username": "ShitpostReels"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/8bvqGIINOS",
+          "end": 42,
+          "expanded_url": "https://x.com/ShitpostReels/status/2094213646494703753/video/1",
+          "media_key": "7_2094213612827004928",
+          "start": 19,
+          "url": "https://t.co/8bvqGIINOS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094331944511095089",
+    "lang": "zxx",
+    "media_metadata": [
+      {
+        "media_key": "7_2094213612827004928"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094213646494703753",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ShitpostReels: https://t.co/8bvqGIINOS"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 5758,
+        "height": 1280,
+        "media_key": "7_2094213612827004928",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2094213612827004928/pu/img/Zl3XwPzDEkueLxoR.jpg",
+        "public_metrics": {
+          "view_count": 907
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2094213612827004928/pu/vid/avc1/320x568/HH7vZ0LlXAu-AEkM.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2094213612827004928/pu/vid/avc1/480x852/dxJ8-fjGLpe2I5lr.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2094213612827004928/pu/vid/avc1/720x1280/gE3zmWCnWkoQ-oH6.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2094213612827004928/pu/pl/UgDHJyiqYSKhFUNC.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2094213612827004928"
+          ],
+          "media_source_tweet_id": [
+            "2094213646494703753"
+          ]
+        },
+        "author_id": "1964331185590718464",
+        "conversation_id": "2094331944511095089",
+        "created_at": "2026-08-31T07:50:21.000Z",
+        "display_text_range": [
+          0,
+          42
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-31T08:50:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094331944511095089"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1937829116994105344",
+              "start": 3,
+              "username": "ShitpostReels"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/8bvqGIINOS",
+              "end": 42,
+              "expanded_url": "https://x.com/ShitpostReels/status/2094213646494703753/video/1",
+              "media_key": "7_2094213612827004928",
+              "start": 19,
+              "url": "https://t.co/8bvqGIINOS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094331944511095089",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "7_2094213612827004928"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094213646494703753",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ShitpostReels: https://t.co/8bvqGIINOS"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2094213612827004928"
+          ]
+        },
+        "author_id": "1937829116994105344",
+        "conversation_id": "2094213646494703753",
+        "created_at": "2026-08-31T00:00:16.000Z",
+        "display_text_range": [
+          0,
+          0
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-31T01:00:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2094213646494703753"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8bvqGIINOS",
+              "end": 23,
+              "expanded_url": "https://x.com/ShitpostReels/status/2094213646494703753/video/1",
+              "media_key": "7_2094213612827004928",
+              "start": 0,
+              "url": "https://t.co/8bvqGIINOS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094213646494703753",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "7_2094213612827004928"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 3075,
+          "like_count": 83,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/8bvqGIINOS"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-09-06T14:13:55.000Z",
+        "description": "叫我筷子就可以了(:3っ )っ\n雜多丨OD丨自傷丨Vocaloid丨maimai丨🏳️‍🌈friendly\n不卖药 互关请私信 取关请双取 不喜欢的直接b\nHH：Vox推し bottom🔁⭕ \nサブ垢＆避難垢→@Hashi_988",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 115,
+                "start": 105,
+                "username": "Hashi_988"
+              }
+            ]
+          }
+        },
+        "id": "1964331185590718464",
+        "is_identity_verified": false,
+        "location": "颅内",
+        "most_recent_tweet_id": "2094331944511095089",
+        "name": "箸",
+        "pinned_tweet_id": "2090132992979284341",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1964331185590718464/1785100910",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2093963390620487680/sATuTGb4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1587,
+          "following_count": 808,
+          "like_count": 44680,
+          "listed_count": 0,
+          "media_count": 446,
+          "tweet_count": 7964
+        },
+        "url": "",
+        "username": "breakcoreWTF",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-06-25T11:07:01.000Z",
+        "description": "Best shitpost shorts, Dm for removal. Partnered with @Roobet",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 60,
+                "start": 53,
+                "username": "Roobet"
+              }
+            ]
+          }
+        },
+        "id": "1937829116994105344",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2094319302451007962",
+        "name": "📱Shitpost Reels📱",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1937829116994105344/1750850565",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937836578258198528/M5Rdh8Da_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 175479,
+          "following_count": 15,
+          "like_count": 135,
+          "listed_count": 156,
+          "media_count": 11924,
+          "tweet_count": 11937
+        },
+        "url": "",
+        "username": "ShitpostReels",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,301 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2090311135132356608"
+      ],
+      "media_source_tweet_id": [
+        "2090311309250408791"
+      ]
+    },
+    "author_id": "1964331185590718464",
+    "conversation_id": "2090318682803302482",
+    "created_at": "2026-08-20T06:03:04.000Z",
+    "display_text_range": [
+      0,
+      49
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-20T07:03:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090318682803302482"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1991735856911249412",
+          "start": 3,
+          "username": "nneuggoll"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/XzlaBgx8dZ",
+          "end": 49,
+          "expanded_url": "https://x.com/nneuggoll/status/2090311309250408791/photo/1",
+          "media_key": "3_2090311135132356608",
+          "start": 26,
+          "url": "https://t.co/XzlaBgx8dZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090318682803302482",
+    "lang": "ko",
+    "media_metadata": [
+      {
+        "media_key": "3_2090311135132356608"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 12
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090311309250408791",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @nneuggoll: 아무튼 뭔가 준비중 https://t.co/XzlaBgx8dZ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 833,
+        "media_key": "3_2090311135132356608",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQJG5webkAAJr5A.png",
+        "width": 669
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2090311135132356608"
+          ],
+          "media_source_tweet_id": [
+            "2090311309250408791"
+          ]
+        },
+        "author_id": "1964331185590718464",
+        "conversation_id": "2090318682803302482",
+        "created_at": "2026-08-20T06:03:04.000Z",
+        "display_text_range": [
+          0,
+          49
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T07:03:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090318682803302482"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1991735856911249412",
+              "start": 3,
+              "username": "nneuggoll"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/XzlaBgx8dZ",
+              "end": 49,
+              "expanded_url": "https://x.com/nneuggoll/status/2090311309250408791/photo/1",
+              "media_key": "3_2090311135132356608",
+              "start": 26,
+              "url": "https://t.co/XzlaBgx8dZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090318682803302482",
+        "lang": "ko",
+        "media_metadata": [
+          {
+            "media_key": "3_2090311135132356608"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 12
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090311309250408791",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @nneuggoll: 아무튼 뭔가 준비중 https://t.co/XzlaBgx8dZ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2090311135132356608"
+          ]
+        },
+        "author_id": "1991735856911249412",
+        "conversation_id": "2090311309250408791",
+        "created_at": "2026-08-20T05:33:46.000Z",
+        "display_text_range": [
+          0,
+          10
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T06:33:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090311309250408791"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XzlaBgx8dZ",
+              "end": 34,
+              "expanded_url": "https://x.com/nneuggoll/status/2090311309250408791/photo/1",
+              "media_key": "3_2090311135132356608",
+              "start": 11,
+              "url": "https://t.co/XzlaBgx8dZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090311309250408791",
+        "lang": "ko",
+        "media_metadata": [
+          {
+            "media_key": "3_2090311135132356608"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 247,
+          "like_count": 39,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 12
+        },
+        "reply_settings": "everyone",
+        "text": "아무튼 뭔가 준비중 https://t.co/XzlaBgx8dZ"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-09-06T14:13:55.000Z",
+        "description": "叫我筷子就可以了(:3っ )っ\nOD丨🔪丨Vocaloid丨maimai丨🏳️‍🌈friendly\n不卖药 互关私信 取关请双取 不喜欢的直接b\nHH：Vox推し bottom🔁⭕ \n备用机、愚痴垢→@Hashi_988",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 110,
+                "start": 100,
+                "username": "Hashi_988"
+              }
+            ]
+          }
+        },
+        "id": "1964331185590718464",
+        "is_identity_verified": false,
+        "location": "颅内",
+        "most_recent_tweet_id": "2090318682803302482",
+        "name": "箸",
+        "pinned_tweet_id": "2090132992979284341",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1964331185590718464/1785100910",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074711282427842560/EOM9Puhb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1496,
+          "following_count": 790,
+          "like_count": 39948,
+          "listed_count": 0,
+          "media_count": 410,
+          "tweet_count": 7162
+        },
+        "url": "",
+        "username": "breakcoreWTF",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-11-21T05:10:14.000Z",
+        "description": "괴물티비와 괴물사슴",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "wavebox.me/wave/f3hrk8il7…",
+                "end": 23,
+                "expanded_url": "https://wavebox.me/wave/f3hrk8il7fogd0tl/",
+                "start": 0,
+                "url": "https://t.co/MYjJ9VWqp2"
+              }
+            ]
+          }
+        },
+        "id": "1991735856911249412",
+        "is_identity_verified": false,
+        "location": "성인 / 인장 @굴비님 헤더 @로님",
+        "most_recent_tweet_id": "2090311309250408791",
+        "name": "늑골",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1991735856911249412/1776003579",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046940500427681792/9pVxNOxp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5281,
+          "following_count": 55,
+          "like_count": 2016,
+          "listed_count": 14,
+          "media_count": 188,
+          "tweet_count": 821
+        },
+        "url": "https://t.co/MYjJ9VWqp2",
+        "username": "nneuggoll",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

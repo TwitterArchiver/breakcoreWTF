@@ -1,0 +1,287 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2097558094234746880"
+      ],
+      "media_source_tweet_id": [
+        "2097558528122863804"
+      ]
+    },
+    "author_id": "1964331185590718464",
+    "conversation_id": "2097564660728037382",
+    "created_at": "2026-09-09T05:56:00.000Z",
+    "display_text_range": [
+      0,
+      43
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-09T06:56:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097564660728037382"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1410276807551553546",
+          "start": 3,
+          "username": "x_cast_x"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/1Cn3Aj8pg9",
+          "end": 43,
+          "expanded_url": "https://x.com/x_cast_x/status/2097558528122863804/photo/1",
+          "media_key": "3_2097558094234746880",
+          "start": 20,
+          "url": "https://t.co/1Cn3Aj8pg9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097564660728037382",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2097558094234746880"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 303
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097558528122863804",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @x_cast_x: 散歩の邪魔 https://t.co/1Cn3Aj8pg9"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3000,
+        "media_key": "3_2097558094234746880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRwF-S6bgAA0Np0.jpg",
+        "width": 3000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2097558094234746880"
+          ],
+          "media_source_tweet_id": [
+            "2097558528122863804"
+          ]
+        },
+        "author_id": "1964331185590718464",
+        "conversation_id": "2097564660728037382",
+        "created_at": "2026-09-09T05:56:00.000Z",
+        "display_text_range": [
+          0,
+          43
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-09T06:56:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097564660728037382"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1410276807551553546",
+              "start": 3,
+              "username": "x_cast_x"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/1Cn3Aj8pg9",
+              "end": 43,
+              "expanded_url": "https://x.com/x_cast_x/status/2097558528122863804/photo/1",
+              "media_key": "3_2097558094234746880",
+              "start": 20,
+              "url": "https://t.co/1Cn3Aj8pg9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097564660728037382",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2097558094234746880"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 303
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097558528122863804",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @x_cast_x: 散歩の邪魔 https://t.co/1Cn3Aj8pg9"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2097558094234746880"
+          ]
+        },
+        "author_id": "1410276807551553546",
+        "conversation_id": "2097558528122863804",
+        "created_at": "2026-09-09T05:31:38.000Z",
+        "display_text_range": [
+          0,
+          5
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-09T06:31:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097558528122863804"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1Cn3Aj8pg9",
+              "end": 29,
+              "expanded_url": "https://x.com/x_cast_x/status/2097558528122863804/photo/1",
+              "media_key": "3_2097558094234746880",
+              "start": 6,
+              "url": "https://t.co/1Cn3Aj8pg9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097558528122863804",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2097558094234746880"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 150,
+          "impression_count": 17330,
+          "like_count": 1581,
+          "quote_count": 28,
+          "reply_count": 1,
+          "retweet_count": 303
+        },
+        "reply_settings": "everyone",
+        "text": "散歩の邪魔 https://t.co/1Cn3Aj8pg9"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-09-06T14:13:55.000Z",
+        "description": "叫我筷子就可以了(:3っ )っ\n雜多丨OD丨自傷丨Vocaloid丨maimai丨🏳️‍🌈friendly\n不卖药 眼熟回关 取关请双取 不喜欢的直接b\nサブ垢＆避難垢→@Hashi_988",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 95,
+                "start": 85,
+                "username": "Hashi_988"
+              }
+            ]
+          }
+        },
+        "id": "1964331185590718464",
+        "is_identity_verified": false,
+        "location": "颅内",
+        "most_recent_tweet_id": "2097564660728037382",
+        "name": "箸",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1964331185590718464/1788644554",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2093963390620487680/sATuTGb4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1635,
+          "following_count": 801,
+          "like_count": 47286,
+          "listed_count": 0,
+          "media_count": 459,
+          "tweet_count": 8342
+        },
+        "url": "",
+        "username": "breakcoreWTF",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-06-30T16:39:33.000Z",
+        "description": "曲をいれると映像がでます",
+        "id": "1410276807551553546",
+        "is_identity_verified": false,
+        "location": "@x_subcast_x",
+        "most_recent_tweet_id": "2097558528122863804",
+        "name": "ちゃんねる",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1410276807551553546/1749421984",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085463996459876352/m_wGWiKq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 929995,
+          "following_count": 202,
+          "like_count": 8468,
+          "listed_count": 2592,
+          "media_count": 15,
+          "tweet_count": 1047
+        },
+        "url": "",
+        "username": "x_cast_x",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

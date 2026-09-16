@@ -1,0 +1,312 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2095685987964006401"
+      ],
+      "media_source_tweet_id": [
+        "2095686006846734753"
+      ]
+    },
+    "author_id": "1964331185590718464",
+    "conversation_id": "2095783649870549247",
+    "created_at": "2026-09-04T07:58:54.000Z",
+    "display_text_range": [
+      0,
+      67
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-04T08:58:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2095783649870549247"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1984643544133611520",
+          "start": 3,
+          "username": "dd_Sorango0220"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/S2k77YQ1Md",
+          "end": 67,
+          "expanded_url": "https://x.com/dd_Sorango0220/status/2095686006846734753/video/1",
+          "media_key": "13_2095685987964006401",
+          "start": 44,
+          "url": "https://t.co/S2k77YQ1Md"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095783649870549247",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "13_2095685987964006401"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 684
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095686006846734753",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @dd_Sorango0220: おはレン\n包容力高めなレンくん(ﾅﾃﾞﾅﾃﾞ) https://t.co/S2k77YQ1Md"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 11110,
+        "height": 720,
+        "media_key": "13_2095685987964006401",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2095685987964006401/img/KQpjG6cle_r5D_t5.jpg",
+        "public_metrics": {
+          "view_count": 38343
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2095685987964006401/vid/avc1/480x270/wOxU5fM-AZaq_Nyx.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2095685987964006401/vid/avc1/640x360/UAkYOBwi7m9bLsIy.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2095685987964006401/vid/avc1/1280x720/msvdPMpF_l1eay_2.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2095685987964006401/pl/pZgfWMPOXa4TB0LZ.m3u8"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2095685987964006401"
+          ],
+          "media_source_tweet_id": [
+            "2095686006846734753"
+          ]
+        },
+        "author_id": "1964331185590718464",
+        "conversation_id": "2095783649870549247",
+        "created_at": "2026-09-04T07:58:54.000Z",
+        "display_text_range": [
+          0,
+          67
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-04T08:58:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095783649870549247"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1984643544133611520",
+              "start": 3,
+              "username": "dd_Sorango0220"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/S2k77YQ1Md",
+              "end": 67,
+              "expanded_url": "https://x.com/dd_Sorango0220/status/2095686006846734753/video/1",
+              "media_key": "13_2095685987964006401",
+              "start": 44,
+              "url": "https://t.co/S2k77YQ1Md"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095783649870549247",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "13_2095685987964006401"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 684
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095686006846734753",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @dd_Sorango0220: おはレン\n包容力高めなレンくん(ﾅﾃﾞﾅﾃﾞ) https://t.co/S2k77YQ1Md"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2095685987964006401"
+          ]
+        },
+        "author_id": "1984643544133611520",
+        "conversation_id": "2095686006846734753",
+        "created_at": "2026-09-04T01:30:54.000Z",
+        "display_text_range": [
+          0,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-04T02:30:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095686006846734753"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/S2k77YQ1Md",
+              "end": 47,
+              "expanded_url": "https://x.com/dd_Sorango0220/status/2095686006846734753/video/1",
+              "media_key": "13_2095685987964006401",
+              "start": 24,
+              "url": "https://t.co/S2k77YQ1Md"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095686006846734753",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "13_2095685987964006401"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 660,
+          "impression_count": 82720,
+          "like_count": 5833,
+          "quote_count": 30,
+          "reply_count": 6,
+          "retweet_count": 684
+        },
+        "reply_settings": "everyone",
+        "text": "おはレン\n包容力高めなレンくん(ﾅﾃﾞﾅﾃﾞ) https://t.co/S2k77YQ1Md"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-09-06T14:13:55.000Z",
+        "description": "叫我筷子就可以了(:3っ )っ\n雜多丨OD丨自傷丨Vocaloid丨maimai丨🏳️‍🌈friendly\n不卖药 眼熟回关 取关请双取 不喜欢的直接b\nサブ垢＆避難垢→@Hashi_988",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 95,
+                "start": 85,
+                "username": "Hashi_988"
+              }
+            ]
+          }
+        },
+        "id": "1964331185590718464",
+        "is_identity_verified": false,
+        "location": "颅内",
+        "most_recent_tweet_id": "2095783649870549247",
+        "name": "箸",
+        "pinned_tweet_id": "2090132992979284341",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1964331185590718464/1785100910",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2093963390620487680/sATuTGb4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1607,
+          "following_count": 800,
+          "like_count": 46043,
+          "listed_count": 0,
+          "media_count": 455,
+          "tweet_count": 8195
+        },
+        "url": "",
+        "username": "breakcoreWTF",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-11-01T15:28:04.000Z",
+        "description": "学マス ボカロ等\nレン廃 \nwowaka、Giga厨\n無言フォロー失礼します",
+        "id": "1984643544133611520",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2095781952255385673",
+        "name": "物騒 Next→マジミラ2026浜松初公演&幕張千秋楽",
+        "pinned_tweet_id": "2094464541040197824",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1984643544133611520/1771071893",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082672976525512704/sV7HwqsT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 143,
+          "following_count": 363,
+          "like_count": 38900,
+          "listed_count": 1,
+          "media_count": 209,
+          "tweet_count": 472
+        },
+        "url": "",
+        "username": "dd_Sorango0220",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

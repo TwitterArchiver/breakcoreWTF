@@ -1,0 +1,422 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2085265238765744128"
+      ],
+      "media_source_tweet_id": [
+        "2085265974769684843"
+      ]
+    },
+    "author_id": "1964331185590718464",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1196446161223028736",
+          "name": "Social media"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "id": "1196446161223028736",
+          "name": "Social media"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10045225402",
+          "name": "X"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10045225402",
+          "name": "X"
+        }
+      }
+    ],
+    "conversation_id": "2085429053251871082",
+    "created_at": "2026-08-06T18:13:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-06T19:13:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085429053251871082"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2000202910148476928",
+          "start": 3,
+          "username": "HZB_BOSS"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/wWhNsaCGoy",
+          "end": 90,
+          "expanded_url": "https://x.com/HZB_BOSS/status/2085265974769684843/photo/1",
+          "media_key": "3_2085265238765744128",
+          "start": 67,
+          "url": "https://t.co/wWhNsaCGoy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085429053251871082",
+    "lang": "ko",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 26
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085265974769684843",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @HZB_BOSS: 번개님께 커미션 넣었어효..\n진짜 앙..............❤️\n앙이다못해 나미다가 흐른다냐 https://t.co/wWhNsaCGoy"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2880,
+        "media_key": "3_2085265238765744128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPBZr7saMAAkx9D.jpg",
+        "width": 1545
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2085265238765744128"
+          ]
+        },
+        "author_id": "2000202910148476928",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "2085265974769684843",
+        "created_at": "2026-08-06T07:25:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T08:25:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085265974769684843"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wWhNsaCGoy",
+              "end": 76,
+              "expanded_url": "https://x.com/HZB_BOSS/status/2085265974769684843/photo/1",
+              "media_key": "3_2085265238765744128",
+              "start": 53,
+              "url": "https://t.co/wWhNsaCGoy"
+            },
+            {
+              "display_url": "x.com/l98083/status/…",
+              "end": 100,
+              "expanded_url": "https://twitter.com/l98083/status/2063891890005745744",
+              "start": 77,
+              "url": "https://t.co/WCqpvPDfQ5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085265974769684843",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 13,
+          "impression_count": 1990,
+          "like_count": 115,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 26
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063891890005745744",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "번개님께 커미션 넣었어효..\n진짜 앙..............❤️\n앙이다못해 나미다가 흐른다냐 https://t.co/wWhNsaCGoy https://t.co/WCqpvPDfQ5"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2085265238765744128"
+          ],
+          "media_source_tweet_id": [
+            "2085265974769684843"
+          ]
+        },
+        "author_id": "1964331185590718464",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "2085429053251871082",
+        "created_at": "2026-08-06T18:13:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T19:13:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085429053251871082"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2000202910148476928",
+              "start": 3,
+              "username": "HZB_BOSS"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/wWhNsaCGoy",
+              "end": 90,
+              "expanded_url": "https://x.com/HZB_BOSS/status/2085265974769684843/photo/1",
+              "media_key": "3_2085265238765744128",
+              "start": 67,
+              "url": "https://t.co/wWhNsaCGoy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085429053251871082",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 26
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085265974769684843",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @HZB_BOSS: 번개님께 커미션 넣었어효..\n진짜 앙..............❤️\n앙이다못해 나미다가 흐른다냐 https://t.co/wWhNsaCGoy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-06T14:13:55.000Z",
+        "description": "叫我筷子就可以了(:3っ )っ\nOD丨🔪丨Vocaloid丨音游丨LGBTQ+friendly\n不卖药 只看互关私信 我很穷欢迎投喂\n不喜欢的直接b 查成分同类回fo 取关请双取\n备用机→@Hashi_988",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 104,
+                "start": 94,
+                "username": "Hashi_988"
+              }
+            ]
+          }
+        },
+        "id": "1964331185590718464",
+        "location": "颅内",
+        "name": "箸",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074711282427842560/EOM9Puhb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1399,
+          "following_count": 820,
+          "like_count": 36874,
+          "listed_count": 0,
+          "media_count": 372,
+          "tweet_count": 6534
+        },
+        "url": "",
+        "username": "breakcoreWTF",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-14T13:55:23.000Z",
+        "description": "20⬆️ / MAIN 📺🦋 🔄❌ / 비팔알림X 🔕 리퀘Req: https://t.co/kwElzayHqg",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "hzbboss.straw.page",
+                "end": 58,
+                "expanded_url": "https://hzbboss.straw.page",
+                "start": 35,
+                "url": "https://t.co/kwElzayHqg"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kbkboss.tumblr.com",
+                "end": 23,
+                "expanded_url": "https://kbkboss.tumblr.com/",
+                "start": 0,
+                "url": "https://t.co/8mxeNyJIjK"
+              }
+            ]
+          }
+        },
+        "id": "2000202910148476928",
+        "location": "V-TOWER",
+        "name": "BOSS",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062798482000556032/utHQV16-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1695,
+          "following_count": 110,
+          "like_count": 6344,
+          "listed_count": 2,
+          "media_count": 390,
+          "tweet_count": 5489
+        },
+        "url": "https://t.co/8mxeNyJIjK",
+        "username": "HZB_BOSS",
+        "verified": false
+      }
+    ]
+  }
+}

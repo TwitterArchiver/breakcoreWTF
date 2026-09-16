@@ -1,0 +1,321 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2085170175741992960"
+      ],
+      "media_source_tweet_id": [
+        "2085170274555637835"
+      ]
+    },
+    "author_id": "1964331185590718464",
+    "conversation_id": "2085429085686395062",
+    "created_at": "2026-08-06T18:13:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-06T19:13:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085429085686395062"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 34,
+          "start": 29,
+          "tag": "tadc"
+        },
+        {
+          "end": 41,
+          "start": 35,
+          "tag": "caine"
+        },
+        {
+          "end": 52,
+          "start": 42,
+          "tag": "cainetadc"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1914663643209228288",
+          "start": 3,
+          "username": "SonyaKuhar59013"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/AyI2tcoEYv",
+          "end": 76,
+          "expanded_url": "https://x.com/SonyaKuhar59013/status/2085170274555637835/video/1",
+          "media_key": "13_2085170175741992960",
+          "start": 53,
+          "url": "https://t.co/AyI2tcoEYv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085429085686395062",
+    "lang": "et",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 77
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085170274555637835",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @SonyaKuhar59013: omagadd #tadc #caine #cainetadc https://t.co/AyI2tcoEYv"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 10402,
+        "height": 720,
+        "media_key": "13_2085170175741992960",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2085170175741992960/img/HP-iE2Nxnl0AdxW8.jpg",
+        "public_metrics": {
+          "view_count": 1968
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 432000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2085170175741992960/vid/avc1/320x320/eEvVEbE0AHOinXOX.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2085170175741992960/vid/avc1/540x540/erRD3wqp-TCQP9-q.mp4"
+          },
+          {
+            "bit_rate": 1280000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2085170175741992960/vid/avc1/720x720/Tbm38ualLl3dATqZ.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2085170175741992960/pl/HJILO77dyhM88Q46.m3u8?v=62a"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2085170175741992960"
+          ]
+        },
+        "author_id": "1914663643209228288",
+        "conversation_id": "2085170274555637835",
+        "created_at": "2026-08-06T01:05:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T02:05:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085170274555637835"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 13,
+              "start": 8,
+              "tag": "tadc"
+            },
+            {
+              "end": 20,
+              "start": 14,
+              "tag": "caine"
+            },
+            {
+              "end": 31,
+              "start": 21,
+              "tag": "cainetadc"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/AyI2tcoEYv",
+              "end": 55,
+              "expanded_url": "https://x.com/SonyaKuhar59013/status/2085170274555637835/video/1",
+              "media_key": "13_2085170175741992960",
+              "start": 32,
+              "url": "https://t.co/AyI2tcoEYv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085170274555637835",
+        "lang": "et",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 72,
+          "impression_count": 3365,
+          "like_count": 551,
+          "quote_count": 2,
+          "reply_count": 0,
+          "retweet_count": 77
+        },
+        "reply_settings": "everyone",
+        "text": "omagadd #tadc #caine #cainetadc https://t.co/AyI2tcoEYv"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2085170175741992960"
+          ],
+          "media_source_tweet_id": [
+            "2085170274555637835"
+          ]
+        },
+        "author_id": "1964331185590718464",
+        "conversation_id": "2085429085686395062",
+        "created_at": "2026-08-06T18:13:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T19:13:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085429085686395062"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 34,
+              "start": 29,
+              "tag": "tadc"
+            },
+            {
+              "end": 41,
+              "start": 35,
+              "tag": "caine"
+            },
+            {
+              "end": 52,
+              "start": 42,
+              "tag": "cainetadc"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1914663643209228288",
+              "start": 3,
+              "username": "SonyaKuhar59013"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/AyI2tcoEYv",
+              "end": 76,
+              "expanded_url": "https://x.com/SonyaKuhar59013/status/2085170274555637835/video/1",
+              "media_key": "13_2085170175741992960",
+              "start": 53,
+              "url": "https://t.co/AyI2tcoEYv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085429085686395062",
+        "lang": "et",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 77
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085170274555637835",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @SonyaKuhar59013: omagadd #tadc #caine #cainetadc https://t.co/AyI2tcoEYv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-06T14:13:55.000Z",
+        "description": "叫我筷子就可以了(:3っ )っ\nOD丨🔪丨Vocaloid丨音游丨LGBTQ+friendly\n不卖药 只看互关私信 我很穷欢迎投喂\n不喜欢的直接b 查成分同类回fo 取关请双取\n备用机→@Hashi_988",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 104,
+                "start": 94,
+                "username": "Hashi_988"
+              }
+            ]
+          }
+        },
+        "id": "1964331185590718464",
+        "location": "颅内",
+        "name": "箸",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074711282427842560/EOM9Puhb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1399,
+          "following_count": 820,
+          "like_count": 36875,
+          "listed_count": 0,
+          "media_count": 372,
+          "tweet_count": 6535
+        },
+        "url": "",
+        "username": "breakcoreWTF",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-22T12:53:03.000Z",
+        "description": "",
+        "id": "1914663643209228288",
+        "name": "Pipusha69/Пипуша🤙💥🦭",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043456113031462912/VP4uWdSS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 102,
+          "following_count": 66,
+          "like_count": 1173,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 92
+        },
+        "url": "",
+        "username": "SonyaKuhar59013",
+        "verified": false
+      }
+    ]
+  }
+}

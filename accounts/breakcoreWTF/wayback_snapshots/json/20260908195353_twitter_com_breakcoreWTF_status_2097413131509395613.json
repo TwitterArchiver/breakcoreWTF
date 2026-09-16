@@ -1,0 +1,484 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2097061237636886528"
+      ],
+      "media_source_tweet_id": [
+        "2097061475546189915"
+      ]
+    },
+    "author_id": "1964331185590718464",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "id": "1297951101136732160",
+          "name": "Animation & comics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1297951101136732160",
+          "name": "Animation & comics"
+        }
+      }
+    ],
+    "conversation_id": "2097413131509395613",
+    "created_at": "2026-09-08T19:53:53.000Z",
+    "display_text_range": [
+      0,
+      79
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-08T20:53:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097413131509395613"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 44,
+          "start": 35,
+          "tag": "subahibi"
+        },
+        {
+          "end": 55,
+          "start": 45,
+          "tag": "animation"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1823478345641664512",
+          "start": 3,
+          "username": "MELTYFUTUREE"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/xKBIybF4ZM",
+          "end": 79,
+          "expanded_url": "https://x.com/MELTYFUTUREE/status/2097061475546189915/video/1",
+          "media_key": "13_2097061237636886528",
+          "start": 56,
+          "url": "https://t.co/xKBIybF4ZM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097413131509395613",
+    "lang": "en",
+    "media_metadata": [
+      {
+        "media_key": "13_2097061237636886528"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 750
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097061475546189915",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @MELTYFUTUREE: Time is ticking! #subahibi #animation https://t.co/xKBIybF4ZM"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 10366,
+        "height": 720,
+        "media_key": "13_2097061237636886528",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2097061237636886528/img/ZsnBpkdIxI5AQuug.jpg",
+        "public_metrics": {
+          "view_count": 28666
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2097061237636886528/vid/avc1/480x270/WrbJhUrdsNcsIi5R.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2097061237636886528/vid/avc1/640x360/jkkQlJzE-WGc5djD.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2097061237636886528/vid/avc1/1280x720/KP8EcRAtN7bceJsM.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2097061237636886528/pl/tBMprXaxlpKcoQ19.m3u8?v=eec"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2097061237636886528"
+          ],
+          "media_source_tweet_id": [
+            "2097061475546189915"
+          ]
+        },
+        "author_id": "1964331185590718464",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          }
+        ],
+        "conversation_id": "2097413131509395613",
+        "created_at": "2026-09-08T19:53:53.000Z",
+        "display_text_range": [
+          0,
+          79
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-08T20:53:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097413131509395613"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 44,
+              "start": 35,
+              "tag": "subahibi"
+            },
+            {
+              "end": 55,
+              "start": 45,
+              "tag": "animation"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1823478345641664512",
+              "start": 3,
+              "username": "MELTYFUTUREE"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/xKBIybF4ZM",
+              "end": 79,
+              "expanded_url": "https://x.com/MELTYFUTUREE/status/2097061475546189915/video/1",
+              "media_key": "13_2097061237636886528",
+              "start": 56,
+              "url": "https://t.co/xKBIybF4ZM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097413131509395613",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "13_2097061237636886528"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 750
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097061475546189915",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @MELTYFUTUREE: Time is ticking! #subahibi #animation https://t.co/xKBIybF4ZM"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2097061237636886528"
+          ]
+        },
+        "author_id": "1823478345641664512",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          }
+        ],
+        "conversation_id": "2097061475546189915",
+        "created_at": "2026-09-07T20:36:31.000Z",
+        "display_text_range": [
+          0,
+          37
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T21:36:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097061475546189915"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 26,
+              "start": 17,
+              "tag": "subahibi"
+            },
+            {
+              "end": 37,
+              "start": 27,
+              "tag": "animation"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/xKBIybF4ZM",
+              "end": 61,
+              "expanded_url": "https://x.com/MELTYFUTUREE/status/2097061475546189915/video/1",
+              "media_key": "13_2097061237636886528",
+              "start": 38,
+              "url": "https://t.co/xKBIybF4ZM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097061475546189915",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "13_2097061237636886528"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 670,
+          "impression_count": 91266,
+          "like_count": 3627,
+          "quote_count": 11,
+          "reply_count": 17,
+          "retweet_count": 750
+        },
+        "reply_settings": "everyone",
+        "text": "Time is ticking! #subahibi #animation https://t.co/xKBIybF4ZM"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-09-06T14:13:55.000Z",
+        "description": "叫我筷子就可以了(:3っ )っ\n雜多丨OD丨自傷丨Vocaloid丨maimai丨🏳️‍🌈friendly\n不卖药 眼熟回关 取关请双取 不喜欢的直接b\nサブ垢＆避難垢→@Hashi_988",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 95,
+                "start": 85,
+                "username": "Hashi_988"
+              }
+            ]
+          }
+        },
+        "id": "1964331185590718464",
+        "is_identity_verified": false,
+        "location": "颅内",
+        "most_recent_tweet_id": "2097413131509395613",
+        "name": "箸",
+        "pinned_tweet_id": "2090132992979284341",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1964331185590718464/1788644554",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2093963390620487680/sATuTGb4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1631,
+          "following_count": 797,
+          "like_count": 46907,
+          "listed_count": 0,
+          "media_count": 463,
+          "tweet_count": 8295
+        },
+        "url": "",
+        "username": "breakcoreWTF",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-08-13T21:55:02.000Z",
+        "description": "20 y/o + 🔞/vent account \ni like to play and draw Yay\nsend a gimmick w/ user to dm me\n#vntwt #animetwt",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 91,
+                "start": 85,
+                "tag": "vntwt"
+              },
+              {
+                "end": 101,
+                "start": 92,
+                "tag": "animetwt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "meltyfuturee.straw.page",
+                "end": 23,
+                "expanded_url": "https://meltyfuturee.straw.page",
+                "start": 0,
+                "url": "https://t.co/BQx5ChF5DU"
+              }
+            ]
+          }
+        },
+        "id": "1823478345641664512",
+        "is_identity_verified": false,
+        "location": "he/she/it",
+        "most_recent_tweet_id": "2097397461971308854",
+        "name": "DAMIEN 🌈🦄✨",
+        "pinned_tweet_id": "2055022821063983378",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1823478345641664512/1785308367",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092188351856009216/lCOojKcx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 130,
+          "following_count": 297,
+          "like_count": 95291,
+          "listed_count": 0,
+          "media_count": 552,
+          "tweet_count": 4501
+        },
+        "url": "https://t.co/BQx5ChF5DU",
+        "username": "MELTYFUTUREE",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

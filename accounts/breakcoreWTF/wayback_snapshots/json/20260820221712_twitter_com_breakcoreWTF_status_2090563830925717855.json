@@ -1,0 +1,334 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2090490459210805248",
+        "3_2090490459206639616"
+      ],
+      "media_source_tweet_id": [
+        "2090490467859440043",
+        "2090490467859440043"
+      ]
+    },
+    "author_id": "1964331185590718464",
+    "conversation_id": "2090563830925717855",
+    "created_at": "2026-08-20T22:17:12.000Z",
+    "display_text_range": [
+      0,
+      61
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-20T23:17:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090563830925717855"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1625816691023417348",
+          "start": 3,
+          "username": "nauafe_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/SHyuiojrC9",
+          "end": 61,
+          "expanded_url": "https://x.com/nauafe_/status/2090490467859440043/photo/1",
+          "media_key": "3_2090490459210805248",
+          "start": 38,
+          "url": "https://t.co/SHyuiojrC9"
+        },
+        {
+          "display_url": "pic.x.com/SHyuiojrC9",
+          "end": 61,
+          "expanded_url": "https://x.com/nauafe_/status/2090490467859440043/photo/1",
+          "media_key": "3_2090490459206639616",
+          "start": 38,
+          "url": "https://t.co/SHyuiojrC9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090563830925717855",
+    "lang": "en",
+    "media_metadata": [
+      {
+        "media_key": "3_2090490459210805248"
+      },
+      {
+        "media_key": "3_2090490459206639616"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 59
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090490467859440043",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @nauafe_: He is so cute I’m crying https://t.co/SHyuiojrC9"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2090490459210805248",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQLp_yuacAAeDzt.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1935,
+        "media_key": "3_2090490459206639616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQLp_yta4AA6uy_.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2090490459210805248",
+            "3_2090490459206639616"
+          ],
+          "media_source_tweet_id": [
+            "2090490467859440043",
+            "2090490467859440043"
+          ]
+        },
+        "author_id": "1964331185590718464",
+        "conversation_id": "2090563830925717855",
+        "created_at": "2026-08-20T22:17:12.000Z",
+        "display_text_range": [
+          0,
+          61
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T23:17:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090563830925717855"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1625816691023417348",
+              "start": 3,
+              "username": "nauafe_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/SHyuiojrC9",
+              "end": 61,
+              "expanded_url": "https://x.com/nauafe_/status/2090490467859440043/photo/1",
+              "media_key": "3_2090490459210805248",
+              "start": 38,
+              "url": "https://t.co/SHyuiojrC9"
+            },
+            {
+              "display_url": "pic.x.com/SHyuiojrC9",
+              "end": 61,
+              "expanded_url": "https://x.com/nauafe_/status/2090490467859440043/photo/1",
+              "media_key": "3_2090490459206639616",
+              "start": 38,
+              "url": "https://t.co/SHyuiojrC9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090563830925717855",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2090490459210805248"
+          },
+          {
+            "media_key": "3_2090490459206639616"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 59
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090490467859440043",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @nauafe_: He is so cute I’m crying https://t.co/SHyuiojrC9"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2090490459210805248",
+            "3_2090490459206639616"
+          ]
+        },
+        "author_id": "1625816691023417348",
+        "conversation_id": "2090490467859440043",
+        "created_at": "2026-08-20T17:25:41.000Z",
+        "display_text_range": [
+          0,
+          24
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T18:25:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090490467859440043"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/SHyuiojrC9",
+              "end": 48,
+              "expanded_url": "https://x.com/nauafe_/status/2090490467859440043/photo/1",
+              "media_key": "3_2090490459210805248",
+              "start": 25,
+              "url": "https://t.co/SHyuiojrC9"
+            },
+            {
+              "display_url": "pic.x.com/SHyuiojrC9",
+              "end": 48,
+              "expanded_url": "https://x.com/nauafe_/status/2090490467859440043/photo/1",
+              "media_key": "3_2090490459206639616",
+              "start": 25,
+              "url": "https://t.co/SHyuiojrC9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090490467859440043",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2090490459210805248"
+          },
+          {
+            "media_key": "3_2090490459206639616"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 19,
+          "impression_count": 2118,
+          "like_count": 283,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 59
+        },
+        "reply_settings": "everyone",
+        "text": "He is so cute I’m crying https://t.co/SHyuiojrC9"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-09-06T14:13:55.000Z",
+        "description": "叫我筷子就可以了(:3っ )っ\nOD丨🔪丨Vocaloid丨maimai丨🏳️‍🌈friendly\n不卖药 互关私信 取关请双取 不喜欢的直接b\nHH：Vox推し bottom🔁⭕ \n备用机、愚痴垢→@Hashi_988",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 110,
+                "start": 100,
+                "username": "Hashi_988"
+              }
+            ]
+          }
+        },
+        "id": "1964331185590718464",
+        "is_identity_verified": false,
+        "location": "颅内",
+        "most_recent_tweet_id": "2090563830925717855",
+        "name": "箸",
+        "pinned_tweet_id": "2090132992979284341",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1964331185590718464/1785100910",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074711282427842560/EOM9Puhb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1541,
+          "following_count": 798,
+          "like_count": 40314,
+          "listed_count": 0,
+          "media_count": 415,
+          "tweet_count": 7226
+        },
+        "url": "",
+        "username": "breakcoreWTF",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-02-15T11:18:08.000Z",
+        "description": "Adult | mainly DC Jondami🩵💚 / hzbn 📺🦌 | 二次創作",
+        "id": "1625816691023417348",
+        "is_identity_verified": false,
+        "location": "Hong Kong",
+        "most_recent_tweet_id": "2090515021579378767",
+        "name": "nau",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032012146293514240/6smMZExF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1482,
+          "following_count": 155,
+          "like_count": 13140,
+          "listed_count": 4,
+          "media_count": 62,
+          "tweet_count": 1350
+        },
+        "url": "",
+        "username": "nauafe_",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

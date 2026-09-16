@@ -1,0 +1,441 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2068146164587798528",
+        "3_2068146164591968256",
+        "3_2068146164587757568"
+      ],
+      "media_source_tweet_id": [
+        "2068146170535260434",
+        "2068146170535260434",
+        "2068146170535260434"
+      ]
+    },
+    "author_id": "1964331185590718464",
+    "conversation_id": "2091857101668921429",
+    "created_at": "2026-08-24T11:56:12.000Z",
+    "display_text_range": [
+      0,
+      102
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-24T12:56:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091857101668921429"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 71,
+          "start": 59,
+          "tag": "radiostatic"
+        },
+        {
+          "end": 78,
+          "start": 72,
+          "tag": "alvox"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1990881760373288960",
+          "start": 3,
+          "username": "voxtekEmployee"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/NaeZ8VijYW",
+          "end": 102,
+          "expanded_url": "https://x.com/voxtekEmployee/status/2068146170535260434/photo/1",
+          "media_key": "3_2068146164587798528",
+          "start": 79,
+          "url": "https://t.co/NaeZ8VijYW"
+        },
+        {
+          "display_url": "pic.x.com/NaeZ8VijYW",
+          "end": 102,
+          "expanded_url": "https://x.com/voxtekEmployee/status/2068146170535260434/photo/1",
+          "media_key": "3_2068146164591968256",
+          "start": 79,
+          "url": "https://t.co/NaeZ8VijYW"
+        },
+        {
+          "display_url": "pic.x.com/NaeZ8VijYW",
+          "end": 102,
+          "expanded_url": "https://x.com/voxtekEmployee/status/2068146170535260434/photo/1",
+          "media_key": "3_2068146164587757568",
+          "start": 79,
+          "url": "https://t.co/NaeZ8VijYW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091857101668921429",
+    "lang": "en",
+    "media_metadata": [
+      {
+        "media_key": "3_2068146164587798528"
+      },
+      {
+        "media_key": "3_2068146164591968256"
+      },
+      {
+        "media_key": "3_2068146164587757568"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 94
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068146170535260434",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @voxtekEmployee: 2p!media mspaint doodles with mouse... #radiostatic #alvox https://t.co/NaeZ8VijYW"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2068146164587798528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLOH-qvXoAAPYjl.jpg",
+        "width": 1770
+      },
+      {
+        "height": 1292,
+        "media_key": "3_2068146164591968256",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLOH-qwXQAAlmls.jpg",
+        "width": 1256
+      },
+      {
+        "height": 1292,
+        "media_key": "3_2068146164587757568",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLOH-qvXAAA3r8i.jpg",
+        "width": 1256
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068146164587798528",
+            "3_2068146164591968256",
+            "3_2068146164587757568"
+          ],
+          "media_source_tweet_id": [
+            "2068146170535260434",
+            "2068146170535260434",
+            "2068146170535260434"
+          ]
+        },
+        "author_id": "1964331185590718464",
+        "conversation_id": "2091857101668921429",
+        "created_at": "2026-08-24T11:56:12.000Z",
+        "display_text_range": [
+          0,
+          102
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-24T12:56:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091857101668921429"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 71,
+              "start": 59,
+              "tag": "radiostatic"
+            },
+            {
+              "end": 78,
+              "start": 72,
+              "tag": "alvox"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1990881760373288960",
+              "start": 3,
+              "username": "voxtekEmployee"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/NaeZ8VijYW",
+              "end": 102,
+              "expanded_url": "https://x.com/voxtekEmployee/status/2068146170535260434/photo/1",
+              "media_key": "3_2068146164587798528",
+              "start": 79,
+              "url": "https://t.co/NaeZ8VijYW"
+            },
+            {
+              "display_url": "pic.x.com/NaeZ8VijYW",
+              "end": 102,
+              "expanded_url": "https://x.com/voxtekEmployee/status/2068146170535260434/photo/1",
+              "media_key": "3_2068146164591968256",
+              "start": 79,
+              "url": "https://t.co/NaeZ8VijYW"
+            },
+            {
+              "display_url": "pic.x.com/NaeZ8VijYW",
+              "end": 102,
+              "expanded_url": "https://x.com/voxtekEmployee/status/2068146170535260434/photo/1",
+              "media_key": "3_2068146164587757568",
+              "start": 79,
+              "url": "https://t.co/NaeZ8VijYW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091857101668921429",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2068146164587798528"
+          },
+          {
+            "media_key": "3_2068146164591968256"
+          },
+          {
+            "media_key": "3_2068146164587757568"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 94
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068146170535260434",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @voxtekEmployee: 2p!media mspaint doodles with mouse... #radiostatic #alvox https://t.co/NaeZ8VijYW"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068146164587798528",
+            "3_2068146164591968256",
+            "3_2068146164587757568"
+          ]
+        },
+        "author_id": "1990881760373288960",
+        "conversation_id": "2068146170535260434",
+        "created_at": "2026-06-20T01:37:26.000Z",
+        "display_text_range": [
+          0,
+          58
+        ],
+        "edit_controls": {
+          "editable_until": "2026-06-20T02:37:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068146170535260434"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 51,
+              "start": 39,
+              "tag": "radiostatic"
+            },
+            {
+              "end": 58,
+              "start": 52,
+              "tag": "alvox"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/NaeZ8VijYW",
+              "end": 82,
+              "expanded_url": "https://x.com/voxtekEmployee/status/2068146170535260434/photo/1",
+              "media_key": "3_2068146164587798528",
+              "start": 59,
+              "url": "https://t.co/NaeZ8VijYW"
+            },
+            {
+              "display_url": "pic.x.com/NaeZ8VijYW",
+              "end": 82,
+              "expanded_url": "https://x.com/voxtekEmployee/status/2068146170535260434/photo/1",
+              "media_key": "3_2068146164591968256",
+              "start": 59,
+              "url": "https://t.co/NaeZ8VijYW"
+            },
+            {
+              "display_url": "pic.x.com/NaeZ8VijYW",
+              "end": 82,
+              "expanded_url": "https://x.com/voxtekEmployee/status/2068146170535260434/photo/1",
+              "media_key": "3_2068146164587757568",
+              "start": 59,
+              "url": "https://t.co/NaeZ8VijYW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068146170535260434",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2068146164587798528"
+          },
+          {
+            "media_key": "3_2068146164591968256"
+          },
+          {
+            "media_key": "3_2068146164587757568"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 75,
+          "impression_count": 10504,
+          "like_count": 768,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 94
+        },
+        "reply_settings": "everyone",
+        "text": "2p!media mspaint doodles with mouse... #radiostatic #alvox https://t.co/NaeZ8VijYW"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-09-06T14:13:55.000Z",
+        "description": "叫我筷子就可以了(:3っ )っ\n雜多丨OD丨自傷丨Vocaloid丨maimai丨🏳️‍🌈friendly\n不卖药 互关私信 取关请双取 不喜欢的直接b\nHH：Vox推し bottom🔁⭕ \nサブ垢＆避難垢→@Hashi_988",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 114,
+                "start": 104,
+                "username": "Hashi_988"
+              }
+            ]
+          }
+        },
+        "id": "1964331185590718464",
+        "is_identity_verified": false,
+        "location": "颅内",
+        "most_recent_tweet_id": "2091857101668921429",
+        "name": "箸",
+        "pinned_tweet_id": "2090132992979284341",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1964331185590718464/1785100910",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074711282427842560/EOM9Puhb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1577,
+          "following_count": 802,
+          "like_count": 42592,
+          "listed_count": 0,
+          "media_count": 436,
+          "tweet_count": 7623
+        },
+        "url": "",
+        "username": "breakcoreWTF",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-11-18T20:36:23.000Z",
+        "description": "20⬆️| 🔞no minors plz | 📻📺,Top!Alastor x Bottom!Vox (no switch🔄❌) | join the alvox discord!: https://t.co/q8O70OuC9h",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "discord.gg/w5g3CEyBj4",
+                "end": 115,
+                "expanded_url": "https://discord.gg/w5g3CEyBj4",
+                "start": 92,
+                "url": "https://t.co/q8O70OuC9h"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "alvox.straw.page",
+                "end": 23,
+                "expanded_url": "https://alvox.straw.page/",
+                "start": 0,
+                "url": "https://t.co/jiV5PAF522"
+              }
+            ]
+          }
+        },
+        "id": "1990881760373288960",
+        "is_identity_verified": false,
+        "location": "vox populi, vox dei",
+        "most_recent_tweet_id": "2091775530924191793",
+        "name": "tavi 🦈",
+        "pinned_tweet_id": "2080037313455820891",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1990881760373288960/1763500631",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090501880153563136/d-V_2yGa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3515,
+          "following_count": 145,
+          "like_count": 6148,
+          "listed_count": 5,
+          "media_count": 391,
+          "tweet_count": 2859
+        },
+        "url": "https://t.co/jiV5PAF522",
+        "username": "voxtekEmployee",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

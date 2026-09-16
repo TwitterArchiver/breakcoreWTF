@@ -1,0 +1,335 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2086593592110600192",
+        "3_2086593592152510464"
+      ],
+      "media_source_tweet_id": [
+        "2086593600163594454",
+        "2086593600163594454"
+      ]
+    },
+    "author_id": "1964331185590718464",
+    "conversation_id": "2086773040977985772",
+    "created_at": "2026-08-10T11:13:57.000Z",
+    "display_text_range": [
+      0,
+      38
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-10T12:13:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2086773040977985772"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2083509713254359040",
+          "start": 3,
+          "username": "akawai666"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/lO97BNvopK",
+          "end": 38,
+          "expanded_url": "https://x.com/akawai666/status/2086593600163594454/photo/1",
+          "media_key": "3_2086593592110600192",
+          "start": 15,
+          "url": "https://t.co/lO97BNvopK"
+        },
+        {
+          "display_url": "pic.x.com/lO97BNvopK",
+          "end": 38,
+          "expanded_url": "https://x.com/akawai666/status/2086593600163594454/photo/1",
+          "media_key": "3_2086593592152510464",
+          "start": 15,
+          "url": "https://t.co/lO97BNvopK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086773040977985772",
+    "lang": "zxx",
+    "media_metadata": [
+      {
+        "media_key": "3_2086593592110600192"
+      },
+      {
+        "media_key": "3_2086593592152510464"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 89
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086593600163594454",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @akawai666: https://t.co/lO97BNvopK"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2086593592110600192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPUR0Rhb0AAjF8M.jpg",
+        "width": 1539
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2086593592152510464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPUR0RrbUAAU3DH.jpg",
+        "width": 2039
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2086593592110600192",
+            "3_2086593592152510464"
+          ]
+        },
+        "author_id": "2083509713254359040",
+        "conversation_id": "2086593600163594454",
+        "created_at": "2026-08-09T23:20:55.000Z",
+        "display_text_range": [
+          0,
+          0
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T00:20:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086593600163594454"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lO97BNvopK",
+              "end": 23,
+              "expanded_url": "https://x.com/akawai666/status/2086593600163594454/photo/1",
+              "media_key": "3_2086593592110600192",
+              "start": 0,
+              "url": "https://t.co/lO97BNvopK"
+            },
+            {
+              "display_url": "pic.x.com/lO97BNvopK",
+              "end": 23,
+              "expanded_url": "https://x.com/akawai666/status/2086593600163594454/photo/1",
+              "media_key": "3_2086593592152510464",
+              "start": 0,
+              "url": "https://t.co/lO97BNvopK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086593600163594454",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2086593592110600192"
+          },
+          {
+            "media_key": "3_2086593592152510464"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 56,
+          "impression_count": 4735,
+          "like_count": 557,
+          "quote_count": 2,
+          "reply_count": 3,
+          "retweet_count": 89
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/lO97BNvopK"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2086593592110600192",
+            "3_2086593592152510464"
+          ],
+          "media_source_tweet_id": [
+            "2086593600163594454",
+            "2086593600163594454"
+          ]
+        },
+        "author_id": "1964331185590718464",
+        "conversation_id": "2086773040977985772",
+        "created_at": "2026-08-10T11:13:57.000Z",
+        "display_text_range": [
+          0,
+          38
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T12:13:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086773040977985772"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2083509713254359040",
+              "start": 3,
+              "username": "akawai666"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/lO97BNvopK",
+              "end": 38,
+              "expanded_url": "https://x.com/akawai666/status/2086593600163594454/photo/1",
+              "media_key": "3_2086593592110600192",
+              "start": 15,
+              "url": "https://t.co/lO97BNvopK"
+            },
+            {
+              "display_url": "pic.x.com/lO97BNvopK",
+              "end": 38,
+              "expanded_url": "https://x.com/akawai666/status/2086593600163594454/photo/1",
+              "media_key": "3_2086593592152510464",
+              "start": 15,
+              "url": "https://t.co/lO97BNvopK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086773040977985772",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2086593592110600192"
+          },
+          {
+            "media_key": "3_2086593592152510464"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 89
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086593600163594454",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @akawai666: https://t.co/lO97BNvopK"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-09-06T14:13:55.000Z",
+        "description": "叫我筷子就可以了(:3っ )っ\nOD丨🔪丨Vocaloid丨音游丨LGBTQ+friendly\n不卖药 只看互关私信\n不喜欢的直接b 查成分回fo 取关请双取\n备用机、愚痴垢→@Hashi_988",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 98,
+                "start": 88,
+                "username": "Hashi_988"
+              }
+            ]
+          }
+        },
+        "id": "1964331185590718464",
+        "is_identity_verified": false,
+        "location": "颅内",
+        "most_recent_tweet_id": "2086773040977985772",
+        "name": "箸",
+        "pinned_tweet_id": "2086154153508884828",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1964331185590718464/1785100910",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074711282427842560/EOM9Puhb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1455,
+          "following_count": 787,
+          "like_count": 38159,
+          "listed_count": 0,
+          "media_count": 382,
+          "tweet_count": 6768
+        },
+        "url": "",
+        "username": "breakcoreWTF",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-01T11:08:27.000Z",
+        "description": "チャリたん オタク 絵",
+        "id": "2083509713254359040",
+        "is_identity_verified": false,
+        "location": "成人済",
+        "most_recent_tweet_id": "2086593600163594454",
+        "name": "あ。りがとう",
+        "pinned_tweet_id": "2086584870139257281",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084992176770220032/hfaxfQvZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 70,
+          "following_count": 24,
+          "like_count": 65,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 12
+        },
+        "url": "",
+        "username": "akawai666",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

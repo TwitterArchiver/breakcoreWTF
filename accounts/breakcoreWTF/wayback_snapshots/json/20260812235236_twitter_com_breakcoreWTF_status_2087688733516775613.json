@@ -1,0 +1,300 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2087474671923146752"
+      ],
+      "media_source_tweet_id": [
+        "2087474675697992034"
+      ]
+    },
+    "author_id": "1964331185590718464",
+    "conversation_id": "2087688733516775613",
+    "created_at": "2026-08-12T23:52:36.000Z",
+    "display_text_range": [
+      0,
+      40
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-13T00:52:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087688733516775613"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2051773322501959680",
+          "start": 3,
+          "username": "_a_15_z"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/YyE1FR2GX4",
+          "end": 40,
+          "expanded_url": "https://x.com/_a_15_z/status/2087474675697992034/photo/1",
+          "media_key": "3_2087474671923146752",
+          "start": 17,
+          "url": "https://t.co/YyE1FR2GX4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087688733516775613",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2087474671923146752"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 57
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087474675697992034",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @_a_15_z: ごめん https://t.co/YyE1FR2GX4"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1312,
+        "media_key": "3_2087474671923146752",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPgzJ3masAAplIb.jpg",
+        "width": 975
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2087474671923146752"
+          ]
+        },
+        "author_id": "2051773322501959680",
+        "conversation_id": "2087474675697992034",
+        "created_at": "2026-08-12T09:42:00.000Z",
+        "display_text_range": [
+          0,
+          3
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T10:42:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087474675697992034"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YyE1FR2GX4",
+              "end": 27,
+              "expanded_url": "https://x.com/_a_15_z/status/2087474675697992034/photo/1",
+              "media_key": "3_2087474671923146752",
+              "start": 4,
+              "url": "https://t.co/YyE1FR2GX4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087474675697992034",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2087474671923146752"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 135,
+          "impression_count": 237549,
+          "like_count": 2440,
+          "quote_count": 60,
+          "reply_count": 27,
+          "retweet_count": 57
+        },
+        "reply_settings": "everyone",
+        "text": "ごめん https://t.co/YyE1FR2GX4"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2087474671923146752"
+          ],
+          "media_source_tweet_id": [
+            "2087474675697992034"
+          ]
+        },
+        "author_id": "1964331185590718464",
+        "conversation_id": "2087688733516775613",
+        "created_at": "2026-08-12T23:52:36.000Z",
+        "display_text_range": [
+          0,
+          40
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T00:52:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087688733516775613"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2051773322501959680",
+              "start": 3,
+              "username": "_a_15_z"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/YyE1FR2GX4",
+              "end": 40,
+              "expanded_url": "https://x.com/_a_15_z/status/2087474675697992034/photo/1",
+              "media_key": "3_2087474671923146752",
+              "start": 17,
+              "url": "https://t.co/YyE1FR2GX4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087688733516775613",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2087474671923146752"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 57
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087474675697992034",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @_a_15_z: ごめん https://t.co/YyE1FR2GX4"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-09-06T14:13:55.000Z",
+        "description": "叫我筷子就可以了(:3っ )っ\nOD丨🔪丨Vocaloid丨音游丨LGBTQ+friendly\n不卖药 只看互关私信\n不喜欢的直接b 查成分回fo 取关请双取\n备用机、愚痴垢→@Hashi_988",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 98,
+                "start": 88,
+                "username": "Hashi_988"
+              }
+            ]
+          }
+        },
+        "id": "1964331185590718464",
+        "is_identity_verified": false,
+        "location": "颅内",
+        "most_recent_tweet_id": "2087688733516775613",
+        "name": "箸",
+        "pinned_tweet_id": "2086154153508884828",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1964331185590718464/1785100910",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074711282427842560/EOM9Puhb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1461,
+          "following_count": 788,
+          "like_count": 38437,
+          "listed_count": 0,
+          "media_count": 390,
+          "tweet_count": 6836
+        },
+        "url": "",
+        "username": "breakcoreWTF",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-05-05T21:20:21.000Z",
+        "description": "11世代￤@uwpa_ ￤ファンマ😿🎒\nお仕事のご依頼はDMまで✉️🎀",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 5,
+                "username": "uwpa_"
+              }
+            ]
+          }
+        },
+        "id": "2051773322501959680",
+        "is_identity_verified": false,
+        "location": " ",
+        "most_recent_tweet_id": "2087648203831431170",
+        "name": "キャンマジ5番",
+        "pinned_tweet_id": "2072548072438354394",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2051773322501959680/1782968781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083824914163978240/RUyFoQps_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11017,
+          "following_count": 70,
+          "like_count": 241,
+          "listed_count": 4,
+          "media_count": 33,
+          "tweet_count": 238
+        },
+        "url": "",
+        "username": "_a_15_z",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,335 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2097278784626171904"
+      ],
+      "media_source_tweet_id": [
+        "2097278873419583968"
+      ]
+    },
+    "author_id": "1964331185590718464",
+    "conversation_id": "2097557725026922603",
+    "created_at": "2026-09-09T05:28:27.000Z",
+    "display_text_range": [
+      0,
+      37
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-09T06:28:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097557725026922603"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1579432746778517504",
+          "start": 3,
+          "username": "niihai39"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/AN0MRh6zVL",
+          "end": 37,
+          "expanded_url": "https://x.com/niihai39/status/2097278873419583968/video/1",
+          "media_key": "13_2097278784626171904",
+          "start": 14,
+          "url": "https://t.co/AN0MRh6zVL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097557725026922603",
+    "lang": "zxx",
+    "media_metadata": [
+      {
+        "media_key": "13_2097278784626171904"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 147
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097278873419583968",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @niihai39: https://t.co/AN0MRh6zVL"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 6106,
+        "height": 3840,
+        "media_key": "13_2097278784626171904",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2097278784626171904/img/I-mednYpv2Y2DLds.jpg",
+        "public_metrics": {
+          "view_count": 8655
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2097278784626171904/vid/avc1/320x568/rGZgk5Hcn6cNNnEW.mp4"
+          },
+          {
+            "bit_rate": 25128000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2097278784626171904/vid/avc1/2160x3840/oVmMN5WLcH_zmFs4.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2097278784626171904/vid/avc1/1080x1920/AaAZFBZlk8-YApjI.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2097278784626171904/vid/avc1/480x852/d50KDAUF_YoXtiSE.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2097278784626171904/pl/bGlSLnZriRHDDtAb.m3u8"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2097278784626171904/vid/avc1/720x1280/DNz1WUAZCO0Fq79C.mp4"
+          }
+        ],
+        "width": 2160
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2097278784626171904"
+          ],
+          "media_source_tweet_id": [
+            "2097278873419583968"
+          ]
+        },
+        "author_id": "1964331185590718464",
+        "conversation_id": "2097557725026922603",
+        "created_at": "2026-09-09T05:28:27.000Z",
+        "display_text_range": [
+          0,
+          37
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-09T06:28:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097557725026922603"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1579432746778517504",
+              "start": 3,
+              "username": "niihai39"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/AN0MRh6zVL",
+              "end": 37,
+              "expanded_url": "https://x.com/niihai39/status/2097278873419583968/video/1",
+              "media_key": "13_2097278784626171904",
+              "start": 14,
+              "url": "https://t.co/AN0MRh6zVL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097557725026922603",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "13_2097278784626171904"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 147
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097278873419583968",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @niihai39: https://t.co/AN0MRh6zVL"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2097278784626171904"
+          ]
+        },
+        "author_id": "1579432746778517504",
+        "conversation_id": "2097278873419583968",
+        "created_at": "2026-09-08T11:00:23.000Z",
+        "display_text_range": [
+          0,
+          0
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-08T12:00:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097278873419583968"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/AN0MRh6zVL",
+              "end": 23,
+              "expanded_url": "https://x.com/niihai39/status/2097278873419583968/video/1",
+              "media_key": "13_2097278784626171904",
+              "start": 0,
+              "url": "https://t.co/AN0MRh6zVL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097278873419583968",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "13_2097278784626171904"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 369,
+          "impression_count": 32953,
+          "like_count": 3003,
+          "quote_count": 4,
+          "reply_count": 4,
+          "retweet_count": 147
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/AN0MRh6zVL"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-09-06T14:13:55.000Z",
+        "description": "叫我筷子就可以了(:3っ )っ\n雜多丨OD丨自傷丨Vocaloid丨maimai丨🏳️‍🌈friendly\n不卖药 眼熟回关 取关请双取 不喜欢的直接b\nサブ垢＆避難垢→@Hashi_988",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 95,
+                "start": 85,
+                "username": "Hashi_988"
+              }
+            ]
+          }
+        },
+        "id": "1964331185590718464",
+        "is_identity_verified": false,
+        "location": "颅内",
+        "most_recent_tweet_id": "2097557725026922603",
+        "name": "箸",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1964331185590718464/1788644554",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2093963390620487680/sATuTGb4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1635,
+          "following_count": 801,
+          "like_count": 47259,
+          "listed_count": 0,
+          "media_count": 459,
+          "tweet_count": 8336
+        },
+        "url": "",
+        "username": "breakcoreWTF",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-10-10T11:24:57.000Z",
+        "description": "架空の人物",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/niihai39",
+                "end": 23,
+                "expanded_url": "https://lit.link/niihai39",
+                "start": 0,
+                "url": "https://t.co/72HhM0nf5u"
+              }
+            ]
+          }
+        },
+        "id": "1579432746778517504",
+        "is_identity_verified": false,
+        "location": "お仕事のご依頼はDMへ",
+        "most_recent_tweet_id": "2097278873419583968",
+        "name": "にーはい",
+        "pinned_tweet_id": "1983846503715324292",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1579432746778517504/1787679704",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092304473154875392/n2tSy6fm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26963,
+          "following_count": 197,
+          "like_count": 7707,
+          "listed_count": 98,
+          "media_count": 311,
+          "tweet_count": 5694
+        },
+        "url": "https://t.co/72HhM0nf5u",
+        "username": "niihai39",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

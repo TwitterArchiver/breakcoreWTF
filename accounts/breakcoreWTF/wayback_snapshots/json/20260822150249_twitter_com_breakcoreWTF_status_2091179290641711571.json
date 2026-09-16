@@ -1,0 +1,347 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2091083858590732288",
+        "3_2091083858599190528"
+      ],
+      "media_source_tweet_id": [
+        "2091083866773844037",
+        "2091083866773844037"
+      ]
+    },
+    "author_id": "1964331185590718464",
+    "conversation_id": "2091179290641711571",
+    "created_at": "2026-08-22T15:02:49.000Z",
+    "display_text_range": [
+      0,
+      69
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-22T16:02:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091179290641711571"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1857007047981580288",
+          "start": 3,
+          "username": "sb_kida"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/g3KJv2jUyz",
+          "end": 69,
+          "expanded_url": "https://x.com/sb_kida/status/2091083866773844037/photo/1",
+          "media_key": "3_2091083858590732288",
+          "start": 46,
+          "url": "https://t.co/g3KJv2jUyz"
+        },
+        {
+          "display_url": "pic.x.com/g3KJv2jUyz",
+          "end": 69,
+          "expanded_url": "https://x.com/sb_kida/status/2091083866773844037/photo/1",
+          "media_key": "3_2091083858599190528",
+          "start": 46,
+          "url": "https://t.co/g3KJv2jUyz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091179290641711571",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2091083858590732288"
+      },
+      {
+        "media_key": "3_2091083858599190528"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091083866773844037",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @sb_kida: ヴェルヴェット風コーデで会いに行ってきたよん💀 あと赤髪復活した https://t.co/g3KJv2jUyz"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2448,
+        "media_key": "3_2091083858590732288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQUFsLrakAA4yjb.jpg",
+        "width": 1836
+      },
+      {
+        "height": 2112,
+        "media_key": "3_2091083858599190528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQUFsLtboAAy9_r.jpg",
+        "width": 1584
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2091083858590732288",
+            "3_2091083858599190528"
+          ],
+          "media_source_tweet_id": [
+            "2091083866773844037",
+            "2091083866773844037"
+          ]
+        },
+        "author_id": "1964331185590718464",
+        "conversation_id": "2091179290641711571",
+        "created_at": "2026-08-22T15:02:49.000Z",
+        "display_text_range": [
+          0,
+          69
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-22T16:02:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091179290641711571"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1857007047981580288",
+              "start": 3,
+              "username": "sb_kida"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/g3KJv2jUyz",
+              "end": 69,
+              "expanded_url": "https://x.com/sb_kida/status/2091083866773844037/photo/1",
+              "media_key": "3_2091083858590732288",
+              "start": 46,
+              "url": "https://t.co/g3KJv2jUyz"
+            },
+            {
+              "display_url": "pic.x.com/g3KJv2jUyz",
+              "end": 69,
+              "expanded_url": "https://x.com/sb_kida/status/2091083866773844037/photo/1",
+              "media_key": "3_2091083858599190528",
+              "start": 46,
+              "url": "https://t.co/g3KJv2jUyz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091179290641711571",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2091083858590732288"
+          },
+          {
+            "media_key": "3_2091083858599190528"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091083866773844037",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @sb_kida: ヴェルヴェット風コーデで会いに行ってきたよん💀 あと赤髪復活した https://t.co/g3KJv2jUyz"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2091083858590732288",
+            "3_2091083858599190528"
+          ]
+        },
+        "author_id": "1857007047981580288",
+        "conversation_id": "2091083866773844037",
+        "created_at": "2026-08-22T08:43:38.000Z",
+        "display_text_range": [
+          0,
+          32
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-22T09:43:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2091083866773844037"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/g3KJv2jUyz",
+              "end": 56,
+              "expanded_url": "https://x.com/sb_kida/status/2091083866773844037/photo/1",
+              "media_key": "3_2091083858590732288",
+              "start": 33,
+              "url": "https://t.co/g3KJv2jUyz"
+            },
+            {
+              "display_url": "pic.x.com/g3KJv2jUyz",
+              "end": 56,
+              "expanded_url": "https://x.com/sb_kida/status/2091083866773844037/photo/1",
+              "media_key": "3_2091083858599190528",
+              "start": 33,
+              "url": "https://t.co/g3KJv2jUyz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091083866773844037",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2091083858590732288"
+          },
+          {
+            "media_key": "3_2091083858599190528"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 1676,
+          "like_count": 106,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "ヴェルヴェット風コーデで会いに行ってきたよん💀 あと赤髪復活した https://t.co/g3KJv2jUyz"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-09-06T14:13:55.000Z",
+        "description": "叫我筷子就可以了(:3っ )っ\n雜多丨OD丨自傷丨Vocaloid丨maimai丨🏳️‍🌈friendly\n不卖药 互关私信 取关请双取 不喜欢的直接b\nHH：Vox推し bottom🔁⭕ \nサブ垢＆避難垢→@Hashi_988",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 114,
+                "start": 104,
+                "username": "Hashi_988"
+              }
+            ]
+          }
+        },
+        "id": "1964331185590718464",
+        "is_identity_verified": false,
+        "location": "颅内",
+        "most_recent_tweet_id": "2091179290641711571",
+        "name": "箸",
+        "pinned_tweet_id": "2090132992979284341",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1964331185590718464/1785100910",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074711282427842560/EOM9Puhb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1572,
+          "following_count": 800,
+          "like_count": 41675,
+          "listed_count": 0,
+          "media_count": 423,
+          "tweet_count": 7448
+        },
+        "url": "",
+        "username": "breakcoreWTF",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-11-14T10:26:29.000Z",
+        "description": "ᴡᴇʟᴄᴏᴍᴇ ᴛᴏ ᴍʏ ᴘᴀɢᴇ😈\nʜᴀᴢʙɪɴʜᴏᴛᴇʟ / ʜᴇʟʟᴜᴠᴀʙᴏꜱꜱ / ᴛᴀᴅᴄ\nᴊᴀᴘᴀɴᴇꜱᴇ 🇯🇵 ᴇɴɢʟɪꜱʜ ᴠɪᴀ ᴛʀᴀɴꜱʟᴀᴛᴏʀ",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/sb_kida?igsh=b…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/sb_kida?igsh=b2Q3cmExN2tkZDZh&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/LbwlRfi6Dt"
+              }
+            ]
+          }
+        },
+        "id": "1857007047981580288",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2091164819223409118",
+        "name": "好きだ",
+        "pinned_tweet_id": "2057786193786663258",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1857007047981580288/1779110145",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056362903687892992/vt7ZOnop_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 68,
+          "following_count": 70,
+          "like_count": 1496,
+          "listed_count": 2,
+          "media_count": 115,
+          "tweet_count": 565
+        },
+        "url": "https://t.co/LbwlRfi6Dt",
+        "username": "sb_kida",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

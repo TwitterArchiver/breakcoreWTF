@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1964331185590718464",
+    "conversation_id": "2093593050467692701",
+    "created_at": "2026-08-29T06:57:45.000Z",
+    "display_text_range": [
+      15,
+      21
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-29T07:57:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2093593932768940349"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1708039192004247552",
+          "start": 0,
+          "username": "Umi_no_Yami21"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2093593932768940349",
+    "in_reply_to_user_id": "1708039192004247552",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2093593050467692701",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Umi_no_Yami21 ❤️❤️❤️"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2093593050467692701].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2093593050467692701",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.x.com/2/problems/not-authorized-for-resource",
+      "value": "2093593050467692701"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1964331185590718464",
+        "conversation_id": "2093593050467692701",
+        "created_at": "2026-08-29T06:57:45.000Z",
+        "display_text_range": [
+          15,
+          21
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-29T07:57:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093593932768940349"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1708039192004247552",
+              "start": 0,
+              "username": "Umi_no_Yami21"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093593932768940349",
+        "in_reply_to_user_id": "1708039192004247552",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093593050467692701",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Umi_no_Yami21 ❤️❤️❤️"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-09-06T14:13:55.000Z",
+        "description": "叫我筷子就可以了(:3っ )っ\n雜多丨OD丨自傷丨Vocaloid丨maimai丨🏳️‍🌈friendly\n不卖药 互关请私信 取关请双取 不喜欢的直接b\nHH：Vox推し bottom🔁⭕ \nサブ垢＆避難垢→@Hashi_988",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 115,
+                "start": 105,
+                "username": "Hashi_988"
+              }
+            ]
+          }
+        },
+        "id": "1964331185590718464",
+        "is_identity_verified": false,
+        "location": "颅内",
+        "most_recent_tweet_id": "2093593932768940349",
+        "name": "箸",
+        "pinned_tweet_id": "2090132992979284341",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1964331185590718464/1785100910",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074711282427842560/EOM9Puhb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1576,
+          "following_count": 804,
+          "like_count": 43766,
+          "listed_count": 0,
+          "media_count": 443,
+          "tweet_count": 7849
+        },
+        "url": "",
+        "username": "breakcoreWTF",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-09-30T08:41:07.000Z",
+        "description": "@Umi_no_Sub21\n🍓👑/最強無敵連合/ニディガ/APEX\n病み/推し/雑多垢です😸 NZ🇳🇿住んでる\nFAタグ  #うみ描いたよ\nらぶ251→@seto_00a\n 𝑚𝑦 ℎ𝑜𝑛𝑒𝑦→@NISANKA0916\n💍→@you_k1daze",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 69,
+                "start": 62,
+                "tag": "うみ描いたよ"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 13,
+                "start": 0,
+                "username": "Umi_no_Sub21"
+              },
+              {
+                "end": 85,
+                "start": 76,
+                "username": "seto_00a"
+              },
+              {
+                "end": 108,
+                "start": 96,
+                "username": "NISANKA0916"
+              },
+              {
+                "end": 122,
+                "start": 111,
+                "username": "you_k1daze"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/kpqoy8snyjntyf…",
+                "end": 23,
+                "expanded_url": "https://marshmallow-qa.com/kpqoy8snyjntyf9?t=ZBa2HL&utm_medium=url_text&utm_source=promotion",
+                "start": 0,
+                "url": "https://t.co/7FHLNSS8nq"
+              }
+            ]
+          }
+        },
+        "id": "1708039192004247552",
+        "is_identity_verified": false,
+        "location": "返信遅い時もあれば早い時もある",
+        "most_recent_tweet_id": "2070959651353657516",
+        "name": "うみ",
+        "pinned_tweet_id": "2037122609180299411",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1708039192004247552/1771575506",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2086446537329238016/NKN5HH-W_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 1024,
+          "following_count": 998,
+          "like_count": 59371,
+          "listed_count": 43,
+          "media_count": 470,
+          "tweet_count": 15352
+        },
+        "url": "https://t.co/7FHLNSS8nq",
+        "username": "Umi_no_Yami21",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,360 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2095685557804527616"
+      ],
+      "media_source_tweet_id": [
+        "2095685587017863642"
+      ]
+    },
+    "author_id": "1964331185590718464",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2095723935287615566",
+    "created_at": "2026-09-04T04:01:37.000Z",
+    "display_text_range": [
+      0,
+      40
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-04T05:01:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2095723935287615566"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1435818847815176193",
+          "start": 3,
+          "username": "hongchenfei"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/VU40E05VMN",
+          "end": 40,
+          "expanded_url": "https://x.com/hongchenfei/status/2095685587017863642/video/1",
+          "media_key": "13_2095685557804527616",
+          "start": 17,
+          "url": "https://t.co/VU40E05VMN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095723935287615566",
+    "lang": "zxx",
+    "media_metadata": [
+      {
+        "media_key": "13_2095685557804527616"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 101
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095685587017863642",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hongchenfei: https://t.co/VU40E05VMN"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 10054,
+        "height": 864,
+        "media_key": "13_2095685557804527616",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2095685557804527616/img/K7Ges6O5HHxc2xHD.jpg",
+        "public_metrics": {
+          "view_count": 5425
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2095685557804527616/vid/avc1/320x556/F0phQcdLyWMV6y48.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2095685557804527616/vid/avc1/496x864/AxzQEUlki5Qrfte-.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2095685557804527616/pl/MiN7qLC3FLzAN0-e.m3u8?v=cfc"
+          }
+        ],
+        "width": 496
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2095685557804527616"
+          ],
+          "media_source_tweet_id": [
+            "2095685587017863642"
+          ]
+        },
+        "author_id": "1964331185590718464",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2095723935287615566",
+        "created_at": "2026-09-04T04:01:37.000Z",
+        "display_text_range": [
+          0,
+          40
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-04T05:01:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095723935287615566"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1435818847815176193",
+              "start": 3,
+              "username": "hongchenfei"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/VU40E05VMN",
+              "end": 40,
+              "expanded_url": "https://x.com/hongchenfei/status/2095685587017863642/video/1",
+              "media_key": "13_2095685557804527616",
+              "start": 17,
+              "url": "https://t.co/VU40E05VMN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095723935287615566",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "13_2095685557804527616"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 101
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095685587017863642",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hongchenfei: https://t.co/VU40E05VMN"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2095685557804527616"
+          ]
+        },
+        "author_id": "1435818847815176193",
+        "conversation_id": "2095685587017863642",
+        "created_at": "2026-09-04T01:29:14.000Z",
+        "display_text_range": [
+          0,
+          0
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-04T02:29:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095685587017863642"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/VU40E05VMN",
+              "end": 23,
+              "expanded_url": "https://x.com/hongchenfei/status/2095685587017863642/video/1",
+              "media_key": "13_2095685557804527616",
+              "start": 0,
+              "url": "https://t.co/VU40E05VMN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095685587017863642",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "13_2095685557804527616"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 81,
+          "impression_count": 15145,
+          "like_count": 531,
+          "quote_count": 15,
+          "reply_count": 6,
+          "retweet_count": 101
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/VU40E05VMN"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-09-06T14:13:55.000Z",
+        "description": "叫我筷子就可以了(:3っ )っ\n雜多丨OD丨自傷丨Vocaloid丨maimai丨🏳️‍🌈friendly\n不卖药 眼熟回关 取关请双取 不喜欢的直接b\nサブ垢＆避難垢→@Hashi_988",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 95,
+                "start": 85,
+                "username": "Hashi_988"
+              }
+            ]
+          }
+        },
+        "id": "1964331185590718464",
+        "is_identity_verified": false,
+        "location": "颅内",
+        "most_recent_tweet_id": "2095723935287615566",
+        "name": "箸",
+        "pinned_tweet_id": "2090132992979284341",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1964331185590718464/1785100910",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2093963390620487680/sATuTGb4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1602,
+          "following_count": 799,
+          "like_count": 45968,
+          "listed_count": 0,
+          "media_count": 453,
+          "tweet_count": 8180
+        },
+        "url": "",
+        "username": "breakcoreWTF",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-09-09T04:14:43.000Z",
+        "description": "https://t.co/kKkoW5124B",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "tiktok.com/@hongchenfei?_…",
+                "end": 23,
+                "expanded_url": "https://www.tiktok.com/@hongchenfei?_r=1&_t=ZS-93oZgR9Kbzh",
+                "start": 0,
+                "url": "https://t.co/kKkoW5124B"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@hongchenfei?s…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/@hongchenfei?si=pn0Uj4I4xbvXxJTB",
+                "start": 0,
+                "url": "https://t.co/U0wojsFaQj"
+              }
+            ]
+          }
+        },
+        "id": "1435818847815176193",
+        "is_identity_verified": false,
+        "location": "Macau",
+        "most_recent_tweet_id": "2095685587017863642",
+        "name": "红尘飞",
+        "pinned_tweet_id": "2052063591604617497",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1435818847815176193/1706025599",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055439218655260672/fZAfmQLk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5868,
+          "following_count": 90,
+          "like_count": 3268,
+          "listed_count": 2,
+          "media_count": 1002,
+          "tweet_count": 1097
+        },
+        "url": "https://t.co/U0wojsFaQj",
+        "username": "hongchenfei",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

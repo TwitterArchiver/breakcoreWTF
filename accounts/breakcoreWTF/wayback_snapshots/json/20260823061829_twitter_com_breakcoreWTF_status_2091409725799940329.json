@@ -1,0 +1,359 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2091182207062929408"
+      ],
+      "media_source_tweet_id": [
+        "2091182764985094398"
+      ]
+    },
+    "author_id": "1964331185590718464",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2091409725799940329",
+    "created_at": "2026-08-23T06:18:29.000Z",
+    "display_text_range": [
+      0,
+      53
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-23T07:18:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091409725799940329"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1512976991976402949",
+          "start": 3,
+          "username": "bghtnya"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/caqiFzxtCT",
+          "end": 53,
+          "expanded_url": "https://x.com/bghtnya/status/2091182764985094398/video/1",
+          "media_key": "13_2091182207062929408",
+          "start": 30,
+          "url": "https://t.co/caqiFzxtCT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091409725799940329",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "13_2091182207062929408"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 15
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091182764985094398",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @bghtnya: 药圈金曲兼世界名曲《别惹xyn》 https://t.co/caqiFzxtCT"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 73680,
+        "height": 1920,
+        "media_key": "13_2091182207062929408",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2091182207062929408/img/DNoj-a_Tv9dNG9wt.jpg",
+        "public_metrics": {
+          "view_count": 6341
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2091182207062929408/vid/avc1/1080x1920/fQGSURP7Ilo_LnS2.mp4"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2091182207062929408/vid/avc1/320x568/zYkKSUe2JB7f4N07.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2091182207062929408/vid/avc1/480x852/Yfl6sjp5_tKRSgJ2.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2091182207062929408/vid/avc1/720x1280/y1zRAn_70o9lTHsk.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2091182207062929408/pl/7olRoCtFtsoVnqBL.m3u8?v=d40"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2091182207062929408"
+          ],
+          "media_source_tweet_id": [
+            "2091182764985094398"
+          ]
+        },
+        "author_id": "1964331185590718464",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2091409725799940329",
+        "created_at": "2026-08-23T06:18:29.000Z",
+        "display_text_range": [
+          0,
+          53
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-23T07:18:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091409725799940329"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1512976991976402949",
+              "start": 3,
+              "username": "bghtnya"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/caqiFzxtCT",
+              "end": 53,
+              "expanded_url": "https://x.com/bghtnya/status/2091182764985094398/video/1",
+              "media_key": "13_2091182207062929408",
+              "start": 30,
+              "url": "https://t.co/caqiFzxtCT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091409725799940329",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2091182207062929408"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 15
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091182764985094398",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @bghtnya: 药圈金曲兼世界名曲《别惹xyn》 https://t.co/caqiFzxtCT"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2091182207062929408"
+          ]
+        },
+        "author_id": "1512976991976402949",
+        "conversation_id": "2091182764985094398",
+        "created_at": "2026-08-22T15:16:38.000Z",
+        "display_text_range": [
+          0,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-22T16:16:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091182764985094398"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/caqiFzxtCT",
+              "end": 40,
+              "expanded_url": "https://x.com/bghtnya/status/2091182764985094398/video/1",
+              "media_key": "13_2091182207062929408",
+              "start": 17,
+              "url": "https://t.co/caqiFzxtCT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091182764985094398",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2091182207062929408"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 75,
+          "impression_count": 10000,
+          "like_count": 190,
+          "quote_count": 5,
+          "reply_count": 40,
+          "retweet_count": 15
+        },
+        "reply_settings": "everyone",
+        "text": "药圈金曲兼世界名曲《别惹xyn》 https://t.co/caqiFzxtCT"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-09-06T14:13:55.000Z",
+        "description": "叫我筷子就可以了(:3っ )っ\n雜多丨OD丨自傷丨Vocaloid丨maimai丨🏳️‍🌈friendly\n不卖药 互关私信 取关请双取 不喜欢的直接b\nHH：Vox推し bottom🔁⭕ \nサブ垢＆避難垢→@Hashi_988",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 114,
+                "start": 104,
+                "username": "Hashi_988"
+              }
+            ]
+          }
+        },
+        "id": "1964331185590718464",
+        "is_identity_verified": false,
+        "location": "颅内",
+        "most_recent_tweet_id": "2091409725799940329",
+        "name": "箸",
+        "pinned_tweet_id": "2090132992979284341",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1964331185590718464/1785100910",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074711282427842560/EOM9Puhb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1575,
+          "following_count": 800,
+          "like_count": 41923,
+          "listed_count": 0,
+          "media_count": 423,
+          "tweet_count": 7488
+        },
+        "url": "",
+        "username": "breakcoreWTF",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "📖🖥 大一计算机 /  🍰1989.06.04 /  🧊🔥 冰棍必须是烫的！/  🍥 断续含糖  / 🏳‍⚧🏳️‍🌈  无性别or跨女同 / 🦋 INFP-A  /   Ⓐ☭ 无政府共产主义   /   🪨登越无人见闻顶，重置五岳三山名",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "mfuns.net/member/4328",
+                "end": 23,
+                "expanded_url": "https://mfuns.net/member/4328",
+                "start": 0,
+                "url": "https://t.co/o4J1P8mtmq"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "is_identity_verified": false,
+        "location": "https://github.com/bghtnya",
+        "most_recent_tweet_id": "2091388667206185159",
+        "name": "冰棍好烫喵 🍥🧊🍔🍟🍜🍣🍙🍧🍮🍩☕️💊🤤",
+        "pinned_tweet_id": "2056035833543815506",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1512976991976402949/1688735742",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055187971880759296/_-CqoRg3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10620,
+          "following_count": 2326,
+          "like_count": 182285,
+          "listed_count": 20,
+          "media_count": 4089,
+          "tweet_count": 49915
+        },
+        "url": "https://t.co/o4J1P8mtmq",
+        "username": "bghtnya",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

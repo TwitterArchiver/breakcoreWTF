@@ -1,0 +1,873 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1964331185590718464",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1253730139352887296",
+          "name": "BadBoyHalo"
+        }
+      },
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1253784072461008896",
+          "name": "Skeppy"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Influencers who create content on digital platforms",
+          "id": "120",
+          "name": "Digital Creator"
+        },
+        "entity": {
+          "id": "1253730139352887296",
+          "name": "BadBoyHalo"
+        }
+      },
+      {
+        "domain": {
+          "description": "Influencers who create content on digital platforms",
+          "id": "120",
+          "name": "Digital Creator"
+        },
+        "entity": {
+          "id": "1253784072461008896",
+          "name": "Skeppy"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839543456678596608",
+          "name": "Digital creators"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming Personalities & Esports Players",
+          "id": "1146103171086819328",
+          "name": "Gaming influencers"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1253730139352887296",
+          "name": "BadBoyHalo"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1253784072461008896",
+          "name": "Skeppy"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1287879055191052288",
+          "name": "Gaming content creators"
+        }
+      }
+    ],
+    "conversation_id": "2092537848461246644",
+    "created_at": "2026-08-26T16:51:21.000Z",
+    "display_text_range": [
+      51,
+      58
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-26T17:51:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092656156242223497"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2091124113561546752",
+          "start": 0,
+          "username": "skephalo487487"
+        },
+        {
+          "end": 23,
+          "id": "1119459925288267776",
+          "start": 16,
+          "username": "Skeppy"
+        },
+        {
+          "end": 35,
+          "id": "628875141",
+          "start": 24,
+          "username": "BadBoyHalo"
+        },
+        {
+          "end": 50,
+          "id": "1339363502134337538",
+          "start": 36,
+          "username": "SaintsofGames"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092656156242223497",
+    "in_reply_to_user_id": "2091124113561546752",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092537848461246644",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@skephalo487487 @Skeppy @BadBoyHalo @SaintsofGames 太帅了两个主人"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2092537825212129280",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQowELbWYAATxE1.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1706,
+        "media_key": "3_2092537825224732672",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQowELeWsAAMakH.jpg",
+        "width": 1280
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2092537825329655809",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQowEL3XsAE3GpA.jpg",
+        "width": 1528
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1964331185590718464",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1253730139352887296",
+              "name": "BadBoyHalo"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1253784072461008896",
+              "name": "Skeppy"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Influencers who create content on digital platforms",
+              "id": "120",
+              "name": "Digital Creator"
+            },
+            "entity": {
+              "id": "1253730139352887296",
+              "name": "BadBoyHalo"
+            }
+          },
+          {
+            "domain": {
+              "description": "Influencers who create content on digital platforms",
+              "id": "120",
+              "name": "Digital Creator"
+            },
+            "entity": {
+              "id": "1253784072461008896",
+              "name": "Skeppy"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543456678596608",
+              "name": "Digital creators"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming Personalities & Esports Players",
+              "id": "1146103171086819328",
+              "name": "Gaming influencers"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1253730139352887296",
+              "name": "BadBoyHalo"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1253784072461008896",
+              "name": "Skeppy"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1287879055191052288",
+              "name": "Gaming content creators"
+            }
+          }
+        ],
+        "conversation_id": "2092537848461246644",
+        "created_at": "2026-08-26T16:51:21.000Z",
+        "display_text_range": [
+          51,
+          58
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T17:51:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092656156242223497"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2091124113561546752",
+              "start": 0,
+              "username": "skephalo487487"
+            },
+            {
+              "end": 23,
+              "id": "1119459925288267776",
+              "start": 16,
+              "username": "Skeppy"
+            },
+            {
+              "end": 35,
+              "id": "628875141",
+              "start": 24,
+              "username": "BadBoyHalo"
+            },
+            {
+              "end": 50,
+              "id": "1339363502134337538",
+              "start": 36,
+              "username": "SaintsofGames"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092656156242223497",
+        "in_reply_to_user_id": "2091124113561546752",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092537848461246644",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@skephalo487487 @Skeppy @BadBoyHalo @SaintsofGames 太帅了两个主人"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2092537825212129280",
+            "3_2092537825224732672",
+            "3_2092537825329655809"
+          ]
+        },
+        "author_id": "2091124113561546752",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1253730139352887296",
+              "name": "BadBoyHalo"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1253784072461008896",
+              "name": "Skeppy"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Influencers who create content on digital platforms",
+              "id": "120",
+              "name": "Digital Creator"
+            },
+            "entity": {
+              "id": "1253730139352887296",
+              "name": "BadBoyHalo"
+            }
+          },
+          {
+            "domain": {
+              "description": "Influencers who create content on digital platforms",
+              "id": "120",
+              "name": "Digital Creator"
+            },
+            "entity": {
+              "id": "1253784072461008896",
+              "name": "Skeppy"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543456678596608",
+              "name": "Digital creators"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming Personalities & Esports Players",
+              "id": "1146103171086819328",
+              "name": "Gaming influencers"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1253730139352887296",
+              "name": "BadBoyHalo"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1253784072461008896",
+              "name": "Skeppy"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1287879055191052288",
+              "name": "Gaming content creators"
+            }
+          }
+        ],
+        "conversation_id": "2092537848461246644",
+        "created_at": "2026-08-26T09:01:15.000Z",
+        "display_text_range": [
+          0,
+          39
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T10:01:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092537848461246644"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 11,
+              "start": 4,
+              "tag": "skeppy"
+            },
+            {
+              "end": 23,
+              "start": 12,
+              "tag": "badboyhalo"
+            },
+            {
+              "end": 34,
+              "start": 25,
+              "tag": "skephalo"
+            },
+            {
+              "end": 39,
+              "start": 35,
+              "tag": "cos"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Yae1Fas5QW",
+              "end": 63,
+              "expanded_url": "https://x.com/skephalo487487/status/2092537848461246644/photo/1",
+              "media_key": "3_2092537825212129280",
+              "start": 40,
+              "url": "https://t.co/Yae1Fas5QW"
+            },
+            {
+              "display_url": "pic.x.com/Yae1Fas5QW",
+              "end": 63,
+              "expanded_url": "https://x.com/skephalo487487/status/2092537848461246644/photo/1",
+              "media_key": "3_2092537825224732672",
+              "start": 40,
+              "url": "https://t.co/Yae1Fas5QW"
+            },
+            {
+              "display_url": "pic.x.com/Yae1Fas5QW",
+              "end": 63,
+              "expanded_url": "https://x.com/skephalo487487/status/2092537848461246644/photo/1",
+              "media_key": "3_2092537825329655809",
+              "start": 40,
+              "url": "https://t.co/Yae1Fas5QW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092537848461246644",
+        "lang": "qme",
+        "media_metadata": [
+          {
+            "media_key": "3_2092537825212129280"
+          },
+          {
+            "media_key": "3_2092537825224732672"
+          },
+          {
+            "media_key": "3_2092537825329655809"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 733,
+          "like_count": 108,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "😡🤓😏\n#skeppy #badboyhalo  #skephalo #cos https://t.co/Yae1Fas5QW"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-09-06T14:13:55.000Z",
+        "description": "叫我筷子就可以了(:3っ )っ\n雜多丨OD丨自傷丨Vocaloid丨maimai丨🏳️‍🌈friendly\n不卖药 互关私信 取关请双取 不喜欢的直接b\nHH：Vox推し bottom🔁⭕ \nサブ垢＆避難垢→@Hashi_988",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 114,
+                "start": 104,
+                "username": "Hashi_988"
+              }
+            ]
+          }
+        },
+        "id": "1964331185590718464",
+        "is_identity_verified": false,
+        "location": "颅内",
+        "most_recent_tweet_id": "2092656156242223497",
+        "name": "箸",
+        "pinned_tweet_id": "2090132992979284341",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1964331185590718464/1785100910",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074711282427842560/EOM9Puhb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1576,
+          "following_count": 805,
+          "like_count": 43061,
+          "listed_count": 0,
+          "media_count": 437,
+          "tweet_count": 7707
+        },
+        "url": "",
+        "username": "breakcoreWTF",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-22T11:25:24.000Z",
+        "description": "💙🖤\nskephalo最严厉的支持人",
+        "id": "2091124113561546752",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2092633867454677185",
+        "name": "厌离",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2091124113561546752/1787753224",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2091125029098414081/c3vRYUAQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 48,
+          "like_count": 455,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 78
+        },
+        "url": "",
+        "username": "skephalo487487",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2019-04-20T04:36:59.000Z",
+        "description": "",
+        "id": "1119459925288267776",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "1709682901678235787",
+        "name": "Skeppy",
+        "pinned_tweet_id": "1221232721587994625",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1340485939626463235/7v6vswcR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1917372,
+          "following_count": 931,
+          "like_count": 7122,
+          "listed_count": 2907,
+          "media_count": 0,
+          "tweet_count": 0
+        },
+        "url": "",
+        "username": "Skeppy",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2012-07-06T22:58:33.000Z",
+        "description": "14 Memes are not appreciated... Merch:https://t.co/kYAtFqJ3X2\nTwitch: https://t.co/iTDEztwJPl\nDiscord: https://t.co/q8tuge9C7T pfp by: @chicheesticks",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 149,
+                "start": 135,
+                "username": "chicheesticks"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "BadBoyHaloShop.com",
+                "end": 61,
+                "expanded_url": "http://BadBoyHaloShop.com",
+                "start": 38,
+                "url": "https://t.co/kYAtFqJ3X2"
+              },
+              {
+                "display_url": "twitch.tv/badboyhalo",
+                "end": 93,
+                "expanded_url": "http://twitch.tv/badboyhalo",
+                "start": 70,
+                "url": "https://t.co/iTDEztwJPl"
+              },
+              {
+                "display_url": "discord.gg/badboyhalo",
+                "end": 126,
+                "expanded_url": "http://discord.gg/badboyhalo",
+                "start": 103,
+                "url": "https://t.co/q8tuge9C7T"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/thesaintsofgam…",
+                "end": 23,
+                "expanded_url": "http://www.youtube.com/thesaintsofgames",
+                "start": 0,
+                "url": "https://t.co/7v4dTgyUIk"
+              }
+            ]
+          }
+        },
+        "id": "628875141",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2080152628479119588",
+        "name": "BadBoyHalo",
+        "pinned_tweet_id": "1847412978099847633",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/628875141/1680578407",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1283998963662716933/roT1NUE0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3059911,
+          "following_count": 1297,
+          "like_count": 24765,
+          "listed_count": 3971,
+          "media_count": 1563,
+          "tweet_count": 10580
+        },
+        "url": "https://t.co/7v4dTgyUIk",
+        "username": "BadBoyHalo",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-12-17T00:16:36.000Z",
+        "description": "BadBoyHalo's 2nd Account\n14 Memes are not appreciated... Merch:https://t.co/RqfOxOxRCA Discord:https://t.co/4r3I9ry91q pfp by: @chicheesticks\nbanner by: @JustShinyPaw",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 141,
+                "start": 127,
+                "username": "chicheesticks"
+              },
+              {
+                "end": 166,
+                "start": 153,
+                "username": "JustShinyPaw"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "BadBoyHaloShop.com",
+                "end": 86,
+                "expanded_url": "http://BadBoyHaloShop.com",
+                "start": 63,
+                "url": "https://t.co/RqfOxOxRCA"
+              },
+              {
+                "display_url": "discord.gg/badboyhalo",
+                "end": 118,
+                "expanded_url": "http://discord.gg/badboyhalo",
+                "start": 95,
+                "url": "https://t.co/4r3I9ry91q"
+              }
+            ]
+          }
+        },
+        "id": "1339363502134337538",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2091289441092411538",
+        "name": "BadBoyHalo",
+        "pinned_tweet_id": "1721819254758998048",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1339363502134337538/1608178391",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1339521178399109121/Bv9fXno-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1057002,
+          "following_count": 63,
+          "like_count": 450,
+          "listed_count": 2138,
+          "media_count": 62,
+          "tweet_count": 515
+        },
+        "url": "",
+        "username": "SaintsofGames",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

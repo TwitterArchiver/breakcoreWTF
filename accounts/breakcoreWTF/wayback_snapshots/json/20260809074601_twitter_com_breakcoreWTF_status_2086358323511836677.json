@@ -1,0 +1,363 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2086163605775581184"
+      ],
+      "media_source_tweet_id": [
+        "2086164348209365385"
+      ]
+    },
+    "author_id": "1964331185590718464",
+    "conversation_id": "2086358323511836677",
+    "created_at": "2026-08-09T07:46:01.000Z",
+    "display_text_range": [
+      0,
+      113
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-09T08:46:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2086358323511836677"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 69,
+          "start": 57,
+          "tag": "RadioStatic"
+        },
+        {
+          "end": 76,
+          "start": 70,
+          "tag": "voxal"
+        },
+        {
+          "end": 89,
+          "start": 77,
+          "tag": "murdermedia"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1261321289618214915",
+          "start": 3,
+          "username": "emmmm06146775"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/8lR3LhFq2y",
+          "end": 113,
+          "expanded_url": "https://x.com/emmmm06146775/status/2086164348209365385/video/1",
+          "media_key": "7_2086163605775581184",
+          "start": 90,
+          "url": "https://t.co/8lR3LhFq2y"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086358323511836677",
+    "lang": "en",
+    "media_metadata": [
+      {
+        "media_key": "7_2086163605775581184"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 82
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086164348209365385",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @emmmm06146775: Alastor should apologize to his dog!😭 #RadioStatic #voxal #murdermedia https://t.co/8lR3LhFq2y"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 61000,
+        "height": 1152,
+        "media_key": "7_2086163605775581184",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2086163605775581184/pu/img/b0lfJMujTT424YY-.jpg",
+        "public_metrics": {
+          "view_count": 3467
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2086163605775581184/pu/vid/avc1/320x512/DskFMP5V-a_VyT4I.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2086163605775581184/pu/vid/avc1/480x768/nu_BCcTDvPHxFBUS.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2086163605775581184/pu/vid/avc1/720x1152/hd58uq0enVAGdRJQ.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2086163605775581184/pu/pl/4d9CPd-7kg1Zfgp8.m3u8?tag=12&v=6b7"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2086163605775581184"
+          ]
+        },
+        "author_id": "1261321289618214915",
+        "conversation_id": "2086164348209365385",
+        "created_at": "2026-08-08T18:55:14.000Z",
+        "display_text_range": [
+          0,
+          70
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-08T19:55:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086164348209365385"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 50,
+              "start": 38,
+              "tag": "RadioStatic"
+            },
+            {
+              "end": 57,
+              "start": 51,
+              "tag": "voxal"
+            },
+            {
+              "end": 70,
+              "start": 58,
+              "tag": "murdermedia"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/8lR3LhFq2y",
+              "end": 94,
+              "expanded_url": "https://x.com/emmmm06146775/status/2086164348209365385/video/1",
+              "media_key": "7_2086163605775581184",
+              "start": 71,
+              "url": "https://t.co/8lR3LhFq2y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086164348209365385",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "7_2086163605775581184"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 148,
+          "impression_count": 5388,
+          "like_count": 632,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 82
+        },
+        "reply_settings": "everyone",
+        "text": "Alastor should apologize to his dog!😭 #RadioStatic #voxal #murdermedia https://t.co/8lR3LhFq2y"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2086163605775581184"
+          ],
+          "media_source_tweet_id": [
+            "2086164348209365385"
+          ]
+        },
+        "author_id": "1964331185590718464",
+        "conversation_id": "2086358323511836677",
+        "created_at": "2026-08-09T07:46:01.000Z",
+        "display_text_range": [
+          0,
+          113
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-09T08:46:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086358323511836677"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 69,
+              "start": 57,
+              "tag": "RadioStatic"
+            },
+            {
+              "end": 76,
+              "start": 70,
+              "tag": "voxal"
+            },
+            {
+              "end": 89,
+              "start": 77,
+              "tag": "murdermedia"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1261321289618214915",
+              "start": 3,
+              "username": "emmmm06146775"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/8lR3LhFq2y",
+              "end": 113,
+              "expanded_url": "https://x.com/emmmm06146775/status/2086164348209365385/video/1",
+              "media_key": "7_2086163605775581184",
+              "start": 90,
+              "url": "https://t.co/8lR3LhFq2y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086358323511836677",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "7_2086163605775581184"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 82
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086164348209365385",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @emmmm06146775: Alastor should apologize to his dog!😭 #RadioStatic #voxal #murdermedia https://t.co/8lR3LhFq2y"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-09-06T14:13:55.000Z",
+        "description": "叫我筷子就可以了(:3っ )っ\nOD丨🔪丨Vocaloid丨音游丨LGBTQ+friendly\n不卖药 只看互关私信\n不喜欢的直接b 查成分回fo 取关请双取\n备用机、愚痴垢→@Hashi_988",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 98,
+                "start": 88,
+                "username": "Hashi_988"
+              }
+            ]
+          }
+        },
+        "id": "1964331185590718464",
+        "is_identity_verified": false,
+        "location": "颅内",
+        "most_recent_tweet_id": "2086358323511836677",
+        "name": "箸",
+        "pinned_tweet_id": "2086154153508884828",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1964331185590718464/1785100910",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074711282427842560/EOM9Puhb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1432,
+          "following_count": 792,
+          "like_count": 38004,
+          "listed_count": 0,
+          "media_count": 378,
+          "tweet_count": 6735
+        },
+        "url": "",
+        "username": "breakcoreWTF",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-05-15T15:43:59.000Z",
+        "description": "she/her\n20↑\nhere is muko. 🇨🇳\nMy English isn't very good, so I'm using a translator.\n📺📻, top📺, bottom📻固定, No switch.\nYour attitude determines mine.",
+        "id": "1261321289618214915",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2086302388709896442",
+        "name": "mumumu",
+        "pinned_tweet_id": "2086164348209365385",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1261321289618214915/1644144102",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1444202537318432771/c2kYX019_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2706,
+          "following_count": 260,
+          "like_count": 2674,
+          "listed_count": 3,
+          "media_count": 92,
+          "tweet_count": 1041
+        },
+        "url": "",
+        "username": "emmmm06146775",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

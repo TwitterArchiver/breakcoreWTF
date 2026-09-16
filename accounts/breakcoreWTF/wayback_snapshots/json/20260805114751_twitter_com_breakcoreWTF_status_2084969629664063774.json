@@ -1,0 +1,355 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2084598238066397184"
+      ],
+      "media_source_tweet_id": [
+        "2084598333532995954"
+      ]
+    },
+    "author_id": "1964331185590718464",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2084969629664063774",
+    "created_at": "2026-08-05T11:47:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-05T12:47:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084969629664063774"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 40,
+          "start": 34,
+          "tag": "cover"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1270686711354257410",
+          "start": 3,
+          "username": "nyamura_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/DYc9193amY",
+          "end": 96,
+          "expanded_url": "https://x.com/nyamura_/status/2084598333532995954/video/1",
+          "media_key": "13_2084598238066397184",
+          "start": 73,
+          "url": "https://t.co/DYc9193amY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084969629664063774",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 110
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084598333532995954",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @nyamura_: とても素敵な六月でした / eight #cover\n【Remix ver.】\n\n10万再生ありがと〜◝✩ ̖́-︎ https://t.co/DYc9193amY"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 33960,
+        "height": 1080,
+        "media_key": "13_2084598238066397184",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2084598238066397184/img/PJ2wDLb7rBI05M-I.jpg",
+        "public_metrics": {
+          "view_count": 3651
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2084598238066397184/vid/avc1/1920x1080/O6tfuWf9Lu5kTXWW.mp4"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2084598238066397184/vid/avc1/480x270/kGUM6YeS73pYh-oU.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2084598238066397184/vid/avc1/640x360/GVfxaRP8BMOB4eWq.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2084598238066397184/pl/FVxz2DgxhiOZKANN.m3u8?v=1f7"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2084598238066397184/vid/avc1/1280x720/YZrJgPfUvVHxoNB-.mp4"
+          }
+        ],
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2084598238066397184"
+          ]
+        },
+        "author_id": "1270686711354257410",
+        "conversation_id": "2084598333532995954",
+        "created_at": "2026-08-04T11:12:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T12:12:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084598333532995954"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 26,
+              "start": 20,
+              "tag": "cover"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/DYc9193amY",
+              "end": 82,
+              "expanded_url": "https://x.com/nyamura_/status/2084598333532995954/video/1",
+              "media_key": "13_2084598238066397184",
+              "start": 59,
+              "url": "https://t.co/DYc9193amY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084598333532995954",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 28,
+          "impression_count": 15980,
+          "like_count": 609,
+          "quote_count": 11,
+          "reply_count": 3,
+          "retweet_count": 110
+        },
+        "reply_settings": "everyone",
+        "text": "とても素敵な六月でした / eight #cover\n【Remix ver.】\n\n10万再生ありがと〜◝✩ ̖́-︎ https://t.co/DYc9193amY"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2084598238066397184"
+          ],
+          "media_source_tweet_id": [
+            "2084598333532995954"
+          ]
+        },
+        "author_id": "1964331185590718464",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2084969629664063774",
+        "created_at": "2026-08-05T11:47:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T12:47:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084969629664063774"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 40,
+              "start": 34,
+              "tag": "cover"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1270686711354257410",
+              "start": 3,
+              "username": "nyamura_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/DYc9193amY",
+              "end": 96,
+              "expanded_url": "https://x.com/nyamura_/status/2084598333532995954/video/1",
+              "media_key": "13_2084598238066397184",
+              "start": 73,
+              "url": "https://t.co/DYc9193amY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084969629664063774",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 110
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084598333532995954",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @nyamura_: とても素敵な六月でした / eight #cover\n【Remix ver.】\n\n10万再生ありがと〜◝✩ ̖́-︎ https://t.co/DYc9193amY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-06T14:13:55.000Z",
+        "description": "叫我筷子就可以了(:3っ )っ\nOD丨🔪丨Vocaloid丨音游丨LGBTQ+friendly\n不卖药 只看互关私信 我很穷欢迎投喂\n不喜欢的直接b 查成分同类回fo 取关请双取\n备用机→@Hashi_988",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 104,
+                "start": 94,
+                "username": "Hashi_988"
+              }
+            ]
+          }
+        },
+        "id": "1964331185590718464",
+        "location": "颅内",
+        "name": "箸",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074711282427842560/EOM9Puhb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1386,
+          "following_count": 815,
+          "like_count": 36399,
+          "listed_count": 0,
+          "media_count": 365,
+          "tweet_count": 6457
+        },
+        "url": "",
+        "username": "breakcoreWTF",
+        "verified": false
+      },
+      {
+        "created_at": "2020-06-10T11:58:23.000Z",
+        "description": "2027年2月27日　2ndワンマンやります⟡.·\n⟡ NyxmNix CEO \n⟡ 作詞・作曲・歌唱\n⟡ info @nyamura_info ⟡ fa▶︎ #nyamurart",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 90,
+                "start": 80,
+                "tag": "nyamurart"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 72,
+                "start": 59,
+                "username": "nyamura_info"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/nyamuu",
+                "end": 23,
+                "expanded_url": "https://lit.link/nyamuu",
+                "start": 0,
+                "url": "https://t.co/kRg2hnBslj"
+              }
+            ]
+          }
+        },
+        "id": "1270686711354257410",
+        "location": "▶︎ お仕事・ライブ出演ご依頼はメールにて",
+        "name": "nyamura",
+        "pinned_tweet_id": "2081334317645787195",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081375731075235840/OSAqCXbr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36376,
+          "following_count": 242,
+          "like_count": 11119,
+          "listed_count": 82,
+          "media_count": 469,
+          "tweet_count": 3630
+        },
+        "url": "https://t.co/kRg2hnBslj",
+        "username": "nyamura_",
+        "verified": true
+      }
+    ]
+  }
+}

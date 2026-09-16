@@ -1,0 +1,313 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1964331185590718464",
+    "conversation_id": "2094365981632315723",
+    "created_at": "2026-08-31T12:36:55.000Z",
+    "display_text_range": [
+      12,
+      16
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-31T13:36:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2094404061567328344"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2088949136292982784",
+          "start": 0,
+          "username": "Xiaoyu2133"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094404061567328344",
+    "in_reply_to_user_id": "2088949136292982784",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094365981632315723",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Xiaoyu2133 绷不住了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2094365962380406784",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRCuvxFacAA7dXM.jpg",
+        "width": 943
+      },
+      {
+        "duration_ms": 10041,
+        "height": 1280,
+        "media_key": "13_2094365962413948929",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2094365962413948929/img/m2XaoSeUItH63Su8.jpg",
+        "public_metrics": {
+          "view_count": 52
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2094365962413948929/vid/avc1/320x568/ZUQ-FZ6fYhwxMiCA.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2094365962413948929/vid/avc1/480x852/9lZFw96FBgV4y8AV.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2094365962413948929/vid/avc1/720x1280/yLOXuRIVEVdGCsx-.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2094365962413948929/pl/rCNqVTU3q1n7j3oB.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1964331185590718464",
+        "conversation_id": "2094365981632315723",
+        "created_at": "2026-08-31T12:36:55.000Z",
+        "display_text_range": [
+          12,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-31T13:36:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094404061567328344"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2088949136292982784",
+              "start": 0,
+              "username": "Xiaoyu2133"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094404061567328344",
+        "in_reply_to_user_id": "2088949136292982784",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094365981632315723",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xiaoyu2133 绷不住了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2094365962380406784",
+            "13_2094365962413948929"
+          ]
+        },
+        "author_id": "2088949136292982784",
+        "conversation_id": "2094365981632315723",
+        "created_at": "2026-08-31T10:05:36.000Z",
+        "display_text_range": [
+          0,
+          4
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-31T11:05:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2094365981632315723"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2TNxWFqWpu",
+              "end": 28,
+              "expanded_url": "https://x.com/Xiaoyu2133/status/2094365981632315723/video/1",
+              "media_key": "3_2094365962380406784",
+              "start": 5,
+              "url": "https://t.co/2TNxWFqWpu"
+            },
+            {
+              "display_url": "pic.x.com/2TNxWFqWpu",
+              "end": 28,
+              "expanded_url": "https://x.com/Xiaoyu2133/status/2094365981632315723/video/1",
+              "media_key": "13_2094365962413948929",
+              "start": 5,
+              "url": "https://t.co/2TNxWFqWpu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094365981632315723",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2094365962380406784"
+          },
+          {
+            "media_key": "13_2094365962413948929"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 71,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这个吗？ https://t.co/2TNxWFqWpu"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-09-06T14:13:55.000Z",
+        "description": "叫我筷子就可以了(:3っ )っ\n雜多丨OD丨自傷丨Vocaloid丨maimai丨🏳️‍🌈friendly\n不卖药 互关请私信 取关请双取 不喜欢的直接b\nHH：Vox推し bottom🔁⭕ \nサブ垢＆避難垢→@Hashi_988",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 115,
+                "start": 105,
+                "username": "Hashi_988"
+              }
+            ]
+          }
+        },
+        "id": "1964331185590718464",
+        "is_identity_verified": false,
+        "location": "颅内",
+        "most_recent_tweet_id": "2094404061567328344",
+        "name": "箸",
+        "pinned_tweet_id": "2090132992979284341",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1964331185590718464/1785100910",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2093963390620487680/sATuTGb4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1586,
+          "following_count": 807,
+          "like_count": 44721,
+          "listed_count": 0,
+          "media_count": 448,
+          "tweet_count": 7974
+        },
+        "url": "",
+        "username": "breakcoreWTF",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-16T11:23:52.000Z",
+        "description": "世界大爆炸，我是小魚，rin（莉音）\n我被影子dan了，回不了评论\n量產&地雷💊🩸双相\n墙内外割席，但是刷到墙外可以和我互关🥰\n前世@xyv__3\n我是个很无聊的人，全友好，微微查成分互fo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 73,
+                "start": 66,
+                "username": "xyv__3"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/3600%E7%99%BE%…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/3600%E7%99%BE%E6%96%A4",
+                "start": 0,
+                "url": "https://t.co/nrIyfpxAiB"
+              }
+            ]
+          }
+        },
+        "id": "2088949136292982784",
+        "is_identity_verified": false,
+        "location": "我不收门槛…别问我了",
+        "most_recent_tweet_id": "2094383566797046082",
+        "name": "3600斤3.0",
+        "pinned_tweet_id": "2093024449734049907",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2088949136292982784/1786879650",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088957496744677376/0NRh62QR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 133,
+          "following_count": 106,
+          "like_count": 125,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 102
+        },
+        "url": "https://t.co/nrIyfpxAiB",
+        "username": "Xiaoyu2133",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

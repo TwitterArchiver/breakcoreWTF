@@ -1,0 +1,366 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2090050797937520640",
+        "3_2090050797937528832"
+      ],
+      "media_source_tweet_id": [
+        "2090050800470892889",
+        "2090050800470892889"
+      ]
+    },
+    "author_id": "1964331185590718464",
+    "conversation_id": "2090164794435486108",
+    "created_at": "2026-08-19T19:51:35.000Z",
+    "display_text_range": [
+      0,
+      72
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-19T20:51:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090164794435486108"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1756680490663202816",
+          "start": 3,
+          "username": "thedotcomboom"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/mUDTCBvoWj",
+          "end": 72,
+          "expanded_url": "https://x.com/thedotcomboom/status/2090050800470892889/photo/1",
+          "media_key": "3_2090050797937520640",
+          "start": 49,
+          "url": "https://t.co/mUDTCBvoWj"
+        },
+        {
+          "display_url": "pic.x.com/mUDTCBvoWj",
+          "end": 72,
+          "expanded_url": "https://x.com/thedotcomboom/status/2090050800470892889/photo/1",
+          "media_key": "3_2090050797937528832",
+          "start": 49,
+          "url": "https://t.co/mUDTCBvoWj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090164794435486108",
+    "lang": "en",
+    "media_metadata": [
+      {
+        "media_key": "3_2090050797937520640"
+      },
+      {
+        "media_key": "3_2090050797937528832"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 74
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090050800470892889",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @thedotcomboom: THIS is a 50 year old man 😭😭😭 https://t.co/mUDTCBvoWj"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 828,
+        "media_key": "3_2090050797937520640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQFaII2WcAAJCDo.jpg",
+        "width": 1196
+      },
+      {
+        "height": 828,
+        "media_key": "3_2090050797937528832",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQFaII2WkAAJCoB.jpg",
+        "width": 1146
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2090050797937520640",
+            "3_2090050797937528832"
+          ],
+          "media_source_tweet_id": [
+            "2090050800470892889",
+            "2090050800470892889"
+          ]
+        },
+        "author_id": "1964331185590718464",
+        "conversation_id": "2090164794435486108",
+        "created_at": "2026-08-19T19:51:35.000Z",
+        "display_text_range": [
+          0,
+          72
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T20:51:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090164794435486108"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1756680490663202816",
+              "start": 3,
+              "username": "thedotcomboom"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/mUDTCBvoWj",
+              "end": 72,
+              "expanded_url": "https://x.com/thedotcomboom/status/2090050800470892889/photo/1",
+              "media_key": "3_2090050797937520640",
+              "start": 49,
+              "url": "https://t.co/mUDTCBvoWj"
+            },
+            {
+              "display_url": "pic.x.com/mUDTCBvoWj",
+              "end": 72,
+              "expanded_url": "https://x.com/thedotcomboom/status/2090050800470892889/photo/1",
+              "media_key": "3_2090050797937528832",
+              "start": 49,
+              "url": "https://t.co/mUDTCBvoWj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090164794435486108",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2090050797937520640"
+          },
+          {
+            "media_key": "3_2090050797937528832"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 74
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090050800470892889",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @thedotcomboom: THIS is a 50 year old man 😭😭😭 https://t.co/mUDTCBvoWj"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2090050797937520640",
+            "3_2090050797937528832"
+          ]
+        },
+        "author_id": "1756680490663202816",
+        "conversation_id": "2090050800470892889",
+        "created_at": "2026-08-19T12:18:36.000Z",
+        "display_text_range": [
+          0,
+          29
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T13:18:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090050800470892889"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mUDTCBvoWj",
+              "end": 53,
+              "expanded_url": "https://x.com/thedotcomboom/status/2090050800470892889/photo/1",
+              "media_key": "3_2090050797937520640",
+              "start": 30,
+              "url": "https://t.co/mUDTCBvoWj"
+            },
+            {
+              "display_url": "pic.x.com/mUDTCBvoWj",
+              "end": 53,
+              "expanded_url": "https://x.com/thedotcomboom/status/2090050800470892889/photo/1",
+              "media_key": "3_2090050797937528832",
+              "start": 30,
+              "url": "https://t.co/mUDTCBvoWj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090050800470892889",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2090050797937520640"
+          },
+          {
+            "media_key": "3_2090050797937528832"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 30,
+          "impression_count": 3034,
+          "like_count": 418,
+          "quote_count": 8,
+          "reply_count": 5,
+          "retweet_count": 74
+        },
+        "reply_settings": "everyone",
+        "text": "THIS is a 50 year old man 😭😭😭 https://t.co/mUDTCBvoWj"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-09-06T14:13:55.000Z",
+        "description": "叫我筷子就可以了(:3っ )っ\nOD丨🔪丨Vocaloid丨maimai丨🏳️‍🌈friendly\n不卖药 互关私信 取关请双取 不喜欢的直接b\nHH：Vox推し bottom🔁⭕ \n备用机、愚痴垢→@Hashi_988",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 110,
+                "start": 100,
+                "username": "Hashi_988"
+              }
+            ]
+          }
+        },
+        "id": "1964331185590718464",
+        "is_identity_verified": false,
+        "location": "颅内",
+        "most_recent_tweet_id": "2090164794435486108",
+        "name": "箸",
+        "pinned_tweet_id": "2090132992979284341",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1964331185590718464/1785100910",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074711282427842560/EOM9Puhb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1466,
+          "following_count": 780,
+          "like_count": 39810,
+          "listed_count": 0,
+          "media_count": 409,
+          "tweet_count": 7144
+        },
+        "url": "",
+        "username": "breakcoreWTF",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-02-11T14:04:07.000Z",
+        "description": "(16+) I'M 18, artist, editor and, writer 🦌📺 vox irl ⚡️ fat vox connoisseur 🎱🫧 #bottomVox nsfw sometimes & profiction! https://t.co/cf4CrPegkW",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 88,
+                "start": 78,
+                "tag": "bottomVox"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "youtube.com/@thedotcomboom",
+                "end": 141,
+                "expanded_url": "https://youtube.com/@thedotcomboom",
+                "start": 118,
+                "url": "https://t.co/cf4CrPegkW"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "artfight.net/~beggingforbig…",
+                "end": 23,
+                "expanded_url": "https://artfight.net/~beggingforbigmoons",
+                "start": 0,
+                "url": "https://t.co/NazemJb7ls"
+              }
+            ]
+          }
+        },
+        "id": "1756680490663202816",
+        "is_identity_verified": false,
+        "location": "he/him. ⚠️ autistic+npd.",
+        "most_recent_tweet_id": "2090162164606591256",
+        "name": "vinnie",
+        "pinned_tweet_id": "2069434813585535482",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1756680490663202816/1784341826",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089455870467780608/t4OBujDY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 604,
+          "following_count": 520,
+          "like_count": 31436,
+          "listed_count": 6,
+          "media_count": 1400,
+          "tweet_count": 14200
+        },
+        "url": "https://t.co/NazemJb7ls",
+        "username": "thedotcomboom",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

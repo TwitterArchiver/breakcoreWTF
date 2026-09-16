@@ -1,0 +1,311 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1964331185590718464",
+    "conversation_id": "2087919791898345682",
+    "created_at": "2026-08-13T15:33:49.000Z",
+    "display_text_range": [
+      15,
+      26
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-13T16:33:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087925599977484558"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1533264111814860800",
+          "start": 0,
+          "username": "mianhuzhazha1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087925599977484558",
+    "in_reply_to_user_id": "1533264111814860800",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087919791898345682",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mianhuzhazha1 老电给我看看逼快点快点"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2230,
+        "media_key": "3_2087919708872065024",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPnH6bbbQAAcQ4O.jpg",
+        "width": 1675
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1964331185590718464",
+        "conversation_id": "2087919791898345682",
+        "created_at": "2026-08-13T15:33:49.000Z",
+        "display_text_range": [
+          15,
+          26
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T16:33:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087925599977484558"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1533264111814860800",
+              "start": 0,
+              "username": "mianhuzhazha1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087925599977484558",
+        "in_reply_to_user_id": "1533264111814860800",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087919791898345682",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mianhuzhazha1 老电给我看看逼快点快点"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2087919708872065024"
+          ]
+        },
+        "author_id": "1533264111814860800",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "description": "Adult animated web series",
+              "id": "1444043338236104705",
+              "name": "Hazbin Hotel"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1281311833593282560",
+              "name": "Adult animation"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1444046743423762434",
+              "name": "Hazbin Hotel"
+            }
+          },
+          {
+            "domain": {
+              "description": "For global/conceptual TV shows without localization.",
+              "id": "172",
+              "name": "Global TV Show"
+            },
+            "entity": {
+              "id": "1444046743423762434",
+              "name": "Hazbin Hotel"
+            }
+          }
+        ],
+        "conversation_id": "2087919791898345682",
+        "created_at": "2026-08-13T15:10:44.000Z",
+        "display_text_range": [
+          0,
+          21
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T16:10:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087919791898345682"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 15,
+              "start": 0,
+              "tag": "HazbinHotelVox"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/P7M3G7t7on",
+              "end": 45,
+              "expanded_url": "https://x.com/mianhuzhazha1/status/2087919791898345682/photo/1",
+              "media_key": "3_2087919708872065024",
+              "start": 22,
+              "url": "https://t.co/P7M3G7t7on"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087919791898345682",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2087919708872065024"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 48,
+          "like_count": 5,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "#HazbinHotelVox \n来游泳呗 https://t.co/P7M3G7t7on"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-09-06T14:13:55.000Z",
+        "description": "叫我筷子就可以了(:3っ )っ\nOD丨🔪丨Vocaloid丨音游丨LGBTQ+friendly\n不卖药 只看互关私信\n不喜欢的直接b 查成分回fo 取关请双取\n备用机、愚痴垢→@Hashi_988",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 98,
+                "start": 88,
+                "username": "Hashi_988"
+              }
+            ]
+          }
+        },
+        "id": "1964331185590718464",
+        "is_identity_verified": false,
+        "location": "颅内",
+        "most_recent_tweet_id": "2087925599977484558",
+        "name": "箸",
+        "pinned_tweet_id": "2086154153508884828",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1964331185590718464/1785100910",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074711282427842560/EOM9Puhb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1466,
+          "following_count": 794,
+          "like_count": 38681,
+          "listed_count": 0,
+          "media_count": 391,
+          "tweet_count": 6885
+        },
+        "url": "",
+        "username": "breakcoreWTF",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-06-05T01:47:12.000Z",
+        "description": "20↑/onlyChinese🫠\n关于HazbinHotel:🩵bottom📺only🩵\nmainly #alvox❤️💙top🦌bottom📺🔁❎\n大概就是什么都发，喜欢自言自语不用在意，主要意淫电视机被操🫡",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 58,
+                "start": 52,
+                "tag": "alvox"
+              }
+            ]
+          }
+        },
+        "id": "1533264111814860800",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2087923689828282544",
+        "name": "文逼特·惠特曼的森",
+        "pinned_tweet_id": "2086666581422322146",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1533264111814860800/1786606400",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085586328004263936/NlIyJFFC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 115,
+          "following_count": 338,
+          "like_count": 1522,
+          "listed_count": 1,
+          "media_count": 18,
+          "tweet_count": 1092
+        },
+        "url": "",
+        "username": "mianhuzhazha1",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

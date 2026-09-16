@@ -1,0 +1,348 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1995447551139643392"
+      ],
+      "media_source_tweet_id": [
+        "1995447555220549742"
+      ]
+    },
+    "author_id": "1964331185590718464",
+    "conversation_id": "2092953018555859062",
+    "created_at": "2026-08-27T12:30:59.000Z",
+    "display_text_range": [
+      0,
+      72
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-27T13:30:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092953018555859062"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 41,
+          "start": 29,
+          "tag": "RadioStatic"
+        },
+        {
+          "end": 48,
+          "start": 42,
+          "tag": "voxal"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1560232529831301120",
+          "start": 3,
+          "username": "Nakizura069"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/vGrwWfBum5",
+          "end": 72,
+          "expanded_url": "https://x.com/Nakizura069/status/1995447555220549742/photo/1",
+          "media_key": "3_1995447551139643392",
+          "start": 49,
+          "url": "https://t.co/vGrwWfBum5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092953018555859062",
+    "lang": "en",
+    "media_metadata": [
+      {
+        "media_key": "3_1995447551139643392"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1234
+    },
+    "referenced_tweets": [
+      {
+        "id": "1995447555220549742",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Nakizura069: YIPPEEEEE!! #RadioStatic #voxal https://t.co/vGrwWfBum5"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2121,
+        "media_key": "3_1995447551139643392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7FA-bWaAAAOfI1.jpg",
+        "width": 1500
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1995447551139643392"
+          ],
+          "media_source_tweet_id": [
+            "1995447555220549742"
+          ]
+        },
+        "author_id": "1964331185590718464",
+        "conversation_id": "2092953018555859062",
+        "created_at": "2026-08-27T12:30:59.000Z",
+        "display_text_range": [
+          0,
+          72
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T13:30:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092953018555859062"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 41,
+              "start": 29,
+              "tag": "RadioStatic"
+            },
+            {
+              "end": 48,
+              "start": 42,
+              "tag": "voxal"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1560232529831301120",
+              "start": 3,
+              "username": "Nakizura069"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/vGrwWfBum5",
+              "end": 72,
+              "expanded_url": "https://x.com/Nakizura069/status/1995447555220549742/photo/1",
+              "media_key": "3_1995447551139643392",
+              "start": 49,
+              "url": "https://t.co/vGrwWfBum5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092953018555859062",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_1995447551139643392"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1234
+        },
+        "referenced_tweets": [
+          {
+            "id": "1995447555220549742",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Nakizura069: YIPPEEEEE!! #RadioStatic #voxal https://t.co/vGrwWfBum5"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1995447551139643392"
+          ]
+        },
+        "author_id": "1560232529831301120",
+        "conversation_id": "1995447555220549742",
+        "created_at": "2025-12-01T10:59:05.000Z",
+        "display_text_range": [
+          0,
+          31
+        ],
+        "edit_controls": {
+          "editable_until": "2025-12-01T11:59:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1995447555220549742"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 24,
+              "start": 12,
+              "tag": "RadioStatic"
+            },
+            {
+              "end": 31,
+              "start": 25,
+              "tag": "voxal"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/vGrwWfBum5",
+              "end": 55,
+              "expanded_url": "https://x.com/Nakizura069/status/1995447555220549742/photo/1",
+              "media_key": "3_1995447551139643392",
+              "start": 32,
+              "url": "https://t.co/vGrwWfBum5"
+            },
+            {
+              "display_url": "x.com/helluvahotel1/…",
+              "end": 79,
+              "expanded_url": "https://twitter.com/helluvahotel1/status/1995134363411922945",
+              "start": 56,
+              "url": "https://t.co/tDjZjEOf9g"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995447555220549742",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_1995447551139643392"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1317,
+          "impression_count": 131281,
+          "like_count": 9351,
+          "quote_count": 8,
+          "reply_count": 19,
+          "retweet_count": 1234
+        },
+        "referenced_tweets": [
+          {
+            "id": "1995134363411922945",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "YIPPEEEEE!! #RadioStatic #voxal https://t.co/vGrwWfBum5 https://t.co/tDjZjEOf9g"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-09-06T14:13:55.000Z",
+        "description": "叫我筷子就可以了(:3っ )っ\n雜多丨OD丨自傷丨Vocaloid丨maimai丨🏳️‍🌈friendly\n不卖药 互关私信 取关请双取 不喜欢的直接b\nHH：Vox推し bottom🔁⭕ \nサブ垢＆避難垢→@Hashi_988",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 114,
+                "start": 104,
+                "username": "Hashi_988"
+              }
+            ]
+          }
+        },
+        "id": "1964331185590718464",
+        "is_identity_verified": false,
+        "location": "颅内",
+        "most_recent_tweet_id": "2092953018555859062",
+        "name": "箸",
+        "pinned_tweet_id": "2090132992979284341",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1964331185590718464/1785100910",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074711282427842560/EOM9Puhb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1578,
+          "following_count": 808,
+          "like_count": 43311,
+          "listed_count": 0,
+          "media_count": 439,
+          "tweet_count": 7753
+        },
+        "url": "",
+        "username": "breakcoreWTF",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-08-18T11:50:37.000Z",
+        "description": "she/her (19 y.o) | idk,i just draw random stuff | DO NOT REPOST or use my art without permission‼️(日本語が話せたらいいのに ;-;) ~HAZBIN HOTEL~ banner by @miyeo0626",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 152,
+                "start": 142,
+                "username": "miyeo0626"
+              }
+            ]
+          }
+        },
+        "id": "1560232529831301120",
+        "is_identity_verified": false,
+        "location": "Indomie",
+        "most_recent_tweet_id": "2066884317729739257",
+        "name": "☆ Naki_png ☆",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1560232529831301120/1765453787",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986205581129154560/wflzO7RT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14173,
+          "following_count": 110,
+          "like_count": 10964,
+          "listed_count": 17,
+          "media_count": 134,
+          "tweet_count": 2338
+        },
+        "url": "",
+        "username": "Nakizura069",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

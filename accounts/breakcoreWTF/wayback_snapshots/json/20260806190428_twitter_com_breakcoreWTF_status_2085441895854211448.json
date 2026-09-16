@@ -1,0 +1,290 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1964331185590718464",
+    "conversation_id": "2085441895854211448",
+    "created_at": "2026-08-06T19:04:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-06T20:04:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085441895854211448"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1052707213368840192",
+          "start": 3,
+          "username": "bearbubb"
+        },
+        {
+          "end": 28,
+          "id": "1398837878281539586",
+          "start": 14,
+          "username": "NebsGoodTakes"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085441895854211448",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085071256022327774",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @bearbubb: @NebsGoodTakes okay thanks brother i appreciate it"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1964331185590718464",
+        "conversation_id": "2085441895854211448",
+        "created_at": "2026-08-06T19:04:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T20:04:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085441895854211448"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1052707213368840192",
+              "start": 3,
+              "username": "bearbubb"
+            },
+            {
+              "end": 28,
+              "id": "1398837878281539586",
+              "start": 14,
+              "username": "NebsGoodTakes"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085441895854211448",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085071256022327774",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @bearbubb: @NebsGoodTakes okay thanks brother i appreciate it"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1052707213368840192",
+        "conversation_id": "2085064831690785166",
+        "created_at": "2026-08-05T18:31:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T19:31:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085071256022327774"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1398837878281539586",
+              "start": 0,
+              "username": "NebsGoodTakes"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085071256022327774",
+        "in_reply_to_user_id": "1398837878281539586",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 263290,
+          "like_count": 251,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085068868326953270",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NebsGoodTakes okay thanks brother i appreciate it"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-06T14:13:55.000Z",
+        "description": "叫我筷子就可以了(:3っ )っ\nOD丨🔪丨Vocaloid丨音游丨LGBTQ+friendly\n不卖药 只看互关私信 我很穷欢迎投喂\n不喜欢的直接b 查成分同类回fo 取关请双取\n备用机→@Hashi_988",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 104,
+                "start": 94,
+                "username": "Hashi_988"
+              }
+            ]
+          }
+        },
+        "id": "1964331185590718464",
+        "location": "颅内",
+        "name": "箸",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074711282427842560/EOM9Puhb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1399,
+          "following_count": 820,
+          "like_count": 36904,
+          "listed_count": 0,
+          "media_count": 372,
+          "tweet_count": 6540
+        },
+        "url": "",
+        "username": "breakcoreWTF",
+        "verified": false
+      },
+      {
+        "created_at": "2018-10-17T23:45:32.000Z",
+        "description": "the only streamer/ i am mixed race / CODE ‘BUBB’ for 10% OFF @gamersupps",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 72,
+                "start": 61,
+                "username": "gamersupps"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "twitch.tv/bearbubb",
+                "end": 23,
+                "expanded_url": "http://twitch.tv/bearbubb",
+                "start": 0,
+                "url": "https://t.co/bUjckx2JDv"
+              }
+            ]
+          }
+        },
+        "id": "1052707213368840192",
+        "name": "bear",
+        "pinned_tweet_id": "1424773113519251461",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062341426675888129/U5UHB7J1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 122923,
+          "following_count": 958,
+          "like_count": 28663,
+          "listed_count": 189,
+          "media_count": 2789,
+          "tweet_count": 16075
+        },
+        "url": "https://t.co/bUjckx2JDv",
+        "username": "bearbubb",
+        "verified": false
+      },
+      {
+        "created_at": "2021-05-30T03:05:34.000Z",
+        "description": "gif boy • 26 • he/they • Fortnite Creator Code: NEBSGOODTAKES • PFP by @vyrkolach • Care for Gaza donation link: https://t.co/PRH6uC5cV2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 81,
+                "start": 71,
+                "username": "vyrkolach"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "gogetfunding.com/CFG2025/",
+                "end": 136,
+                "expanded_url": "https://gogetfunding.com/CFG2025/",
+                "start": 113,
+                "url": "https://t.co/PRH6uC5cV2"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@nebsgoodtakes",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@nebsgoodtakes",
+                "start": 0,
+                "url": "https://t.co/PwJNhZvz8L"
+              }
+            ]
+          }
+        },
+        "id": "1398837878281539586",
+        "location": "G FUEL code NEB for 20% off",
+        "name": "Neb | 🏳️‍🌈",
+        "pinned_tweet_id": "1779286432538071514",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1769499623557906432/9dUiNPZ__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 133265,
+          "following_count": 5465,
+          "like_count": 438416,
+          "listed_count": 266,
+          "media_count": 20004,
+          "tweet_count": 76745
+        },
+        "url": "https://t.co/PwJNhZvz8L",
+        "username": "NebsGoodTakes",
+        "verified": true
+      }
+    ]
+  }
+}

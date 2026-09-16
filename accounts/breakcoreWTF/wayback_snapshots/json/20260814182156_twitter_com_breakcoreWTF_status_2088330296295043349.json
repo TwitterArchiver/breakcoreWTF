@@ -1,0 +1,322 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2088293278135513088"
+      ],
+      "media_source_tweet_id": [
+        "2088294701971669462"
+      ]
+    },
+    "author_id": "1964331185590718464",
+    "conversation_id": "2088330296295043349",
+    "created_at": "2026-08-14T18:21:56.000Z",
+    "display_text_range": [
+      0,
+      70
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-14T19:21:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088330296295043349"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 46,
+          "start": 40,
+          "tag": "Alvox"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1949516928369991680",
+          "start": 3,
+          "username": "gekkou_ikari"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/WLGZeRAsI7",
+          "end": 70,
+          "expanded_url": "https://x.com/gekkou_ikari/status/2088294701971669462/photo/1",
+          "media_key": "3_2088293278135513088",
+          "start": 47,
+          "url": "https://t.co/WLGZeRAsI7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088330296295043349",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2088293278135513088"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 23
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088294701971669462",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @gekkou_ikari: 📻「魔性の愛」「嘘」\n📺「私を忘れないで」\n#Alvox https://t.co/WLGZeRAsI7"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 849,
+        "media_key": "3_2088293278135513088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPsbrBYacAA5ZjW.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088293278135513088"
+          ]
+        },
+        "author_id": "1949516928369991680",
+        "conversation_id": "2088294701971669462",
+        "created_at": "2026-08-14T16:00:30.000Z",
+        "display_text_range": [
+          0,
+          28
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T17:00:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088294701971669462"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 28,
+              "start": 22,
+              "tag": "Alvox"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/WLGZeRAsI7",
+              "end": 52,
+              "expanded_url": "https://x.com/gekkou_ikari/status/2088294701971669462/photo/1",
+              "media_key": "3_2088293278135513088",
+              "start": 29,
+              "url": "https://t.co/WLGZeRAsI7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088294701971669462",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2088293278135513088"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 13,
+          "impression_count": 760,
+          "like_count": 87,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 23
+        },
+        "reply_settings": "everyone",
+        "text": "📻「魔性の愛」「嘘」\n📺「私を忘れないで」\n#Alvox https://t.co/WLGZeRAsI7"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088293278135513088"
+          ],
+          "media_source_tweet_id": [
+            "2088294701971669462"
+          ]
+        },
+        "author_id": "1964331185590718464",
+        "conversation_id": "2088330296295043349",
+        "created_at": "2026-08-14T18:21:56.000Z",
+        "display_text_range": [
+          0,
+          70
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T19:21:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088330296295043349"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 46,
+              "start": 40,
+              "tag": "Alvox"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1949516928369991680",
+              "start": 3,
+              "username": "gekkou_ikari"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/WLGZeRAsI7",
+              "end": 70,
+              "expanded_url": "https://x.com/gekkou_ikari/status/2088294701971669462/photo/1",
+              "media_key": "3_2088293278135513088",
+              "start": 47,
+              "url": "https://t.co/WLGZeRAsI7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088330296295043349",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2088293278135513088"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 23
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088294701971669462",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @gekkou_ikari: 📻「魔性の愛」「嘘」\n📺「私を忘れないで」\n#Alvox https://t.co/WLGZeRAsI7"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-09-06T14:13:55.000Z",
+        "description": "叫我筷子就可以了(:3っ )っ\nOD丨🔪丨Vocaloid丨maimai丨LGBTQ+friendly\n不卖药 只看互关私信\n不喜欢的直接b 查成分回fo 取关请双取\n备用机、愚痴垢→@Hashi_988",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 102,
+                "start": 92,
+                "username": "Hashi_988"
+              }
+            ]
+          }
+        },
+        "id": "1964331185590718464",
+        "is_identity_verified": false,
+        "location": "颅内",
+        "most_recent_tweet_id": "2088330296295043349",
+        "name": "箸",
+        "pinned_tweet_id": "2086154153508884828",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1964331185590718464/1785100910",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074711282427842560/EOM9Puhb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1464,
+          "following_count": 792,
+          "like_count": 38900,
+          "listed_count": 0,
+          "media_count": 395,
+          "tweet_count": 6918
+        },
+        "url": "",
+        "username": "breakcoreWTF",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-07-27T17:07:49.000Z",
+        "description": "📻📺 / 📻 Top only🔁❌\n感想ツイートへのリプ・反応、私の作品に対する感想は一切不要です\nプロフカード一読推奨\nhttps://t.co/yaGSIRY11m",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "profcard.info/u/uofIZ9zZ1oQ4…",
+                "end": 84,
+                "expanded_url": "https://profcard.info/u/uofIZ9zZ1oQ4WWowFIVWDLWoEwl2",
+                "start": 61,
+                "url": "https://t.co/yaGSIRY11m"
+              }
+            ]
+          }
+        },
+        "id": "1949516928369991680",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2088301037195243752",
+        "name": "はやにえ",
+        "pinned_tweet_id": "2078710656019378327",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1949516928369991680/1772264956",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002799940314296320/Sf2_wxke_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1750,
+          "following_count": 87,
+          "like_count": 4351,
+          "listed_count": 7,
+          "media_count": 69,
+          "tweet_count": 6486
+        },
+        "url": "",
+        "username": "gekkou_ikari",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

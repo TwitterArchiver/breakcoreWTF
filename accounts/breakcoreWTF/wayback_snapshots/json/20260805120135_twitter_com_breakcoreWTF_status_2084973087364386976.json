@@ -1,0 +1,290 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "16_2084493085396893696"
+      ],
+      "media_source_tweet_id": [
+        "2084493096813830146"
+      ]
+    },
+    "author_id": "1964331185590718464",
+    "conversation_id": "2084973087364386976",
+    "created_at": "2026-08-05T12:01:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-05T13:01:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084973087364386976"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 73,
+          "start": 66,
+          "tag": "shrtwt"
+        },
+        {
+          "end": 82,
+          "start": 74,
+          "tag": "slittwt"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1556447951207235584",
+          "start": 3,
+          "username": "d8xfhz"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/78CvFJiLPK",
+          "end": 106,
+          "expanded_url": "https://x.com/d8xfhz/status/2084493096813830146/photo/1",
+          "media_key": "16_2084493085396893696",
+          "start": 83,
+          "url": "https://t.co/78CvFJiLPK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084973087364386976",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 908
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084493096813830146",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @d8xfhz: Finding a fanfic where my favourite character does sh #shrtwt #slittwt https://t.co/78CvFJiLPK"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 476,
+        "media_key": "16_2084493085396893696",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HO2basPXAAA9Wy8.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HO2basPXAAA9Wy8.mp4"
+          }
+        ],
+        "width": 480
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2084493085396893696"
+          ]
+        },
+        "author_id": "1556447951207235584",
+        "conversation_id": "2084493096813830146",
+        "created_at": "2026-08-04T04:14:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T05:14:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084493096813830146"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 61,
+              "start": 54,
+              "tag": "shrtwt"
+            },
+            {
+              "end": 70,
+              "start": 62,
+              "tag": "slittwt"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/78CvFJiLPK",
+              "end": 94,
+              "expanded_url": "https://x.com/d8xfhz/status/2084493096813830146/photo/1",
+              "media_key": "16_2084493085396893696",
+              "start": 71,
+              "url": "https://t.co/78CvFJiLPK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084493096813830146",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 123,
+          "impression_count": 15694,
+          "like_count": 2720,
+          "quote_count": 44,
+          "reply_count": 13,
+          "retweet_count": 908
+        },
+        "reply_settings": "everyone",
+        "text": "Finding a fanfic where my favourite character does sh #shrtwt #slittwt https://t.co/78CvFJiLPK"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2084493085396893696"
+          ],
+          "media_source_tweet_id": [
+            "2084493096813830146"
+          ]
+        },
+        "author_id": "1964331185590718464",
+        "conversation_id": "2084973087364386976",
+        "created_at": "2026-08-05T12:01:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T13:01:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084973087364386976"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 73,
+              "start": 66,
+              "tag": "shrtwt"
+            },
+            {
+              "end": 82,
+              "start": 74,
+              "tag": "slittwt"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1556447951207235584",
+              "start": 3,
+              "username": "d8xfhz"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/78CvFJiLPK",
+              "end": 106,
+              "expanded_url": "https://x.com/d8xfhz/status/2084493096813830146/photo/1",
+              "media_key": "16_2084493085396893696",
+              "start": 83,
+              "url": "https://t.co/78CvFJiLPK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084973087364386976",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 908
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084493096813830146",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @d8xfhz: Finding a fanfic where my favourite character does sh #shrtwt #slittwt https://t.co/78CvFJiLPK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-06T14:13:55.000Z",
+        "description": "叫我筷子就可以了(:3っ )っ\nOD丨🔪丨Vocaloid丨音游丨LGBTQ+friendly\n不卖药 只看互关私信 我很穷欢迎投喂\n不喜欢的直接b 查成分同类回fo 取关请双取\n备用机→@Hashi_988",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 104,
+                "start": 94,
+                "username": "Hashi_988"
+              }
+            ]
+          }
+        },
+        "id": "1964331185590718464",
+        "location": "颅内",
+        "name": "箸",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074711282427842560/EOM9Puhb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1386,
+          "following_count": 815,
+          "like_count": 36444,
+          "listed_count": 0,
+          "media_count": 365,
+          "tweet_count": 6470
+        },
+        "url": "",
+        "username": "breakcoreWTF",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-08T01:11:38.000Z",
+        "description": "shrtwt • edrtwt || 13 ||🩷💜💙",
+        "id": "1556447951207235584",
+        "name": "ꪖ᥅ꫀᦓ ⋆‧°𓏲ּ𝄢",
+        "pinned_tweet_id": "2041271855445586046",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079943793466343424/kPPMgV2H_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26,
+          "following_count": 21,
+          "like_count": 2328,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 169
+        },
+        "url": "",
+        "username": "d8xfhz",
+        "verified": false
+      }
+    ]
+  }
+}

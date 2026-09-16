@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2084572624412459008"
+      ],
+      "media_source_tweet_id": [
+        "2084572629693067344"
+      ]
+    },
+    "author_id": "1964331185590718464",
+    "conversation_id": "2084918598259081224",
+    "created_at": "2026-08-05T08:25:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-05T09:25:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084918598259081224"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1954043712142790656",
+          "start": 3,
+          "username": "k1MM166"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/oBifjgja5d",
+          "end": 66,
+          "expanded_url": "https://x.com/k1MM166/status/2084572629693067344/photo/1",
+          "media_key": "3_2084572624412459008",
+          "start": 43,
+          "url": "https://t.co/oBifjgja5d"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084918598259081224",
+    "lang": "ko",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 12
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084572629693067344",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @k1MM166: ㅋㅎ… 왼손으로 그린 복스 그 어떤 지능도 안 느껴짐 https://t.co/oBifjgja5d"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2084572624412459008",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO3jweKbwAA-vtN.jpg",
+        "width": 1835
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084572624412459008"
+          ]
+        },
+        "author_id": "1954043712142790656",
+        "conversation_id": "2084572629693067344",
+        "created_at": "2026-08-04T09:30:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T10:30:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084572629693067344"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/oBifjgja5d",
+              "end": 53,
+              "expanded_url": "https://x.com/k1MM166/status/2084572629693067344/photo/1",
+              "media_key": "3_2084572624412459008",
+              "start": 30,
+              "url": "https://t.co/oBifjgja5d"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084572629693067344",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 1178,
+          "like_count": 114,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 12
+        },
+        "reply_settings": "everyone",
+        "text": "ㅋㅎ… 왼손으로 그린 복스 그 어떤 지능도 안 느껴짐 https://t.co/oBifjgja5d"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084572624412459008"
+          ],
+          "media_source_tweet_id": [
+            "2084572629693067344"
+          ]
+        },
+        "author_id": "1964331185590718464",
+        "conversation_id": "2084918598259081224",
+        "created_at": "2026-08-05T08:25:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T09:25:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084918598259081224"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1954043712142790656",
+              "start": 3,
+              "username": "k1MM166"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/oBifjgja5d",
+              "end": 66,
+              "expanded_url": "https://x.com/k1MM166/status/2084572629693067344/photo/1",
+              "media_key": "3_2084572624412459008",
+              "start": 43,
+              "url": "https://t.co/oBifjgja5d"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084918598259081224",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 12
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084572629693067344",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @k1MM166: ㅋㅎ… 왼손으로 그린 복스 그 어떤 지능도 안 느껴짐 https://t.co/oBifjgja5d"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-06T14:13:55.000Z",
+        "description": "叫我筷子就可以了(:3っ )っ\nOD丨🔪丨Vocaloid丨音游丨LGBTQ+friendly\n不卖药 只看互关私信 我很穷欢迎投喂\n不喜欢的直接b 查成分同类回fo 取关请双取\n备用机→@Hashi_988",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 104,
+                "start": 94,
+                "username": "Hashi_988"
+              }
+            ]
+          }
+        },
+        "id": "1964331185590718464",
+        "location": "颅内",
+        "name": "箸",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074711282427842560/EOM9Puhb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1386,
+          "following_count": 813,
+          "like_count": 36334,
+          "listed_count": 0,
+          "media_count": 361,
+          "tweet_count": 6443
+        },
+        "url": "",
+        "username": "breakcoreWTF",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-09T04:56:13.000Z",
+        "description": "🇰🇷20⬆️/그림러(장르계X) 비계🔞:@K1MM1O\n햊빈,헌호 등 미애니 위주",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 21,
+                "username": "K1MM1O"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "spin-spin.com/K1MM1",
+                "end": 23,
+                "expanded_url": "https://spin-spin.com/K1MM1",
+                "start": 0,
+                "url": "https://t.co/ZBHFlguhqA"
+              }
+            ]
+          }
+        },
+        "id": "1954043712142790656",
+        "name": "킴미",
+        "pinned_tweet_id": "2066489085691334983",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021981088101675012/7o5aJH_d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1145,
+          "following_count": 102,
+          "like_count": 5196,
+          "listed_count": 0,
+          "media_count": 450,
+          "tweet_count": 2122
+        },
+        "url": "https://t.co/ZBHFlguhqA",
+        "username": "k1MM166",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,505 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2086221323798245376",
+        "3_2086221332702732290",
+        "3_2086221343889010688"
+      ],
+      "media_source_tweet_id": [
+        "2086221352495718726",
+        "2086221352495718726",
+        "2086221352495718726"
+      ]
+    },
+    "author_id": "1964331185590718464",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "description": "Vox",
+          "id": "1113147293346041856",
+          "name": "Vox"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Vox",
+          "id": "1113147293346041856",
+          "name": "Vox"
+        }
+      }
+    ],
+    "conversation_id": "2086329721089110098",
+    "created_at": "2026-08-09T05:52:22.000Z",
+    "display_text_range": [
+      0,
+      72
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-09T06:52:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2086329721089110098"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 36,
+          "start": 32,
+          "tag": "Vox"
+        },
+        {
+          "end": 48,
+          "start": 37,
+          "tag": "staticmoth"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1928067082249285632",
+          "start": 3,
+          "username": "asa_koro8"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/TOlXPVpE46",
+          "end": 72,
+          "expanded_url": "https://x.com/asa_koro8/status/2086221352495718726/photo/1",
+          "media_key": "3_2086221323798245376",
+          "start": 49,
+          "url": "https://t.co/TOlXPVpE46"
+        },
+        {
+          "display_url": "pic.x.com/TOlXPVpE46",
+          "end": 72,
+          "expanded_url": "https://x.com/asa_koro8/status/2086221352495718726/photo/1",
+          "media_key": "3_2086221332702732290",
+          "start": 49,
+          "url": "https://t.co/TOlXPVpE46"
+        },
+        {
+          "display_url": "pic.x.com/TOlXPVpE46",
+          "end": 72,
+          "expanded_url": "https://x.com/asa_koro8/status/2086221352495718726/photo/1",
+          "media_key": "3_2086221343889010688",
+          "start": 49,
+          "url": "https://t.co/TOlXPVpE46"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086329721089110098",
+    "lang": "en",
+    "media_metadata": [
+      {
+        "media_key": "3_2086221323798245376"
+      },
+      {
+        "media_key": "3_2086221332702732290"
+      },
+      {
+        "media_key": "3_2086221343889010688"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 49
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086221352495718726",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @asa_koro8: cw: sh, 🥃\n\nfavs \n#Vox #staticmoth https://t.co/TOlXPVpE46"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2086221323798245376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPO_PZ_W8AABtJW.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2086221332702732290",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPO_P7KWoAIiWR0.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2086221343889010688",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPO_Qk1XsAAiZcL.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2086221323798245376",
+            "3_2086221332702732290",
+            "3_2086221343889010688"
+          ]
+        },
+        "author_id": "1928067082249285632",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "Vox",
+              "id": "1113147293346041856",
+              "name": "Vox"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Vox",
+              "id": "1113147293346041856",
+              "name": "Vox"
+            }
+          }
+        ],
+        "conversation_id": "2086221352495718726",
+        "created_at": "2026-08-08T22:41:45.000Z",
+        "display_text_range": [
+          0,
+          33
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-08T23:41:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086221352495718726"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 21,
+              "start": 17,
+              "tag": "Vox"
+            },
+            {
+              "end": 33,
+              "start": 22,
+              "tag": "staticmoth"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/TOlXPVpE46",
+              "end": 57,
+              "expanded_url": "https://x.com/asa_koro8/status/2086221352495718726/photo/1",
+              "media_key": "3_2086221323798245376",
+              "start": 34,
+              "url": "https://t.co/TOlXPVpE46"
+            },
+            {
+              "display_url": "pic.x.com/TOlXPVpE46",
+              "end": 57,
+              "expanded_url": "https://x.com/asa_koro8/status/2086221352495718726/photo/1",
+              "media_key": "3_2086221332702732290",
+              "start": 34,
+              "url": "https://t.co/TOlXPVpE46"
+            },
+            {
+              "display_url": "pic.x.com/TOlXPVpE46",
+              "end": 57,
+              "expanded_url": "https://x.com/asa_koro8/status/2086221352495718726/photo/1",
+              "media_key": "3_2086221343889010688",
+              "start": 34,
+              "url": "https://t.co/TOlXPVpE46"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086221352495718726",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2086221323798245376"
+          },
+          {
+            "media_key": "3_2086221332702732290"
+          },
+          {
+            "media_key": "3_2086221343889010688"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 52,
+          "impression_count": 2788,
+          "like_count": 379,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 49
+        },
+        "reply_settings": "everyone",
+        "text": "cw: sh, 🥃\n\nfavs \n#Vox #staticmoth https://t.co/TOlXPVpE46"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2086221323798245376",
+            "3_2086221332702732290",
+            "3_2086221343889010688"
+          ],
+          "media_source_tweet_id": [
+            "2086221352495718726",
+            "2086221352495718726",
+            "2086221352495718726"
+          ]
+        },
+        "author_id": "1964331185590718464",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "Vox",
+              "id": "1113147293346041856",
+              "name": "Vox"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Vox",
+              "id": "1113147293346041856",
+              "name": "Vox"
+            }
+          }
+        ],
+        "conversation_id": "2086329721089110098",
+        "created_at": "2026-08-09T05:52:22.000Z",
+        "display_text_range": [
+          0,
+          72
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-09T06:52:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086329721089110098"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 36,
+              "start": 32,
+              "tag": "Vox"
+            },
+            {
+              "end": 48,
+              "start": 37,
+              "tag": "staticmoth"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1928067082249285632",
+              "start": 3,
+              "username": "asa_koro8"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/TOlXPVpE46",
+              "end": 72,
+              "expanded_url": "https://x.com/asa_koro8/status/2086221352495718726/photo/1",
+              "media_key": "3_2086221323798245376",
+              "start": 49,
+              "url": "https://t.co/TOlXPVpE46"
+            },
+            {
+              "display_url": "pic.x.com/TOlXPVpE46",
+              "end": 72,
+              "expanded_url": "https://x.com/asa_koro8/status/2086221352495718726/photo/1",
+              "media_key": "3_2086221332702732290",
+              "start": 49,
+              "url": "https://t.co/TOlXPVpE46"
+            },
+            {
+              "display_url": "pic.x.com/TOlXPVpE46",
+              "end": 72,
+              "expanded_url": "https://x.com/asa_koro8/status/2086221352495718726/photo/1",
+              "media_key": "3_2086221343889010688",
+              "start": 49,
+              "url": "https://t.co/TOlXPVpE46"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086329721089110098",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2086221323798245376"
+          },
+          {
+            "media_key": "3_2086221332702732290"
+          },
+          {
+            "media_key": "3_2086221343889010688"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 49
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086221352495718726",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @asa_koro8: cw: sh, 🥃\n\nfavs \n#Vox #staticmoth https://t.co/TOlXPVpE46"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-09-06T14:13:55.000Z",
+        "description": "叫我筷子就可以了(:3っ )っ\nOD丨🔪丨Vocaloid丨音游丨LGBTQ+friendly\n不卖药 只看互关私信\n不喜欢的直接b 查成分回fo 取关请双取\n备用机、愚痴垢→@Hashi_988",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 98,
+                "start": 88,
+                "username": "Hashi_988"
+              }
+            ]
+          }
+        },
+        "id": "1964331185590718464",
+        "is_identity_verified": false,
+        "location": "颅内",
+        "most_recent_tweet_id": "2086329721089110098",
+        "name": "箸",
+        "pinned_tweet_id": "2086154153508884828",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1964331185590718464/1785100910",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074711282427842560/EOM9Puhb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1431,
+          "following_count": 792,
+          "like_count": 37863,
+          "listed_count": 0,
+          "media_count": 376,
+          "tweet_count": 6721
+        },
+        "url": "",
+        "username": "breakcoreWTF",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-05-29T12:33:43.000Z",
+        "description": "🗑️ / 🔞 - @Oro_Kasa18",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 9,
+                "username": "Oro_Kasa18"
+              }
+            ]
+          }
+        },
+        "id": "1928067082249285632",
+        "is_identity_verified": false,
+        "location": "21 | she/her ",
+        "most_recent_tweet_id": "2086221352495718726",
+        "name": "🐌",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1928067082249285632/1780115805",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059409355661783046/mLzBIhjJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1628,
+          "following_count": 31,
+          "like_count": 6480,
+          "listed_count": 4,
+          "media_count": 41,
+          "tweet_count": 52
+        },
+        "url": "",
+        "username": "asa_koro8",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,361 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2093583696104452096"
+      ],
+      "media_source_tweet_id": [
+        "2093583731001049584"
+      ]
+    },
+    "author_id": "1964331185590718464",
+    "conversation_id": "2093971925488058724",
+    "created_at": "2026-08-30T07:59:45.000Z",
+    "display_text_range": [
+      0,
+      56
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-30T08:59:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2093971925488058724"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 25,
+          "start": 20,
+          "tag": "水上由岐"
+        },
+        {
+          "end": 32,
+          "start": 27,
+          "tag": "すばひび"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1593214863643320321",
+          "start": 3,
+          "username": "uchuusagi_desu"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/6Sj86lFTea",
+          "end": 56,
+          "expanded_url": "https://x.com/uchuusagi_desu/status/2093583731001049584/video/1",
+          "media_key": "13_2093583696104452096",
+          "start": 33,
+          "url": "https://t.co/6Sj86lFTea"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2093971925488058724",
+    "lang": "qme",
+    "media_metadata": [
+      {
+        "media_key": "13_2093583696104452096"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 107
+    },
+    "referenced_tweets": [
+      {
+        "id": "2093583731001049584",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @uchuusagi_desu: #水上由岐 \n#すばひび https://t.co/6Sj86lFTea"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 9866,
+        "height": 1280,
+        "media_key": "13_2093583696104452096",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2093583696104452096/img/tOEeKYOSSGw1d4H4.jpg",
+        "public_metrics": {
+          "view_count": 10221
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2093583696104452096/vid/avc1/320x568/obaJGQHXhWXdmxQx.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2093583696104452096/vid/avc1/480x852/8sREtMg4Jqx_X0xb.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2093583696104452096/vid/avc1/720x1280/r1RpjTDQJeB0T1Kj.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2093583696104452096/pl/PICbPR7RAWvcJLga.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2093583696104452096"
+          ],
+          "media_source_tweet_id": [
+            "2093583731001049584"
+          ]
+        },
+        "author_id": "1964331185590718464",
+        "conversation_id": "2093971925488058724",
+        "created_at": "2026-08-30T07:59:45.000Z",
+        "display_text_range": [
+          0,
+          56
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-30T08:59:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093971925488058724"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 25,
+              "start": 20,
+              "tag": "水上由岐"
+            },
+            {
+              "end": 32,
+              "start": 27,
+              "tag": "すばひび"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1593214863643320321",
+              "start": 3,
+              "username": "uchuusagi_desu"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/6Sj86lFTea",
+              "end": 56,
+              "expanded_url": "https://x.com/uchuusagi_desu/status/2093583731001049584/video/1",
+              "media_key": "13_2093583696104452096",
+              "start": 33,
+              "url": "https://t.co/6Sj86lFTea"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093971925488058724",
+        "lang": "qme",
+        "media_metadata": [
+          {
+            "media_key": "13_2093583696104452096"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 107
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093583731001049584",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @uchuusagi_desu: #水上由岐 \n#すばひび https://t.co/6Sj86lFTea"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2093583696104452096"
+          ]
+        },
+        "author_id": "1593214863643320321",
+        "conversation_id": "2093583731001049584",
+        "created_at": "2026-08-29T06:17:13.000Z",
+        "display_text_range": [
+          0,
+          12
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-29T07:17:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2093583731001049584"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 5,
+              "start": 0,
+              "tag": "水上由岐"
+            },
+            {
+              "end": 12,
+              "start": 7,
+              "tag": "すばひび"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/6Sj86lFTea",
+              "end": 36,
+              "expanded_url": "https://x.com/uchuusagi_desu/status/2093583731001049584/video/1",
+              "media_key": "13_2093583696104452096",
+              "start": 13,
+              "url": "https://t.co/6Sj86lFTea"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093583731001049584",
+        "lang": "qme",
+        "media_metadata": [
+          {
+            "media_key": "13_2093583696104452096"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 264,
+          "impression_count": 30195,
+          "like_count": 2091,
+          "quote_count": 1,
+          "reply_count": 9,
+          "retweet_count": 107
+        },
+        "reply_settings": "everyone",
+        "text": "#水上由岐 \n#すばひび https://t.co/6Sj86lFTea"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-09-06T14:13:55.000Z",
+        "description": "叫我筷子就可以了(:3っ )っ\n雜多丨OD丨自傷丨Vocaloid丨maimai丨🏳️‍🌈friendly\n不卖药 互关请私信 取关请双取 不喜欢的直接b\nHH：Vox推し bottom🔁⭕ \nサブ垢＆避難垢→@Hashi_988",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 115,
+                "start": 105,
+                "username": "Hashi_988"
+              }
+            ]
+          }
+        },
+        "id": "1964331185590718464",
+        "is_identity_verified": false,
+        "location": "颅内",
+        "most_recent_tweet_id": "2093971925488058724",
+        "name": "箸",
+        "pinned_tweet_id": "2090132992979284341",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1964331185590718464/1785100910",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2093963390620487680/sATuTGb4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1578,
+          "following_count": 806,
+          "like_count": 44321,
+          "listed_count": 0,
+          "media_count": 444,
+          "tweet_count": 7916
+        },
+        "url": "",
+        "username": "breakcoreWTF",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-11-17T12:10:09.000Z",
+        "description": "兎です、コスプレと振付してます🐰中文＞日本語＞English | 周边贩售在微店「幽灵黑洞电波」",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "weibo.com/u/3448758404",
+                "end": 23,
+                "expanded_url": "https://weibo.com/u/3448758404",
+                "start": 0,
+                "url": "https://t.co/M46lpNuPuv"
+              }
+            ]
+          }
+        },
+        "id": "1593214863643320321",
+        "is_identity_verified": false,
+        "location": "ブラックホールの地獄",
+        "most_recent_tweet_id": "2093583731001049584",
+        "name": "宇宙兎です",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1593214863643320321/1770791332",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064001475395846144/jS3eS7v3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16214,
+          "following_count": 1357,
+          "like_count": 1272,
+          "listed_count": 53,
+          "media_count": 108,
+          "tweet_count": 164
+        },
+        "url": "https://t.co/M46lpNuPuv",
+        "username": "uchuusagi_desu",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,334 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2097426550983417856",
+        "3_2097426550975045632"
+      ],
+      "media_source_tweet_id": [
+        "2097426559623741947",
+        "2097426559623741947"
+      ]
+    },
+    "author_id": "1964331185590718464",
+    "conversation_id": "2097530632545149003",
+    "created_at": "2026-09-09T03:40:47.000Z",
+    "display_text_range": [
+      0,
+      37
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-09T04:40:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097530632545149003"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1984489295311470592",
+          "start": 3,
+          "username": "yandergf"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/TrpaR1VRBb",
+          "end": 37,
+          "expanded_url": "https://x.com/yandergf/status/2097426559623741947/photo/1",
+          "media_key": "3_2097426550983417856",
+          "start": 14,
+          "url": "https://t.co/TrpaR1VRBb"
+        },
+        {
+          "display_url": "pic.x.com/TrpaR1VRBb",
+          "end": 37,
+          "expanded_url": "https://x.com/yandergf/status/2097426559623741947/photo/1",
+          "media_key": "3_2097426550975045632",
+          "start": 14,
+          "url": "https://t.co/TrpaR1VRBb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097530632545149003",
+    "lang": "zxx",
+    "media_metadata": [
+      {
+        "media_key": "3_2097426550983417856"
+      },
+      {
+        "media_key": "3_2097426550975045632"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 730
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097426559623741947",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "RT @yandergf: https://t.co/TrpaR1VRBb"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1227,
+        "media_key": "3_2097426550983417856",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRuOVeHW4AABsE7.jpg",
+        "width": 1278
+      },
+      {
+        "height": 1227,
+        "media_key": "3_2097426550975045632",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRuOVeFXIAA8_1t.jpg",
+        "width": 1278
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2097426550983417856",
+            "3_2097426550975045632"
+          ],
+          "media_source_tweet_id": [
+            "2097426559623741947",
+            "2097426559623741947"
+          ]
+        },
+        "author_id": "1964331185590718464",
+        "conversation_id": "2097530632545149003",
+        "created_at": "2026-09-09T03:40:47.000Z",
+        "display_text_range": [
+          0,
+          37
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-09T04:40:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097530632545149003"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1984489295311470592",
+              "start": 3,
+              "username": "yandergf"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/TrpaR1VRBb",
+              "end": 37,
+              "expanded_url": "https://x.com/yandergf/status/2097426559623741947/photo/1",
+              "media_key": "3_2097426550983417856",
+              "start": 14,
+              "url": "https://t.co/TrpaR1VRBb"
+            },
+            {
+              "display_url": "pic.x.com/TrpaR1VRBb",
+              "end": 37,
+              "expanded_url": "https://x.com/yandergf/status/2097426559623741947/photo/1",
+              "media_key": "3_2097426550975045632",
+              "start": 14,
+              "url": "https://t.co/TrpaR1VRBb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097530632545149003",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2097426550983417856"
+          },
+          {
+            "media_key": "3_2097426550975045632"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 730
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097426559623741947",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "RT @yandergf: https://t.co/TrpaR1VRBb"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2097426550983417856",
+            "3_2097426550975045632"
+          ]
+        },
+        "author_id": "1984489295311470592",
+        "conversation_id": "2097426559623741947",
+        "created_at": "2026-09-08T20:47:14.000Z",
+        "display_text_range": [
+          0,
+          0
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-08T21:47:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097426559623741947"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TrpaR1VRBb",
+              "end": 23,
+              "expanded_url": "https://x.com/yandergf/status/2097426559623741947/photo/1",
+              "media_key": "3_2097426550983417856",
+              "start": 0,
+              "url": "https://t.co/TrpaR1VRBb"
+            },
+            {
+              "display_url": "pic.x.com/TrpaR1VRBb",
+              "end": 23,
+              "expanded_url": "https://x.com/yandergf/status/2097426559623741947/photo/1",
+              "media_key": "3_2097426550975045632",
+              "start": 0,
+              "url": "https://t.co/TrpaR1VRBb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097426559623741947",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2097426550983417856"
+          },
+          {
+            "media_key": "3_2097426550975045632"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 543,
+          "impression_count": 40757,
+          "like_count": 4428,
+          "quote_count": 10,
+          "reply_count": 1,
+          "retweet_count": 730
+        },
+        "reply_settings": "following",
+        "text": "https://t.co/TrpaR1VRBb"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-09-06T14:13:55.000Z",
+        "description": "叫我筷子就可以了(:3っ )っ\n雜多丨OD丨自傷丨Vocaloid丨maimai丨🏳️‍🌈friendly\n不卖药 眼熟回关 取关请双取 不喜欢的直接b\nサブ垢＆避難垢→@Hashi_988",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 95,
+                "start": 85,
+                "username": "Hashi_988"
+              }
+            ]
+          }
+        },
+        "id": "1964331185590718464",
+        "is_identity_verified": false,
+        "location": "颅内",
+        "most_recent_tweet_id": "2097530632545149003",
+        "name": "箸",
+        "pinned_tweet_id": "2090132992979284341",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1964331185590718464/1788644554",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2093963390620487680/sATuTGb4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1632,
+          "following_count": 799,
+          "like_count": 47164,
+          "listed_count": 0,
+          "media_count": 459,
+          "tweet_count": 8333
+        },
+        "url": "",
+        "username": "breakcoreWTF",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-11-01T05:15:12.000Z",
+        "description": "",
+        "id": "1984489295311470592",
+        "is_identity_verified": false,
+        "location": "₊⁺♡̶♡̶♡̶♡̶₊⁺ ",
+        "most_recent_tweet_id": "2097476107440128457",
+        "name": "ᤢ၇͜ᩘ♥︎ूੂ",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1984489295311470592/1788605211",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096187659165306881/Flnb-Pm7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6072,
+          "following_count": 5,
+          "like_count": 9084,
+          "listed_count": 15,
+          "media_count": 15,
+          "tweet_count": 88
+        },
+        "url": "",
+        "username": "yandergf",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

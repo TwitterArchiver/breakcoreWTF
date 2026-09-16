@@ -1,0 +1,289 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2094515754989244418"
+      ],
+      "media_source_tweet_id": [
+        "2094515795913019716"
+      ]
+    },
+    "author_id": "1964331185590718464",
+    "conversation_id": "2094999736935952507",
+    "created_at": "2026-09-02T04:03:55.000Z",
+    "display_text_range": [
+      0,
+      60
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-02T05:03:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2094999736935952507"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "2081125810346369024",
+          "start": 3,
+          "username": "nijikonhitler"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/0xOsEB4dO7",
+          "end": 60,
+          "expanded_url": "https://x.com/nijikonhitler/status/2094515795913019716/photo/1",
+          "media_key": "3_2094515754989244418",
+          "start": 37,
+          "url": "https://t.co/0xOsEB4dO7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094999736935952507",
+    "lang": "en",
+    "media_metadata": [
+      {
+        "media_key": "3_2094515754989244418"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 47
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094515795913019716",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @nijikonhitler: i will have this. https://t.co/0xOsEB4dO7"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 552,
+        "media_key": "3_2094515754989244418",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRE2-2CX0AI14Qg.jpg",
+        "width": 736
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2094515754989244418"
+          ],
+          "media_source_tweet_id": [
+            "2094515795913019716"
+          ]
+        },
+        "author_id": "1964331185590718464",
+        "conversation_id": "2094999736935952507",
+        "created_at": "2026-09-02T04:03:55.000Z",
+        "display_text_range": [
+          0,
+          60
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-02T05:03:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094999736935952507"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "2081125810346369024",
+              "start": 3,
+              "username": "nijikonhitler"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/0xOsEB4dO7",
+              "end": 60,
+              "expanded_url": "https://x.com/nijikonhitler/status/2094515795913019716/photo/1",
+              "media_key": "3_2094515754989244418",
+              "start": 37,
+              "url": "https://t.co/0xOsEB4dO7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094999736935952507",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2094515754989244418"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 47
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094515795913019716",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @nijikonhitler: i will have this. https://t.co/0xOsEB4dO7"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2094515754989244418"
+          ]
+        },
+        "author_id": "2081125810346369024",
+        "conversation_id": "2094515795913019716",
+        "created_at": "2026-08-31T20:00:54.000Z",
+        "display_text_range": [
+          0,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-31T21:00:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2094515795913019716"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0xOsEB4dO7",
+              "end": 41,
+              "expanded_url": "https://x.com/nijikonhitler/status/2094515795913019716/photo/1",
+              "media_key": "3_2094515754989244418",
+              "start": 18,
+              "url": "https://t.co/0xOsEB4dO7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094515795913019716",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2094515754989244418"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 177,
+          "impression_count": 127069,
+          "like_count": 552,
+          "quote_count": 20,
+          "reply_count": 3,
+          "retweet_count": 47
+        },
+        "reply_settings": "everyone",
+        "text": "i will have this. https://t.co/0xOsEB4dO7"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-09-06T14:13:55.000Z",
+        "description": "叫我筷子就可以了(:3っ )っ\n雜多丨OD丨自傷丨Vocaloid丨maimai丨🏳️‍🌈friendly\n不卖药 互关请私信 取关请双取 不喜欢的直接b\nHH：Vox推し bottom🔁⭕ \nサブ垢＆避難垢→@Hashi_988",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 115,
+                "start": 105,
+                "username": "Hashi_988"
+              }
+            ]
+          }
+        },
+        "id": "1964331185590718464",
+        "is_identity_verified": false,
+        "location": "颅内",
+        "most_recent_tweet_id": "2094999736935952507",
+        "name": "箸",
+        "pinned_tweet_id": "2090132992979284341",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1964331185590718464/1785100910",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2093963390620487680/sATuTGb4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1588,
+          "following_count": 803,
+          "like_count": 45161,
+          "listed_count": 0,
+          "media_count": 451,
+          "tweet_count": 8070
+        },
+        "url": "",
+        "username": "breakcoreWTF",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-07-25T21:14:53.000Z",
+        "description": "分子人類学や考古学に興味があるけど何もわかりません　西関東方言ネイティブ　反日帝　汎アジア主義者　弱者男性　ミソジニーに片足突っ込んだ元リベラル　アンチフェミ　出生賛美　穏健な家父長制を支持 ナショナリスト 対米自立 衆愚論 やや親中派 6割が高市への罵倒です",
+        "id": "2081125810346369024",
+        "is_identity_verified": false,
+        "location": "🇬🇷 𐓏𐓏",
+        "most_recent_tweet_id": "2094977056320712909",
+        "name": "ranjuku",
+        "pinned_tweet_id": "2084737024322318582",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2081125810346369024/1788297738",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2094748003789664256/9QvkmoQi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 351,
+          "following_count": 183,
+          "like_count": 6958,
+          "listed_count": 0,
+          "media_count": 315,
+          "tweet_count": 1430
+        },
+        "url": "",
+        "username": "nijikonhitler",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

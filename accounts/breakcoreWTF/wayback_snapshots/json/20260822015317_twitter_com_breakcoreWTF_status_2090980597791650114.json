@@ -1,0 +1,415 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2020152382605164544"
+      ],
+      "media_source_tweet_id": [
+        "2020152387822829604"
+      ]
+    },
+    "author_id": "1964331185590718464",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "description": "Vox",
+          "id": "1113147293346041856",
+          "name": "Vox"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Vox",
+          "id": "1113147293346041856",
+          "name": "Vox"
+        }
+      }
+    ],
+    "conversation_id": "2090980597791650114",
+    "created_at": "2026-08-22T01:53:17.000Z",
+    "display_text_range": [
+      0,
+      77
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-22T02:53:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090980597791650114"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 30,
+          "start": 26,
+          "tag": "vox"
+        },
+        {
+          "end": 53,
+          "start": 31,
+          "tag": "needystreameroverload"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1429234540808114179",
+          "start": 3,
+          "username": "scyphozo"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/x77BvgyyYc",
+          "end": 77,
+          "expanded_url": "https://x.com/scyphozo/status/2020152387822829604/photo/1",
+          "media_key": "3_2020152382605164544",
+          "start": 54,
+          "url": "https://t.co/x77BvgyyYc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090980597791650114",
+    "lang": "en",
+    "media_metadata": [
+      {
+        "media_key": "3_2020152382605164544"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 70
+    },
+    "referenced_tweets": [
+      {
+        "id": "2020152387822829604",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @scyphozo: i hate this\n#vox #needystreameroverload https://t.co/x77BvgyyYc"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2000,
+        "media_key": "3_2020152382605164544",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAkF44VXAAAIcbx.jpg",
+        "width": 2000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2020152382605164544"
+          ],
+          "media_source_tweet_id": [
+            "2020152387822829604"
+          ]
+        },
+        "author_id": "1964331185590718464",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "Vox",
+              "id": "1113147293346041856",
+              "name": "Vox"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Vox",
+              "id": "1113147293346041856",
+              "name": "Vox"
+            }
+          }
+        ],
+        "conversation_id": "2090980597791650114",
+        "created_at": "2026-08-22T01:53:17.000Z",
+        "display_text_range": [
+          0,
+          77
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-22T02:53:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090980597791650114"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 30,
+              "start": 26,
+              "tag": "vox"
+            },
+            {
+              "end": 53,
+              "start": 31,
+              "tag": "needystreameroverload"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1429234540808114179",
+              "start": 3,
+              "username": "scyphozo"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/x77BvgyyYc",
+              "end": 77,
+              "expanded_url": "https://x.com/scyphozo/status/2020152387822829604/photo/1",
+              "media_key": "3_2020152382605164544",
+              "start": 54,
+              "url": "https://t.co/x77BvgyyYc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090980597791650114",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2020152382605164544"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 70
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020152387822829604",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @scyphozo: i hate this\n#vox #needystreameroverload https://t.co/x77BvgyyYc"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2020152382605164544"
+          ]
+        },
+        "author_id": "1429234540808114179",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "Vox",
+              "id": "1113147293346041856",
+              "name": "Vox"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Vox",
+              "id": "1113147293346041856",
+              "name": "Vox"
+            }
+          }
+        ],
+        "conversation_id": "2020152387822829604",
+        "created_at": "2026-02-07T15:07:16.000Z",
+        "display_text_range": [
+          0,
+          39
+        ],
+        "edit_controls": {
+          "editable_until": "2026-02-07T16:07:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2020152387822829604"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 16,
+              "start": 12,
+              "tag": "vox"
+            },
+            {
+              "end": 39,
+              "start": 17,
+              "tag": "needystreameroverload"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/x77BvgyyYc",
+              "end": 63,
+              "expanded_url": "https://x.com/scyphozo/status/2020152387822829604/photo/1",
+              "media_key": "3_2020152382605164544",
+              "start": 40,
+              "url": "https://t.co/x77BvgyyYc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020152387822829604",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2020152382605164544"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 41,
+          "impression_count": 4337,
+          "like_count": 421,
+          "quote_count": 2,
+          "reply_count": 4,
+          "retweet_count": 70
+        },
+        "reply_settings": "everyone",
+        "text": "i hate this\n#vox #needystreameroverload https://t.co/x77BvgyyYc"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-09-06T14:13:55.000Z",
+        "description": "叫我筷子就可以了(:3っ )っ\n雜多丨OD丨自傷丨Vocaloid丨maimai丨🏳️‍🌈friendly\n不卖药 互关私信 取关请双取 不喜欢的直接b\nHH：Vox推し bottom🔁⭕ \nサブ垢＆避難垢→@Hashi_988",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 114,
+                "start": 104,
+                "username": "Hashi_988"
+              }
+            ]
+          }
+        },
+        "id": "1964331185590718464",
+        "is_identity_verified": false,
+        "location": "颅内",
+        "most_recent_tweet_id": "2090980597791650114",
+        "name": "箸",
+        "pinned_tweet_id": "2090132992979284341",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1964331185590718464/1785100910",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074711282427842560/EOM9Puhb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1574,
+          "following_count": 805,
+          "like_count": 41275,
+          "listed_count": 0,
+          "media_count": 421,
+          "tweet_count": 7373
+        },
+        "url": "",
+        "username": "breakcoreWTF",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-08-22T00:10:52.000Z",
+        "description": "MDNI 🔞",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "rentry.co/gyah",
+                "end": 23,
+                "expanded_url": "http://rentry.co/gyah",
+                "start": 0,
+                "url": "https://t.co/LTuVVnxURM"
+              }
+            ]
+          }
+        },
+        "id": "1429234540808114179",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090956508984967339",
+        "name": "scy",
+        "pinned_tweet_id": "2077035903529148608",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1429234540808114179/1786146674",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085876216943321090/tuxkc6K8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 747,
+          "following_count": 172,
+          "like_count": 6497,
+          "listed_count": 2,
+          "media_count": 153,
+          "tweet_count": 520
+        },
+        "url": "https://t.co/LTuVVnxURM",
+        "username": "scyphozo",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

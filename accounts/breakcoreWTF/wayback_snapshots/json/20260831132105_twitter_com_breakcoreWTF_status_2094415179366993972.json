@@ -1,0 +1,302 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2094017267311022080"
+      ],
+      "media_source_tweet_id": [
+        "2094017273665405032"
+      ]
+    },
+    "author_id": "1964331185590718464",
+    "conversation_id": "2094415179366993972",
+    "created_at": "2026-08-31T13:21:05.000Z",
+    "display_text_range": [
+      0,
+      36
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-31T14:21:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2094415179366993972"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1680137855417597953",
+          "start": 3,
+          "username": "kir_i_i"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/eTAxzlGznn",
+          "end": 36,
+          "expanded_url": "https://x.com/kir_i_i/status/2094017273665405032/photo/1",
+          "media_key": "3_2094017267311022080",
+          "start": 13,
+          "url": "https://t.co/eTAxzlGznn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094415179366993972",
+    "lang": "zxx",
+    "media_metadata": [
+      {
+        "media_key": "3_2094017267311022080"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 677
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094017273665405032",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kir_i_i: https://t.co/eTAxzlGznn"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3634,
+        "media_key": "3_2094017267311022080",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQ9xnCubkAAKeMx.jpg",
+        "width": 3634
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2094017267311022080"
+          ],
+          "media_source_tweet_id": [
+            "2094017273665405032"
+          ]
+        },
+        "author_id": "1964331185590718464",
+        "conversation_id": "2094415179366993972",
+        "created_at": "2026-08-31T13:21:05.000Z",
+        "display_text_range": [
+          0,
+          36
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-31T14:21:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094415179366993972"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1680137855417597953",
+              "start": 3,
+              "username": "kir_i_i"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/eTAxzlGznn",
+              "end": 36,
+              "expanded_url": "https://x.com/kir_i_i/status/2094017273665405032/photo/1",
+              "media_key": "3_2094017267311022080",
+              "start": 13,
+              "url": "https://t.co/eTAxzlGznn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094415179366993972",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2094017267311022080"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 677
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094017273665405032",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kir_i_i: https://t.co/eTAxzlGznn"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2094017267311022080"
+          ]
+        },
+        "author_id": "1680137855417597953",
+        "conversation_id": "2094017273665405032",
+        "created_at": "2026-08-30T10:59:57.000Z",
+        "display_text_range": [
+          0,
+          0
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-30T11:59:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2094017273665405032"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/eTAxzlGznn",
+              "end": 23,
+              "expanded_url": "https://x.com/kir_i_i/status/2094017273665405032/photo/1",
+              "media_key": "3_2094017267311022080",
+              "start": 0,
+              "url": "https://t.co/eTAxzlGznn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094017273665405032",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2094017267311022080"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 268,
+          "impression_count": 56665,
+          "like_count": 4269,
+          "quote_count": 27,
+          "reply_count": 0,
+          "retweet_count": 677
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/eTAxzlGznn"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-09-06T14:13:55.000Z",
+        "description": "叫我筷子就可以了(:3っ )っ\n雜多丨OD丨自傷丨Vocaloid丨maimai丨🏳️‍🌈friendly\n不卖药 互关请私信 取关请双取 不喜欢的直接b\nHH：Vox推し bottom🔁⭕ \nサブ垢＆避難垢→@Hashi_988",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 115,
+                "start": 105,
+                "username": "Hashi_988"
+              }
+            ]
+          }
+        },
+        "id": "1964331185590718464",
+        "is_identity_verified": false,
+        "location": "颅内",
+        "most_recent_tweet_id": "2094415179366993972",
+        "name": "箸",
+        "pinned_tweet_id": "2090132992979284341",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1964331185590718464/1785100910",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2093963390620487680/sATuTGb4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1587,
+          "following_count": 807,
+          "like_count": 44847,
+          "listed_count": 0,
+          "media_count": 448,
+          "tweet_count": 7996
+        },
+        "url": "",
+        "username": "breakcoreWTF",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-07-15T08:53:19.000Z",
+        "description": "Baldi's Basicsが好きです！FA中心に色々",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "kir51.straw.page",
+                "end": 23,
+                "expanded_url": "https://kir51.straw.page",
+                "start": 0,
+                "url": "https://t.co/x8aXLbxSa6"
+              }
+            ]
+          }
+        },
+        "id": "1680137855417597953",
+        "is_identity_verified": false,
+        "location": "🇯🇵/JPN￤無断転載・改変禁止",
+        "most_recent_tweet_id": "2094196244310802440",
+        "name": "ス",
+        "pinned_tweet_id": "2071986267974455711",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1680137855417597953/1787505816",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2093010153557884928/DziN_97R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1111,
+          "following_count": 80,
+          "like_count": 11993,
+          "listed_count": 0,
+          "media_count": 138,
+          "tweet_count": 740
+        },
+        "url": "https://t.co/x8aXLbxSa6",
+        "username": "kir_i_i",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

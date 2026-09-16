@@ -1,0 +1,401 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2087712468735049729"
+      ],
+      "media_source_tweet_id": [
+        "2087712484623003714"
+      ]
+    },
+    "author_id": "1964331185590718464",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "description": "Vox",
+          "id": "1113147293346041856",
+          "name": "Vox"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Vox",
+          "id": "1113147293346041856",
+          "name": "Vox"
+        }
+      }
+    ],
+    "conversation_id": "2087883337637736925",
+    "created_at": "2026-08-13T12:45:53.000Z",
+    "display_text_range": [
+      0,
+      85
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-13T13:45:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087883337637736925"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 25,
+          "start": 21,
+          "tag": "vox"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 19,
+          "id": "2016677942915407873",
+          "start": 3,
+          "username": "Ggongchi_Hazbin"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Ul0KRnvIG7",
+          "end": 85,
+          "expanded_url": "https://x.com/Ggongchi_Hazbin/status/2087712484623003714/photo/1",
+          "media_key": "3_2087712468735049729",
+          "start": 62,
+          "url": "https://t.co/Ul0KRnvIG7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087883337637736925",
+    "lang": "ko",
+    "media_metadata": [
+      {
+        "media_key": "3_2087712468735049729"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 66
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087712484623003714",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Ggongchi_Hazbin: #vox + somanyshipsthatimlazytotag \n돗치가스키 https://t.co/Ul0KRnvIG7"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2087712468735049729",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPkLbdwbQAEmmCD.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2087712468735049729"
+          ]
+        },
+        "author_id": "2016677942915407873",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "Vox",
+              "id": "1113147293346041856",
+              "name": "Vox"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Vox",
+              "id": "1113147293346041856",
+              "name": "Vox"
+            }
+          }
+        ],
+        "conversation_id": "2087712484623003714",
+        "created_at": "2026-08-13T01:26:58.000Z",
+        "display_text_range": [
+          0,
+          40
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T02:26:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087712484623003714"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 4,
+              "start": 0,
+              "tag": "vox"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ul0KRnvIG7",
+              "end": 64,
+              "expanded_url": "https://x.com/Ggongchi_Hazbin/status/2087712484623003714/photo/1",
+              "media_key": "3_2087712468735049729",
+              "start": 41,
+              "url": "https://t.co/Ul0KRnvIG7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087712484623003714",
+        "lang": "ko",
+        "media_metadata": [
+          {
+            "media_key": "3_2087712468735049729"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 42,
+          "impression_count": 2714,
+          "like_count": 336,
+          "quote_count": 2,
+          "reply_count": 0,
+          "retweet_count": 66
+        },
+        "reply_settings": "everyone",
+        "text": "#vox + somanyshipsthatimlazytotag \n돗치가스키 https://t.co/Ul0KRnvIG7"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2087712468735049729"
+          ],
+          "media_source_tweet_id": [
+            "2087712484623003714"
+          ]
+        },
+        "author_id": "1964331185590718464",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "Vox",
+              "id": "1113147293346041856",
+              "name": "Vox"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Vox",
+              "id": "1113147293346041856",
+              "name": "Vox"
+            }
+          }
+        ],
+        "conversation_id": "2087883337637736925",
+        "created_at": "2026-08-13T12:45:53.000Z",
+        "display_text_range": [
+          0,
+          85
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T13:45:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087883337637736925"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 25,
+              "start": 21,
+              "tag": "vox"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 19,
+              "id": "2016677942915407873",
+              "start": 3,
+              "username": "Ggongchi_Hazbin"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ul0KRnvIG7",
+              "end": 85,
+              "expanded_url": "https://x.com/Ggongchi_Hazbin/status/2087712484623003714/photo/1",
+              "media_key": "3_2087712468735049729",
+              "start": 62,
+              "url": "https://t.co/Ul0KRnvIG7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087883337637736925",
+        "lang": "ko",
+        "media_metadata": [
+          {
+            "media_key": "3_2087712468735049729"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 66
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087712484623003714",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Ggongchi_Hazbin: #vox + somanyshipsthatimlazytotag \n돗치가스키 https://t.co/Ul0KRnvIG7"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-09-06T14:13:55.000Z",
+        "description": "叫我筷子就可以了(:3っ )っ\nOD丨🔪丨Vocaloid丨音游丨LGBTQ+friendly\n不卖药 只看互关私信\n不喜欢的直接b 查成分回fo 取关请双取\n备用机、愚痴垢→@Hashi_988",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 98,
+                "start": 88,
+                "username": "Hashi_988"
+              }
+            ]
+          }
+        },
+        "id": "1964331185590718464",
+        "is_identity_verified": false,
+        "location": "颅内",
+        "most_recent_tweet_id": "2087883337637736925",
+        "name": "箸",
+        "pinned_tweet_id": "2086154153508884828",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1964331185590718464/1785100910",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074711282427842560/EOM9Puhb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1464,
+          "following_count": 793,
+          "like_count": 38584,
+          "listed_count": 0,
+          "media_count": 391,
+          "tweet_count": 6875
+        },
+        "url": "",
+        "username": "breakcoreWTF",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-01-29T01:01:24.000Z",
+        "description": "20 ⬆️ | 📺 | Hazbin Hotel | CBorle",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "spin-spin.com/Ggongchi_Hazbin",
+                "end": 23,
+                "expanded_url": "https://spin-spin.com/Ggongchi_Hazbin",
+                "start": 0,
+                "url": "https://t.co/yUe3hTgDGY"
+              }
+            ]
+          }
+        },
+        "id": "2016677942915407873",
+        "is_identity_verified": false,
+        "location": "🇺🇲",
+        "most_recent_tweet_id": "2087774445054382125",
+        "name": "꽁치",
+        "pinned_tweet_id": "2086459821448888554",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2016677942915407873/1786286447",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070592956411895808/tkUOQuc0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 466,
+          "following_count": 34,
+          "like_count": 1301,
+          "listed_count": 3,
+          "media_count": 109,
+          "tweet_count": 1641
+        },
+        "url": "https://t.co/yUe3hTgDGY",
+        "username": "Ggongchi_Hazbin",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

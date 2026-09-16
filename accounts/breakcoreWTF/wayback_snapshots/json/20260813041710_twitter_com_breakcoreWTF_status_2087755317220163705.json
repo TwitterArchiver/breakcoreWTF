@@ -1,0 +1,445 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1964331185590718464",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A genre for books, like Fiction",
+          "id": "85",
+          "name": "Book Genre"
+        },
+        "entity": {
+          "description": "Comics",
+          "id": "847521144173350912",
+          "name": "Comics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839544274442051584",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Comics",
+          "id": "847521144173350912",
+          "name": "Comics"
+        }
+      }
+    ],
+    "conversation_id": "2087755317220163705",
+    "created_at": "2026-08-13T04:17:10.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-13T05:17:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087755317220163705"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1990881760373288960",
+          "start": 3,
+          "username": "voxtekEmployee"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "t.co/I",
+          "end": 139,
+          "start": 125,
+          "url": "https://t.co/I"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087755317220163705",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 77
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067393680328065313",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @voxtekEmployee: i'm obsessed with the comic so i decided to draw umi's crt vox 🥺 i hope it's ok! she's too adorable... 🥰 https://t.co/I…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2067393671763263488",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLDbl0hXAAAd-1O.jpg",
+        "width": 1863
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1964331185590718464",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A genre for books, like Fiction",
+              "id": "85",
+              "name": "Book Genre"
+            },
+            "entity": {
+              "description": "Comics",
+              "id": "847521144173350912",
+              "name": "Comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Comics",
+              "id": "847521144173350912",
+              "name": "Comics"
+            }
+          }
+        ],
+        "conversation_id": "2087755317220163705",
+        "created_at": "2026-08-13T04:17:10.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T05:17:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087755317220163705"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1990881760373288960",
+              "start": 3,
+              "username": "voxtekEmployee"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "t.co/I",
+              "end": 139,
+              "start": 125,
+              "url": "https://t.co/I"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087755317220163705",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 77
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067393680328065313",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @voxtekEmployee: i'm obsessed with the comic so i decided to draw umi's crt vox 🥺 i hope it's ok! she's too adorable... 🥰 https://t.co/I…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067393671763263488"
+          ]
+        },
+        "author_id": "1990881760373288960",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A genre for books, like Fiction",
+              "id": "85",
+              "name": "Book Genre"
+            },
+            "entity": {
+              "description": "Comics",
+              "id": "847521144173350912",
+              "name": "Comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Comics",
+              "id": "847521144173350912",
+              "name": "Comics"
+            }
+          }
+        ],
+        "conversation_id": "2067393680328065313",
+        "created_at": "2026-06-17T23:47:18.000Z",
+        "display_text_range": [
+          0,
+          104
+        ],
+        "edit_controls": {
+          "editable_until": "2026-06-18T00:47:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067393680328065313"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/IGGNweuZhR",
+              "end": 128,
+              "expanded_url": "https://x.com/voxtekEmployee/status/2067393680328065313/photo/1",
+              "media_key": "3_2067393671763263488",
+              "start": 105,
+              "url": "https://t.co/IGGNweuZhR"
+            },
+            {
+              "display_url": "x.com/stella__sparks…",
+              "end": 152,
+              "expanded_url": "https://twitter.com/stella__sparks/status/2066502920661774828",
+              "start": 129,
+              "url": "https://t.co/pCi96QSBLe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067393680328065313",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2067393671763263488"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 113,
+          "impression_count": 10681,
+          "like_count": 508,
+          "quote_count": 2,
+          "reply_count": 5,
+          "retweet_count": 77
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066502920661774828",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "i'm obsessed with the comic so i decided to draw umi's crt vox 🥺 i hope it's ok! she's too adorable... 🥰 https://t.co/IGGNweuZhR https://t.co/pCi96QSBLe"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-09-06T14:13:55.000Z",
+        "description": "叫我筷子就可以了(:3っ )っ\nOD丨🔪丨Vocaloid丨音游丨LGBTQ+friendly\n不卖药 只看互关私信\n不喜欢的直接b 查成分回fo 取关请双取\n备用机、愚痴垢→@Hashi_988",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 98,
+                "start": 88,
+                "username": "Hashi_988"
+              }
+            ]
+          }
+        },
+        "id": "1964331185590718464",
+        "is_identity_verified": false,
+        "location": "颅内",
+        "most_recent_tweet_id": "2087755317220163705",
+        "name": "箸",
+        "pinned_tweet_id": "2086154153508884828",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1964331185590718464/1785100910",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074711282427842560/EOM9Puhb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1464,
+          "following_count": 792,
+          "like_count": 38570,
+          "listed_count": 0,
+          "media_count": 391,
+          "tweet_count": 6868
+        },
+        "url": "",
+        "username": "breakcoreWTF",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-11-18T20:36:23.000Z",
+        "description": "20⬆️| 🔞no minors plz | 📻📺,Top!Alastor x Bottom!Vox (no switch🔄❌) | join the alvox discord!: https://t.co/q8O70OuC9h",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "discord.gg/w5g3CEyBj4",
+                "end": 115,
+                "expanded_url": "https://discord.gg/w5g3CEyBj4",
+                "start": 92,
+                "url": "https://t.co/q8O70OuC9h"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "alvox.straw.page",
+                "end": 23,
+                "expanded_url": "https://alvox.straw.page/",
+                "start": 0,
+                "url": "https://t.co/jiV5PAF522"
+              }
+            ]
+          }
+        },
+        "id": "1990881760373288960",
+        "is_identity_verified": false,
+        "location": "vox populi, vox dei",
+        "most_recent_tweet_id": "2087672921216909603",
+        "name": "tavi 🦈",
+        "pinned_tweet_id": "2080037313455820891",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1990881760373288960/1763500631",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061552133615337472/XwLAh-E2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3455,
+          "following_count": 137,
+          "like_count": 5913,
+          "listed_count": 4,
+          "media_count": 374,
+          "tweet_count": 2743
+        },
+        "url": "https://t.co/jiV5PAF522",
+        "username": "voxtekEmployee",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

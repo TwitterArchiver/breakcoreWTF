@@ -1,0 +1,492 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1964331185590718464",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "839543165002506240",
+          "name": "Anime"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839543165002506240",
+          "name": "Anime"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1297951101136732160",
+          "name": "Animation & comics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1311345191362523136",
+          "name": "Anime goods"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1437501554794188801",
+          "name": "Capsule toys"
+        }
+      }
+    ],
+    "conversation_id": "2085762819354730516",
+    "created_at": "2026-08-07T16:19:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-07T17:19:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085762819354730516"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1788438731877404673",
+          "start": 3,
+          "username": "anymyplay"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085762819354730516",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 155
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085652173661073863",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @anymyplay: ﹉﹉﹉﹉୨💗୧﹉﹉﹉﹉\nアニメ「NEEDY GIRL OVERDOSE」より\nカプセルトイ新商品 11月登場\n﹉﹉﹉﹉୨💗୧﹉﹉﹉﹉\n\nホログラム仕様のアクリルチャームが登場💖\nシリコンリング付きでいろいろな所につけて持ち歩こう✨\n\n▼詳細はこちら…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_2084499562597957634",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO2hTtsbwAIaQ5V.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1964331185590718464",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1311345191362523136",
+              "name": "Anime goods"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1437501554794188801",
+              "name": "Capsule toys"
+            }
+          }
+        ],
+        "conversation_id": "2085762819354730516",
+        "created_at": "2026-08-07T16:19:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T17:19:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085762819354730516"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1788438731877404673",
+              "start": 3,
+              "username": "anymyplay"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085762819354730516",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 155
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085652173661073863",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @anymyplay: ﹉﹉﹉﹉୨💗୧﹉﹉﹉﹉\nアニメ「NEEDY GIRL OVERDOSE」より\nカプセルトイ新商品 11月登場\n﹉﹉﹉﹉୨💗୧﹉﹉﹉﹉\n\nホログラム仕様のアクリルチャームが登場💖\nシリコンリング付きでいろいろな所につけて持ち歩こう✨\n\n▼詳細はこちら…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084499562597957634"
+          ]
+        },
+        "author_id": "1788438731877404673",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1311345191362523136",
+              "name": "Anime goods"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1437501554794188801",
+              "name": "Capsule toys"
+            }
+          }
+        ],
+        "conversation_id": "2085652173661073863",
+        "created_at": "2026-08-07T09:00:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T10:00:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085652173661073863"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 161,
+              "start": 156,
+              "tag": "ニディガ"
+            }
+          ],
+          "urls": [
+            {
+              "description": "商品説明 TVアニメ『NEEDY GIRL OVERDOSE』より、シリコンリング付きのミニアクリルチャームが登場！チャーム単体使いはもちろん、シリコンリングと一緒に使え...",
+              "display_url": "anymy.jp/capcha/product…",
+              "end": 154,
+              "expanded_url": "https://anymy.jp/capcha/products/3279/",
+              "images": [
+                {
+                  "height": 800,
+                  "url": "https://pbs.twimg.com/news_img/2085725875866402818/D91UfeQf?format=jpg&name=orig",
+                  "width": 800
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2085725875866402818/D91UfeQf?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 131,
+              "status": 404,
+              "title": "NEEDY GIRL OVERDOSE　アクリルマーカーチャーム - エニマイ",
+              "unwound_url": "https://anymy.jp/capcha/products/3279/",
+              "url": "https://t.co/5OZqNDWFC9"
+            },
+            {
+              "display_url": "pic.x.com/BMNeUcTaaZ",
+              "end": 185,
+              "expanded_url": "https://x.com/anymyplay/status/2085652173661073863/photo/1",
+              "media_key": "3_2084499562597957634",
+              "start": 162,
+              "url": "https://t.co/BMNeUcTaaZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085652173661073863",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 168,
+          "impression_count": 16090,
+          "like_count": 869,
+          "quote_count": 39,
+          "reply_count": 0,
+          "retweet_count": 155
+        },
+        "reply_settings": "everyone",
+        "text": "﹉﹉﹉﹉୨💗୧﹉﹉﹉﹉\nアニメ「NEEDY GIRL OVERDOSE」より\nカプセルトイ新商品 11月登場\n﹉﹉﹉﹉୨💗୧﹉﹉﹉﹉\n\nホログラム仕様のアクリルチャームが登場💖\nシリコンリング付きでいろいろな所につけて持ち歩こう✨\n\n▼詳細はこちらをチェック🍬\nhttps://t.co/5OZqNDWFC9\n\n#ニディガ https://t.co/BMNeUcTaaZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-06T14:13:55.000Z",
+        "description": "叫我筷子就可以了(:3っ )っ\nOD丨🔪丨Vocaloid丨音游丨LGBTQ+friendly\n不卖药 只看互关私信\n不喜欢的直接b 查成分回fo 取关请双取\n备用机、愚痴垢→@Hashi_988",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 98,
+                "start": 88,
+                "username": "Hashi_988"
+              }
+            ]
+          }
+        },
+        "id": "1964331185590718464",
+        "location": "颅内",
+        "name": "箸",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074711282427842560/EOM9Puhb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1402,
+          "following_count": 795,
+          "like_count": 37249,
+          "listed_count": 0,
+          "media_count": 374,
+          "tweet_count": 6591
+        },
+        "url": "",
+        "username": "breakcoreWTF",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-09T05:20:14.000Z",
+        "description": "『エニマイ』の公式Xです。くじ、グッズ、イベント、カプセルトイなどの情報をお知らせします！全国のコンビニエンスストア、ドラッグストア、スーパーマーケット、郵便局やレジャー施設、商業施設、専門店、オンラインショップ等で展開しています。\n＃エニマイ ＃エニマイくじ #エニマイMeets ＃エニマイライフ ＃エニマイカプチャ",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 122,
+                "start": 117,
+                "tag": "エニマイ"
+              },
+              {
+                "end": 130,
+                "start": 123,
+                "tag": "エニマイくじ"
+              },
+              {
+                "end": 141,
+                "start": 131,
+                "tag": "エニマイMeets"
+              },
+              {
+                "end": 150,
+                "start": 142,
+                "tag": "エニマイライフ"
+              },
+              {
+                "end": 160,
+                "start": 151,
+                "tag": "エニマイカプチャ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "anymy.jp",
+                "end": 23,
+                "expanded_url": "https://anymy.jp/",
+                "start": 0,
+                "url": "https://t.co/sXe2h8lAZa"
+              }
+            ]
+          }
+        },
+        "id": "1788438731877404673",
+        "name": "エニマイ",
+        "pinned_tweet_id": "2085546467884994806",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072154122867089408/6r1_RhVy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 69676,
+          "following_count": 45,
+          "like_count": 320,
+          "listed_count": 55,
+          "media_count": 527,
+          "tweet_count": 628
+        },
+        "url": "https://t.co/sXe2h8lAZa",
+        "username": "anymyplay",
+        "verified": true
+      }
+    ]
+  }
+}

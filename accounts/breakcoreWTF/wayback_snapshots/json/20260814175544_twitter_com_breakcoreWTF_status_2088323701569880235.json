@@ -1,0 +1,451 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2088263026126520320"
+      ],
+      "media_source_tweet_id": [
+        "2088263030555783618"
+      ]
+    },
+    "author_id": "1964331185590718464",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Television shows from around the world",
+          "id": "3",
+          "name": "TV Shows"
+        },
+        "entity": {
+          "description": "Adult animated web series",
+          "id": "1444043338236104705",
+          "name": "Hazbin Hotel"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1281311833593282560",
+          "name": "Adult animation"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1444046743423762434",
+          "name": "Hazbin Hotel"
+        }
+      },
+      {
+        "domain": {
+          "description": "For global/conceptual TV shows without localization.",
+          "id": "172",
+          "name": "Global TV Show"
+        },
+        "entity": {
+          "id": "1444046743423762434",
+          "name": "Hazbin Hotel"
+        }
+      }
+    ],
+    "conversation_id": "2088323701569880235",
+    "created_at": "2026-08-14T17:55:44.000Z",
+    "display_text_range": [
+      0,
+      61
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-14T18:55:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088323701569880235"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 37,
+          "start": 22,
+          "tag": "HazbinHotelVox"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "547696929",
+          "start": 3,
+          "username": "r1kopink"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/316yUISdKG",
+          "end": 61,
+          "expanded_url": "https://x.com/r1kopink/status/2088263030555783618/photo/1",
+          "media_key": "3_2088263026126520320",
+          "start": 38,
+          "url": "https://t.co/316yUISdKG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088323701569880235",
+    "lang": "und",
+    "media_metadata": [
+      {
+        "media_key": "3_2088263026126520320"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 40
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088263030555783618",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @r1kopink: ✨✨📺✨✨、\n\n#HazbinHotelVox https://t.co/316yUISdKG"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 768,
+        "media_key": "3_2088263026126520320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPsAKH3agAAfpl0.jpg",
+        "width": 768
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088263026126520320"
+          ]
+        },
+        "author_id": "547696929",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "description": "Adult animated web series",
+              "id": "1444043338236104705",
+              "name": "Hazbin Hotel"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1281311833593282560",
+              "name": "Adult animation"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1444046743423762434",
+              "name": "Hazbin Hotel"
+            }
+          },
+          {
+            "domain": {
+              "description": "For global/conceptual TV shows without localization.",
+              "id": "172",
+              "name": "Global TV Show"
+            },
+            "entity": {
+              "id": "1444046743423762434",
+              "name": "Hazbin Hotel"
+            }
+          }
+        ],
+        "conversation_id": "2088263030555783618",
+        "created_at": "2026-08-14T13:54:39.000Z",
+        "display_text_range": [
+          0,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T14:54:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088263030555783618"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 23,
+              "start": 8,
+              "tag": "HazbinHotelVox"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/316yUISdKG",
+              "end": 47,
+              "expanded_url": "https://x.com/r1kopink/status/2088263030555783618/photo/1",
+              "media_key": "3_2088263026126520320",
+              "start": 24,
+              "url": "https://t.co/316yUISdKG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088263030555783618",
+        "lang": "und",
+        "media_metadata": [
+          {
+            "media_key": "3_2088263026126520320"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 22,
+          "impression_count": 1825,
+          "like_count": 249,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 40
+        },
+        "reply_settings": "everyone",
+        "text": "✨✨📺✨✨、\n\n#HazbinHotelVox https://t.co/316yUISdKG"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088263026126520320"
+          ],
+          "media_source_tweet_id": [
+            "2088263030555783618"
+          ]
+        },
+        "author_id": "1964331185590718464",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "description": "Adult animated web series",
+              "id": "1444043338236104705",
+              "name": "Hazbin Hotel"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1281311833593282560",
+              "name": "Adult animation"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1444046743423762434",
+              "name": "Hazbin Hotel"
+            }
+          },
+          {
+            "domain": {
+              "description": "For global/conceptual TV shows without localization.",
+              "id": "172",
+              "name": "Global TV Show"
+            },
+            "entity": {
+              "id": "1444046743423762434",
+              "name": "Hazbin Hotel"
+            }
+          }
+        ],
+        "conversation_id": "2088323701569880235",
+        "created_at": "2026-08-14T17:55:44.000Z",
+        "display_text_range": [
+          0,
+          61
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T18:55:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088323701569880235"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 37,
+              "start": 22,
+              "tag": "HazbinHotelVox"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "547696929",
+              "start": 3,
+              "username": "r1kopink"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/316yUISdKG",
+              "end": 61,
+              "expanded_url": "https://x.com/r1kopink/status/2088263030555783618/photo/1",
+              "media_key": "3_2088263026126520320",
+              "start": 38,
+              "url": "https://t.co/316yUISdKG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088323701569880235",
+        "lang": "und",
+        "media_metadata": [
+          {
+            "media_key": "3_2088263026126520320"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 40
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088263030555783618",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @r1kopink: ✨✨📺✨✨、\n\n#HazbinHotelVox https://t.co/316yUISdKG"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-09-06T14:13:55.000Z",
+        "description": "叫我筷子就可以了(:3っ )っ\nOD丨🔪丨Vocaloid丨音游丨LGBTQ+friendly\n不卖药 只看互关私信\n不喜欢的直接b 查成分回fo 取关请双取\n备用机、愚痴垢→@Hashi_988",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 98,
+                "start": 88,
+                "username": "Hashi_988"
+              }
+            ]
+          }
+        },
+        "id": "1964331185590718464",
+        "is_identity_verified": false,
+        "location": "颅内",
+        "most_recent_tweet_id": "2088323701569880235",
+        "name": "箸",
+        "pinned_tweet_id": "2086154153508884828",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1964331185590718464/1785100910",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074711282427842560/EOM9Puhb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1464,
+          "following_count": 792,
+          "like_count": 38895,
+          "listed_count": 0,
+          "media_count": 395,
+          "tweet_count": 6913
+        },
+        "url": "",
+        "username": "breakcoreWTF",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2012-04-07T13:40:01.000Z",
+        "description": "雑食ジャンルごちゃまぜ垢 30↑ ♡深海と蟲と浴室♡ キャラの関係性拗らせ人 🚫AI ⚠︎鬱展開R18G苦手配慮無し※未成年F非推奨 めちゃくちゃ絵を描く時期⇄全く描かない時期（往来） TSとリバと暴力描写が好き♡⚠︎",
+        "id": "547696929",
+        "is_identity_verified": false,
+        "location": "🏔️",
+        "most_recent_tweet_id": "2088317047092756717",
+        "name": "りこぴん",
+        "pinned_tweet_id": "2068132959966880136",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/547696929/1708398145",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1782327602520498176/TZnz4lvf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 977,
+          "following_count": 450,
+          "like_count": 87044,
+          "listed_count": 18,
+          "media_count": 4415,
+          "tweet_count": 109899
+        },
+        "url": "",
+        "username": "r1kopink",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
