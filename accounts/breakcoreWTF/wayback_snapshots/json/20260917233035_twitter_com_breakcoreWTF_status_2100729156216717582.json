@@ -1,0 +1,331 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2100633953854246912"
+      ],
+      "media_source_tweet_id": [
+        "2100633971650621823"
+      ]
+    },
+    "author_id": "1964331185590718464",
+    "conversation_id": "2100729156216717582",
+    "created_at": "2026-09-17T23:30:35.000Z",
+    "display_text_range": [
+      0,
+      40
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-18T00:30:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2100729156216717582"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1435818847815176193",
+          "start": 3,
+          "username": "hongchenfei"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/IL3O1OASEq",
+          "end": 40,
+          "expanded_url": "https://x.com/hongchenfei/status/2100633971650621823/video/1",
+          "media_key": "13_2100633953854246912",
+          "start": 17,
+          "url": "https://t.co/IL3O1OASEq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100729156216717582",
+    "lang": "zxx",
+    "media_metadata": [
+      {
+        "media_key": "13_2100633953854246912"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 2,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 100
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100633971650621823",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hongchenfei: https://t.co/IL3O1OASEq"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 7383,
+        "height": 480,
+        "media_key": "13_2100633953854246912",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2100633953854246912/img/ET361vf2WhNJJ2nd.jpg",
+        "public_metrics": {
+          "view_count": 3579
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 432000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2100633953854246912/vid/avc1/320x320/twPoe-hpk9M0j1yt.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2100633953854246912/vid/avc1/480x480/PwyViuY5fU65-eg8.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2100633953854246912/pl/PFDMi6kX_cdT0j7S.m3u8"
+          }
+        ],
+        "width": 480
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2100633953854246912"
+          ],
+          "media_source_tweet_id": [
+            "2100633971650621823"
+          ]
+        },
+        "author_id": "1964331185590718464",
+        "conversation_id": "2100729156216717582",
+        "created_at": "2026-09-17T23:30:35.000Z",
+        "display_text_range": [
+          0,
+          40
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-18T00:30:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100729156216717582"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1435818847815176193",
+              "start": 3,
+              "username": "hongchenfei"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/IL3O1OASEq",
+              "end": 40,
+              "expanded_url": "https://x.com/hongchenfei/status/2100633971650621823/video/1",
+              "media_key": "13_2100633953854246912",
+              "start": 17,
+              "url": "https://t.co/IL3O1OASEq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100729156216717582",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "13_2100633953854246912"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 100
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100633971650621823",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hongchenfei: https://t.co/IL3O1OASEq"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2100633953854246912"
+          ]
+        },
+        "author_id": "1435818847815176193",
+        "conversation_id": "2100633971650621823",
+        "created_at": "2026-09-17T17:12:21.000Z",
+        "display_text_range": [
+          0,
+          0
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-17T18:12:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100633971650621823"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/IL3O1OASEq",
+              "end": 23,
+              "expanded_url": "https://x.com/hongchenfei/status/2100633971650621823/video/1",
+              "media_key": "13_2100633953854246912",
+              "start": 0,
+              "url": "https://t.co/IL3O1OASEq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100633971650621823",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "13_2100633953854246912"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 56,
+          "impression_count": 12822,
+          "like_count": 501,
+          "quote_count": 9,
+          "reply_count": 2,
+          "retweet_count": 100
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/IL3O1OASEq"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-09-06T14:13:55.000Z",
+        "description": "叫我筷子就可以了(:3っ )っ\n雜多丨OD丨自傷丨Vocaloid丨maimai丨🏳️‍🌈friendly\n不卖药 眼熟回关 取关请双取 不喜欢的直接b\nサブ垢＆避難垢→@Hashi_988",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 95,
+                "start": 85,
+                "username": "Hashi_988"
+              }
+            ]
+          }
+        },
+        "id": "1964331185590718464",
+        "is_identity_verified": false,
+        "location": "颅内",
+        "most_recent_tweet_id": "2100729173031743969",
+        "name": "箸",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1964331185590718464/1788644554",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2099251823081299968/v8sxOZsH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1717,
+          "following_count": 796,
+          "like_count": 48354,
+          "listed_count": 0,
+          "media_count": 484,
+          "tweet_count": 8597
+        },
+        "url": "",
+        "username": "breakcoreWTF",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-09-09T04:14:43.000Z",
+        "description": "https://t.co/kKkoW5124B",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "tiktok.com/@hongchenfei?_…",
+                "end": 23,
+                "expanded_url": "https://www.tiktok.com/@hongchenfei?_r=1&_t=ZS-93oZgR9Kbzh",
+                "start": 0,
+                "url": "https://t.co/kKkoW5124B"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@hongchenfei?s…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/@hongchenfei?si=pn0Uj4I4xbvXxJTB",
+                "start": 0,
+                "url": "https://t.co/U0wojsFaQj"
+              }
+            ]
+          }
+        },
+        "id": "1435818847815176193",
+        "is_identity_verified": false,
+        "location": "Macau",
+        "most_recent_tweet_id": "2100633971650621823",
+        "name": "红尘飞",
+        "pinned_tweet_id": "2021419372015911065",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1435818847815176193/1706025599",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055439218655260672/fZAfmQLk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14904,
+          "following_count": 95,
+          "like_count": 5424,
+          "listed_count": 5,
+          "media_count": 1052,
+          "tweet_count": 1136
+        },
+        "url": "https://t.co/U0wojsFaQj",
+        "username": "hongchenfei",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

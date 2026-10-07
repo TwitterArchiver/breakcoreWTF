@@ -1,0 +1,281 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1964331185590718464",
+    "conversation_id": "2100069195098816768",
+    "created_at": "2026-09-16T06:08:41.000Z",
+    "display_text_range": [
+      16,
+      32
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-16T07:08:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2100104565769277585"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1949221838737043456",
+          "start": 0,
+          "username": "kokyuuu_channn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100104565769277585",
+    "in_reply_to_user_id": "1949221838737043456",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100069195098816768",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kokyuuu_channn 牛逼镜音连就是一个改花刀的地雷男"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 116518,
+        "height": 1080,
+        "media_key": "13_2100069127780249600",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2100069127780249600/img/HBzKBZa8-Y6GTfU1.jpg",
+        "public_metrics": {
+          "view_count": 70
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2100069127780249600/vid/avc1/336x270/wzZBGAkxxK6AxqQY.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2100069127780249600/vid/avc1/450x360/oapGnTlg8Pd4Ml_H.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2100069127780249600/vid/avc1/900x720/xJiLg_Z-mM1La6jd.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2100069127780249600/pl/F5dLFvwuQgkAgqVo.m3u8?tag=14"
+          }
+        ],
+        "width": 1350
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1964331185590718464",
+        "conversation_id": "2100069195098816768",
+        "created_at": "2026-09-16T06:08:41.000Z",
+        "display_text_range": [
+          16,
+          32
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-16T07:08:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100104565769277585"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1949221838737043456",
+              "start": 0,
+              "username": "kokyuuu_channn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100104565769277585",
+        "in_reply_to_user_id": "1949221838737043456",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100069195098816768",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kokyuuu_channn 牛逼镜音连就是一个改花刀的地雷男"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2100069127780249600"
+          ]
+        },
+        "author_id": "1949221838737043456",
+        "conversation_id": "2100069195098816768",
+        "created_at": "2026-09-16T03:48:08.000Z",
+        "display_text_range": [
+          0,
+          59
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-16T04:48:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100069195098816768"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3PZRvL6KqV",
+              "end": 83,
+              "expanded_url": "https://x.com/kokyuuu_channn/status/2100069195098816768/video/1",
+              "media_key": "13_2100069127780249600",
+              "start": 60,
+              "url": "https://t.co/3PZRvL6KqV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100069195098816768",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "13_2100069127780249600"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 192,
+          "like_count": 23,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "化けの花 - 鏡音レン\n\n嵌字：Eternity\n\n大家都给我消失吧，\n\n消失吧 消失吧 消失吧，\n\n..留在我身边， https://t.co/3PZRvL6KqV"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-09-06T14:13:55.000Z",
+        "description": "叫我筷子就可以了(:3っ )っ\n雜多丨OD丨自傷丨Vocaloid丨maimai丨🏳️‍🌈friendly\n不卖药 眼熟回关 取关请双取 不喜欢的直接b\nサブ垢＆避難垢→@Hashi_988",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 95,
+                "start": 85,
+                "username": "Hashi_988"
+              }
+            ]
+          }
+        },
+        "id": "1964331185590718464",
+        "is_identity_verified": false,
+        "location": "颅内",
+        "most_recent_tweet_id": "2100104565769277585",
+        "name": "箸",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1964331185590718464/1788644554",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2099251823081299968/v8sxOZsH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1715,
+          "following_count": 792,
+          "like_count": 48054,
+          "listed_count": 0,
+          "media_count": 480,
+          "tweet_count": 8534
+        },
+        "url": "",
+        "username": "breakcoreWTF",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-07-26T21:34:44.000Z",
+        "description": "18↑ | レン 推し💛 | 连受け全部ok \n喜欢マスレン、ニーゴレン、レンレン，什么都可能发\nsub=@kokyuuu_uuu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 53,
+                "username": "kokyuuu_uuu"
+              }
+            ]
+          }
+        },
+        "id": "1949221838737043456",
+        "is_identity_verified": false,
+        "location": "呼吸困難ちゃん",
+        "most_recent_tweet_id": "2100086717336445379",
+        "name": "呼吸ううちゃん",
+        "pinned_tweet_id": "2089583592129405212",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1949221838737043456/1787638167",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092132347063988224/YLLyBjlD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 286,
+          "following_count": 74,
+          "like_count": 1691,
+          "listed_count": 1,
+          "media_count": 139,
+          "tweet_count": 1120
+        },
+        "url": "",
+        "username": "kokyuuu_channn",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

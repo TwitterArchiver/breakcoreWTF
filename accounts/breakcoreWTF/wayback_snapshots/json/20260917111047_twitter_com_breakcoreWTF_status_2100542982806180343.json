@@ -1,0 +1,634 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2100246163735846912",
+        "3_2100246163735875584"
+      ],
+      "media_source_tweet_id": [
+        "2100246169490448885",
+        "2100246169490448885"
+      ]
+    },
+    "author_id": "1964331185590718464",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1252212858575675394",
+          "name": "Quackity"
+        }
+      },
+      {
+        "domain": {
+          "description": "Influencers who create content on digital platforms",
+          "id": "120",
+          "name": "Digital Creator"
+        },
+        "entity": {
+          "id": "1252212858575675394",
+          "name": "Quackity"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839543456678596608",
+          "name": "Digital creators"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1252212858575675394",
+          "name": "Quackity"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1287879055191052288",
+          "name": "Gaming content creators"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1293615037932646400",
+          "name": "YouTubers"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1390814121650647040",
+          "name": "Dream SMP"
+        }
+      }
+    ],
+    "conversation_id": "2100542982806180343",
+    "created_at": "2026-09-17T11:10:47.000Z",
+    "display_text_range": [
+      0,
+      67
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-17T12:10:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2100542982806180343"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 27,
+          "start": 18,
+          "tag": "quackity"
+        },
+        {
+          "end": 43,
+          "start": 28,
+          "tag": "quackityfanart"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2086587266059927552",
+          "start": 3,
+          "username": "YunButForQ"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/vKu8Sn46QG",
+          "end": 67,
+          "expanded_url": "https://x.com/YunButForQ/status/2100246169490448885/photo/1",
+          "media_key": "3_2100246163735846912",
+          "start": 44,
+          "url": "https://t.co/vKu8Sn46QG"
+        },
+        {
+          "display_url": "pic.x.com/vKu8Sn46QG",
+          "end": 67,
+          "expanded_url": "https://x.com/YunButForQ/status/2100246169490448885/photo/1",
+          "media_key": "3_2100246163735875584",
+          "start": 44,
+          "url": "https://t.co/vKu8Sn46QG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100542982806180343",
+    "lang": "qme",
+    "media_metadata": [
+      {
+        "media_key": "3_2100246163735846912"
+      },
+      {
+        "media_key": "3_2100246163735875584"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 36
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100246169490448885",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @YunButForQ: 🩷\n#quackity #quackityfanart https://t.co/vKu8Sn46QG"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2100246163735846912",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSWSwiJaIAAvQEq.jpg",
+        "width": 945
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2100246163735875584",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSWSwiJakAAhjmf.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2100246163735846912",
+            "3_2100246163735875584"
+          ],
+          "media_source_tweet_id": [
+            "2100246169490448885",
+            "2100246169490448885"
+          ]
+        },
+        "author_id": "1964331185590718464",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1252212858575675394",
+              "name": "Quackity"
+            }
+          },
+          {
+            "domain": {
+              "description": "Influencers who create content on digital platforms",
+              "id": "120",
+              "name": "Digital Creator"
+            },
+            "entity": {
+              "id": "1252212858575675394",
+              "name": "Quackity"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543456678596608",
+              "name": "Digital creators"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1252212858575675394",
+              "name": "Quackity"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1287879055191052288",
+              "name": "Gaming content creators"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1293615037932646400",
+              "name": "YouTubers"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1390814121650647040",
+              "name": "Dream SMP"
+            }
+          }
+        ],
+        "conversation_id": "2100542982806180343",
+        "created_at": "2026-09-17T11:10:47.000Z",
+        "display_text_range": [
+          0,
+          67
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-17T12:10:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100542982806180343"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 27,
+              "start": 18,
+              "tag": "quackity"
+            },
+            {
+              "end": 43,
+              "start": 28,
+              "tag": "quackityfanart"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2086587266059927552",
+              "start": 3,
+              "username": "YunButForQ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/vKu8Sn46QG",
+              "end": 67,
+              "expanded_url": "https://x.com/YunButForQ/status/2100246169490448885/photo/1",
+              "media_key": "3_2100246163735846912",
+              "start": 44,
+              "url": "https://t.co/vKu8Sn46QG"
+            },
+            {
+              "display_url": "pic.x.com/vKu8Sn46QG",
+              "end": 67,
+              "expanded_url": "https://x.com/YunButForQ/status/2100246169490448885/photo/1",
+              "media_key": "3_2100246163735875584",
+              "start": 44,
+              "url": "https://t.co/vKu8Sn46QG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100542982806180343",
+        "lang": "qme",
+        "media_metadata": [
+          {
+            "media_key": "3_2100246163735846912"
+          },
+          {
+            "media_key": "3_2100246163735875584"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 36
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100246169490448885",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @YunButForQ: 🩷\n#quackity #quackityfanart https://t.co/vKu8Sn46QG"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2100246163735846912",
+            "3_2100246163735875584"
+          ]
+        },
+        "author_id": "2086587266059927552",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1252212858575675394",
+              "name": "Quackity"
+            }
+          },
+          {
+            "domain": {
+              "description": "Influencers who create content on digital platforms",
+              "id": "120",
+              "name": "Digital Creator"
+            },
+            "entity": {
+              "id": "1252212858575675394",
+              "name": "Quackity"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543456678596608",
+              "name": "Digital creators"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1252212858575675394",
+              "name": "Quackity"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1287879055191052288",
+              "name": "Gaming content creators"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1293615037932646400",
+              "name": "YouTubers"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1390814121650647040",
+              "name": "Dream SMP"
+            }
+          }
+        ],
+        "conversation_id": "2100246169490448885",
+        "created_at": "2026-09-16T15:31:22.000Z",
+        "display_text_range": [
+          0,
+          27
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-16T16:31:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100246169490448885"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 11,
+              "start": 2,
+              "tag": "quackity"
+            },
+            {
+              "end": 27,
+              "start": 12,
+              "tag": "quackityfanart"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/vKu8Sn46QG",
+              "end": 51,
+              "expanded_url": "https://x.com/YunButForQ/status/2100246169490448885/photo/1",
+              "media_key": "3_2100246163735846912",
+              "start": 28,
+              "url": "https://t.co/vKu8Sn46QG"
+            },
+            {
+              "display_url": "pic.x.com/vKu8Sn46QG",
+              "end": 51,
+              "expanded_url": "https://x.com/YunButForQ/status/2100246169490448885/photo/1",
+              "media_key": "3_2100246163735875584",
+              "start": 28,
+              "url": "https://t.co/vKu8Sn46QG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100246169490448885",
+        "lang": "qme",
+        "media_metadata": [
+          {
+            "media_key": "3_2100246163735846912"
+          },
+          {
+            "media_key": "3_2100246163735875584"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 25,
+          "impression_count": 2609,
+          "like_count": 219,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 36
+        },
+        "reply_settings": "everyone",
+        "text": "🩷\n#quackity #quackityfanart https://t.co/vKu8Sn46QG"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-09-06T14:13:55.000Z",
+        "description": "叫我筷子就可以了(:3っ )っ\n雜多丨OD丨自傷丨Vocaloid丨maimai丨🏳️‍🌈friendly\n不卖药 眼熟回关 取关请双取 不喜欢的直接b\nサブ垢＆避難垢→@Hashi_988",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 95,
+                "start": 85,
+                "username": "Hashi_988"
+              }
+            ]
+          }
+        },
+        "id": "1964331185590718464",
+        "is_identity_verified": false,
+        "location": "颅内",
+        "most_recent_tweet_id": "2100542982806180343",
+        "name": "箸",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1964331185590718464/1788644554",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2099251823081299968/v8sxOZsH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1713,
+          "following_count": 792,
+          "like_count": 48216,
+          "listed_count": 0,
+          "media_count": 479,
+          "tweet_count": 8565
+        },
+        "url": "",
+        "username": "breakcoreWTF",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-09T22:56:08.000Z",
+        "description": "🇰🇷🏳️‍🌈/I draw MCYT fanart\nEN(*suck at English)/KR/17↑/Bi/any pronouns/FUCK AI\n#SugarCrushAU #SCQuackity",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 91,
+                "start": 78,
+                "tag": "SugarCrushAU"
+              },
+              {
+                "end": 103,
+                "start": 92,
+                "tag": "SCQuackity"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/ko/YunButForQ",
+                "end": 23,
+                "expanded_url": "https://lit.link/ko/YunButForQ",
+                "start": 0,
+                "url": "https://t.co/eu3hNJhWM6"
+              }
+            ]
+          }
+        },
+        "id": "2086587266059927552",
+        "is_identity_verified": false,
+        "location": "Quesadilla Island",
+        "most_recent_tweet_id": "2100538457290588286",
+        "name": "🇰🇷Yᴜɴ𐦖࿊",
+        "pinned_tweet_id": "2098776235061248248",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2086587266059927552/1788469293",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2098158602171322368/mOZM42jE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 315,
+          "following_count": 121,
+          "like_count": 1390,
+          "listed_count": 1,
+          "media_count": 155,
+          "tweet_count": 807
+        },
+        "url": "https://t.co/eu3hNJhWM6",
+        "username": "YunButForQ",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
